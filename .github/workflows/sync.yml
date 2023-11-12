@@ -1,0 +1,28 @@
+name: Sync README ♻️
+
+# Run hourly
+on:
+  push:
+  schedule:
+    - cron: "55 */1 * * *"
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Get README.md
+        run: |
+            mkdir profile 2>/dev/null || true
+            wget -q https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/README.md -O profile/README.md
+      - name: Commit README.md
+        uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          commit_message: "docs: update README.md"
+          branch: main
+          commit_user_name: GitHub Actions
+          commit_user_email: actions@github.com
+          commit_author: GitHub Action <actions@github.com>
