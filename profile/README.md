@@ -18,11 +18,9 @@ and [deb-get](https://github.com/wimpysworld/deb-get) plus a [bunch of other pro
 
 We have a modest [Discord server for Wimpy's World](https://wimpysworld.io/discord) 💬 which serves as a community hub my projects.
 We're a friendly bunch, and all are welcome 🏳️‍🌈 Join us!
-
-<a href="https://wimpysworld.io/discord" target="_blank"><img align="center" alt="Discord" src="https://img.shields.io/discord/712850672223125565?style=for-the-badge&logo=discord&logoColor=%23ffffff&label=Discord&labelColor=%234253e8&color=%23e4e2e2"></a>
-
-https://wimpysworld.io/discord
-
+<div align="center">
+  <a href="https://wimpysworld.io/discord" target="_blank"><img alt="Discord" src="https://img.shields.io/discord/712850672223125565?style=for-the-badge&logo=discord&logoColor=%23ffffff&label=Discord&labelColor=%234253e8&color=%23e4e2e2"></a>
+</div>
 I [steam live-coding on Twitch](https://twitch.tv/WimpysWorld) 📡 and those streams are [archived on YouTube](https://youtube.com/WimpysWorld) 📺️
 
 These awesome people sponsor me: [castrojo](https://github.com/castrojo) Thank you! ❤️
