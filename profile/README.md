@@ -19,7 +19,9 @@ and [deb-get](https://github.com/wimpysworld/deb-get) plus a [bunch of other pro
 We have a modest [Discord server for Wimpy's World](https://wimpysworld.io/discord) 💬 which serves as a community hub my projects.
 We're a friendly bunch, and all are welcome 🏳️‍🌈 Join us!
 
-[![Discord](https://img.shields.io/discord/712850672223125565?style=for-the-badge&logo=discord&label=Discord&labelColor=%23161719&color=%23E4E2E2)](https://wimpysworld.io/discord)
+<a href="https://wimpysworld.io/discord" target="_blank"><img align="center" alt="Discord" src="https://img.shields.io/discord/712850672223125565?style=for-the-badge&logo=discord&logoColor=%23ffffff&label=Discord&labelColor=%234253e8&color=%23e4e2e2"></a>
+
+https://wimpysworld.io/discord
 
 I [steam live-coding on Twitch](https://twitch.tv/WimpysWorld) 📡 and those streams are [archived on YouTube](https://youtube.com/WimpysWorld) 📺️
 
@@ -56,7 +58,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 
 #### 🎙️ Podcast
-
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
 
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
@@ -70,8 +71,8 @@ Here's some recent episodes:
 - [Using Two GPUs at Once](https://linuxmatters.sh/11/) (2 months ago)
 
 #### 📺️ YouTube
-[![Twitch Status](https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&label=Twitch&labelColor=%23161719&color=%23E4E2E2)](https://twitch.tv/WimpysWorld)
-&nbsp;&nbsp;[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChpYmMp7EFaxuogUX1eAqyw?style=for-the-badge&logo=youtube&logoColor=%23fb1b20&label=youtube&labelColor=%23161719&color=%23E4E2E2)](https://youtube.com/WimpysWorld)
+<a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
+<a href="https://youtube.com/WimpysWorld" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UChpYmMp7EFaxuogUX1eAqyw?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
 - [NixOS | Packaging OBS Studio plugins and filters ❄️](https://www.youtube.com/watch?v=-QIhBJ11ZTM) (6 months ago)
 - [Ubuntu | Final release process for Ubuntu MATE 23.04 🧉](https://www.youtube.com/watch?v=mNJzcJiaCCM) (6 months ago)
