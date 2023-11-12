@@ -18,9 +18,9 @@ and [deb-get](https://github.com/wimpysworld/deb-get) plus a [bunch of other pro
 
 We have a modest [Discord server for Wimpy's World](https://wimpysworld.io/discord) 💬 which serves as a community hub my projects.
 We're a friendly bunch, and all are welcome 🏳️‍🌈 Join us!
-<div align="center">
-  <a href="https://wimpysworld.io/discord" target="_blank"><img alt="Discord" src="https://img.shields.io/discord/712850672223125565?style=for-the-badge&logo=discord&logoColor=%23ffffff&label=Discord&labelColor=%234253e8&color=%23e4e2e2"></a>
-</div>
+
+<div align="center"><a href="https://wimpysworld.io/discord" target="_blank"><img alt="Discord" src="https://img.shields.io/discord/712850672223125565?style=for-the-badge&logo=discord&logoColor=%23ffffff&label=Discord&labelColor=%234253e8&color=%23e4e2e2"></a></div>
+
 I [steam live-coding on Twitch](https://twitch.tv/WimpysWorld) 📡 and those streams are [archived on YouTube](https://youtube.com/WimpysWorld) 📺️
 
 These awesome people sponsor me: [castrojo](https://github.com/castrojo) Thank you! ❤️
@@ -29,7 +29,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   <img align="center" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/snake/github-contribution-grid-snake-dark.svg">
 </div>
 
-#### 🚧 Latest contributions I made
+### 🚧 Latest contributions I made
 
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) - My personal blog (today)
 - [wimpysworld/.github](https://github.com/wimpysworld/.github) - A ✨special ✨ repository (today)
@@ -37,7 +37,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines. (2 days ago)
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️ (2 days ago)
 
-#### 🔨 Latest pull requests I published
+### 🔨 Latest pull requests I published
 
 - [feat: restore automated Windows .iso downloads from Microsoft servers](https://github.com/quickemu-project/quickemu/pull/836) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
 - [Refactor the build system and update cmake to 3.22 minimum](https://github.com/wimpysworld/obs-studio-portable/pull/36) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (3 weeks ago)
@@ -45,7 +45,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 - [Add Countdown and Advanced Masks](https://github.com/wimpysworld/obs-studio-portable/pull/34) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (3 weeks ago)
 - [Assorted fixes and code clean up](https://github.com/wimpysworld/obs-studio-portable/pull/33) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (3 weeks ago)
 
-#### 📦️ Latest releases I contributed to
+### 📦️ Latest releases I contributed to
 
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.1](https://github.com/quickemu-project/quickemu/releases/tag/4.9.1), 2 days ago) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.0](https://github.com/wimpysworld/deb-get/releases/tag/0.4.0), 3 days ago) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
@@ -55,12 +55,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 
 
-#### 🎙️ Podcast
+### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
 
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
-
 
 - [Mish Mash Mesh](https://linuxmatters.sh/15/) (1 week ago)
 - [One Hundred Percent Colombian](https://linuxmatters.sh/14/) (3 weeks ago)
@@ -68,7 +67,7 @@ Here's some recent episodes:
 - [Steam Deck Emulation Done Right](https://linuxmatters.sh/12/) (1 month ago)
 - [Using Two GPUs at Once](https://linuxmatters.sh/11/) (2 months ago)
 
-#### 📺️ YouTube
+### 📺️ YouTube
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/WimpysWorld" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UChpYmMp7EFaxuogUX1eAqyw?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
@@ -78,7 +77,7 @@ Here's some recent episodes:
 - [NixOS | Planning my NixOS ❄️ device future 🔮](https://www.youtube.com/watch?v=v9GM8k9Aa7k) (7 months ago)
 - [Linux | Preparing a new release of Quickemu and wrangling some Bash 🐚](https://www.youtube.com/watch?v=No1G-AxYHpY) (9 months ago)
 
-#### ✍️ Blog
+### ✍️ Blog
 
 - [Install ZeroTier on Steam Deck](https://wimpysworld.com/posts/install-zerotier-on-steamdeck/) (2 months ago)
 - [Steam Box vs Steam Deck](https://wimpysworld.com/posts/steambox-vs-steamdeck/) (6 months ago)
