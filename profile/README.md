@@ -14,8 +14,8 @@ Hello 👋 I'm Martin (*also known as Wimpy*), an open-source enthusiast, freque
 I lead [Ubuntu MATE](https://ubuntu-mate.org) 🧉 and I'm the author [Quickemu](https://github.com/quickemu-project)
 and [deb-get](https://github.com/wimpysworld/deb-get) plus a [bunch of other projects](https://wimpysworld.com/projects/).
 
-I run a small [Discord server for Wimpy's World](https://wimpysworld.io/discord) 💬 which serves as a community hub for most of my projects.
-We are a friendly bunch, and all are welcome 🏳️‍🌈
+We have a modest [Discord server for Wimpy's World](https://wimpysworld.io/discord) 💬 which serves as a community hub my projects.
+We're a friendly bunch, and all are welcome 🏳️‍🌈 Join us!
 
 [![Discord](https://img.shields.io/discord/712850672223125565?style=for-the-badge&logo=discord&label=Discord&labelColor=%23161719&color=%23E4E2E2)](https://wimpysworld.io/discord)
 
