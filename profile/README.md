@@ -1,12 +1,15 @@
-<div align="center">
+<p align="center">
   <a href="https://wimpysworld.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/github-header-image.png"></a>
-</div>
+</p>
 
-### Hello there 👋
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/109326458276794082?domain=https%3A%2F%2Ffosstodon.org&style=for-the-badge&logo=mastodon&label=Mastodon&labelColor=%23161719&color=%23E4E2E2)](https://fosstodon.org/@wimpy)
+&nbsp;&nbsp;[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/m_wimpress?label=Twitter&style=for-the-badge&logo=x&labelColor=%23161719&color=%23E4E2E2)](https://twitter.com/m_wimpress)
+&nbsp;&nbsp;[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/flexiondotorg?style=for-the-badge&logo=reddit&label=Reddit&labelColor=%23161719&color=%23E4E2E2)](https://www.reddit.com/user/flexiondotorg)
+&nbsp;&nbsp;[![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/flexiondotorg?style=for-the-badge&logo=ycombinator&label=Hacker%20News&labelColor=%23161719&color=%23E4E2E2)](https://news.ycombinator.com/user/id/flexiondotorg)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=flexiondotorg&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged&include_all_commits=true&bg_color=161719&title_color=fa66ed&icon_color=6bbbfa&text_color=c5c8c6&ring_color=98ed3f&border_radius=8">
 
-I'm Martin (*also known as Wimpy*), an open-source enthusiast, frequent contributor and maker of things.
+Hello 👋 I'm Martin (*also known as Wimpy*), an open-source enthusiast, frequent contributor and maker of things.
 
 I lead [Ubuntu MATE](https://ubuntu-mate.org) 🧉 and I'm the author [Quickemu](https://github.com/quickemu-project)
 and [deb-get](https://github.com/wimpysworld/deb-get) plus a [bunch of other projects](https://wimpysworld.com/projects/).
@@ -26,11 +29,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 #### 🚧 Latest contributions I made
 
+- [wimpysworld/.github](https://github.com/wimpysworld/.github) - A ✨special ✨ repository (today)
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) - My personal blog (1 day ago)
 - [flexiondotorg/github-stats-terminal-style](https://github.com/flexiondotorg/github-stats-terminal-style) (1 day ago)
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️ (2 days ago)
-- [quickemu-project/packaging](https://github.com/quickemu-project/packaging) - Quickemu &amp; Quickgui packaging (2 days ago)
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines. (2 days ago)
+- [quickemu-project/packaging](https://github.com/quickemu-project/packaging) - Quickemu &amp; Quickgui packaging (2 days ago)
 
 #### 🔨 Latest pull requests I published
 
@@ -81,10 +84,3 @@ Here's some recent episodes:
 - [Flash Stadia Controller Bluetooth Firmware on Linux](https://wimpysworld.com/posts/flash-stadia-controller-bluetooth-firmware-on-linux/) (6 months ago)
 - [Why I chose the ThinkPad Z13 Gen1 as my Linux laptop](https://wimpysworld.com/posts/why-i-chose-the-thinkpad-z13-as-my-linux-laptop/) (6 months ago)
 - [Creating Production-Ready Containers - Advanced Techniques](https://wimpysworld.com/posts/creating-production-ready-containers-advanced-techniques/) (2 years ago)
-
-You can also find me in the usual social places:
-
-[![Mastodon Follow](https://img.shields.io/mastodon/follow/109326458276794082?domain=https%3A%2F%2Ffosstodon.org&style=for-the-badge&logo=mastodon&label=Mastodon&labelColor=%23161719&color=%23E4E2E2)](https://fosstodon.org/@wimpy)
-&nbsp;&nbsp;[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/m_wimpress?label=Twitter&style=for-the-badge&logo=x&labelColor=%23161719&color=%23E4E2E2)](https://twitter.com/m_wimpress)
-&nbsp;&nbsp;[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/flexiondotorg?style=for-the-badge&logo=reddit&label=Reddit&labelColor=%23161719&color=%23E4E2E2)](https://www.reddit.com/user/flexiondotorg)
-&nbsp;&nbsp;[![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/flexiondotorg?style=for-the-badge&logo=ycombinator&label=Hacker%20News&labelColor=%23161719&color=%23E4E2E2)](https://news.ycombinator.com/user/id/flexiondotorg)
