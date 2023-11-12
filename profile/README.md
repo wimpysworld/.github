@@ -33,17 +33,17 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) - My personal blog (today)
 - [wimpysworld/.github](https://github.com/wimpysworld/.github) - A ✨special ✨ repository (today)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦 (today)
 - [flexiondotorg/github-stats-terminal-style](https://github.com/flexiondotorg/github-stats-terminal-style) (1 day ago)
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines. (2 days ago)
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️ (2 days ago)
 
 ### 🔨 Latest pull requests I published
 
+- [chore: delete .github/workflows/greetings.yml](https://github.com/wimpysworld/deb-get/pull/943) on [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (today)
 - [feat: restore automated Windows .iso downloads from Microsoft servers](https://github.com/quickemu-project/quickemu/pull/836) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
 - [Refactor the build system and update cmake to 3.22 minimum](https://github.com/wimpysworld/obs-studio-portable/pull/36) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (3 weeks ago)
 - [Make plugin lists a proper CSV file and parse it](https://github.com/wimpysworld/obs-studio-portable/pull/35) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (3 weeks ago)
 - [Add Countdown and Advanced Masks](https://github.com/wimpysworld/obs-studio-portable/pull/34) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (3 weeks ago)
-- [Assorted fixes and code clean up](https://github.com/wimpysworld/obs-studio-portable/pull/33) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (3 weeks ago)
 
 ### 📦️ Latest releases I contributed to
 
