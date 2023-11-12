@@ -29,11 +29,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 #### 🚧 Latest contributions I made
 
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) - My personal blog (today)
 - [wimpysworld/.github](https://github.com/wimpysworld/.github) - A ✨special ✨ repository (today)
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) - My personal blog (1 day ago)
 - [flexiondotorg/github-stats-terminal-style](https://github.com/flexiondotorg/github-stats-terminal-style) (1 day ago)
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines. (2 days ago)
-- [quickemu-project/packaging](https://github.com/quickemu-project/packaging) - Quickemu &amp; Quickgui packaging (2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️ (2 days ago)
 
 #### 🔨 Latest pull requests I published
 
