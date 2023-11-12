@@ -2,9 +2,6 @@ name: Sync README ♻️
 
 # Run hourly
 on:
-  push:
-  schedule:
-    - cron: "55 */1 * * *"
   workflow_dispatch:
 
 jobs:
