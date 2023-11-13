@@ -32,16 +32,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [DeterminateSystems/.github](https://github.com/DeterminateSystems/.github) (today)
+  - Determinate Systems
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
+- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 day ago)
+  - Portable OBS Studio for Ubuntu bundled with 50 plugins
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (1 day ago)
+  - apt-get for .debs published via GitHub or direct download 📦
 - [wimpysworld/.github](https://github.com/wimpysworld/.github) (1 day ago)
   - A ✨special ✨ repository
-- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 day ago)
-  - Portable builds of OBS Studio for Ubuntu that bundles an extensive collection of 3rd party plugins
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (1 day ago)
-  - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
-- [flexiondotorg/github-stats-terminal-style](https://github.com/flexiondotorg/github-stats-terminal-style) (2 days ago)
-  - GitHub Stats Terminal Style
 
 ### Recent pull requests 🛠️
 
@@ -56,11 +56,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 
 - [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) ([r23316](https://github.com/wimpysworld/obs-studio-portable/releases/tag/r23316), today)
-  - Portable builds of OBS Studio for Ubuntu that bundles an extensive collection of 3rd party plugins
+  - Portable OBS Studio for Ubuntu bundled with 50 plugins
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.1](https://github.com/quickemu-project/quickemu/releases/tag/4.9.1), 3 days ago)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.0](https://github.com/wimpysworld/deb-get/releases/tag/0.4.0), 4 days ago)
-  - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
+  - apt-get for .debs published via GitHub or direct download 📦
 - [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.1](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.1), 6 days ago)
   - OBS plugin to fetch data from a URL (API) or file, parse and display it live updating on scene
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.14.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.14.0), 3 weeks ago)
