@@ -34,7 +34,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [DeterminateSystems/.github](https://github.com/DeterminateSystems/.github) (today)
   - Determinate Systems
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
   - My personal blog
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (1 day ago)
   - apt-get for .debs published via GitHub or direct download 📦
