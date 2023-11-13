@@ -31,25 +31,25 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 ### 🚧 Latest contributions I made
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) - My personal blog (today)
-- [wimpysworld/.github](https://github.com/wimpysworld/.github) - A ✨special ✨ repository (today)
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦 (today)
-- [flexiondotorg/github-stats-terminal-style](https://github.com/flexiondotorg/github-stats-terminal-style) (1 day ago)
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines. (2 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) - My personal blog (1 day ago)
+- [wimpysworld/.github](https://github.com/wimpysworld/.github) - A ✨special ✨ repository (1 day ago)
+- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) - Portable builds of OBS Studio for Ubuntu that bundles an extensive collection of 3rd party plugins (1 day ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦 (1 day ago)
+- [flexiondotorg/github-stats-terminal-style](https://github.com/flexiondotorg/github-stats-terminal-style) (2 days ago)
 
 ### 🔨 Latest pull requests I published
 
-- [chore: delete .github/workflows/greetings.yml](https://github.com/wimpysworld/deb-get/pull/943) on [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (today)
-- [feat: restore automated Windows .iso downloads from Microsoft servers](https://github.com/quickemu-project/quickemu/pull/836) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
+- [feat(ci): add dependabot.yml](https://github.com/wimpysworld/obs-studio-portable/pull/38) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 day ago)
+- [feat: update to OBS Studio 30.0.0 and uplift assorted plugins](https://github.com/wimpysworld/obs-studio-portable/pull/37) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 day ago)
+- [chore: delete .github/workflows/greetings.yml](https://github.com/wimpysworld/deb-get/pull/943) on [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (1 day ago)
+- [feat: restore automated Windows .iso downloads from Microsoft servers](https://github.com/quickemu-project/quickemu/pull/836) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
 - [Refactor the build system and update cmake to 3.22 minimum](https://github.com/wimpysworld/obs-studio-portable/pull/36) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (3 weeks ago)
-- [Make plugin lists a proper CSV file and parse it](https://github.com/wimpysworld/obs-studio-portable/pull/35) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (3 weeks ago)
-- [Add Countdown and Advanced Masks](https://github.com/wimpysworld/obs-studio-portable/pull/34) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (3 weeks ago)
 
 ### 📦️ Latest releases I contributed to
 
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.1](https://github.com/quickemu-project/quickemu/releases/tag/4.9.1), 2 days ago) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.0](https://github.com/wimpysworld/deb-get/releases/tag/0.4.0), 3 days ago) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.1](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.1), 5 days ago) - OBS plugin to fetch data from a URL (API) or file, parse and display it live updating on scene
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.1](https://github.com/quickemu-project/quickemu/releases/tag/4.9.1), 3 days ago) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.0](https://github.com/wimpysworld/deb-get/releases/tag/0.4.0), 4 days ago) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
+- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.1](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.1), 6 days ago) - OBS plugin to fetch data from a URL (API) or file, parse and display it live updating on scene
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.14.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.14.0), 3 weeks ago) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over a million installs.
 - [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) ([0.0.2](https://github.com/wimpysworld/obs-dvd-screensaver/releases/tag/0.0.2), 3 weeks ago) - DVD screen saver for OBS Studio 📀
 
