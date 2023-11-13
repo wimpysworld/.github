@@ -36,10 +36,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Determinate Systems
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 day ago)
-  - Portable OBS Studio for Ubuntu bundled with 50 plugins
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (1 day ago)
   - apt-get for .debs published via GitHub or direct download 📦
+- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 day ago)
+  - Portable OBS Studio for Ubuntu bundled with 50 plugins
 - [wimpysworld/.github](https://github.com/wimpysworld/.github) (1 day ago)
   - A ✨special ✨ repository
 
