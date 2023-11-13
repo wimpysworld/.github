@@ -41,7 +41,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (1 day ago)
   - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
 - [flexiondotorg/github-stats-terminal-style](https://github.com/flexiondotorg/github-stats-terminal-style) (2 days ago)
-  - 
+  - GitHub Stats Terminal Style
 
 ### Recent pull requests 🛠️
 
