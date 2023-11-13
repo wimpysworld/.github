@@ -29,7 +29,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   <img align="center" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/snake/github-contribution-grid-snake-dark.svg">
 </div>
 
-### 🚧 Latest contributions I made
+### Recent project contributions 🏗️
+
 
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
@@ -42,7 +43,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 - [flexiondotorg/github-stats-terminal-style](https://github.com/flexiondotorg/github-stats-terminal-style) (2 days ago)
   - 
 
-### 🔨 Latest pull requests I published
+### Recent pull requests 🛠️
+
 
 - [feat(ci): add dependabot.yml](https://github.com/wimpysworld/obs-studio-portable/pull/38) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 day ago)
 - [feat: update to OBS Studio 30.0.0 and uplift assorted plugins](https://github.com/wimpysworld/obs-studio-portable/pull/37) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 day ago)
@@ -50,7 +52,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 - [feat: restore automated Windows .iso downloads from Microsoft servers](https://github.com/quickemu-project/quickemu/pull/836) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
 - [Refactor the build system and update cmake to 3.22 minimum](https://github.com/wimpysworld/obs-studio-portable/pull/36) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (3 weeks ago)
 
-### 📦️ Latest releases I contributed to
+### Recent releases 📦️
+
 
 - [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) ([r23316](https://github.com/wimpysworld/obs-studio-portable/releases/tag/r23316), today)
   - Portable builds of OBS Studio for Ubuntu that bundles an extensive collection of 3rd party plugins
