@@ -74,11 +74,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
+- [Blogging to the Fediverse](https://linuxmatters.sh/16/) (today)
 - [Mish Mash Mesh](https://linuxmatters.sh/15/) (2 weeks ago)
 - [One Hundred Percent Colombian](https://linuxmatters.sh/14/) (4 weeks ago)
 - [Um, Actually](https://linuxmatters.sh/13/) (1 month ago)
 - [Steam Deck Emulation Done Right](https://linuxmatters.sh/12/) (1 month ago)
-- [Using Two GPUs at Once](https://linuxmatters.sh/11/) (2 months ago)
 
 ### 📺️ YouTube
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
