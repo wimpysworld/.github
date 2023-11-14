@@ -32,16 +32,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [DeterminateSystems/.github](https://github.com/DeterminateSystems/.github) (1 day ago)
   - Determinate Systems
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (2 days ago)
-  - apt-get for .debs published via GitHub or direct download 📦
 - [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (2 days ago)
   - Portable OBS Studio for Ubuntu bundled with 50 plugins
-- [wimpysworld/.github](https://github.com/wimpysworld/.github) (2 days ago)
-  - A ✨special ✨ repository
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (2 days ago)
+  - apt-get for .debs published via GitHub or direct download 📦
 
 ### Recent pull requests 🛠️
 
