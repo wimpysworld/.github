@@ -32,12 +32,12 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+  - My personal blog
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [DeterminateSystems/.github](https://github.com/DeterminateSystems/.github) (1 day ago)
   - Determinate Systems
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
-  - My personal blog
 - [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (2 days ago)
   - Portable OBS Studio for Ubuntu bundled with 50 plugins
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (2 days ago)
