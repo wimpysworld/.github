@@ -55,6 +55,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.15.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.15.1), today)
+  - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over a million installs.
 - [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) ([r23316](https://github.com/wimpysworld/obs-studio-portable/releases/tag/r23316), 2 days ago)
   - Portable OBS Studio for Ubuntu bundled with 50 plugins
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.1](https://github.com/quickemu-project/quickemu/releases/tag/4.9.1), 5 days ago)
@@ -63,8 +65,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - apt-get for .debs published via GitHub or direct download 📦
 - [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.1](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.1), 1 week ago)
   - OBS plugin to fetch data from a URL (API) or file, parse and display it live updating on scene
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.14.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.14.0), 4 weeks ago)
-  - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over a million installs.
 
 
 
