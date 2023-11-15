@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: add RTMP Server plugin](https://github.com/wimpysworld/obs-studio-portable/pull/41) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
 - [feat: update NDI and VA-API plugins](https://github.com/wimpysworld/obs-studio-portable/pull/40) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
 - [feat(ci): add dependabot.yml](https://github.com/wimpysworld/obs-studio-portable/pull/38) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (3 days ago)
 - [feat: update to OBS Studio 30.0.0 and uplift assorted plugins](https://github.com/wimpysworld/obs-studio-portable/pull/37) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (3 days ago)
 - [chore: delete .github/workflows/greetings.yml](https://github.com/wimpysworld/deb-get/pull/943) on [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (3 days ago)
-- [feat: restore automated Windows .iso downloads from Microsoft servers](https://github.com/quickemu-project/quickemu/pull/836) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (5 days ago)
 
 ### Recent releases 📦️
 
