@@ -55,10 +55,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
+- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) ([r23319](https://github.com/wimpysworld/obs-studio-portable/releases/tag/r23319), today)
+  - Portable OBS Studio for Ubuntu bundled with 50 plugins
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.15.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.15.1), today)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over a million installs.
-- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) ([r23316](https://github.com/wimpysworld/obs-studio-portable/releases/tag/r23316), 2 days ago)
-  - Portable OBS Studio for Ubuntu bundled with 50 plugins
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.1](https://github.com/quickemu-project/quickemu/releases/tag/4.9.1), 5 days ago)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.0](https://github.com/wimpysworld/deb-get/releases/tag/0.4.0), 6 days ago)
