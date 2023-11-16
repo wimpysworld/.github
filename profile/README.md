@@ -32,14 +32,14 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [DeterminateSystems/.github](https://github.com/DeterminateSystems/.github) (today)
+  - Determinate Systems
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
   - My personal blog
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 day ago)
   - Portable OBS Studio for Ubuntu bundled with 50 plugins
-- [DeterminateSystems/.github](https://github.com/DeterminateSystems/.github) (3 days ago)
-  - Determinate Systems
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (4 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
 
