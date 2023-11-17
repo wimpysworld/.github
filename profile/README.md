@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [docs: update README.md.tpl to include platform CTAs](https://github.com/DeterminateSystems/.github/pull/4) on [DeterminateSystems/.github](https://github.com/DeterminateSystems/.github) (today)
 - [feat: add RTMP Server plugin](https://github.com/wimpysworld/obs-studio-portable/pull/41) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (2 days ago)
 - [feat: update NDI and VA-API plugins](https://github.com/wimpysworld/obs-studio-portable/pull/40) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (2 days ago)
 - [feat(ci): add dependabot.yml](https://github.com/wimpysworld/obs-studio-portable/pull/38) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (5 days ago)
 - [feat: update to OBS Studio 30.0.0 and uplift assorted plugins](https://github.com/wimpysworld/obs-studio-portable/pull/37) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (5 days ago)
-- [chore: delete .github/workflows/greetings.yml](https://github.com/wimpysworld/deb-get/pull/943) on [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (5 days ago)
 
 ### Recent releases 📦️
 
@@ -84,11 +84,11 @@ Here's some recent episodes:
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/WimpysWorld" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UChpYmMp7EFaxuogUX1eAqyw?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
+- [[Linux] Another Little Bit of Linux Live Stream 🐧](https://www.youtube.com/watch?v=4fQnynxcCiM) (2 days ago)
 - [NixOS | Packaging OBS Studio plugins and filters ❄️](https://www.youtube.com/watch?v=-QIhBJ11ZTM) (6 months ago)
 - [Ubuntu | Final release process for Ubuntu MATE 23.04 🧉](https://www.youtube.com/watch?v=mNJzcJiaCCM) (7 months ago)
 - [NixOS | Planning OBS Studio Flaking Loaded for NixOS ❄️](https://www.youtube.com/watch?v=sB-r0im0Mr8) (7 months ago)
 - [NixOS | Planning my NixOS ❄️ device future 🔮](https://www.youtube.com/watch?v=v9GM8k9Aa7k) (7 months ago)
-- [Linux | Preparing a new release of Quickemu and wrangling some Bash 🐚](https://www.youtube.com/watch?v=No1G-AxYHpY) (9 months ago)
 
 ### ✍️ Blog
 
