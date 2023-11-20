@@ -34,7 +34,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [DeterminateSystems/.github](https://github.com/DeterminateSystems/.github) (4 days ago)
   - Determinate Systems
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: upgrade to NixOS 23.11](https://github.com/wimpysworld/nix-config/pull/47) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [docs: update README.md.tpl to include platform CTAs](https://github.com/DeterminateSystems/.github/pull/4) on [DeterminateSystems/.github](https://github.com/DeterminateSystems/.github) (3 days ago)
 - [feat: add RTMP Server plugin](https://github.com/wimpysworld/obs-studio-portable/pull/41) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (5 days ago)
 - [feat: update NDI and VA-API plugins](https://github.com/wimpysworld/obs-studio-portable/pull/40) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (5 days ago)
 - [feat(ci): add dependabot.yml](https://github.com/wimpysworld/obs-studio-portable/pull/38) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 week ago)
-- [feat: update to OBS Studio 30.0.0 and uplift assorted plugins](https://github.com/wimpysworld/obs-studio-portable/pull/37) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 week ago)
 
 ### Recent releases 📦️
 
