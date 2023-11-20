@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: add snapd](https://github.com/wimpysworld/nix-config/pull/50) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [refactor: consolidate vscode server with vscode](https://github.com/wimpysworld/nix-config/pull/49) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [feat: add snapd](https://github.com/wimpysworld/nix-config/pull/48) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: upgrade to NixOS 23.11](https://github.com/wimpysworld/nix-config/pull/47) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [docs: update README.md.tpl to include platform CTAs](https://github.com/DeterminateSystems/.github/pull/4) on [DeterminateSystems/.github](https://github.com/DeterminateSystems/.github) (3 days ago)
-- [feat: add RTMP Server plugin](https://github.com/wimpysworld/obs-studio-portable/pull/41) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (5 days ago)
-- [feat: update NDI and VA-API plugins](https://github.com/wimpysworld/obs-studio-portable/pull/40) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (5 days ago)
-- [feat(ci): add dependabot.yml](https://github.com/wimpysworld/obs-studio-portable/pull/38) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 week ago)
 
 ### Recent releases 📦️
 
