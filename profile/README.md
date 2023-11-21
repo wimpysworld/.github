@@ -32,13 +32,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [DeterminateSystems/.github](https://github.com/DeterminateSystems/.github) (4 days ago)
+- [DeterminateSystems/.github](https://github.com/DeterminateSystems/.github) (5 days ago)
   - Determinate Systems
-- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (5 days ago)
+- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (6 days ago)
   - Portable OBS Studio for Ubuntu bundled with 50 plugins
 - [wimpysworld/.github](https://github.com/wimpysworld/.github) (1 week ago)
   - A ✨special ✨ repository
@@ -46,22 +46,22 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [refactor: configure eza via home manager](https://github.com/wimpysworld/nix-config/pull/51) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: add snapd](https://github.com/wimpysworld/nix-config/pull/50) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: consolidate vscode server with vscode](https://github.com/wimpysworld/nix-config/pull/49) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: add snapd](https://github.com/wimpysworld/nix-config/pull/48) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: upgrade to NixOS 23.11](https://github.com/wimpysworld/nix-config/pull/47) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [refactor: configure eza via home manager](https://github.com/wimpysworld/nix-config/pull/51) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: add snapd](https://github.com/wimpysworld/nix-config/pull/50) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [refactor: consolidate vscode server with vscode](https://github.com/wimpysworld/nix-config/pull/49) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: add snapd](https://github.com/wimpysworld/nix-config/pull/48) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [refactor: upgrade to NixOS 23.11](https://github.com/wimpysworld/nix-config/pull/47) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 
 ### Recent releases 📦️
 
 
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.3](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.3), today)
+- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.3](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.3), 1 day ago)
   - OBS plugin to fetch data from a URL (API) or file, parse and display it live updating on scene
-- [DeterminateSystems/zpool-auto-expand-partitions](https://github.com/DeterminateSystems/zpool-auto-expand-partitions) ([v0.1.1](https://github.com/DeterminateSystems/zpool-auto-expand-partitions/releases/tag/v0.1.1), 1 day ago)
+- [DeterminateSystems/zpool-auto-expand-partitions](https://github.com/DeterminateSystems/zpool-auto-expand-partitions) ([v0.1.1](https://github.com/DeterminateSystems/zpool-auto-expand-partitions/releases/tag/v0.1.1), 2 days ago)
   - 
-- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) ([r23319](https://github.com/wimpysworld/obs-studio-portable/releases/tag/r23319), 5 days ago)
+- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) ([r23319](https://github.com/wimpysworld/obs-studio-portable/releases/tag/r23319), 6 days ago)
   - Portable OBS Studio for Ubuntu bundled with 50 plugins
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.15.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.15.1), 5 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.15.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.15.1), 6 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over a million installs.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.1](https://github.com/quickemu-project/quickemu/releases/tag/4.9.1), 1 week ago)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
@@ -74,8 +74,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Blogging to the Fediverse](https://linuxmatters.sh/16/) (6 days ago)
-- [Mish Mash Mesh](https://linuxmatters.sh/15/) (2 weeks ago)
+- [Blogging to the Fediverse](https://linuxmatters.sh/16/) (1 week ago)
+- [Mish Mash Mesh](https://linuxmatters.sh/15/) (3 weeks ago)
 - [One Hundred Percent Colombian](https://linuxmatters.sh/14/) (1 month ago)
 - [Um, Actually](https://linuxmatters.sh/13/) (1 month ago)
 - [Steam Deck Emulation Done Right](https://linuxmatters.sh/12/) (2 months ago)
@@ -84,7 +84,7 @@ Here's some recent episodes:
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/WimpysWorld" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UChpYmMp7EFaxuogUX1eAqyw?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
-- [[Linux] Another Little Bit of Linux Live Stream 🐧](https://www.youtube.com/watch?v=4fQnynxcCiM) (5 days ago)
+- [[Linux] Another Little Bit of Linux Live Stream 🐧](https://www.youtube.com/watch?v=4fQnynxcCiM) (6 days ago)
 - [NixOS | Packaging OBS Studio plugins and filters ❄️](https://www.youtube.com/watch?v=-QIhBJ11ZTM) (6 months ago)
 - [Ubuntu | Final release process for Ubuntu MATE 23.04 🧉](https://www.youtube.com/watch?v=mNJzcJiaCCM) (7 months ago)
 - [NixOS | Planning OBS Studio Flaking Loaded for NixOS ❄️](https://www.youtube.com/watch?v=sB-r0im0Mr8) (7 months ago)
