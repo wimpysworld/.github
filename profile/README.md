@@ -32,6 +32,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) (today)
+  - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
@@ -40,8 +42,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Determinate Systems
 - [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 week ago)
   - Portable OBS Studio for Ubuntu bundled with 50 plugins
-- [wimpysworld/.github](https://github.com/wimpysworld/.github) (1 week ago)
-  - A ✨special ✨ repository
 
 ### Recent pull requests 🛠️
 
