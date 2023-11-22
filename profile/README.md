@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: add multipass](https://github.com/wimpysworld/nix-config/pull/53) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: general improvement for my terminal tools configuration](https://github.com/wimpysworld/nix-config/pull/52) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add more mime-types, file extensions and icons to the preset theme](https://github.com/sxyazi/yazi/pull/387) on [sxyazi/yazi](https://github.com/sxyazi/yazi) (1 day ago)
 - [feat: cursor and page key navigation parity with Vim bindings](https://github.com/sxyazi/yazi/pull/386) on [sxyazi/yazi](https://github.com/sxyazi/yazi) (1 day ago)
 - [refactor: configure eza via home manager](https://github.com/wimpysworld/nix-config/pull/51) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [feat: add snapd](https://github.com/wimpysworld/nix-config/pull/50) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 
 ### Recent releases 📦️
 
