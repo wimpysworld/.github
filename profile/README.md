@@ -48,9 +48,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: add conditionals for Linux and Darwin](https://github.com/wimpysworld/nix-config/pull/59) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [feat: update code extensions](https://github.com/wimpysworld/nix-config/pull/58) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: create build and switch abbreviations for host and home](https://github.com/wimpysworld/nix-config/pull/57) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: track nixpkgs release 23.11](https://github.com/wimpysworld/nix-config/pull/56) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: add cpufetch and onefetch](https://github.com/wimpysworld/nix-config/pull/55) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 
 ### Recent releases 📦️
 
