@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: add initial compatibility for home-manager on Darwin](https://github.com/wimpysworld/nix-config/pull/54) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add multipass](https://github.com/wimpysworld/nix-config/pull/53) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [refactor: general improvement for my terminal tools configuration](https://github.com/wimpysworld/nix-config/pull/52) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat: add more mime-types, file extensions and icons to the preset theme](https://github.com/sxyazi/yazi/pull/387) on [sxyazi/yazi](https://github.com/sxyazi/yazi) (2 days ago)
 - [feat: cursor and page key navigation parity with Vim bindings](https://github.com/sxyazi/yazi/pull/386) on [sxyazi/yazi](https://github.com/sxyazi/yazi) (2 days ago)
-- [refactor: configure eza via home manager](https://github.com/wimpysworld/nix-config/pull/51) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 
 ### Recent releases 📦️
 
