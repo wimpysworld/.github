@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: create build and switch abbreviations for host and home](https://github.com/wimpysworld/nix-config/pull/57) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: track nixpkgs release 23.11](https://github.com/wimpysworld/nix-config/pull/56) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add cpufetch and onefetch](https://github.com/wimpysworld/nix-config/pull/55) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: add initial compatibility for home-manager on Darwin](https://github.com/wimpysworld/nix-config/pull/54) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add multipass](https://github.com/wimpysworld/nix-config/pull/53) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [refactor: general improvement for my terminal tools configuration](https://github.com/wimpysworld/nix-config/pull/52) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 
 ### Recent releases 📦️
 
