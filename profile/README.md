@@ -32,13 +32,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) (today)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) (1 day ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [DeterminateSystems/.github](https://github.com/DeterminateSystems/.github) (6 days ago)
+- [DeterminateSystems/.github](https://github.com/DeterminateSystems/.github) (1 week ago)
   - Determinate Systems
 - [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 week ago)
   - Portable OBS Studio for Ubuntu bundled with 50 plugins
@@ -46,18 +46,18 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [feat: add multipass](https://github.com/wimpysworld/nix-config/pull/53) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: general improvement for my terminal tools configuration](https://github.com/wimpysworld/nix-config/pull/52) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: add more mime-types, file extensions and icons to the preset theme](https://github.com/sxyazi/yazi/pull/387) on [sxyazi/yazi](https://github.com/sxyazi/yazi) (1 day ago)
-- [feat: cursor and page key navigation parity with Vim bindings](https://github.com/sxyazi/yazi/pull/386) on [sxyazi/yazi](https://github.com/sxyazi/yazi) (1 day ago)
-- [refactor: configure eza via home manager](https://github.com/wimpysworld/nix-config/pull/51) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [feat: add multipass](https://github.com/wimpysworld/nix-config/pull/53) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [refactor: general improvement for my terminal tools configuration](https://github.com/wimpysworld/nix-config/pull/52) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: add more mime-types, file extensions and icons to the preset theme](https://github.com/sxyazi/yazi/pull/387) on [sxyazi/yazi](https://github.com/sxyazi/yazi) (2 days ago)
+- [feat: cursor and page key navigation parity with Vim bindings](https://github.com/sxyazi/yazi/pull/386) on [sxyazi/yazi](https://github.com/sxyazi/yazi) (2 days ago)
+- [refactor: configure eza via home manager](https://github.com/wimpysworld/nix-config/pull/51) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 
 ### Recent releases 📦️
 
 
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.3](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.3), 2 days ago)
+- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.3](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.3), 3 days ago)
   - OBS plugin to fetch data from a URL (API) or file, parse and display it live updating on scene
-- [DeterminateSystems/zpool-auto-expand-partitions](https://github.com/DeterminateSystems/zpool-auto-expand-partitions) ([v0.1.1](https://github.com/DeterminateSystems/zpool-auto-expand-partitions/releases/tag/v0.1.1), 3 days ago)
+- [DeterminateSystems/zpool-auto-expand-partitions](https://github.com/DeterminateSystems/zpool-auto-expand-partitions) ([v0.1.1](https://github.com/DeterminateSystems/zpool-auto-expand-partitions/releases/tag/v0.1.1), 4 days ago)
   - 
 - [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) ([r23319](https://github.com/wimpysworld/obs-studio-portable/releases/tag/r23319), 1 week ago)
   - Portable OBS Studio for Ubuntu bundled with 50 plugins
