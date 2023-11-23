@@ -9,8 +9,9 @@
   &nbsp;<a href="https://www.linkedin.com/in/martinwimpress/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1667be?style=for-the-badge&logo=linkedin&logoColor=%23ffffff"></a>&nbsp;
   &nbsp;<a href="https://news.ycombinator.com/user/id/flexiondotorg" target="_blank"><img alt="Hacker News" src="https://img.shields.io/badge/hacker_news-fc6926?style=for-the-badge&logo=ycombinator&logoColor=%23ffffff"></a>&nbsp;
 </p>
-<a href="https://github.com/flexiondotorg" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=flexiondotorg&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged&include_all_commits=true&bg_color=161719&title_color=fa66ed&icon_color=6bbbfa&text_color=c5c8c6&ring_color=98ed3f&border_radius=8" alt="GitHub Stats"></a>
-<a href="https://github.com/flexiondotorg" target="_blank"><img align="right" src="https://streak-stats.demolab.com?user=flexiondotorg&theme=cobalt&border_radius=8&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat&card_width=465&hide_total_contributions=true" alt="GitHub Streak" /></a>
+<a href="https://github.com/flexiondotorg" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=flexiondotorg&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged&include_all_commits=true&bg_color=0E1117&title_color=fa66ed&icon_color=6bbbfa&text_color=c5c8c6&ring_color=98ed3f&border_radius=8" alt="GitHub Stats"></a>
+br />
+<a href="https://github.com/flexiondotorg" target="_blank"><img align="right" src="https://streak-stats.demolab.com?user=flexiondotorg&theme=cobalt&border_radius=8&date_format=j%20M%5B%20Y%5D&mode=daily&exclude_days=Sun%2CSat&card_width=465&hide_total_contributions=true" alt="GitHub Streak" /></a>
 
 Hello 👋 I'm Martin (*also known as Wimpy*), an open-source enthusiast, frequent contributor and maker of things.
 
@@ -51,7 +52,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 - [refactor: track nixpkgs release 23.11](https://github.com/wimpysworld/nix-config/pull/56) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add cpufetch and onefetch](https://github.com/wimpysworld/nix-config/pull/55) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: add initial compatibility for home-manager on Darwin](https://github.com/wimpysworld/nix-config/pull/54) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: add multipass](https://github.com/wimpysworld/nix-config/pull/53) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 
 ### Recent releases 📦️
 
