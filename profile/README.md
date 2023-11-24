@@ -34,10 +34,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) (2 days ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [DeterminateSystems/.github](https://github.com/DeterminateSystems/.github) (1 week ago)
@@ -48,6 +48,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix: assorted fixes](https://github.com/wimpysworld/nix-config/pull/65) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [feat: add a collection of terminal tools](https://github.com/wimpysworld/nix-config/pull/64) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [reactor: move some leaf application to home manager](https://github.com/wimpysworld/nix-config/pull/61) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [refactor: add conditionals for Linux and Darwin](https://github.com/wimpysworld/nix-config/pull/59) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat: update code extensions](https://github.com/wimpysworld/nix-config/pull/58) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
