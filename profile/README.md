@@ -48,11 +48,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: replace lolcat with dotacat](https://github.com/wimpysworld/nix-config/pull/66) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [fix: assorted fixes](https://github.com/wimpysworld/nix-config/pull/65) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add a collection of terminal tools](https://github.com/wimpysworld/nix-config/pull/64) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [reactor: move some leaf application to home manager](https://github.com/wimpysworld/nix-config/pull/61) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [refactor: add conditionals for Linux and Darwin](https://github.com/wimpysworld/nix-config/pull/59) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [feat: update code extensions](https://github.com/wimpysworld/nix-config/pull/58) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 
 ### Recent releases 📦️
 
