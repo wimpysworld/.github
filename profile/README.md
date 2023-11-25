@@ -34,11 +34,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) (2 days ago)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) (3 days ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [DeterminateSystems/.github](https://github.com/DeterminateSystems/.github) (1 week ago)
   - Determinate Systems
@@ -48,18 +48,18 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [refactor: replace lolcat with dotacat](https://github.com/wimpysworld/nix-config/pull/66) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [fix: assorted fixes](https://github.com/wimpysworld/nix-config/pull/65) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: add a collection of terminal tools](https://github.com/wimpysworld/nix-config/pull/64) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [reactor: move some leaf application to home manager](https://github.com/wimpysworld/nix-config/pull/61) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [refactor: add conditionals for Linux and Darwin](https://github.com/wimpysworld/nix-config/pull/59) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [refactor: replace lolcat with dotacat](https://github.com/wimpysworld/nix-config/pull/66) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [fix: assorted fixes](https://github.com/wimpysworld/nix-config/pull/65) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: add a collection of terminal tools](https://github.com/wimpysworld/nix-config/pull/64) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [reactor: move some leaf application to home manager](https://github.com/wimpysworld/nix-config/pull/61) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [refactor: add conditionals for Linux and Darwin](https://github.com/wimpysworld/nix-config/pull/59) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 
 ### Recent releases 📦️
 
 
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.3](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.3), 4 days ago)
+- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.3](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.3), 5 days ago)
   - OBS plugin to fetch data from a URL (API) or file, parse and display it live updating on scene
-- [DeterminateSystems/zpool-auto-expand-partitions](https://github.com/DeterminateSystems/zpool-auto-expand-partitions) ([v0.1.1](https://github.com/DeterminateSystems/zpool-auto-expand-partitions/releases/tag/v0.1.1), 5 days ago)
+- [DeterminateSystems/zpool-auto-expand-partitions](https://github.com/DeterminateSystems/zpool-auto-expand-partitions) ([v0.1.1](https://github.com/DeterminateSystems/zpool-auto-expand-partitions/releases/tag/v0.1.1), 6 days ago)
   - 
 - [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) ([r23319](https://github.com/wimpysworld/obs-studio-portable/releases/tag/r23319), 1 week ago)
   - Portable OBS Studio for Ubuntu bundled with 50 plugins
