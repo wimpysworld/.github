@@ -34,10 +34,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
-  - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+  - My personal blog
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) (4 days ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [DeterminateSystems/.github](https://github.com/DeterminateSystems/.github) (1 week ago)
