@@ -56,7 +56,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.3](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.3), 1 week ago)
+- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.4](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.4), today)
   - OBS plugin to fetch data from a URL (API) or file, parse and display it live updating on scene
 - [DeterminateSystems/zpool-auto-expand-partitions](https://github.com/DeterminateSystems/zpool-auto-expand-partitions) ([v0.1.1](https://github.com/DeterminateSystems/zpool-auto-expand-partitions/releases/tag/v0.1.1), 1 week ago)
   - 
