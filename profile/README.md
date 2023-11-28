@@ -34,10 +34,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) (6 days ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [DeterminateSystems/.github](https://github.com/DeterminateSystems/.github) (1 week ago)
@@ -48,10 +48,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix: a collection of fixes and improvements for running on Darwin](https://github.com/wimpysworld/nix-config/pull/71) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: a little sunday evening tinkering](https://github.com/wimpysworld/nix-config/pull/68) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 - [refactor: a whole heap of tweaks](https://github.com/wimpysworld/nix-config/pull/67) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 - [refactor: replace lolcat with dotacat](https://github.com/wimpysworld/nix-config/pull/66) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
-- [fix: assorted fixes](https://github.com/wimpysworld/nix-config/pull/65) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 
 ### Recent releases 📦️
 
