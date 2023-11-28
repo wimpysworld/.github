@@ -34,11 +34,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) (5 days ago)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) (6 days ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [DeterminateSystems/.github](https://github.com/DeterminateSystems/.github) (1 week ago)
   - Determinate Systems
@@ -48,10 +48,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [refactor: a little sunday evening tinkering](https://github.com/wimpysworld/nix-config/pull/68) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [refactor: a whole heap of tweaks](https://github.com/wimpysworld/nix-config/pull/67) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [refactor: replace lolcat with dotacat](https://github.com/wimpysworld/nix-config/pull/66) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [fix: assorted fixes](https://github.com/wimpysworld/nix-config/pull/65) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [refactor: a little sunday evening tinkering](https://github.com/wimpysworld/nix-config/pull/68) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [refactor: a whole heap of tweaks](https://github.com/wimpysworld/nix-config/pull/67) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [refactor: replace lolcat with dotacat](https://github.com/wimpysworld/nix-config/pull/66) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [fix: assorted fixes](https://github.com/wimpysworld/nix-config/pull/65) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 
 ### Recent releases 📦️
 
@@ -75,8 +75,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Blogging to the Fediverse](https://linuxmatters.sh/16/) (1 week ago)
-- [Mish Mash Mesh](https://linuxmatters.sh/15/) (3 weeks ago)
+- [Blogging to the Fediverse](https://linuxmatters.sh/16/) (2 weeks ago)
+- [Mish Mash Mesh](https://linuxmatters.sh/15/) (4 weeks ago)
 - [One Hundred Percent Colombian](https://linuxmatters.sh/14/) (1 month ago)
 - [Um, Actually](https://linuxmatters.sh/13/) (1 month ago)
 - [Steam Deck Emulation Done Right](https://linuxmatters.sh/12/) (2 months ago)
