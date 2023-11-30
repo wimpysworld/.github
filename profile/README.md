@@ -48,10 +48,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [wavebox: 10.118.5-2 -&gt; 10.119.8-2](https://github.com/NixOS/nixpkgs/pull/271228) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [fix: a collection of fixes and improvements for running on Darwin](https://github.com/wimpysworld/nix-config/pull/71) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 - [refactor: a little sunday evening tinkering](https://github.com/wimpysworld/nix-config/pull/68) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 - [refactor: a whole heap of tweaks](https://github.com/wimpysworld/nix-config/pull/67) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
-- [refactor: replace lolcat with dotacat](https://github.com/wimpysworld/nix-config/pull/66) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 
 ### Recent releases 📦️
 
