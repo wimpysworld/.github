@@ -34,13 +34,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) (1 week ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [DeterminateSystems/.github](https://github.com/DeterminateSystems/.github) (1 week ago)
+- [DeterminateSystems/.github](https://github.com/DeterminateSystems/.github) (2 weeks ago)
   - Determinate Systems
 - [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (2 weeks ago)
   - Portable OBS Studio for Ubuntu bundled with 50 plugins
@@ -48,15 +48,15 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [fix: a collection of fixes and improvements for running on Darwin](https://github.com/wimpysworld/nix-config/pull/71) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [refactor: a little sunday evening tinkering](https://github.com/wimpysworld/nix-config/pull/68) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [refactor: a whole heap of tweaks](https://github.com/wimpysworld/nix-config/pull/67) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [refactor: replace lolcat with dotacat](https://github.com/wimpysworld/nix-config/pull/66) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [fix: a collection of fixes and improvements for running on Darwin](https://github.com/wimpysworld/nix-config/pull/71) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [refactor: a little sunday evening tinkering](https://github.com/wimpysworld/nix-config/pull/68) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [refactor: a whole heap of tweaks](https://github.com/wimpysworld/nix-config/pull/67) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [refactor: replace lolcat with dotacat](https://github.com/wimpysworld/nix-config/pull/66) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 
 ### Recent releases 📦️
 
 
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.4](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.4), 1 day ago)
+- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.4](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.4), 2 days ago)
   - OBS plugin to fetch data from a URL (API) or file, parse and display it live updating on scene
 - [DeterminateSystems/zpool-auto-expand-partitions](https://github.com/DeterminateSystems/zpool-auto-expand-partitions) ([v0.1.1](https://github.com/DeterminateSystems/zpool-auto-expand-partitions/releases/tag/v0.1.1), 1 week ago)
   - 
@@ -75,9 +75,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Bottom Is the New Top](https://linuxmatters.sh/17/) (1 day ago)
+- [Bottom Is the New Top](https://linuxmatters.sh/17/) (2 days ago)
 - [Blogging to the Fediverse](https://linuxmatters.sh/16/) (2 weeks ago)
-- [Mish Mash Mesh](https://linuxmatters.sh/15/) (4 weeks ago)
+- [Mish Mash Mesh](https://linuxmatters.sh/15/) (1 month ago)
 - [One Hundred Percent Colombian](https://linuxmatters.sh/14/) (1 month ago)
 - [Um, Actually](https://linuxmatters.sh/13/) (1 month ago)
 
