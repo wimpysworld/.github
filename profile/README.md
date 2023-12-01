@@ -36,14 +36,14 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
   - My personal blog
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
+  - Nix Packages collection &amp; NixOS
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) (1 week ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [DeterminateSystems/.github](https://github.com/DeterminateSystems/.github) (2 weeks ago)
   - Determinate Systems
-- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (2 weeks ago)
-  - Portable OBS Studio for Ubuntu bundled with 50 plugins
 
 ### Recent pull requests 🛠️
 
