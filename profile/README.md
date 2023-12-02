@@ -34,11 +34,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
   - Nix Packages collection &amp; NixOS
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) (1 week ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -48,17 +48,17 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [wavebox: 10.118.5-2 -&gt; 10.119.8-2](https://github.com/NixOS/nixpkgs/pull/271228) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
-- [fix: a collection of fixes and improvements for running on Darwin](https://github.com/wimpysworld/nix-config/pull/71) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [refactor: a little sunday evening tinkering](https://github.com/wimpysworld/nix-config/pull/68) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
-- [refactor: a whole heap of tweaks](https://github.com/wimpysworld/nix-config/pull/67) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [wavebox: 10.118.5-2 -&gt; 10.119.8-2](https://github.com/NixOS/nixpkgs/pull/271228) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
+- [fix: a collection of fixes and improvements for running on Darwin](https://github.com/wimpysworld/nix-config/pull/71) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [refactor: a little sunday evening tinkering](https://github.com/wimpysworld/nix-config/pull/68) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
+- [refactor: a whole heap of tweaks](https://github.com/wimpysworld/nix-config/pull/67) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.16](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.16), 1 day ago)
+- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.16](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.16), 2 days ago)
   - Health checks for your Nix flakes
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.4](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.4), 3 days ago)
+- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.4](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.4), 4 days ago)
   - OBS plugin to fetch data from a URL (API) or file, parse and display it live updating on scene
 - [DeterminateSystems/zpool-auto-expand-partitions](https://github.com/DeterminateSystems/zpool-auto-expand-partitions) ([v0.1.1](https://github.com/DeterminateSystems/zpool-auto-expand-partitions/releases/tag/v0.1.1), 1 week ago)
   - 
@@ -75,11 +75,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Bottom Is the New Top](https://linuxmatters.sh/17/) (3 days ago)
+- [Bottom Is the New Top](https://linuxmatters.sh/17/) (4 days ago)
 - [Blogging to the Fediverse](https://linuxmatters.sh/16/) (2 weeks ago)
 - [Mish Mash Mesh](https://linuxmatters.sh/15/) (1 month ago)
 - [One Hundred Percent Colombian](https://linuxmatters.sh/14/) (1 month ago)
-- [Um, Actually](https://linuxmatters.sh/13/) (1 month ago)
+- [Um, Actually](https://linuxmatters.sh/13/) (2 months ago)
 
 ### 📺️ YouTube
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
@@ -89,7 +89,7 @@ Here's some recent episodes:
 - [NixOS | Packaging OBS Studio plugins and filters ❄️](https://www.youtube.com/watch?v=-QIhBJ11ZTM) (7 months ago)
 - [Ubuntu | Final release process for Ubuntu MATE 23.04 🧉](https://www.youtube.com/watch?v=mNJzcJiaCCM) (7 months ago)
 - [NixOS | Planning OBS Studio Flaking Loaded for NixOS ❄️](https://www.youtube.com/watch?v=sB-r0im0Mr8) (7 months ago)
-- [NixOS | Planning my NixOS ❄️ device future 🔮](https://www.youtube.com/watch?v=v9GM8k9Aa7k) (7 months ago)
+- [NixOS | Planning my NixOS ❄️ device future 🔮](https://www.youtube.com/watch?v=v9GM8k9Aa7k) (8 months ago)
 
 ### ✍️ Blog
 
