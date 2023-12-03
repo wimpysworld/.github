@@ -34,10 +34,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
   - Nix Packages collection &amp; NixOS
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) (1 week ago)
