@@ -34,13 +34,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
+- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
   - 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 days ago)
   - Nix Packages collection &amp; NixOS
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) (1 week ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -48,17 +48,17 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [refactor: various updates](https://github.com/wimpysworld/ia-get/pull/2) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
-- [feat: chuck/stream downloads instead of reading everything into RAM](https://github.com/wimpysworld/ia-get/pull/1) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
-- [wavebox: 10.118.5-2 -&gt; 10.119.8-2](https://github.com/NixOS/nixpkgs/pull/271228) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
-- [fix: a collection of fixes and improvements for running on Darwin](https://github.com/wimpysworld/nix-config/pull/71) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [refactor: various updates](https://github.com/wimpysworld/ia-get/pull/2) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
+- [feat: chuck/stream downloads instead of reading everything into RAM](https://github.com/wimpysworld/ia-get/pull/1) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
+- [wavebox: 10.118.5-2 -&gt; 10.119.8-2](https://github.com/NixOS/nixpkgs/pull/271228) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 days ago)
+- [fix: a collection of fixes and improvements for running on Darwin](https://github.com/wimpysworld/nix-config/pull/71) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.16](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.16), 3 days ago)
+- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.16](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.16), 4 days ago)
   - Health checks for your Nix flakes
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.4](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.4), 5 days ago)
+- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.4](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.4), 6 days ago)
   - OBS plugin to fetch data from a URL (API) or file, parse and display it live updating on scene
 - [DeterminateSystems/zpool-auto-expand-partitions](https://github.com/DeterminateSystems/zpool-auto-expand-partitions) ([v0.1.1](https://github.com/DeterminateSystems/zpool-auto-expand-partitions/releases/tag/v0.1.1), 2 weeks ago)
   - 
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Bottom Is the New Top](https://linuxmatters.sh/17/) (5 days ago)
+- [Bottom Is the New Top](https://linuxmatters.sh/17/) (6 days ago)
 - [Blogging to the Fediverse](https://linuxmatters.sh/16/) (2 weeks ago)
 - [Mish Mash Mesh](https://linuxmatters.sh/15/) (1 month ago)
 - [One Hundred Percent Colombian](https://linuxmatters.sh/14/) (1 month ago)
