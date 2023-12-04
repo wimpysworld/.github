@@ -56,7 +56,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.16](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.16), 4 days ago)
+- [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) ([v0.1.2](https://github.com/DeterminateSystems/magic-nix-cache/releases/tag/v0.1.2), today)
+  - Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
+- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.17](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.17), today)
   - Health checks for your Nix flakes
 - [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.4](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.4), 6 days ago)
   - OBS plugin to fetch data from a URL (API) or file, parse and display it live updating on scene
@@ -64,8 +66,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - 
 - [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) ([r23319](https://github.com/wimpysworld/obs-studio-portable/releases/tag/r23319), 2 weeks ago)
   - Portable OBS Studio for Ubuntu bundled with 50 plugins
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.15.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.15.1), 2 weeks ago)
-  - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over a million installs.
 
 
 
