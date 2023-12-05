@@ -48,11 +48,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: improve UI and add CI workflow](https://github.com/wimpysworld/ia-get/pull/4) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
 - [refactor: significant refine and refactor](https://github.com/wimpysworld/ia-get/pull/3) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
 - [refactor: various updates](https://github.com/wimpysworld/ia-get/pull/2) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (2 days ago)
 - [feat: chuck/stream downloads instead of reading everything into RAM](https://github.com/wimpysworld/ia-get/pull/1) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (2 days ago)
 - [wavebox: 10.118.5-2 -&gt; 10.119.8-2](https://github.com/NixOS/nixpkgs/pull/271228) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 days ago)
-- [fix: a collection of fixes and improvements for running on Darwin](https://github.com/wimpysworld/nix-config/pull/71) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
