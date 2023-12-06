@@ -34,34 +34,34 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
+- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
   - File downloader for archive.org ⬇️
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (6 days ago)
   - Nix Packages collection &amp; NixOS
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) (1 week ago)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) (2 weeks ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 
 ### Recent pull requests 🛠️
 
 
-- [refactor: improve UI and add CI workflow](https://github.com/wimpysworld/ia-get/pull/4) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
-- [refactor: significant refine and refactor](https://github.com/wimpysworld/ia-get/pull/3) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
-- [refactor: various updates](https://github.com/wimpysworld/ia-get/pull/2) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (2 days ago)
-- [feat: chuck/stream downloads instead of reading everything into RAM](https://github.com/wimpysworld/ia-get/pull/1) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (2 days ago)
-- [wavebox: 10.118.5-2 -&gt; 10.119.8-2](https://github.com/NixOS/nixpkgs/pull/271228) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 days ago)
+- [refactor: improve UI and add CI workflow](https://github.com/wimpysworld/ia-get/pull/4) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
+- [refactor: significant refine and refactor](https://github.com/wimpysworld/ia-get/pull/3) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
+- [refactor: various updates](https://github.com/wimpysworld/ia-get/pull/2) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (3 days ago)
+- [feat: chuck/stream downloads instead of reading everything into RAM](https://github.com/wimpysworld/ia-get/pull/1) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (3 days ago)
+- [wavebox: 10.118.5-2 -&gt; 10.119.8-2](https://github.com/NixOS/nixpkgs/pull/271228) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (6 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) ([0.1.0](https://github.com/wimpysworld/ia-get/releases/tag/0.1.0), today)
+- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) ([0.1.0](https://github.com/wimpysworld/ia-get/releases/tag/0.1.0), 1 day ago)
   - File downloader for archive.org ⬇️
-- [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) ([v0.1.2](https://github.com/DeterminateSystems/magic-nix-cache/releases/tag/v0.1.2), 1 day ago)
+- [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) ([v0.1.2](https://github.com/DeterminateSystems/magic-nix-cache/releases/tag/v0.1.2), 2 days ago)
   - Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
-- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.17](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.17), 1 day ago)
+- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.17](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.17), 2 days ago)
   - Health checks for your Nix flakes
 - [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.4](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.4), 1 week ago)
   - OBS plugin to fetch data from a URL (API) or file, parse and display it live updating on scene
@@ -86,10 +86,10 @@ Here's some recent episodes:
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/WimpysWorld" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UChpYmMp7EFaxuogUX1eAqyw?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
-- [[Linux] Another Little Bit of Linux Live Stream 🐧](https://www.youtube.com/watch?v=4fQnynxcCiM) (2 weeks ago)
+- [[Linux] Another Little Bit of Linux Live Stream 🐧](https://www.youtube.com/watch?v=4fQnynxcCiM) (3 weeks ago)
 - [NixOS | Packaging OBS Studio plugins and filters ❄️](https://www.youtube.com/watch?v=-QIhBJ11ZTM) (7 months ago)
 - [Ubuntu | Final release process for Ubuntu MATE 23.04 🧉](https://www.youtube.com/watch?v=mNJzcJiaCCM) (7 months ago)
-- [NixOS | Planning OBS Studio Flaking Loaded for NixOS ❄️](https://www.youtube.com/watch?v=sB-r0im0Mr8) (7 months ago)
+- [NixOS | Planning OBS Studio Flaking Loaded for NixOS ❄️](https://www.youtube.com/watch?v=sB-r0im0Mr8) (8 months ago)
 - [NixOS | Planning my NixOS ❄️ device future 🔮](https://www.youtube.com/watch?v=v9GM8k9Aa7k) (8 months ago)
 
 ### ✍️ Blog
