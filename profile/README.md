@@ -36,23 +36,23 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
+- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
+  - Portable OBS Studio for Ubuntu bundled with 50 plugins
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
 - [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (2 days ago)
   - File downloader for archive.org ⬇️
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
   - Nix Packages collection &amp; NixOS
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) (2 weeks ago)
-  - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 
 ### Recent pull requests 🛠️
 
 
+- [docs: update docs for new release](https://github.com/wimpysworld/obs-studio-portable/pull/44) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
+- [feat: a collection of plugin updates](https://github.com/wimpysworld/obs-studio-portable/pull/43) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
 - [wavebox: 10.119.8-2 -&gt; 10.120.10-2](https://github.com/NixOS/nixpkgs/pull/272644) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [lima-bin: 0.18.0 -&gt; 0.19.0](https://github.com/NixOS/nixpkgs/pull/272637) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [refactor: improve UI and add CI workflow](https://github.com/wimpysworld/ia-get/pull/4) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (2 days ago)
-- [refactor: significant refine and refactor](https://github.com/wimpysworld/ia-get/pull/3) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (2 days ago)
-- [refactor: various updates](https://github.com/wimpysworld/ia-get/pull/2) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (4 days ago)
 
 ### Recent releases 📦️
 
