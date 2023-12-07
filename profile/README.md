@@ -57,6 +57,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
+- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) ([r23341](https://github.com/wimpysworld/obs-studio-portable/releases/tag/r23341), today)
+  - Portable OBS Studio for Ubuntu bundled with 50 plugins
 - [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) ([0.1.0](https://github.com/wimpysworld/ia-get/releases/tag/0.1.0), 2 days ago)
   - File downloader for archive.org ⬇️
 - [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) ([v0.1.2](https://github.com/DeterminateSystems/magic-nix-cache/releases/tag/v0.1.2), 3 days ago)
@@ -65,8 +67,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Health checks for your Nix flakes
 - [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.4](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.4), 1 week ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
-- [DeterminateSystems/zpool-auto-expand-partitions](https://github.com/DeterminateSystems/zpool-auto-expand-partitions) ([v0.1.1](https://github.com/DeterminateSystems/zpool-auto-expand-partitions/releases/tag/v0.1.1), 2 weeks ago)
-  - 
 
 
 
