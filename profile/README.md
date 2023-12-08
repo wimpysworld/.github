@@ -57,6 +57,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
+- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.5](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.5), today)
+  - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) ([r23341](https://github.com/wimpysworld/obs-studio-portable/releases/tag/r23341), 1 day ago)
   - Portable OBS Studio for Ubuntu bundled with 50 plugins
 - [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) ([0.1.0](https://github.com/wimpysworld/ia-get/releases/tag/0.1.0), 3 days ago)
@@ -65,8 +67,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
 - [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.17](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.17), 4 days ago)
   - Health checks for your Nix flakes
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.4](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.4), 1 week ago)
-  - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 
 
 
