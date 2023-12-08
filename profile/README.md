@@ -34,13 +34,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
+- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 day ago)
   - Portable OBS Studio for Ubuntu bundled with 50 plugins
-- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (2 days ago)
+- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (3 days ago)
   - File downloader for archive.org ⬇️
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
   - Nix Packages collection &amp; NixOS
@@ -48,22 +48,22 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [docs: update docs for new release](https://github.com/wimpysworld/obs-studio-portable/pull/44) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
-- [feat: a collection of plugin updates](https://github.com/wimpysworld/obs-studio-portable/pull/43) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
-- [wavebox: 10.119.8-2 -&gt; 10.120.10-2](https://github.com/NixOS/nixpkgs/pull/272644) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
-- [lima-bin: 0.18.0 -&gt; 0.19.0](https://github.com/NixOS/nixpkgs/pull/272637) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
-- [refactor: improve UI and add CI workflow](https://github.com/wimpysworld/ia-get/pull/4) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (2 days ago)
+- [docs: update docs for new release](https://github.com/wimpysworld/obs-studio-portable/pull/44) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 day ago)
+- [feat: a collection of plugin updates](https://github.com/wimpysworld/obs-studio-portable/pull/43) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 day ago)
+- [wavebox: 10.119.8-2 -&gt; 10.120.10-2](https://github.com/NixOS/nixpkgs/pull/272644) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
+- [lima-bin: 0.18.0 -&gt; 0.19.0](https://github.com/NixOS/nixpkgs/pull/272637) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
+- [refactor: improve UI and add CI workflow](https://github.com/wimpysworld/ia-get/pull/4) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (3 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) ([r23341](https://github.com/wimpysworld/obs-studio-portable/releases/tag/r23341), today)
+- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) ([r23341](https://github.com/wimpysworld/obs-studio-portable/releases/tag/r23341), 1 day ago)
   - Portable OBS Studio for Ubuntu bundled with 50 plugins
-- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) ([0.1.0](https://github.com/wimpysworld/ia-get/releases/tag/0.1.0), 2 days ago)
+- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) ([0.1.0](https://github.com/wimpysworld/ia-get/releases/tag/0.1.0), 3 days ago)
   - File downloader for archive.org ⬇️
-- [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) ([v0.1.2](https://github.com/DeterminateSystems/magic-nix-cache/releases/tag/v0.1.2), 3 days ago)
+- [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) ([v0.1.2](https://github.com/DeterminateSystems/magic-nix-cache/releases/tag/v0.1.2), 4 days ago)
   - Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
-- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.17](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.17), 3 days ago)
+- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.17](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.17), 4 days ago)
   - Health checks for your Nix flakes
 - [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.4](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.4), 1 week ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
