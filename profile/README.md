@@ -48,11 +48,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: update url-source to 0.2.5](https://github.com/wimpysworld/obs-studio-portable/pull/45) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
 - [docs: update docs for new release](https://github.com/wimpysworld/obs-studio-portable/pull/44) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (2 days ago)
 - [feat: a collection of plugin updates](https://github.com/wimpysworld/obs-studio-portable/pull/43) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (2 days ago)
 - [wavebox: 10.119.8-2 -&gt; 10.120.10-2](https://github.com/NixOS/nixpkgs/pull/272644) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
 - [lima-bin: 0.18.0 -&gt; 0.19.0](https://github.com/NixOS/nixpkgs/pull/272637) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
-- [refactor: improve UI and add CI workflow](https://github.com/wimpysworld/ia-get/pull/4) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (4 days ago)
 
 ### Recent releases 📦️
 
