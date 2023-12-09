@@ -36,10 +36,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
   - My personal blog
+- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
+  - Portable OBS Studio for Ubuntu bundled with 50 plugins
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (2 days ago)
-  - Portable OBS Studio for Ubuntu bundled with 50 plugins
 - [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (4 days ago)
   - File downloader for archive.org ⬇️
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
@@ -48,11 +48,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: update 3d effect to 0.1.0](https://github.com/wimpysworld/obs-studio-portable/pull/46) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
 - [feat: update url-source to 0.2.5](https://github.com/wimpysworld/obs-studio-portable/pull/45) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
 - [docs: update docs for new release](https://github.com/wimpysworld/obs-studio-portable/pull/44) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (2 days ago)
 - [feat: a collection of plugin updates](https://github.com/wimpysworld/obs-studio-portable/pull/43) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (2 days ago)
 - [wavebox: 10.119.8-2 -&gt; 10.120.10-2](https://github.com/NixOS/nixpkgs/pull/272644) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
-- [lima-bin: 0.18.0 -&gt; 0.19.0](https://github.com/NixOS/nixpkgs/pull/272637) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
 
 ### Recent releases 📦️
 
