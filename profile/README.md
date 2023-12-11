@@ -34,10 +34,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+  - My personal blog
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
-  - My personal blog
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 day ago)
@@ -86,11 +86,11 @@ Here's some recent episodes:
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/WimpysWorld" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UChpYmMp7EFaxuogUX1eAqyw?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
+- [Time for a little bit of Linux 🐧](https://www.youtube.com/watch?v=ENuudwuSdXE) (today)
 - [NixOS | Packaging OBS Studio plugins and filters ❄️](https://www.youtube.com/watch?v=-QIhBJ11ZTM) (7 months ago)
 - [Ubuntu | Final release process for Ubuntu MATE 23.04 🧉](https://www.youtube.com/watch?v=mNJzcJiaCCM) (7 months ago)
 - [NixOS | Planning OBS Studio Flaking Loaded for NixOS ❄️](https://www.youtube.com/watch?v=sB-r0im0Mr8) (8 months ago)
 - [NixOS | Planning my NixOS ❄️ device future 🔮](https://www.youtube.com/watch?v=v9GM8k9Aa7k) (8 months ago)
-- [Linux | Preparing a new release of Quickemu and wrangling some Bash 🐚](https://www.youtube.com/watch?v=No1G-AxYHpY) (10 months ago)
 
 ### ✍️ Blog
 
