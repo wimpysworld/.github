@@ -34,39 +34,39 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+  - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
+- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 day ago)
   - Portable OBS Studio for Ubuntu bundled with 50 plugins
-- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (5 days ago)
+- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
   - File downloader for archive.org ⬇️
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
-  - Nix Packages collection &amp; NixOS
 
 ### Recent pull requests 🛠️
 
 
-- [fix: correct LD_LIBRARY_PATH and override environment for running in distrobox](https://github.com/wimpysworld/obs-studio-portable/pull/47) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 day ago)
-- [feat: update 3d effect to 0.1.0](https://github.com/wimpysworld/obs-studio-portable/pull/46) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 day ago)
-- [feat: update url-source to 0.2.5](https://github.com/wimpysworld/obs-studio-portable/pull/45) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 day ago)
-- [docs: update docs for new release](https://github.com/wimpysworld/obs-studio-portable/pull/44) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (3 days ago)
-- [feat: a collection of plugin updates](https://github.com/wimpysworld/obs-studio-portable/pull/43) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (3 days ago)
+- [feat: add NixOS 23.11](https://github.com/quickemu-project/quickemu/pull/866) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [fix: correct LD_LIBRARY_PATH and override environment for running in distrobox](https://github.com/wimpysworld/obs-studio-portable/pull/47) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (2 days ago)
+- [feat: update 3d effect to 0.1.0](https://github.com/wimpysworld/obs-studio-portable/pull/46) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (2 days ago)
+- [feat: update url-source to 0.2.5](https://github.com/wimpysworld/obs-studio-portable/pull/45) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (2 days ago)
+- [docs: update docs for new release](https://github.com/wimpysworld/obs-studio-portable/pull/44) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (4 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) ([r23344](https://github.com/wimpysworld/obs-studio-portable/releases/tag/r23344), today)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.2](https://github.com/quickemu-project/quickemu/releases/tag/4.9.2), 1 day ago)
+  - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
+- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) ([r23344](https://github.com/wimpysworld/obs-studio-portable/releases/tag/r23344), 1 day ago)
   - Portable OBS Studio for Ubuntu bundled with 50 plugins
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.5](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.5), 2 days ago)
+- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.5](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.5), 3 days ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
-- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) ([0.1.0](https://github.com/wimpysworld/ia-get/releases/tag/0.1.0), 5 days ago)
+- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) ([0.1.0](https://github.com/wimpysworld/ia-get/releases/tag/0.1.0), 6 days ago)
   - File downloader for archive.org ⬇️
-- [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) ([v0.1.2](https://github.com/DeterminateSystems/magic-nix-cache/releases/tag/v0.1.2), 6 days ago)
+- [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) ([v0.1.2](https://github.com/DeterminateSystems/magic-nix-cache/releases/tag/v0.1.2), 1 week ago)
   - Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
-- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.17](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.17), 6 days ago)
-  - Health checks for your Nix flakes
 
 
 
