@@ -34,34 +34,34 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (2 days ago)
+- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (3 days ago)
   - Portable OBS Studio for Ubuntu bundled with 50 plugins
-- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (2 days ago)
+- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (3 days ago)
   - File downloader for archive.org ⬇️
 
 ### Recent pull requests 🛠️
 
 
-- [feat: add NixOS 23.11](https://github.com/quickemu-project/quickemu/pull/866) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
-- [fix: correct LD_LIBRARY_PATH and override environment for running in distrobox](https://github.com/wimpysworld/obs-studio-portable/pull/47) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (3 days ago)
-- [feat: update 3d effect to 0.1.0](https://github.com/wimpysworld/obs-studio-portable/pull/46) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (3 days ago)
-- [feat: update url-source to 0.2.5](https://github.com/wimpysworld/obs-studio-portable/pull/45) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (3 days ago)
-- [docs: update docs for new release](https://github.com/wimpysworld/obs-studio-portable/pull/44) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (5 days ago)
+- [feat: add NixOS 23.11](https://github.com/quickemu-project/quickemu/pull/866) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
+- [fix: correct LD_LIBRARY_PATH and override environment for running in distrobox](https://github.com/wimpysworld/obs-studio-portable/pull/47) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (4 days ago)
+- [feat: update 3d effect to 0.1.0](https://github.com/wimpysworld/obs-studio-portable/pull/46) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (4 days ago)
+- [feat: update url-source to 0.2.5](https://github.com/wimpysworld/obs-studio-portable/pull/45) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (4 days ago)
+- [docs: update docs for new release](https://github.com/wimpysworld/obs-studio-portable/pull/44) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (6 days ago)
 
 ### Recent releases 📦️
 
 
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.2](https://github.com/quickemu-project/quickemu/releases/tag/4.9.2), 2 days ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.2](https://github.com/quickemu-project/quickemu/releases/tag/4.9.2), 3 days ago)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) ([r23344](https://github.com/wimpysworld/obs-studio-portable/releases/tag/r23344), 2 days ago)
+- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) ([r23344](https://github.com/wimpysworld/obs-studio-portable/releases/tag/r23344), 3 days ago)
   - Portable OBS Studio for Ubuntu bundled with 50 plugins
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.5](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.5), 4 days ago)
+- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.5](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.5), 5 days ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) ([0.1.0](https://github.com/wimpysworld/ia-get/releases/tag/0.1.0), 1 week ago)
   - File downloader for archive.org ⬇️
@@ -76,7 +76,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Snap, Crackle and Desktop](https://linuxmatters.sh/18/) (today)
+- [Snap, Crackle and Desktop](https://linuxmatters.sh/18/) (1 day ago)
 - [Bottom Is the New Top](https://linuxmatters.sh/17/) (2 weeks ago)
 - [Blogging to the Fediverse](https://linuxmatters.sh/16/) (4 weeks ago)
 - [Mish Mash Mesh](https://linuxmatters.sh/15/) (1 month ago)
@@ -86,10 +86,10 @@ Here's some recent episodes:
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/WimpysWorld" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UChpYmMp7EFaxuogUX1eAqyw?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
-- [NixOS &amp; Linux 🐧 Automate OBS with Kruiz Control and Scene Switcher](https://www.youtube.com/watch?v=BSITslJbMGA) (today)
-- [[Linux &amp; NixOS] Catching up on a few projects ❄️ - Part 2](https://www.youtube.com/watch?v=IpiuKvqHU-c) (1 day ago)
-- [[Linux &amp; NixOS] Catching up on a few projects ❄️ - Part 1](https://www.youtube.com/watch?v=4fQnynxcCiM) (1 day ago)
-- [Time for a little bit of Linux 🐧](https://www.youtube.com/watch?v=ENuudwuSdXE) (1 day ago)
+- [NixOS &amp; Linux 🐧 Automate OBS with Kruiz Control and Scene Switcher](https://www.youtube.com/watch?v=BSITslJbMGA) (1 day ago)
+- [[Linux &amp; NixOS] Catching up on a few projects ❄️ - Part 2](https://www.youtube.com/watch?v=IpiuKvqHU-c) (2 days ago)
+- [[Linux &amp; NixOS] Catching up on a few projects ❄️ - Part 1](https://www.youtube.com/watch?v=4fQnynxcCiM) (2 days ago)
+- [Time for a little bit of Linux 🐧](https://www.youtube.com/watch?v=ENuudwuSdXE) (2 days ago)
 - [NixOS | Packaging OBS Studio plugins and filters ❄️](https://www.youtube.com/watch?v=-QIhBJ11ZTM) (7 months ago)
 
 ### ✍️ Blog
