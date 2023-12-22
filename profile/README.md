@@ -34,12 +34,12 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
   - Portable OBS Studio for Ubuntu bundled with 50 plugins
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 week ago)
@@ -48,11 +48,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: replace libreoffice with ONLYOFFICE](https://github.com/wimpysworld/nix-config/pull/80) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: update OBS Studio to 30.0.2](https://github.com/wimpysworld/obs-studio-portable/pull/55) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
 - [feat: update move transition to 2.9.7](https://github.com/wimpysworld/obs-studio-portable/pull/54) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
 - [feat: update local vocal to 0.0.8](https://github.com/wimpysworld/obs-studio-portable/pull/53) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
 - [feat: update background removal to 1.1.8](https://github.com/wimpysworld/obs-studio-portable/pull/52) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
-- [feat: update advanced masks to 1.0.1](https://github.com/wimpysworld/obs-studio-portable/pull/51) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
 
 ### Recent releases 📦️
 
