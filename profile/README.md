@@ -34,25 +34,25 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
+  - Portable OBS Studio for Ubuntu bundled with 50 plugins
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 week ago)
-  - Portable OBS Studio for Ubuntu bundled with 50 plugins
 - [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 week ago)
   - File downloader for archive.org ⬇️
 
 ### Recent pull requests 🛠️
 
 
-- [feat: add NixOS 23.11](https://github.com/quickemu-project/quickemu/pull/866) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
-- [fix: correct LD_LIBRARY_PATH and override environment for running in distrobox](https://github.com/wimpysworld/obs-studio-portable/pull/47) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 week ago)
-- [feat: update 3d effect to 0.1.0](https://github.com/wimpysworld/obs-studio-portable/pull/46) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 week ago)
-- [feat: update url-source to 0.2.5](https://github.com/wimpysworld/obs-studio-portable/pull/45) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 week ago)
-- [docs: update docs for new release](https://github.com/wimpysworld/obs-studio-portable/pull/44) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (2 weeks ago)
+- [feat: update OBS Studio to 30.0.2](https://github.com/wimpysworld/obs-studio-portable/pull/55) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
+- [feat: update move transition to 2.9.7](https://github.com/wimpysworld/obs-studio-portable/pull/54) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
+- [feat: update local vocal to 0.0.8](https://github.com/wimpysworld/obs-studio-portable/pull/53) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
+- [feat: update background removal to 1.1.8](https://github.com/wimpysworld/obs-studio-portable/pull/52) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
+- [feat: update advanced masks to 1.0.1](https://github.com/wimpysworld/obs-studio-portable/pull/51) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
 
 ### Recent releases 📦️
 
