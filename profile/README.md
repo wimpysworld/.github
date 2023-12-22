@@ -47,19 +47,19 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: update gitkraken to 9.11.0](https://github.com/wimpysworld/nix-config/pull/82) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [feat: update Wavebox to 10.120.16-2](https://github.com/wimpysworld/nix-config/pull/81) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: replace libreoffice with ONLYOFFICE](https://github.com/wimpysworld/nix-config/pull/80) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: update OBS Studio to 30.0.2](https://github.com/wimpysworld/obs-studio-portable/pull/55) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
 - [feat: update move transition to 2.9.7](https://github.com/wimpysworld/obs-studio-portable/pull/54) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
-- [feat: update local vocal to 0.0.8](https://github.com/wimpysworld/obs-studio-portable/pull/53) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
-- [feat: update background removal to 1.1.8](https://github.com/wimpysworld/obs-studio-portable/pull/52) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
 
 ### Recent releases 📦️
 
 
+- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) ([r23356](https://github.com/wimpysworld/obs-studio-portable/releases/tag/r23356), today)
+  - Portable OBS Studio for Ubuntu bundled with 50 plugins
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.2](https://github.com/quickemu-project/quickemu/releases/tag/4.9.2), 1 week ago)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) ([r23344](https://github.com/wimpysworld/obs-studio-portable/releases/tag/r23344), 1 week ago)
-  - Portable OBS Studio for Ubuntu bundled with 50 plugins
 - [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.5](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.5), 2 weeks ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) ([0.1.0](https://github.com/wimpysworld/ia-get/releases/tag/0.1.0), 2 weeks ago)
