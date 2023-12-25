@@ -33,13 +33,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (today)
+- [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (1 day ago)
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (2 days ago)
+- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (3 days ago)
   - Portable OBS Studio for Ubuntu bundled with 50 plugins
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 weeks ago)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
@@ -47,16 +47,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [feat: update gitkraken to 9.11.0](https://github.com/wimpysworld/nix-config/pull/82) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [feat: update Wavebox to 10.120.16-2](https://github.com/wimpysworld/nix-config/pull/81) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [refactor: replace libreoffice with ONLYOFFICE](https://github.com/wimpysworld/nix-config/pull/80) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [feat: update OBS Studio to 30.0.2](https://github.com/wimpysworld/obs-studio-portable/pull/55) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (2 days ago)
-- [feat: update move transition to 2.9.7](https://github.com/wimpysworld/obs-studio-portable/pull/54) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (2 days ago)
+- [feat: update gitkraken to 9.11.0](https://github.com/wimpysworld/nix-config/pull/82) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [feat: update Wavebox to 10.120.16-2](https://github.com/wimpysworld/nix-config/pull/81) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [refactor: replace libreoffice with ONLYOFFICE](https://github.com/wimpysworld/nix-config/pull/80) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [feat: update OBS Studio to 30.0.2](https://github.com/wimpysworld/obs-studio-portable/pull/55) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (3 days ago)
+- [feat: update move transition to 2.9.7](https://github.com/wimpysworld/obs-studio-portable/pull/54) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (3 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) ([r23356](https://github.com/wimpysworld/obs-studio-portable/releases/tag/r23356), 2 days ago)
+- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) ([r23356](https://github.com/wimpysworld/obs-studio-portable/releases/tag/r23356), 3 days ago)
   - Portable OBS Studio for Ubuntu bundled with 50 plugins
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.2](https://github.com/quickemu-project/quickemu/releases/tag/4.9.2), 2 weeks ago)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
@@ -64,7 +64,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) ([0.1.0](https://github.com/wimpysworld/ia-get/releases/tag/0.1.0), 2 weeks ago)
   - File downloader for archive.org ⬇️
-- [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) ([v0.1.2](https://github.com/DeterminateSystems/magic-nix-cache/releases/tag/v0.1.2), 2 weeks ago)
+- [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) ([v0.1.2](https://github.com/DeterminateSystems/magic-nix-cache/releases/tag/v0.1.2), 3 weeks ago)
   - Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
 
 
@@ -87,8 +87,8 @@ Here's some recent episodes:
 
 - [Time for a little bit of Linux 🐧](https://www.youtube.com/watch?v=biVQ_-v8oEo) (1 week ago)
 - [NixOS &amp; Linux 🐧 Automate OBS with Kruiz Control and Scene Switcher](https://www.youtube.com/watch?v=BSITslJbMGA) (1 week ago)
-- [[Linux &amp; NixOS] Catching up on a few projects ❄️ - Part 2](https://www.youtube.com/watch?v=IpiuKvqHU-c) (1 week ago)
-- [[Linux &amp; NixOS] Catching up on a few projects ❄️ - Part 1](https://www.youtube.com/watch?v=4fQnynxcCiM) (1 week ago)
+- [[Linux &amp; NixOS] Catching up on a few projects ❄️ - Part 2](https://www.youtube.com/watch?v=IpiuKvqHU-c) (2 weeks ago)
+- [[Linux &amp; NixOS] Catching up on a few projects ❄️ - Part 1](https://www.youtube.com/watch?v=4fQnynxcCiM) (2 weeks ago)
 - [NixOS | Packaging OBS Studio plugins and filters ❄️](https://www.youtube.com/watch?v=-QIhBJ11ZTM) (7 months ago)
 
 ### ✍️ Blog
