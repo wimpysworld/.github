@@ -47,11 +47,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: update text pthread to 2.0.3](https://github.com/wimpysworld/obs-studio-portable/pull/65) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
+- [chore: drop remnants of Qt5, Ubuntu 20.04, OBS Studio 29.x and StreamFX support](https://github.com/wimpysworld/obs-studio-portable/pull/64) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
 - [feat: update multi rtmp to 0.5.0.4](https://github.com/wimpysworld/obs-studio-portable/pull/63) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
 - [feat: update to scene collection manager 0.1.1](https://github.com/wimpysworld/obs-studio-portable/pull/62) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
 - [feat: add async audio filter 0.3.0](https://github.com/wimpysworld/obs-studio-portable/pull/61) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
-- [feat: update to media controls 0.4.0](https://github.com/wimpysworld/obs-studio-portable/pull/60) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
-- [feat: move transition 2.9.8](https://github.com/wimpysworld/obs-studio-portable/pull/59) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
 
 ### Recent releases 📦️
 
