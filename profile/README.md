@@ -5,7 +5,6 @@
   &nbsp;<a href="https://fosstodon.org/@wimpy" target="_blank"><img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-6468fa?style=for-the-badge&logo=mastodon&logoColor=%23ffffff"></a>&nbsp;
   &nbsp;<a href="https://www.instagram.com/wimpysworld/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-d3175c?style=for-the-badge&logo=instagram&logoColor=%23ffffff"></a>&nbsp;
   &nbsp;<a href="https://twitter.com/m_wimpress" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-303030?style=for-the-badge&logo=x&logoColor=%23ffffff"></a>&nbsp;
-  &nbsp;<a href="https://www.reddit.com/user/flexiondotorg" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-fc4a23?style=for-the-badge&logo=reddit&logoColor=%23ffffff"></a>&nbsp;
   &nbsp;<a href="https://www.linkedin.com/in/martinwimpress/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1667be?style=for-the-badge&logo=linkedin&logoColor=%23ffffff"></a>&nbsp;
 </p>
 <a href="https://github.com/flexiondotorg" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=flexiondotorg&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged&include_all_commits=true&bg_color=0E1117&title_color=fa66ed&icon_color=6bbbfa&text_color=c5c8c6&ring_color=98ed3f&border_radius=8" alt="GitHub Stats"></a>
@@ -67,6 +66,23 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 - [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) ([v0.1.2](https://github.com/DeterminateSystems/magic-nix-cache/releases/tag/v0.1.2), 4 weeks ago)
   - Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
 
+### Recent stars ⭐️
+
+
+- [mlange-42/git-graph](https://github.com/mlange-42/git-graph) (333)
+  - Command line tool to show clear git graphs arranged for your branching model
+
+- [mlange-42/git-igitt](https://github.com/mlange-42/git-igitt) (105)
+  - Interactive, cross-platform Git terminal application with clear git graphs arranged for your branching model
+
+- [Kruiser8/Kruiz-Control](https://github.com/Kruiser8/Kruiz-Control) (211)
+  - Kruiz Control enables a pseudo code approach to manage and automatically handle Twitch Channel Points, Twitch Chat, OBS or SLOBS, and StreamElements or Streamlabs alerts.
+
+- [justjanne/powerline-go](https://github.com/justjanne/powerline-go) (2664)
+  -  A beautiful and useful low-latency prompt for your shell, written in go
+
+- [lima-vm/lima](https://github.com/lima-vm/lima) (13271)
+  - Linux virtual machines, with a focus on running containers
 
 
 ### 🎙️ Podcast
