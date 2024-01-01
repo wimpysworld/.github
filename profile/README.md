@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: update waveform to 1.8.0-beta1](https://github.com/wimpysworld/obs-studio-portable/pull/68) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
 - [feat: add tuna 1.9.7](https://github.com/wimpysworld/obs-studio-portable/pull/67) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
 - [chore: remove more remnants of Ubuntu 20.04 support and code cleanup](https://github.com/wimpysworld/obs-studio-portable/pull/66) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
 - [feat: update text pthread to 2.0.3](https://github.com/wimpysworld/obs-studio-portable/pull/65) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 day ago)
 - [chore: drop remnants of Qt5, Ubuntu 20.04, OBS Studio 29.x and StreamFX support](https://github.com/wimpysworld/obs-studio-portable/pull/64) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 day ago)
-- [feat: update multi rtmp to 0.5.0.4](https://github.com/wimpysworld/obs-studio-portable/pull/63) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 day ago)
 
 ### Recent releases 📦️
 
@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (16479)
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (16482)
   - a structural diff that understands syntax 🟥🟩
 - [mlange-42/git-graph](https://github.com/mlange-42/git-graph) (333)
   - Command line tool to show clear git graphs arranged for your branching model
