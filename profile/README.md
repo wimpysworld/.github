@@ -66,24 +66,19 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 - [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) ([v0.1.2](https://github.com/DeterminateSystems/magic-nix-cache/releases/tag/v0.1.2), 4 weeks ago)
   - Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
 
-### Recent stars ⭐️
+### Recent starred projects ⭐️
 
 
 - [mlange-42/git-graph](https://github.com/mlange-42/git-graph) (333)
   - Command line tool to show clear git graphs arranged for your branching model
-
 - [mlange-42/git-igitt](https://github.com/mlange-42/git-igitt) (105)
   - Interactive, cross-platform Git terminal application with clear git graphs arranged for your branching model
-
 - [Kruiser8/Kruiz-Control](https://github.com/Kruiser8/Kruiz-Control) (211)
   - Kruiz Control enables a pseudo code approach to manage and automatically handle Twitch Channel Points, Twitch Chat, OBS or SLOBS, and StreamElements or Streamlabs alerts.
-
 - [justjanne/powerline-go](https://github.com/justjanne/powerline-go) (2664)
   -  A beautiful and useful low-latency prompt for your shell, written in go
-
 - [lima-vm/lima](https://github.com/lima-vm/lima) (13271)
   - Linux virtual machines, with a focus on running containers
-
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
