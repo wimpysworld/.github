@@ -35,9 +35,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 day ago)
+- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
   - Portable OBS Studio for Ubuntu bundled with 50 plugins
 - [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (1 week ago)
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
@@ -47,11 +47,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: add tuna 1.9.7](https://github.com/wimpysworld/obs-studio-portable/pull/67) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
+- [chore: remove more remnants of Ubuntu 20.04 support and code cleanup](https://github.com/wimpysworld/obs-studio-portable/pull/66) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (today)
 - [feat: update text pthread to 2.0.3](https://github.com/wimpysworld/obs-studio-portable/pull/65) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 day ago)
 - [chore: drop remnants of Qt5, Ubuntu 20.04, OBS Studio 29.x and StreamFX support](https://github.com/wimpysworld/obs-studio-portable/pull/64) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 day ago)
 - [feat: update multi rtmp to 0.5.0.4](https://github.com/wimpysworld/obs-studio-portable/pull/63) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 day ago)
-- [feat: update to scene collection manager 0.1.1](https://github.com/wimpysworld/obs-studio-portable/pull/62) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 day ago)
-- [feat: add async audio filter 0.3.0](https://github.com/wimpysworld/obs-studio-portable/pull/61) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 day ago)
 
 ### Recent releases 📦️
 
