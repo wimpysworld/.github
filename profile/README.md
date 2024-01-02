@@ -40,8 +40,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Portable OBS Studio for Ubuntu bundled with 50 plugins
 - [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (1 week ago)
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 weeks ago)
-  - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
+- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (3 weeks ago)
+  - File downloader for archive.org ⬇️
 
 ### Recent pull requests 🛠️
 
@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (16520)
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (16521)
   - a structural diff that understands syntax 🟥🟩
 - [mlange-42/git-graph](https://github.com/mlange-42/git-graph) (333)
   - Command line tool to show clear git graphs arranged for your branching model
