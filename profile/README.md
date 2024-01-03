@@ -69,9 +69,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (16532)
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (16533)
   - a structural diff that understands syntax 🟥🟩
-- [mlange-42/git-graph](https://github.com/mlange-42/git-graph) (333)
+- [mlange-42/git-graph](https://github.com/mlange-42/git-graph) (334)
   - Command line tool to show clear git graphs arranged for your branching model
 - [mlange-42/git-igitt](https://github.com/mlange-42/git-igitt) (105)
   - Interactive, cross-platform Git terminal application with clear git graphs arranged for your branching model
