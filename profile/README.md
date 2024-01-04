@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - a structural diff that understands syntax 🟥🟩
 - [mlange-42/git-graph](https://github.com/mlange-42/git-graph) (334)
   - Command line tool to show clear git graphs arranged for your branching model
-- [mlange-42/git-igitt](https://github.com/mlange-42/git-igitt) (106)
+- [mlange-42/git-igitt](https://github.com/mlange-42/git-igitt) (107)
   - Interactive, cross-platform Git terminal application with clear git graphs arranged for your branching model
 - [Kruiser8/Kruiz-Control](https://github.com/Kruiser8/Kruiz-Control) (211)
   - Kruiz Control enables a pseudo code approach to manage and automatically handle Twitch Channel Points, Twitch Chat, OBS or SLOBS, and StreamElements or Streamlabs alerts.
