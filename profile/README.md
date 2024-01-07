@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (3 days ago)
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [janhq/jan](https://github.com/janhq/jan) (3718)
+- [janhq/jan](https://github.com/janhq/jan) (3724)
   - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (16603)
   - a structural diff that understands syntax 🟥🟩
@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Command line tool to show clear git graphs arranged for your branching model
 - [mlange-42/git-igitt](https://github.com/mlange-42/git-igitt) (107)
   - Interactive, cross-platform Git terminal application with clear git graphs arranged for your branching model
-- [Kruiser8/Kruiz-Control](https://github.com/Kruiser8/Kruiz-Control) (211)
+- [Kruiser8/Kruiz-Control](https://github.com/Kruiser8/Kruiz-Control) (212)
   - Kruiz Control enables a pseudo code approach to manage and automatically handle Twitch Channel Points, Twitch Chat, OBS or SLOBS, and StreamElements or Streamlabs alerts.
 
 ### 🎙️ Podcast
