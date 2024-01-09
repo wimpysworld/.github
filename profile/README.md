@@ -69,9 +69,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [janhq/jan](https://github.com/janhq/jan) (5018)
+- [janhq/jan](https://github.com/janhq/jan) (5023)
   - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (16677)
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (16679)
   - a structural diff that understands syntax 🟥🟩
 - [mlange-42/git-graph](https://github.com/mlange-42/git-graph) (341)
   - Command line tool to show clear git graphs arranged for your branching model
@@ -86,11 +86,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
+- [Unfold Your Coding Potential](https://linuxmatters.sh/20/) (today)
 - [This Is How I Roll](https://linuxmatters.sh/19/) (2 weeks ago)
 - [Snap, Crackle and Desktop](https://linuxmatters.sh/18/) (4 weeks ago)
 - [Bottom Is the New Top](https://linuxmatters.sh/17/) (1 month ago)
 - [Blogging to the Fediverse](https://linuxmatters.sh/16/) (1 month ago)
-- [Mish Mash Mesh](https://linuxmatters.sh/15/) (2 months ago)
 
 ### 📺️ YouTube
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
