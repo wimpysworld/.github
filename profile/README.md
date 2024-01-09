@@ -32,15 +32,15 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (4 days ago)
+- [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (5 days ago)
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
 - [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 week ago)
   - Portable OBS Studio for Ubuntu bundled with 50 plugins
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (4 weeks ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 month ago)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 
 ### Recent pull requests 🛠️
@@ -55,11 +55,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.16.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.16.0), today)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.16.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.16.0), 1 day ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over a million installs.
 - [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) ([r23365](https://github.com/wimpysworld/obs-studio-portable/releases/tag/r23365), 1 week ago)
   - Portable OBS Studio for Ubuntu bundled with 50 plugins
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.2](https://github.com/quickemu-project/quickemu/releases/tag/4.9.2), 4 weeks ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.2](https://github.com/quickemu-project/quickemu/releases/tag/4.9.2), 1 month ago)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.5](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.5), 1 month ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
@@ -69,9 +69,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [janhq/jan](https://github.com/janhq/jan) (4523)
+- [janhq/jan](https://github.com/janhq/jan) (4543)
   - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (16623)
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (16625)
   - a structural diff that understands syntax 🟥🟩
 - [mlange-42/git-graph](https://github.com/mlange-42/git-graph) (337)
   - Command line tool to show clear git graphs arranged for your branching model
@@ -86,8 +86,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [This Is How I Roll](https://linuxmatters.sh/19/) (1 week ago)
-- [Snap, Crackle and Desktop](https://linuxmatters.sh/18/) (3 weeks ago)
+- [This Is How I Roll](https://linuxmatters.sh/19/) (2 weeks ago)
+- [Snap, Crackle and Desktop](https://linuxmatters.sh/18/) (4 weeks ago)
 - [Bottom Is the New Top](https://linuxmatters.sh/17/) (1 month ago)
 - [Blogging to the Fediverse](https://linuxmatters.sh/16/) (1 month ago)
 - [Mish Mash Mesh](https://linuxmatters.sh/15/) (2 months ago)
@@ -96,8 +96,8 @@ Here's some recent episodes:
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/WimpysWorld" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UChpYmMp7EFaxuogUX1eAqyw?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
-- [NixOS &amp; Linux | Tinkering with my Nix config ❄️ and poking at some Linux projects 🐧](https://www.youtube.com/watch?v=biVQ_-v8oEo) (3 days ago)
-- [NixOS &amp; Linux 🐧 Automate OBS with Kruiz Control and Scene Switcher](https://www.youtube.com/watch?v=BSITslJbMGA) (3 weeks ago)
+- [NixOS &amp; Linux | Tinkering with my Nix config ❄️ and poking at some Linux projects 🐧](https://www.youtube.com/watch?v=biVQ_-v8oEo) (4 days ago)
+- [NixOS &amp; Linux 🐧 Automate OBS with Kruiz Control and Scene Switcher](https://www.youtube.com/watch?v=BSITslJbMGA) (4 weeks ago)
 - [[Linux &amp; NixOS] Catching up on a few projects ❄️ - Part 2](https://www.youtube.com/watch?v=IpiuKvqHU-c) (4 weeks ago)
 - [[Linux &amp; NixOS] Catching up on a few projects ❄️ - Part 1](https://www.youtube.com/watch?v=4fQnynxcCiM) (4 weeks ago)
 - [NixOS | Packaging OBS Studio plugins and filters ❄️](https://www.youtube.com/watch?v=-QIhBJ11ZTM) (8 months ago)
