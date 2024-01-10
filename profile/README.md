@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
   - My personal blog
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
@@ -69,9 +69,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [janhq/jan](https://github.com/janhq/jan) (5232)
+- [janhq/jan](https://github.com/janhq/jan) (5251)
   - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (16688)
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (16690)
   - a structural diff that understands syntax 🟥🟩
 - [mlange-42/git-graph](https://github.com/mlange-42/git-graph) (341)
   - Command line tool to show clear git graphs arranged for your branching model
