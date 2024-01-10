@@ -69,9 +69,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [janhq/jan](https://github.com/janhq/jan) (5062)
+- [janhq/jan](https://github.com/janhq/jan) (5080)
   - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (16683)
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (16684)
   - a structural diff that understands syntax 🟥🟩
 - [mlange-42/git-graph](https://github.com/mlange-42/git-graph) (341)
   - Command line tool to show clear git graphs arranged for your branching model
