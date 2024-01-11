@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [sokolov-teach/OBS-viewer-subscriber-counter](https://github.com/sokolov-teach/OBS-viewer-subscriber-counter) (3)
   - This script integrates with OBS to display number of viewers on YouTube and Twitch, as well as the number of YouTube subscribers and Twitch followers. It&#39;s designed to provide live statistics for streamers using these platforms.
-- [janhq/jan](https://github.com/janhq/jan) (5616)
+- [janhq/jan](https://github.com/janhq/jan) (5642)
   - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (16734)
   - a structural diff that understands syntax 🟥🟩
@@ -96,11 +96,11 @@ Here's some recent episodes:
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/WimpysWorld" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UChpYmMp7EFaxuogUX1eAqyw?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
+- [NixOS | More Nix ❄️ packaging &amp; fixes 🩹 for OBS Studio 📡](https://www.youtube.com/watch?v=VqNaOOm7Dhw) (today)
 - [NixOS | Updating Nix ❄️ packages of OBS Studio 📡 and it&#39;s plugins🔌](https://www.youtube.com/watch?v=phgOv_UCbMM) (1 day ago)
 - [NixOS &amp; Linux | Tinkering with my Nix config ❄️ and poking at some Linux projects 🐧](https://www.youtube.com/watch?v=biVQ_-v8oEo) (6 days ago)
 - [NixOS &amp; Linux 🐧 Automate OBS with Kruiz Control and Scene Switcher](https://www.youtube.com/watch?v=BSITslJbMGA) (1 month ago)
 - [[Linux &amp; NixOS] Catching up on a few projects ❄️ - Part 2](https://www.youtube.com/watch?v=IpiuKvqHU-c) (1 month ago)
-- [[Linux &amp; NixOS] Catching up on a few projects ❄️ - Part 1](https://www.youtube.com/watch?v=4fQnynxcCiM) (1 month ago)
 
 ### ✍️ Blog
 
