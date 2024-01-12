@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
   - My personal blog
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
@@ -71,13 +71,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [sokolov-teach/OBS-viewer-subscriber-counter](https://github.com/sokolov-teach/OBS-viewer-subscriber-counter) (3)
   - This script integrates with OBS to display number of viewers on YouTube and Twitch, as well as the number of YouTube subscribers and Twitch followers. It&#39;s designed to provide live statistics for streamers using these platforms.
-- [janhq/jan](https://github.com/janhq/jan) (5888)
+- [janhq/jan](https://github.com/janhq/jan) (5896)
   - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (16746)
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (16747)
   - a structural diff that understands syntax 🟥🟩
-- [mlange-42/git-graph](https://github.com/mlange-42/git-graph) (343)
+- [mlange-42/git-graph](https://github.com/mlange-42/git-graph) (344)
   - Command line tool to show clear git graphs arranged for your branching model
-- [mlange-42/git-igitt](https://github.com/mlange-42/git-igitt) (109)
+- [mlange-42/git-igitt](https://github.com/mlange-42/git-igitt) (110)
   - Interactive, cross-platform Git terminal application with clear git graphs arranged for your branching model
 
 ### 🎙️ Podcast
