@@ -71,9 +71,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [sokolov-teach/OBS-viewer-subscriber-counter](https://github.com/sokolov-teach/OBS-viewer-subscriber-counter) (3)
   - This script integrates with OBS to display number of viewers on YouTube and Twitch, as well as the number of YouTube subscribers and Twitch followers. It&#39;s designed to provide live statistics for streamers using these platforms.
-- [janhq/jan](https://github.com/janhq/jan) (5808)
+- [janhq/jan](https://github.com/janhq/jan) (5820)
   - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (16740)
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (16741)
   - a structural diff that understands syntax 🟥🟩
 - [mlange-42/git-graph](https://github.com/mlange-42/git-graph) (342)
   - Command line tool to show clear git graphs arranged for your branching model
