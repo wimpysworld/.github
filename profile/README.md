@@ -32,13 +32,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (1 week ago)
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
-- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 week ago)
+- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (2 weeks ago)
   - Portable OBS Studio for Ubuntu bundled with 50 plugins
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 month ago)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
@@ -46,16 +46,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [feat: update vkcapture to 1.4.8](https://github.com/wimpysworld/obs-studio-portable/pull/73) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 week ago)
-- [feat: add lua-lgi to dependency scripts](https://github.com/wimpysworld/obs-studio-portable/pull/72) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 week ago)
-- [feat: add simplyGray 1.3.2 theme](https://github.com/wimpysworld/obs-studio-portable/pull/71) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 week ago)
-- [docs: improve supported features table](https://github.com/wimpysworld/obs-studio-portable/pull/70) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 week ago)
-- [feat: add Advanced Timer and Zoom to Mouse Lua scripts](https://github.com/wimpysworld/obs-studio-portable/pull/69) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 week ago)
+- [feat: update vkcapture to 1.4.8](https://github.com/wimpysworld/obs-studio-portable/pull/73) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (2 weeks ago)
+- [feat: add lua-lgi to dependency scripts](https://github.com/wimpysworld/obs-studio-portable/pull/72) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (2 weeks ago)
+- [feat: add simplyGray 1.3.2 theme](https://github.com/wimpysworld/obs-studio-portable/pull/71) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (2 weeks ago)
+- [docs: improve supported features table](https://github.com/wimpysworld/obs-studio-portable/pull/70) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (2 weeks ago)
+- [feat: add Advanced Timer and Zoom to Mouse Lua scripts](https://github.com/wimpysworld/obs-studio-portable/pull/69) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (2 weeks ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.16.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.16.0), 6 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.16.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.16.0), 1 week ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over a million installs.
 - [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) ([r23365](https://github.com/wimpysworld/obs-studio-portable/releases/tag/r23365), 2 weeks ago)
   - Portable OBS Studio for Ubuntu bundled with 50 plugins
@@ -71,9 +71,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [sokolov-teach/OBS-viewer-subscriber-counter](https://github.com/sokolov-teach/OBS-viewer-subscriber-counter) (3)
   - This script integrates with OBS to display number of viewers on YouTube and Twitch, as well as the number of YouTube subscribers and Twitch followers. It&#39;s designed to provide live statistics for streamers using these platforms.
-- [janhq/jan](https://github.com/janhq/jan) (6308)
+- [janhq/jan](https://github.com/janhq/jan) (6315)
   - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (16764)
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (16765)
   - a structural diff that understands syntax 🟥🟩
 - [mlange-42/git-graph](https://github.com/mlange-42/git-graph) (346)
   - Command line tool to show clear git graphs arranged for your branching model
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Unfold Your Coding Potential](https://linuxmatters.sh/20/) (5 days ago)
+- [Unfold Your Coding Potential](https://linuxmatters.sh/20/) (6 days ago)
 - [This Is How I Roll](https://linuxmatters.sh/19/) (2 weeks ago)
 - [Snap, Crackle and Desktop](https://linuxmatters.sh/18/) (1 month ago)
 - [Bottom Is the New Top](https://linuxmatters.sh/17/) (1 month ago)
@@ -96,8 +96,8 @@ Here's some recent episodes:
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/WimpysWorld" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UChpYmMp7EFaxuogUX1eAqyw?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
-- [NixOS | More Nix ❄️ packaging &amp; fixes 🩹 for OBS Studio 📡](https://www.youtube.com/watch?v=VqNaOOm7Dhw) (3 days ago)
-- [NixOS | Updating Nix ❄️ packages of OBS Studio 📡 and it&#39;s plugins🔌](https://www.youtube.com/watch?v=phgOv_UCbMM) (4 days ago)
+- [NixOS | More Nix ❄️ packaging &amp; fixes 🩹 for OBS Studio 📡](https://www.youtube.com/watch?v=VqNaOOm7Dhw) (4 days ago)
+- [NixOS | Updating Nix ❄️ packages of OBS Studio 📡 and it&#39;s plugins🔌](https://www.youtube.com/watch?v=phgOv_UCbMM) (5 days ago)
 - [NixOS &amp; Linux | Tinkering with my Nix config ❄️ and poking at some Linux projects 🐧](https://www.youtube.com/watch?v=biVQ_-v8oEo) (1 week ago)
 - [NixOS &amp; Linux 🐧 Automate OBS with Kruiz Control and Scene Switcher](https://www.youtube.com/watch?v=BSITslJbMGA) (1 month ago)
 - [[Linux &amp; NixOS] Catching up on a few projects ❄️ - Part 2](https://www.youtube.com/watch?v=IpiuKvqHU-c) (1 month ago)
