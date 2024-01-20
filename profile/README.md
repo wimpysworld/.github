@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (2 weeks ago)
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
@@ -46,7 +46,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [feat: add new OBS Studio plugins](https://github.com/wimpysworld/nix-config/pull/90) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: add new OBS Studio plugins](https://github.com/wimpysworld/nix-config/pull/90) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 - [feat: update vkcapture to 1.4.8](https://github.com/wimpysworld/obs-studio-portable/pull/73) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (2 weeks ago)
 - [feat: add lua-lgi to dependency scripts](https://github.com/wimpysworld/obs-studio-portable/pull/72) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (2 weeks ago)
 - [feat: add simplyGray 1.3.2 theme](https://github.com/wimpysworld/obs-studio-portable/pull/71) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (2 weeks ago)
@@ -55,7 +55,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.2.1](https://github.com/sxyazi/yazi/releases/tag/v0.2.1), 3 days ago)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.2.1](https://github.com/sxyazi/yazi/releases/tag/v0.2.1), 4 days ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.16.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.16.0), 1 week ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over a million installs.
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - This script integrates with OBS to display number of viewers on YouTube and Twitch, as well as the number of YouTube subscribers and Twitch followers. It&#39;s designed to provide live statistics for streamers using these platforms.
 - [janhq/jan](https://github.com/janhq/jan) (7300)
   - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (16813)
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (16814)
   - a structural diff that understands syntax 🟥🟩
 - [mlange-42/git-graph](https://github.com/mlange-42/git-graph) (356)
   - Command line tool to show clear git graphs arranged for your branching model
