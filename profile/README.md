@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (3 weeks ago)
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
@@ -46,20 +46,20 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [feat: add support for bcachefs and zram swap to new workstations](https://github.com/wimpysworld/nix-config/pull/94) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [refactor: assorted refactoring and fixes](https://github.com/wimpysworld/nix-config/pull/92) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
+- [feat: add sops-nix](https://github.com/wimpysworld/nix-config/pull/96) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: add support for bcachefs and zram swap to new workstations](https://github.com/wimpysworld/nix-config/pull/94) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [refactor: assorted refactoring and fixes](https://github.com/wimpysworld/nix-config/pull/92) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [feat: add new OBS Studio plugins](https://github.com/wimpysworld/nix-config/pull/90) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [feat: update vkcapture to 1.4.8](https://github.com/wimpysworld/obs-studio-portable/pull/73) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (3 weeks ago)
-- [feat: add lua-lgi to dependency scripts](https://github.com/wimpysworld/obs-studio-portable/pull/72) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (3 weeks ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.16.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.16.1), 1 day ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.16.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.16.1), 2 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over a million installs.
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.2.2](https://github.com/sxyazi/yazi/releases/tag/v0.2.2), 3 days ago)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.2.2](https://github.com/sxyazi/yazi/releases/tag/v0.2.2), 4 days ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) ([r23365](https://github.com/wimpysworld/obs-studio-portable/releases/tag/r23365), 3 weeks ago)
+- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) ([r23365](https://github.com/wimpysworld/obs-studio-portable/releases/tag/r23365), 4 weeks ago)
   - Portable OBS Studio for Ubuntu bundled with 50 plugins
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.2](https://github.com/quickemu-project/quickemu/releases/tag/4.9.2), 1 month ago)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Fetch Is Going to Happen](https://linuxmatters.sh/21/) (4 days ago)
+- [Fetch Is Going to Happen](https://linuxmatters.sh/21/) (5 days ago)
 - [Unfold Your Coding Potential](https://linuxmatters.sh/20/) (2 weeks ago)
 - [This Is How I Roll](https://linuxmatters.sh/19/) (1 month ago)
 - [Snap, Crackle and Desktop](https://linuxmatters.sh/18/) (1 month ago)
