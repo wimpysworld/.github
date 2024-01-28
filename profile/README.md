@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: declarative scripts and nix-index integration](https://github.com/wimpysworld/nix-config/pull/97) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add sops-nix](https://github.com/wimpysworld/nix-config/pull/96) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat: add support for bcachefs and zram swap to new workstations](https://github.com/wimpysworld/nix-config/pull/94) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 - [refactor: assorted refactoring and fixes](https://github.com/wimpysworld/nix-config/pull/92) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [feat: add new OBS Studio plugins](https://github.com/wimpysworld/nix-config/pull/90) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-- [feat: update vkcapture to 1.4.8](https://github.com/wimpysworld/obs-studio-portable/pull/73) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (3 weeks ago)
 
 ### Recent releases 📦️
 
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - 
 - [sokolov-teach/OBS-viewer-subscriber-counter](https://github.com/sokolov-teach/OBS-viewer-subscriber-counter) (3)
   - This script integrates with OBS to display number of viewers on YouTube and Twitch, as well as the number of YouTube subscribers and Twitch followers. It&#39;s designed to provide live statistics for streamers using these platforms.
-- [janhq/jan](https://github.com/janhq/jan) (8174)
+- [janhq/jan](https://github.com/janhq/jan) (8176)
   - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (16870)
   - a structural diff that understands syntax 🟥🟩
