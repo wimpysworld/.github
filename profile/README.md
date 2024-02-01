@@ -55,6 +55,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
+- [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) ([v3](https://github.com/DeterminateSystems/magic-nix-cache-action/releases/tag/v3), today)
+  -  Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions. 
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.16.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.16.1), 6 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over a million installs.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.2.2](https://github.com/sxyazi/yazi/releases/tag/v0.2.2), 1 week ago)
@@ -63,8 +65,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Portable OBS Studio for Ubuntu bundled with 50 plugins
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.2](https://github.com/quickemu-project/quickemu/releases/tag/4.9.2), 1 month ago)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.5](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.5), 1 month ago)
-  - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 
 ### Recent starred projects ⭐️
 
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - 
 - [sokolov-teach/OBS-viewer-subscriber-counter](https://github.com/sokolov-teach/OBS-viewer-subscriber-counter) (3)
   - This script integrates with OBS to display number of viewers on YouTube and Twitch, as well as the number of YouTube subscribers and Twitch followers. It&#39;s designed to provide live statistics for streamers using these platforms.
-- [janhq/jan](https://github.com/janhq/jan) (8557)
+- [janhq/jan](https://github.com/janhq/jan) (8560)
   - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (16918)
   - a structural diff that understands syntax 🟥🟩
