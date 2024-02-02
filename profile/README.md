@@ -32,10 +32,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (4 weeks ago)
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
 - [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 month ago)
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor(vader): finalise the configuration](https://github.com/wimpysworld/nix-config/pull/100) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: shorten generation label](https://github.com/wimpysworld/nix-config/pull/98) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 - [feat: declarative scripts and nix-index integration](https://github.com/wimpysworld/nix-config/pull/97) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 - [feat: add sops-nix](https://github.com/wimpysworld/nix-config/pull/96) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 - [feat: add support for bcachefs and zram swap to new workstations](https://github.com/wimpysworld/nix-config/pull/94) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-- [refactor: assorted refactoring and fixes](https://github.com/wimpysworld/nix-config/pull/92) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
@@ -75,9 +75,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - 
 - [sokolov-teach/OBS-viewer-subscriber-counter](https://github.com/sokolov-teach/OBS-viewer-subscriber-counter) (3)
   - This script integrates with OBS to display number of viewers on YouTube and Twitch, as well as the number of YouTube subscribers and Twitch followers. It&#39;s designed to provide live statistics for streamers using these platforms.
-- [janhq/jan](https://github.com/janhq/jan) (8630)
+- [janhq/jan](https://github.com/janhq/jan) (8634)
   - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (16928)
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (16929)
   - a structural diff that understands syntax 🟥🟩
 
 ### 🎙️ Podcast
