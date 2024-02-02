@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (4 weeks ago)
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
@@ -46,18 +46,18 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [feat: shorten generation label](https://github.com/wimpysworld/nix-config/pull/98) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [feat: declarative scripts and nix-index integration](https://github.com/wimpysworld/nix-config/pull/97) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
-- [feat: add sops-nix](https://github.com/wimpysworld/nix-config/pull/96) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
-- [feat: add support for bcachefs and zram swap to new workstations](https://github.com/wimpysworld/nix-config/pull/94) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
+- [feat: shorten generation label](https://github.com/wimpysworld/nix-config/pull/98) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [feat: declarative scripts and nix-index integration](https://github.com/wimpysworld/nix-config/pull/97) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [feat: add sops-nix](https://github.com/wimpysworld/nix-config/pull/96) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
+- [feat: add support for bcachefs and zram swap to new workstations](https://github.com/wimpysworld/nix-config/pull/94) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [refactor: assorted refactoring and fixes](https://github.com/wimpysworld/nix-config/pull/92) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) ([v3](https://github.com/DeterminateSystems/magic-nix-cache-action/releases/tag/v3), today)
+- [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) ([v3](https://github.com/DeterminateSystems/magic-nix-cache-action/releases/tag/v3), 1 day ago)
   -  Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions. 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.16.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.16.1), 6 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.16.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.16.1), 1 week ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over a million installs.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.2.2](https://github.com/sxyazi/yazi/releases/tag/v0.2.2), 1 week ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - 
 - [sokolov-teach/OBS-viewer-subscriber-counter](https://github.com/sokolov-teach/OBS-viewer-subscriber-counter) (3)
   - This script integrates with OBS to display number of viewers on YouTube and Twitch, as well as the number of YouTube subscribers and Twitch followers. It&#39;s designed to provide live statistics for streamers using these platforms.
-- [janhq/jan](https://github.com/janhq/jan) (8567)
+- [janhq/jan](https://github.com/janhq/jan) (8571)
   - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (16919)
   - a structural diff that understands syntax 🟥🟩
@@ -98,7 +98,7 @@ Here's some recent episodes:
 
 - [NixOS | More Nix ❄️ packaging &amp; fixes 🩹 for OBS Studio 📡](https://www.youtube.com/watch?v=VqNaOOm7Dhw) (3 weeks ago)
 - [NixOS | Updating Nix ❄️ packages of OBS Studio 📡 and it&#39;s plugins🔌](https://www.youtube.com/watch?v=phgOv_UCbMM) (3 weeks ago)
-- [NixOS &amp; Linux | Tinkering with my Nix config ❄️ and poking at some Linux projects 🐧](https://www.youtube.com/watch?v=biVQ_-v8oEo) (3 weeks ago)
+- [NixOS &amp; Linux | Tinkering with my Nix config ❄️ and poking at some Linux projects 🐧](https://www.youtube.com/watch?v=biVQ_-v8oEo) (4 weeks ago)
 - [NixOS &amp; Linux 🐧 Automate OBS with Kruiz Control and Scene Switcher](https://www.youtube.com/watch?v=BSITslJbMGA) (1 month ago)
 - [[Linux &amp; NixOS] Catching up on a few projects ❄️ - Part 2](https://www.youtube.com/watch?v=IpiuKvqHU-c) (1 month ago)
 
