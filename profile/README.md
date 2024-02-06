@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - 
 - [sokolov-teach/OBS-viewer-subscriber-counter](https://github.com/sokolov-teach/OBS-viewer-subscriber-counter) (3)
   - This script integrates with OBS to display number of viewers on YouTube and Twitch, as well as the number of YouTube subscribers and Twitch followers. It&#39;s designed to provide live statistics for streamers using these platforms.
-- [janhq/jan](https://github.com/janhq/jan) (8937)
+- [janhq/jan](https://github.com/janhq/jan) (8941)
   - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (16959)
   - a structural diff that understands syntax 🟥🟩
@@ -86,11 +86,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
+- [Magazines Reloaded](https://linuxmatters.sh/22/) (today)
 - [Fetch Is Going to Happen](https://linuxmatters.sh/21/) (2 weeks ago)
 - [Unfold Your Coding Potential](https://linuxmatters.sh/20/) (4 weeks ago)
 - [This Is How I Roll](https://linuxmatters.sh/19/) (1 month ago)
 - [Snap, Crackle and Desktop](https://linuxmatters.sh/18/) (1 month ago)
-- [Bottom Is the New Top](https://linuxmatters.sh/17/) (2 months ago)
 
 ### 📺️ YouTube
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
