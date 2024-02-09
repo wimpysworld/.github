@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [amanusk/s-tui](https://github.com/amanusk/s-tui) (3755)
+- [amanusk/s-tui](https://github.com/amanusk/s-tui) (3756)
   - Terminal-based CPU stress and monitoring utility
 - [ColinIanKing/stress-ng](https://github.com/ColinIanKing/stress-ng) (1304)
   - This is the stress-ng upstream project git repository.  stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well as the various operating system kernel interfaces. 
