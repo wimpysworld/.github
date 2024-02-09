@@ -34,7 +34,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (1 month ago)
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [A collection of updates and fixes](https://github.com/wimpysworld/nix-config/pull/110) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: assorted fixes and refactor to separate live media from base system](https://github.com/wimpysworld/nix-config/pull/108) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 - [feat: update OBS Studio to 30.1.0-beta1](https://github.com/wimpysworld/nix-config/pull/103) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 - [refactor: finalise configuration for phasma](https://github.com/wimpysworld/nix-config/pull/102) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 - [refactor(vader): finalise the configuration](https://github.com/wimpysworld/nix-config/pull/100) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-- [feat: shorten generation label](https://github.com/wimpysworld/nix-config/pull/98) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
