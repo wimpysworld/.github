@@ -32,10 +32,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (1 month ago)
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
 - [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 month ago)
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: assorted updates and fixes w/c Feb 12th 2024](https://github.com/wimpysworld/nix-config/pull/111) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [A collection of updates and fixes](https://github.com/wimpysworld/nix-config/pull/110) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 - [refactor: assorted fixes and refactor to separate live media from base system](https://github.com/wimpysworld/nix-config/pull/108) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 - [feat: update OBS Studio to 30.1.0-beta1](https://github.com/wimpysworld/nix-config/pull/103) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [refactor: finalise configuration for phasma](https://github.com/wimpysworld/nix-config/pull/102) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-- [refactor(vader): finalise the configuration](https://github.com/wimpysworld/nix-config/pull/100) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
