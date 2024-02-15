@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (4 days ago)
   - My personal blog
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [Assortment of system and pipewire optimisations for low-latency audio](https://github.com/wimpysworld/nix-config/pull/115) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: update lima-bin to 0.20.1](https://github.com/wimpysworld/nix-config/pull/113) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 - [fix: build OBS Studio against ABI compatible CEF](https://github.com/wimpysworld/nix-config/pull/112) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 - [refactor: assorted updates and fixes w/c Feb 12th 2024](https://github.com/wimpysworld/nix-config/pull/111) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 - [A collection of updates and fixes](https://github.com/wimpysworld/nix-config/pull/110) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
-- [refactor: assorted fixes and refactor to separate live media from base system](https://github.com/wimpysworld/nix-config/pull/108) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
