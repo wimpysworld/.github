@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (4 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (5 days ago)
   - My personal blog
 - [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (1 month ago)
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [Assortment of system and pipewire optimisations for low-latency audio](https://github.com/wimpysworld/nix-config/pull/115) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: update lima-bin to 0.20.1](https://github.com/wimpysworld/nix-config/pull/113) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [fix: build OBS Studio against ABI compatible CEF](https://github.com/wimpysworld/nix-config/pull/112) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [refactor: assorted updates and fixes w/c Feb 12th 2024](https://github.com/wimpysworld/nix-config/pull/111) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [A collection of updates and fixes](https://github.com/wimpysworld/nix-config/pull/110) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
+- [Assortment of system and pipewire optimisations for low-latency audio](https://github.com/wimpysworld/nix-config/pull/115) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: update lima-bin to 0.20.1](https://github.com/wimpysworld/nix-config/pull/113) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [fix: build OBS Studio against ABI compatible CEF](https://github.com/wimpysworld/nix-config/pull/112) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [refactor: assorted updates and fixes w/c Feb 12th 2024](https://github.com/wimpysworld/nix-config/pull/111) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [A collection of updates and fixes](https://github.com/wimpysworld/nix-config/pull/110) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
@@ -61,7 +61,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) ([v3](https://github.com/DeterminateSystems/magic-nix-cache-action/releases/tag/v3), 2 weeks ago)
   -  Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions. 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.16.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.16.1), 2 weeks ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.16.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.16.1), 3 weeks ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over a million installs.
 - [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) ([r23365](https://github.com/wimpysworld/obs-studio-portable/releases/tag/r23365), 1 month ago)
   - Portable OBS Studio for Ubuntu bundled with 50 plugins
