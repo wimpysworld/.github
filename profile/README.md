@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [Update OBS Studio to 30.1.0-beta2 and update some plugins](https://github.com/wimpysworld/nix-config/pull/118) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: per user DNS configurations](https://github.com/wimpysworld/nix-config/pull/117) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [Assortment of system and pipewire optimisations for low-latency audio](https://github.com/wimpysworld/nix-config/pull/115) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 - [feat: update lima-bin to 0.20.1](https://github.com/wimpysworld/nix-config/pull/113) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 - [fix: build OBS Studio against ABI compatible CEF](https://github.com/wimpysworld/nix-config/pull/112) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
-- [refactor: assorted updates and fixes w/c Feb 12th 2024](https://github.com/wimpysworld/nix-config/pull/111) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 
 ### Recent releases 📦️
 
