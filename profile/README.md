@@ -71,9 +71,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1241)
   - NixOS on WSL(2) [maintainer=@nzbr] 
-- [amanusk/s-tui](https://github.com/amanusk/s-tui) (3768)
+- [amanusk/s-tui](https://github.com/amanusk/s-tui) (3769)
   - Terminal-based CPU stress and monitoring utility
-- [ColinIanKing/stress-ng](https://github.com/ColinIanKing/stress-ng) (1314)
+- [ColinIanKing/stress-ng](https://github.com/ColinIanKing/stress-ng) (1315)
   - This is the stress-ng upstream project git repository.  stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well as the various operating system kernel interfaces. 
 - [koverstreet/bcachefs-tools](https://github.com/koverstreet/bcachefs-tools) (87)
   - http://bcachefs.org
@@ -86,11 +86,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
+- [An Exodus of Bitcoin](https://linuxmatters.sh/23/) (today)
 - [Magazines Reloaded](https://linuxmatters.sh/22/) (2 weeks ago)
 - [Fetch Is Going to Happen](https://linuxmatters.sh/21/) (4 weeks ago)
 - [Unfold Your Coding Potential](https://linuxmatters.sh/20/) (1 month ago)
 - [This Is How I Roll](https://linuxmatters.sh/19/) (1 month ago)
-- [Snap, Crackle and Desktop](https://linuxmatters.sh/18/) (2 months ago)
 
 ### 📺️ YouTube
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
