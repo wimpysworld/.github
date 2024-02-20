@@ -69,6 +69,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
+- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1240)
+  - NixOS on WSL(2) [maintainer=@nzbr] 
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) (3768)
   - Terminal-based CPU stress and monitoring utility
 - [ColinIanKing/stress-ng](https://github.com/ColinIanKing/stress-ng) (1314)
@@ -77,8 +79,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - http://bcachefs.org
 - [koverstreet/bcachefs](https://github.com/koverstreet/bcachefs) (560)
   - 
-- [sokolov-teach/OBS-viewer-subscriber-counter](https://github.com/sokolov-teach/OBS-viewer-subscriber-counter) (3)
-  - This script integrates with OBS to display number of viewers on YouTube and Twitch, as well as the number of YouTube subscribers and Twitch followers. It&#39;s designed to provide live statistics for streamers using these platforms.
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
