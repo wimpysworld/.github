@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
   - My personal blog
 - [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (1 month ago)
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
@@ -46,9 +46,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [Update OBS Studio to 30.1.0-beta2 and update some plugins](https://github.com/wimpysworld/nix-config/pull/118) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
-- [feat: per user DNS configurations](https://github.com/wimpysworld/nix-config/pull/117) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
-- [Assortment of system and pipewire optimisations for low-latency audio](https://github.com/wimpysworld/nix-config/pull/115) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
+- [Update OBS Studio to 30.1.0-beta2 and update some plugins](https://github.com/wimpysworld/nix-config/pull/118) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [feat: per user DNS configurations](https://github.com/wimpysworld/nix-config/pull/117) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
+- [Assortment of system and pipewire optimisations for low-latency audio](https://github.com/wimpysworld/nix-config/pull/115) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [feat: update lima-bin to 0.20.1](https://github.com/wimpysworld/nix-config/pull/113) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [fix: build OBS Studio against ABI compatible CEF](https://github.com/wimpysworld/nix-config/pull/112) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
@@ -59,7 +59,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.2.3](https://github.com/sxyazi/yazi/releases/tag/v0.2.3), 2 weeks ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) ([v3](https://github.com/DeterminateSystems/magic-nix-cache-action/releases/tag/v3), 2 weeks ago)
+- [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) ([v3](https://github.com/DeterminateSystems/magic-nix-cache-action/releases/tag/v3), 3 weeks ago)
   -  Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions. 
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.16.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.16.1), 3 weeks ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over a million installs.
@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1245)
   - NixOS on WSL(2) [maintainer=@nzbr] 
-- [amanusk/s-tui](https://github.com/amanusk/s-tui) (3772)
+- [amanusk/s-tui](https://github.com/amanusk/s-tui) (3773)
   - Terminal-based CPU stress and monitoring utility
 - [ColinIanKing/stress-ng](https://github.com/ColinIanKing/stress-ng) (1319)
   - This is the stress-ng upstream project git repository.  stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well as the various operating system kernel interfaces. 
@@ -86,9 +86,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [An Exodus of Bitcoin](https://linuxmatters.sh/23/) (1 day ago)
+- [An Exodus of Bitcoin](https://linuxmatters.sh/23/) (2 days ago)
 - [Magazines Reloaded](https://linuxmatters.sh/22/) (2 weeks ago)
-- [Fetch Is Going to Happen](https://linuxmatters.sh/21/) (4 weeks ago)
+- [Fetch Is Going to Happen](https://linuxmatters.sh/21/) (1 month ago)
 - [Unfold Your Coding Potential](https://linuxmatters.sh/20/) (1 month ago)
 - [This Is How I Roll](https://linuxmatters.sh/19/) (1 month ago)
 
@@ -106,7 +106,7 @@ Here's some recent episodes:
 
 - [Install ZeroTier on Steam Deck](https://wimpysworld.com/posts/install-zerotier-on-steamdeck/) (6 months ago)
 - [Steam Box vs Steam Deck](https://wimpysworld.com/posts/steambox-vs-steamdeck/) (9 months ago)
-- [Flash Stadia Controller Bluetooth Firmware on Linux](https://wimpysworld.com/posts/flash-stadia-controller-bluetooth-firmware-on-linux/) (9 months ago)
+- [Flash Stadia Controller Bluetooth Firmware on Linux](https://wimpysworld.com/posts/flash-stadia-controller-bluetooth-firmware-on-linux/) (10 months ago)
 - [Why I chose the ThinkPad Z13 Gen1 as my Linux laptop](https://wimpysworld.com/posts/why-i-chose-the-thinkpad-z13-as-my-linux-laptop/) (10 months ago)
 - [Creating Production-Ready Containers - Advanced Techniques](https://wimpysworld.com/posts/creating-production-ready-containers-advanced-techniques/) (2 years ago)
 
