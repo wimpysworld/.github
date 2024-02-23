@@ -32,10 +32,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (1 month ago)
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
 - [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 month ago)
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: update vader disko config](https://github.com/wimpysworld/nix-config/pull/121) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [Update disko configuration for VMs](https://github.com/wimpysworld/nix-config/pull/120) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [Update OBS Studio to 30.1.0-beta2 and update some plugins](https://github.com/wimpysworld/nix-config/pull/118) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 - [feat: per user DNS configurations](https://github.com/wimpysworld/nix-config/pull/117) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [Assortment of system and pipewire optimisations for low-latency audio](https://github.com/wimpysworld/nix-config/pull/115) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-- [feat: update lima-bin to 0.20.1](https://github.com/wimpysworld/nix-config/pull/113) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1251)
   - NixOS on WSL(2) [maintainer=@nzbr] 
-- [amanusk/s-tui](https://github.com/amanusk/s-tui) (3772)
+- [amanusk/s-tui](https://github.com/amanusk/s-tui) (3773)
   - Terminal-based CPU stress and monitoring utility
 - [ColinIanKing/stress-ng](https://github.com/ColinIanKing/stress-ng) (1324)
   - This is the stress-ng upstream project git repository.  stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well as the various operating system kernel interfaces. 
