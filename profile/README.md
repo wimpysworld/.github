@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: add flakehub token](https://github.com/wimpysworld/nix-config/pull/126) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [refactor: drop local distrobox package and get it from unstable](https://github.com/wimpysworld/nix-config/pull/125) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [Update assorted local pkgs](https://github.com/wimpysworld/nix-config/pull/123) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [Add boot-host script and reorder hosts in flake.nix](https://github.com/wimpysworld/nix-config/pull/122) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: update vader disko config](https://github.com/wimpysworld/nix-config/pull/121) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [Update disko configuration for VMs](https://github.com/wimpysworld/nix-config/pull/120) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [Update OBS Studio to 30.1.0-beta2 and update some plugins](https://github.com/wimpysworld/nix-config/pull/118) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 
 ### Recent releases 📦️
 
