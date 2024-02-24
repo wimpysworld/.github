@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
 - [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (1 month ago)
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
@@ -46,16 +46,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [refactor: remove amd-pstate](https://github.com/wimpysworld/nix-config/pull/127) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: add flakehub token](https://github.com/wimpysworld/nix-config/pull/126) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: drop local distrobox package and get it from unstable](https://github.com/wimpysworld/nix-config/pull/125) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [Update assorted local pkgs](https://github.com/wimpysworld/nix-config/pull/123) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [Add boot-host script and reorder hosts in flake.nix](https://github.com/wimpysworld/nix-config/pull/122) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [refactor: remove amd-pstate](https://github.com/wimpysworld/nix-config/pull/127) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: add flakehub token](https://github.com/wimpysworld/nix-config/pull/126) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [refactor: drop local distrobox package and get it from unstable](https://github.com/wimpysworld/nix-config/pull/125) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [Update assorted local pkgs](https://github.com/wimpysworld/nix-config/pull/123) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [Add boot-host script and reorder hosts in flake.nix](https://github.com/wimpysworld/nix-config/pull/122) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.17.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.17.0), today)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.17.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.17.0), 1 day ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over a million installs.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.038.11](https://github.com/wimpysworld/nix-config/releases/tag/24.038.11), 2 weeks ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
@@ -86,11 +86,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [An Exodus of Bitcoin](https://linuxmatters.sh/23/) (3 days ago)
+- [An Exodus of Bitcoin](https://linuxmatters.sh/23/) (4 days ago)
 - [Magazines Reloaded](https://linuxmatters.sh/22/) (2 weeks ago)
 - [Fetch Is Going to Happen](https://linuxmatters.sh/21/) (1 month ago)
 - [Unfold Your Coding Potential](https://linuxmatters.sh/20/) (1 month ago)
-- [This Is How I Roll](https://linuxmatters.sh/19/) (1 month ago)
+- [This Is How I Roll](https://linuxmatters.sh/19/) (2 months ago)
 
 ### 📺️ YouTube
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
