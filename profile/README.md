@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [Disable ZFS when build live media](https://github.com/wimpysworld/nix-config/pull/132) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [Some code cleanup](https://github.com/wimpysworld/nix-config/pull/131) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [Rename zed to tanis and update configuration](https://github.com/wimpysworld/nix-config/pull/130) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [Update configuration for sidious](https://github.com/wimpysworld/nix-config/pull/129) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [Assorted tweaks](https://github.com/wimpysworld/nix-config/pull/128) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: remove amd-pstate](https://github.com/wimpysworld/nix-config/pull/127) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [feat: add flakehub token](https://github.com/wimpysworld/nix-config/pull/126) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 
 ### Recent releases 📦️
 
