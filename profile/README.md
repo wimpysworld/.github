@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1253)
+- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1254)
   - NixOS on WSL(2) [maintainer=@nzbr] 
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) (3776)
   - Terminal-based CPU stress and monitoring utility
