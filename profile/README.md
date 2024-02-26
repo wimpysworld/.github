@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
   - My personal blog
 - [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (1 month ago)
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
@@ -46,16 +46,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [Disable ZFS when build live media](https://github.com/wimpysworld/nix-config/pull/132) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [Some code cleanup](https://github.com/wimpysworld/nix-config/pull/131) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [Rename zed to tanis and update configuration](https://github.com/wimpysworld/nix-config/pull/130) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [Update configuration for sidious](https://github.com/wimpysworld/nix-config/pull/129) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [Assorted tweaks](https://github.com/wimpysworld/nix-config/pull/128) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [Disable ZFS when build live media](https://github.com/wimpysworld/nix-config/pull/132) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [Some code cleanup](https://github.com/wimpysworld/nix-config/pull/131) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [Rename zed to tanis and update configuration](https://github.com/wimpysworld/nix-config/pull/130) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [Update configuration for sidious](https://github.com/wimpysworld/nix-config/pull/129) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [Assorted tweaks](https://github.com/wimpysworld/nix-config/pull/128) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.17.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.17.0), 2 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.17.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.17.0), 3 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over a million installs.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.038.11](https://github.com/wimpysworld/nix-config/releases/tag/24.038.11), 2 weeks ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [An Exodus of Bitcoin](https://linuxmatters.sh/23/) (5 days ago)
+- [An Exodus of Bitcoin](https://linuxmatters.sh/23/) (6 days ago)
 - [Magazines Reloaded](https://linuxmatters.sh/22/) (2 weeks ago)
 - [Fetch Is Going to Happen](https://linuxmatters.sh/21/) (1 month ago)
 - [Unfold Your Coding Potential](https://linuxmatters.sh/20/) (1 month ago)
