@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
   - My personal blog
 - [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (1 month ago)
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
@@ -46,20 +46,20 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [Add a GNOME configuration and refactor desktop configs for easier maintenance](https://github.com/wimpysworld/nix-config/pull/134) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [Disable ZFS when build live media](https://github.com/wimpysworld/nix-config/pull/132) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [Some code cleanup](https://github.com/wimpysworld/nix-config/pull/131) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [Rename zed to tanis and update configuration](https://github.com/wimpysworld/nix-config/pull/130) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [Update configuration for sidious](https://github.com/wimpysworld/nix-config/pull/129) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [Add a GNOME configuration and refactor desktop configs for easier maintenance](https://github.com/wimpysworld/nix-config/pull/134) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [Disable ZFS when build live media](https://github.com/wimpysworld/nix-config/pull/132) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [Some code cleanup](https://github.com/wimpysworld/nix-config/pull/131) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [Rename zed to tanis and update configuration](https://github.com/wimpysworld/nix-config/pull/130) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [Update configuration for sidious](https://github.com/wimpysworld/nix-config/pull/129) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.17.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.17.0), 4 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.17.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.17.0), 5 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over a million installs.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.038.11](https://github.com/wimpysworld/nix-config/releases/tag/24.038.11), 2 weeks ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.038.11](https://github.com/wimpysworld/nix-config/releases/tag/24.038.11), 3 weeks ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.2.3](https://github.com/sxyazi/yazi/releases/tag/v0.2.3), 2 weeks ago)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.2.3](https://github.com/sxyazi/yazi/releases/tag/v0.2.3), 3 weeks ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) ([v3](https://github.com/DeterminateSystems/magic-nix-cache-action/releases/tag/v3), 3 weeks ago)
   -  Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions. 
@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (14733)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (14735)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1265)
   - NixOS on WSL(2) [maintainer=@nzbr] 
