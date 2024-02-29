@@ -32,10 +32,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (1 month ago)
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
 - [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (1 month ago)
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [Migrate to NixOS dconf profiles user database](https://github.com/wimpysworld/nix-config/pull/137) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [Refactor to reduce the use of brittle imports and consolidate configuration](https://github.com/wimpysworld/nix-config/pull/136) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [Add a GNOME configuration and refactor desktop configs for easier maintenance](https://github.com/wimpysworld/nix-config/pull/134) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 - [Disable ZFS when build live media](https://github.com/wimpysworld/nix-config/pull/132) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 - [Some code cleanup](https://github.com/wimpysworld/nix-config/pull/131) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
-- [Rename zed to tanis and update configuration](https://github.com/wimpysworld/nix-config/pull/130) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 
 ### Recent releases 📦️
 
@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (14819)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (14821)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1270)
   - NixOS on WSL(2) [maintainer=@nzbr] 
