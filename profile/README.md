@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (14866)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (14868)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1275)
   - NixOS on WSL(2) [maintainer=@nzbr] 
