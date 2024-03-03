@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
   - My personal blog
 - [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (1 month ago)
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
@@ -46,16 +46,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [Optimise live images and improve desktop integration](https://github.com/wimpysworld/nix-config/pull/140) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: consolidate pipewire config in default desktop](https://github.com/wimpysworld/nix-config/pull/138) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [Migrate to NixOS dconf profiles user database](https://github.com/wimpysworld/nix-config/pull/137) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [Refactor to reduce the use of brittle imports and consolidate configuration](https://github.com/wimpysworld/nix-config/pull/136) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [Add a GNOME configuration and refactor desktop configs for easier maintenance](https://github.com/wimpysworld/nix-config/pull/134) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [Optimise live images and improve desktop integration](https://github.com/wimpysworld/nix-config/pull/140) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [refactor: consolidate pipewire config in default desktop](https://github.com/wimpysworld/nix-config/pull/138) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [Migrate to NixOS dconf profiles user database](https://github.com/wimpysworld/nix-config/pull/137) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [Refactor to reduce the use of brittle imports and consolidate configuration](https://github.com/wimpysworld/nix-config/pull/136) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [Add a GNOME configuration and refactor desktop configs for easier maintenance](https://github.com/wimpysworld/nix-config/pull/134) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) ([v21](https://github.com/DeterminateSystems/update-flake-lock/releases/tag/v21), 2 days ago)
+- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) ([v21](https://github.com/DeterminateSystems/update-flake-lock/releases/tag/v21), 3 days ago)
   - Automatically refresh your Nix Flakes.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.17.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.17.0), 1 week ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (14906)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (14911)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1281)
   - NixOS on WSL(2) [maintainer=@nzbr] 
