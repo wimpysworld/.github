@@ -69,13 +69,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (14986)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (14988)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1287)
   - NixOS on WSL(2) [maintainer=@nzbr] 
-- [amanusk/s-tui](https://github.com/amanusk/s-tui) (3789)
+- [amanusk/s-tui](https://github.com/amanusk/s-tui) (3790)
   - Terminal-based CPU stress and monitoring utility
-- [ColinIanKing/stress-ng](https://github.com/ColinIanKing/stress-ng) (1342)
+- [ColinIanKing/stress-ng](https://github.com/ColinIanKing/stress-ng) (1343)
   - This is the stress-ng upstream project git repository.  stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well as the various operating system kernel interfaces. 
 - [koverstreet/bcachefs-tools](https://github.com/koverstreet/bcachefs-tools) (93)
   - http://bcachefs.org
