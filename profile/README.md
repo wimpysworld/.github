@@ -86,11 +86,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
+- [A Mini Swap Adventure](https://linuxmatters.sh/24/) (today)
 - [An Exodus of Bitcoin](https://linuxmatters.sh/23/) (2 weeks ago)
 - [Magazines Reloaded](https://linuxmatters.sh/22/) (4 weeks ago)
 - [Fetch Is Going to Happen](https://linuxmatters.sh/21/) (1 month ago)
 - [Unfold Your Coding Potential](https://linuxmatters.sh/20/) (1 month ago)
-- [This Is How I Roll](https://linuxmatters.sh/19/) (2 months ago)
 
 ### 📺️ YouTube
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
