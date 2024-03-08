@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
   - My personal blog
 - [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (2 months ago)
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
@@ -46,24 +46,24 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [Update configuration for tanis to use Linux 6.6 and enable Plymouth disk unlocking](https://github.com/wimpysworld/nix-config/pull/147) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [feat: add nixos-needtoreboot to activationScripts](https://github.com/wimpysworld/nix-config/pull/145) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [Re-organise configuration hierarchy to be consistent betweeen nixos and home-manager](https://github.com/wimpysworld/nix-config/pull/142) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
-- [Big reorganisation of home-manager](https://github.com/wimpysworld/nix-config/pull/141) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
-- [Optimise live images and improve desktop integration](https://github.com/wimpysworld/nix-config/pull/140) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [Update configuration for tanis to use Linux 6.6 and enable Plymouth disk unlocking](https://github.com/wimpysworld/nix-config/pull/147) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [feat: add nixos-needtoreboot to activationScripts](https://github.com/wimpysworld/nix-config/pull/145) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [Re-organise configuration hierarchy to be consistent betweeen nixos and home-manager](https://github.com/wimpysworld/nix-config/pull/142) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [Big reorganisation of home-manager](https://github.com/wimpysworld/nix-config/pull/141) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [Optimise live images and improve desktop integration](https://github.com/wimpysworld/nix-config/pull/140) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.17.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.17.1), today)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.17.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.17.1), 1 day ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
-- [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) ([v0.1.3](https://github.com/DeterminateSystems/magic-nix-cache/releases/tag/v0.1.3), 1 day ago)
+- [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) ([v0.1.3](https://github.com/DeterminateSystems/magic-nix-cache/releases/tag/v0.1.3), 2 days ago)
   - Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) ([v21](https://github.com/DeterminateSystems/update-flake-lock/releases/tag/v21), 1 week ago)
   - Automatically refresh your Nix Flakes.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.038.11](https://github.com/wimpysworld/nix-config/releases/tag/24.038.11), 4 weeks ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.038.11](https://github.com/wimpysworld/nix-config/releases/tag/24.038.11), 1 month ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.2.3](https://github.com/sxyazi/yazi/releases/tag/v0.2.3), 4 weeks ago)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.2.3](https://github.com/sxyazi/yazi/releases/tag/v0.2.3), 1 month ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 
 ### Recent starred projects ⭐️
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [A Mini Swap Adventure](https://linuxmatters.sh/24/) (2 days ago)
+- [A Mini Swap Adventure](https://linuxmatters.sh/24/) (3 days ago)
 - [An Exodus of Bitcoin](https://linuxmatters.sh/23/) (2 weeks ago)
 - [Magazines Reloaded](https://linuxmatters.sh/22/) (1 month ago)
 - [Fetch Is Going to Happen](https://linuxmatters.sh/21/) (1 month ago)
