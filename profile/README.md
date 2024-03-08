@@ -71,9 +71,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1284)
   - A Steam Big Picture based couch gaming OS
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (15068)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (15069)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
-- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1298)
+- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1299)
   - NixOS on WSL(2) [maintainer=@nzbr] 
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) (3796)
   - Terminal-based CPU stress and monitoring utility
