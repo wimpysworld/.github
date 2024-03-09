@@ -55,6 +55,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.2.4](https://github.com/sxyazi/yazi/releases/tag/v0.2.4), today)
+  - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.17.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.17.1), 2 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) ([v0.1.3](https://github.com/DeterminateSystems/magic-nix-cache/releases/tag/v0.1.3), 3 days ago)
@@ -63,15 +65,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Automatically refresh your Nix Flakes.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.038.11](https://github.com/wimpysworld/nix-config/releases/tag/24.038.11), 1 month ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.2.3](https://github.com/sxyazi/yazi/releases/tag/v0.2.3), 1 month ago)
-  - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 
 ### Recent starred projects ⭐️
 
 
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1285)
   - A Steam Big Picture based couch gaming OS
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (15106)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (15109)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1304)
   - NixOS on WSL(2) [maintainer=@nzbr] 
