@@ -55,6 +55,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
+- [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) ([v4](https://github.com/DeterminateSystems/magic-nix-cache-action/releases/tag/v4), today)
+  -  Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions. 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.2.4](https://github.com/sxyazi/yazi/releases/tag/v0.2.4), 4 days ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.17.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.17.1), 6 days ago)
@@ -63,15 +65,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) ([v21](https://github.com/DeterminateSystems/update-flake-lock/releases/tag/v21), 1 week ago)
   - Automatically refresh your Nix Flakes.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.038.11](https://github.com/wimpysworld/nix-config/releases/tag/24.038.11), 1 month ago)
-  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 
 ### Recent starred projects ⭐️
 
 
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1292)
   - A Steam Big Picture based couch gaming OS
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (15451)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (15452)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1317)
   - NixOS on WSL(2) [maintainer=@nzbr] 
