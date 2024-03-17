@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (2 months ago)
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
@@ -49,15 +49,15 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 - [Refactor disk configuration for phasma and vader](https://github.com/wimpysworld/nix-config/pull/148) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [Update configuration for tanis to use Linux 6.6 and enable Plymouth disk unlocking](https://github.com/wimpysworld/nix-config/pull/147) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [feat: add nixos-needtoreboot to activationScripts](https://github.com/wimpysworld/nix-config/pull/145) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-- [Re-organise configuration hierarchy to be consistent betweeen nixos and home-manager](https://github.com/wimpysworld/nix-config/pull/142) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-- [Big reorganisation of home-manager](https://github.com/wimpysworld/nix-config/pull/141) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
+- [Re-organise configuration hierarchy to be consistent betweeen nixos and home-manager](https://github.com/wimpysworld/nix-config/pull/142) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 weeks ago)
+- [Big reorganisation of home-manager](https://github.com/wimpysworld/nix-config/pull/141) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 weeks ago)
 
 ### Recent releases 📦️
 
 
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.6](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.6), 2 days ago)
+- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.6](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.6), 3 days ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
-- [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) ([v4](https://github.com/DeterminateSystems/magic-nix-cache-action/releases/tag/v4), 3 days ago)
+- [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) ([v4](https://github.com/DeterminateSystems/magic-nix-cache-action/releases/tag/v4), 4 days ago)
   -  Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions. 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.2.4](https://github.com/sxyazi/yazi/releases/tag/v0.2.4), 1 week ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1297)
   - A Steam Big Picture based couch gaming OS
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (15570)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (15573)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1321)
   - NixOS on WSL(2) [maintainer=@nzbr] 
