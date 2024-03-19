@@ -55,7 +55,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.6](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.6), 5 days ago)
+- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.7](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.7), today)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) ([v4](https://github.com/DeterminateSystems/magic-nix-cache-action/releases/tag/v4), 6 days ago)
   -  Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions. 
@@ -73,9 +73,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - A Steam Big Picture based couch gaming OS
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (15657)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
-- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1325)
+- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1326)
   - NixOS on WSL(2) [maintainer=@nzbr] 
-- [amanusk/s-tui](https://github.com/amanusk/s-tui) (3812)
+- [amanusk/s-tui](https://github.com/amanusk/s-tui) (3813)
   - Terminal-based CPU stress and monitoring utility
 - [ColinIanKing/stress-ng](https://github.com/ColinIanKing/stress-ng) (1359)
   - This is the stress-ng upstream project git repository.  stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well as the various operating system kernel interfaces. 
