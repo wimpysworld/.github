@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1302)
   - A Steam Big Picture based couch gaming OS
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (15657)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (15658)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1326)
   - NixOS on WSL(2) [maintainer=@nzbr] 
@@ -86,11 +86,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
+- [The Joy of Linux Torture](https://linuxmatters.sh/25/) (today)
 - [A Mini Swap Adventure](https://linuxmatters.sh/24/) (2 weeks ago)
 - [An Exodus of Bitcoin](https://linuxmatters.sh/23/) (4 weeks ago)
 - [Magazines Reloaded](https://linuxmatters.sh/22/) (1 month ago)
 - [Fetch Is Going to Happen](https://linuxmatters.sh/21/) (1 month ago)
-- [Unfold Your Coding Potential](https://linuxmatters.sh/20/) (2 months ago)
 
 ### 📺️ YouTube
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
