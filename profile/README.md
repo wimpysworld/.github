@@ -32,6 +32,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [ubuntu-mate/ubuntu-mate-settings](https://github.com/ubuntu-mate/ubuntu-mate-settings) (today)
+  - Ubuntu MATE brand configuration and default settings
 - [ubuntu-mate/ubuntu-mate-artwork](https://github.com/ubuntu-mate/ubuntu-mate-artwork) (today)
   - Desktop themes, icons, boot themes, wallpapers, login manager themes, etc.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
@@ -40,8 +42,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - My personal blog
 - [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (2 months ago)
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
-- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (2 months ago)
-  - Portable OBS Studio for Ubuntu bundled with 50 plugins
 
 ### Recent pull requests 🛠️
 
@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1304)
   - A Steam Big Picture based couch gaming OS
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (15734)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (15736)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1336)
   - NixOS on WSL(2) [maintainer=@nzbr] 
