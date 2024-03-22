@@ -32,6 +32,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [ubuntu-mate/ubuntu-mate-artwork](https://github.com/ubuntu-mate/ubuntu-mate-artwork) (today)
+  - Desktop themes, icons, boot themes, wallpapers, login manager themes, etc.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
@@ -40,8 +42,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
 - [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (2 months ago)
   - Portable OBS Studio for Ubuntu bundled with 50 plugins
-- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (3 months ago)
-  - File downloader for archive.org ⬇️
 
 ### Recent pull requests 🛠️
 
