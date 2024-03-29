@@ -32,25 +32,25 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
 - [ubuntu-mate/ubuntu-mate-settings](https://github.com/ubuntu-mate/ubuntu-mate-settings) (1 week ago)
   - Ubuntu MATE brand configuration and default settings
 - [ubuntu-mate/ubuntu-mate-artwork](https://github.com/ubuntu-mate/ubuntu-mate-artwork) (1 week ago)
   - Desktop themes, icons, boot themes, wallpapers, login manager themes, etc.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (2 months ago)
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
 
 ### Recent pull requests 🛠️
 
 
+- [Add Easy Effects and update some OBS plugins](https://github.com/wimpysworld/nix-config/pull/155) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [Refactor disk configuration for phasma and vader](https://github.com/wimpysworld/nix-config/pull/148) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 weeks ago)
 - [Update configuration for tanis to use Linux 6.6 and enable Plymouth disk unlocking](https://github.com/wimpysworld/nix-config/pull/147) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 weeks ago)
 - [feat: add nixos-needtoreboot to activationScripts](https://github.com/wimpysworld/nix-config/pull/145) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 weeks ago)
 - [Re-organise configuration hierarchy to be consistent betweeen nixos and home-manager](https://github.com/wimpysworld/nix-config/pull/142) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 weeks ago)
-- [Big reorganisation of home-manager](https://github.com/wimpysworld/nix-config/pull/141) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 weeks ago)
 
 ### Recent releases 📦️
 
@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1361)
   - A Steam Big Picture based couch gaming OS
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (15964)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (15969)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1352)
   - NixOS on WSL(2) [maintainer=@nzbr] 
