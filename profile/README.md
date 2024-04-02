@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [ubuntu-mate/ubuntu-mate-settings](https://github.com/ubuntu-mate/ubuntu-mate-settings) (1 week ago)
   - Ubuntu MATE brand configuration and default settings
@@ -46,16 +46,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [Add Easy Effects and update some OBS plugins](https://github.com/wimpysworld/nix-config/pull/155) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [Add Easy Effects and update some OBS plugins](https://github.com/wimpysworld/nix-config/pull/155) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 - [Refactor disk configuration for phasma and vader](https://github.com/wimpysworld/nix-config/pull/148) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 weeks ago)
-- [Update configuration for tanis to use Linux 6.6 and enable Plymouth disk unlocking](https://github.com/wimpysworld/nix-config/pull/147) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 weeks ago)
+- [Update configuration for tanis to use Linux 6.6 and enable Plymouth disk unlocking](https://github.com/wimpysworld/nix-config/pull/147) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 weeks ago)
 - [feat: add nixos-needtoreboot to activationScripts](https://github.com/wimpysworld/nix-config/pull/145) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 weeks ago)
-- [Re-organise configuration hierarchy to be consistent betweeen nixos and home-manager](https://github.com/wimpysworld/nix-config/pull/142) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 weeks ago)
+- [Re-organise configuration hierarchy to be consistent betweeen nixos and home-manager](https://github.com/wimpysworld/nix-config/pull/142) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 month ago)
 
 ### Recent releases 📦️
 
 
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.7](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.7), 1 week ago)
+- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.7](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.7), 2 weeks ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) ([v4](https://github.com/DeterminateSystems/magic-nix-cache-action/releases/tag/v4), 2 weeks ago)
   -  Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions. 
@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1393)
   - A Steam Big Picture based couch gaming OS
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16052)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16054)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1355)
   - NixOS on WSL(2) [maintainer=@nzbr] 
@@ -86,8 +86,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [The Joy of Linux Torture](https://linuxmatters.sh/25/) (1 week ago)
-- [A Mini Swap Adventure](https://linuxmatters.sh/24/) (3 weeks ago)
+- [The Joy of Linux Torture](https://linuxmatters.sh/25/) (2 weeks ago)
+- [A Mini Swap Adventure](https://linuxmatters.sh/24/) (4 weeks ago)
 - [An Exodus of Bitcoin](https://linuxmatters.sh/23/) (1 month ago)
 - [Magazines Reloaded](https://linuxmatters.sh/22/) (1 month ago)
 - [Fetch Is Going to Happen](https://linuxmatters.sh/21/) (2 months ago)
