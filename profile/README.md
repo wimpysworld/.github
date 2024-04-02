@@ -71,13 +71,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1399)
   - A Steam Big Picture based couch gaming OS
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16073)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16075)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
-- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1356)
+- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1355)
   - NixOS on WSL(2) [maintainer=@nzbr] 
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) (3896)
   - Terminal-based CPU stress and monitoring utility
-- [ColinIanKing/stress-ng](https://github.com/ColinIanKing/stress-ng) (1397)
+- [ColinIanKing/stress-ng](https://github.com/ColinIanKing/stress-ng) (1398)
   - This is the stress-ng upstream project git repository.  stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well as the various operating system kernel interfaces. 
 
 ### 🎙️ Podcast
