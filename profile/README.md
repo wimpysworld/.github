@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (4 days ago)
   - My personal blog
 - [ubuntu-mate/ubuntu-mate-settings](https://github.com/ubuntu-mate/ubuntu-mate-settings) (2 weeks ago)
   - Ubuntu MATE brand configuration and default settings
@@ -46,8 +46,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [feat: upgrade to halloy 2024.5](https://github.com/wimpysworld/nix-config/pull/158) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [Update OBS Studio](https://github.com/wimpysworld/nix-config/pull/157) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [feat: upgrade to halloy 2024.5](https://github.com/wimpysworld/nix-config/pull/158) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [Update OBS Studio](https://github.com/wimpysworld/nix-config/pull/157) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [Add Easy Effects and update some OBS plugins](https://github.com/wimpysworld/nix-config/pull/155) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [Refactor disk configuration for phasma and vader](https://github.com/wimpysworld/nix-config/pull/148) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 weeks ago)
 - [Update configuration for tanis to use Linux 6.6 and enable Plymouth disk unlocking](https://github.com/wimpysworld/nix-config/pull/147) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 month ago)
@@ -59,9 +59,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) ([v4](https://github.com/DeterminateSystems/magic-nix-cache-action/releases/tag/v4), 3 weeks ago)
   -  Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions. 
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.2.4](https://github.com/sxyazi/yazi/releases/tag/v0.2.4), 3 weeks ago)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.2.4](https://github.com/sxyazi/yazi/releases/tag/v0.2.4), 4 weeks ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.17.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.17.1), 4 weeks ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.17.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.17.1), 1 month ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) ([v0.1.3](https://github.com/DeterminateSystems/magic-nix-cache/releases/tag/v0.1.3), 1 month ago)
   - Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1408)
   - A Steam Big Picture based couch gaming OS
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16166)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16165)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1364)
   - NixOS on WSL(2) [maintainer=@nzbr] 
@@ -86,11 +86,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Snappy Snap Snapshots](https://linuxmatters.sh/26/) (3 days ago)
+- [Snappy Snap Snapshots](https://linuxmatters.sh/26/) (4 days ago)
 - [The Joy of Linux Torture](https://linuxmatters.sh/25/) (2 weeks ago)
 - [A Mini Swap Adventure](https://linuxmatters.sh/24/) (1 month ago)
 - [An Exodus of Bitcoin](https://linuxmatters.sh/23/) (1 month ago)
-- [Magazines Reloaded](https://linuxmatters.sh/22/) (1 month ago)
+- [Magazines Reloaded](https://linuxmatters.sh/22/) (2 months ago)
 
 ### 📺️ YouTube
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
