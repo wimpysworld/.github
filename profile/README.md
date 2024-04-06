@@ -69,16 +69,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
+- [grigio/obs-cmd](https://github.com/grigio/obs-cmd) (59)
+  - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1408)
   - A Steam Big Picture based couch gaming OS
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16173)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16174)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1365)
   - NixOS on WSL(2) [maintainer=@nzbr] 
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) (3906)
   - Terminal-based CPU stress and monitoring utility
-- [ColinIanKing/stress-ng](https://github.com/ColinIanKing/stress-ng) (1405)
-  - This is the stress-ng upstream project git repository.  stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well as the various operating system kernel interfaces. 
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
