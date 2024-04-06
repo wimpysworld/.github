@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (4 days ago)
   - My personal blog
@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1408)
   - A Steam Big Picture based couch gaming OS
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16167)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16170)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1365)
   - NixOS on WSL(2) [maintainer=@nzbr] 
