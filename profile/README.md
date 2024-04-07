@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (4 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (5 days ago)
   - My personal blog
 - [ubuntu-mate/ubuntu-mate-settings](https://github.com/ubuntu-mate/ubuntu-mate-settings) (2 weeks ago)
   - Ubuntu MATE brand configuration and default settings
@@ -46,10 +46,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [feat: upgrade to halloy 2024.5](https://github.com/wimpysworld/nix-config/pull/158) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [Update OBS Studio](https://github.com/wimpysworld/nix-config/pull/157) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: upgrade to halloy 2024.5](https://github.com/wimpysworld/nix-config/pull/158) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [Update OBS Studio](https://github.com/wimpysworld/nix-config/pull/157) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 - [Add Easy Effects and update some OBS plugins](https://github.com/wimpysworld/nix-config/pull/155) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-- [Refactor disk configuration for phasma and vader](https://github.com/wimpysworld/nix-config/pull/148) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 weeks ago)
+- [Refactor disk configuration for phasma and vader](https://github.com/wimpysworld/nix-config/pull/148) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 month ago)
 - [Update configuration for tanis to use Linux 6.6 and enable Plymouth disk unlocking](https://github.com/wimpysworld/nix-config/pull/147) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 month ago)
 
 ### Recent releases 📦️
@@ -71,9 +71,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [grigio/obs-cmd](https://github.com/grigio/obs-cmd) (59)
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
-- [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1409)
+- [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1408)
   - A Steam Big Picture based couch gaming OS
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16190)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16193)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1368)
   - NixOS on WSL(2) [maintainer=@nzbr] 
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Snappy Snap Snapshots](https://linuxmatters.sh/26/) (4 days ago)
+- [Snappy Snap Snapshots](https://linuxmatters.sh/26/) (5 days ago)
 - [The Joy of Linux Torture](https://linuxmatters.sh/25/) (2 weeks ago)
 - [A Mini Swap Adventure](https://linuxmatters.sh/24/) (1 month ago)
 - [An Exodus of Bitcoin](https://linuxmatters.sh/23/) (1 month ago)
