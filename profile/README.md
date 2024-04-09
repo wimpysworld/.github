@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [linuxPackages.mwprocapture: 1.3.0.4373 -&gt; 1.3.0.4390](https://github.com/NixOS/nixpkgs/pull/302797) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [Update OBS Studio to 30.1.2](https://github.com/wimpysworld/nix-config/pull/160) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat: upgrade to halloy 2024.5](https://github.com/wimpysworld/nix-config/pull/158) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 - [Update OBS Studio](https://github.com/wimpysworld/nix-config/pull/157) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 - [Add Easy Effects and update some OBS plugins](https://github.com/wimpysworld/nix-config/pull/155) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-- [Refactor disk configuration for phasma and vader](https://github.com/wimpysworld/nix-config/pull/148) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 month ago)
 
 ### Recent releases 📦️
 
@@ -73,9 +73,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1415)
   - A Steam Big Picture based couch gaming OS
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16231)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16234)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
-- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1374)
+- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1375)
   - NixOS on WSL(2) [maintainer=@nzbr] 
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) (3908)
   - Terminal-based CPU stress and monitoring utility
