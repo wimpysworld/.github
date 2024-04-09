@@ -32,11 +32,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [ubuntu-mate/ubuntu-mate-settings](https://github.com/ubuntu-mate/ubuntu-mate-settings) (today)
+- [ubuntu-mate/ubuntu-mate-settings](https://github.com/ubuntu-mate/ubuntu-mate-settings) (1 day ago)
   - Ubuntu MATE brand configuration and default settings
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (6 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 week ago)
   - My personal blog
 - [ubuntu-mate/ubuntu-mate-artwork](https://github.com/ubuntu-mate/ubuntu-mate-artwork) (2 weeks ago)
   - Desktop themes, icons, boot themes, wallpapers, login manager themes, etc.
@@ -46,16 +46,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [Update OBS Studio to 30.1.2](https://github.com/wimpysworld/nix-config/pull/160) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: upgrade to halloy 2024.5](https://github.com/wimpysworld/nix-config/pull/158) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [Update OBS Studio](https://github.com/wimpysworld/nix-config/pull/157) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [Update OBS Studio to 30.1.2](https://github.com/wimpysworld/nix-config/pull/160) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: upgrade to halloy 2024.5](https://github.com/wimpysworld/nix-config/pull/158) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [Update OBS Studio](https://github.com/wimpysworld/nix-config/pull/157) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 - [Add Easy Effects and update some OBS plugins](https://github.com/wimpysworld/nix-config/pull/155) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [Refactor disk configuration for phasma and vader](https://github.com/wimpysworld/nix-config/pull/148) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 month ago)
 
 ### Recent releases 📦️
 
 
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.7](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.7), 2 weeks ago)
+- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.7](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.7), 3 weeks ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) ([v4](https://github.com/DeterminateSystems/magic-nix-cache-action/releases/tag/v4), 3 weeks ago)
   -  Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions. 
@@ -86,8 +86,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Snappy Snap Snapshots](https://linuxmatters.sh/26/) (6 days ago)
-- [The Joy of Linux Torture](https://linuxmatters.sh/25/) (2 weeks ago)
+- [Snappy Snap Snapshots](https://linuxmatters.sh/26/) (1 week ago)
+- [The Joy of Linux Torture](https://linuxmatters.sh/25/) (3 weeks ago)
 - [A Mini Swap Adventure](https://linuxmatters.sh/24/) (1 month ago)
 - [An Exodus of Bitcoin](https://linuxmatters.sh/23/) (1 month ago)
 - [Magazines Reloaded](https://linuxmatters.sh/22/) (2 months ago)
@@ -97,10 +97,10 @@ Here's some recent episodes:
 <a href="https://youtube.com/WimpysWorld" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UChpYmMp7EFaxuogUX1eAqyw?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
 - [NixOS | More Nix ❄️ packaging &amp; fixes 🩹 for OBS Studio 📡](https://www.youtube.com/watch?v=VqNaOOm7Dhw) (2 months ago)
-- [NixOS | Updating Nix ❄️ packages of OBS Studio 📡 and it&#39;s plugins🔌](https://www.youtube.com/watch?v=phgOv_UCbMM) (2 months ago)
+- [NixOS | Updating Nix ❄️ packages of OBS Studio 📡 and it&#39;s plugins🔌](https://www.youtube.com/watch?v=phgOv_UCbMM) (3 months ago)
 - [NixOS &amp; Linux | Tinkering with my Nix config ❄️ and poking at some Linux projects 🐧](https://www.youtube.com/watch?v=biVQ_-v8oEo) (3 months ago)
 - [NixOS &amp; Linux 🐧 Automate OBS with Kruiz Control and Scene Switcher](https://www.youtube.com/watch?v=BSITslJbMGA) (3 months ago)
-- [[Linux &amp; NixOS] Catching up on a few projects ❄️ - Part 2](https://www.youtube.com/watch?v=IpiuKvqHU-c) (3 months ago)
+- [[Linux &amp; NixOS] Catching up on a few projects ❄️ - Part 2](https://www.youtube.com/watch?v=IpiuKvqHU-c) (4 months ago)
 
 ### ✍️ Blog
 
