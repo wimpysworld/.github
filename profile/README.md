@@ -32,25 +32,25 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+  - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
   - My personal blog
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [ubuntu-mate/ubuntu-mate-settings](https://github.com/ubuntu-mate/ubuntu-mate-settings) (3 days ago)
   - Ubuntu MATE brand configuration and default settings
 - [ubuntu-mate/ubuntu-mate-artwork](https://github.com/ubuntu-mate/ubuntu-mate-artwork) (2 weeks ago)
   - Desktop themes, icons, boot themes, wallpapers, login manager themes, etc.
-- [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (3 months ago)
-  - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
 
 ### Recent pull requests 🛠️
 
 
+- [Initial preparation for 9.4.3 release](https://github.com/quickemu-project/quickemu/pull/989) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [Update OBS Studio and plugins](https://github.com/wimpysworld/nix-config/pull/162) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [fix: add cjson to obs-studio so RIST support is enabled](https://github.com/NixOS/nixpkgs/pull/302830) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
 - [linuxPackages.mwprocapture: 1.3.0.4373 -&gt; 1.3.0.4390](https://github.com/NixOS/nixpkgs/pull/302797) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
 - [Update OBS Studio to 30.1.2](https://github.com/wimpysworld/nix-config/pull/160) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [feat: upgrade to halloy 2024.5](https://github.com/wimpysworld/nix-config/pull/158) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 
 ### Recent releases 📦️
 
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1414)
   - A Steam Big Picture based couch gaming OS
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16321)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16322)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1383)
   - NixOS on WSL(2) [maintainer=@nzbr] 
