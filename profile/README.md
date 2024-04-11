@@ -32,10 +32,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [ubuntu-mate/ubuntu-mate-settings](https://github.com/ubuntu-mate/ubuntu-mate-settings) (3 days ago)
   - Ubuntu MATE brand configuration and default settings
 - [ubuntu-mate/ubuntu-mate-artwork](https://github.com/ubuntu-mate/ubuntu-mate-artwork) (2 weeks ago)
