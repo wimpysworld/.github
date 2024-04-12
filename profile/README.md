@@ -75,9 +75,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1416)
   - A Steam Big Picture based couch gaming OS
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16346)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16348)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
-- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1383)
+- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1384)
   - NixOS on WSL(2) [maintainer=@nzbr] 
 
 ### 🎙️ Podcast
