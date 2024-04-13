@@ -32,13 +32,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-- [ubuntu-mate/ubuntu-mate-settings](https://github.com/ubuntu-mate/ubuntu-mate-settings) (4 days ago)
+- [ubuntu-mate/ubuntu-mate-settings](https://github.com/ubuntu-mate/ubuntu-mate-settings) (5 days ago)
   - Ubuntu MATE brand configuration and default settings
 - [ubuntu-mate/ubuntu-mate-artwork](https://github.com/ubuntu-mate/ubuntu-mate-artwork) (3 weeks ago)
   - Desktop themes, icons, boot themes, wallpapers, login manager themes, etc.
@@ -46,18 +46,18 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [Initial preparation for 9.4.3 release](https://github.com/quickemu-project/quickemu/pull/989) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
-- [Update OBS Studio and plugins](https://github.com/wimpysworld/nix-config/pull/162) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [fix: add cjson to obs-studio so RIST support is enabled](https://github.com/NixOS/nixpkgs/pull/302830) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
-- [linuxPackages.mwprocapture: 1.3.0.4373 -&gt; 1.3.0.4390](https://github.com/NixOS/nixpkgs/pull/302797) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
-- [Update OBS Studio to 30.1.2](https://github.com/wimpysworld/nix-config/pull/160) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [Initial preparation for 9.4.3 release](https://github.com/quickemu-project/quickemu/pull/989) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
+- [Update OBS Studio and plugins](https://github.com/wimpysworld/nix-config/pull/162) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [fix: add cjson to obs-studio so RIST support is enabled](https://github.com/NixOS/nixpkgs/pull/302830) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 days ago)
+- [linuxPackages.mwprocapture: 1.3.0.4373 -&gt; 1.3.0.4390](https://github.com/NixOS/nixpkgs/pull/302797) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 days ago)
+- [Update OBS Studio to 30.1.2](https://github.com/wimpysworld/nix-config/pull/160) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.18](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.18), today)
+- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.18](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.18), 1 day ago)
   - Health checks for your Nix flakes
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.0](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.0), 1 day ago)
+- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.0](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.0), 2 days ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) ([v4](https://github.com/DeterminateSystems/magic-nix-cache-action/releases/tag/v4), 1 month ago)
   -  Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions. 
@@ -104,7 +104,7 @@ Here's some recent episodes:
 
 ### ✍️ Blog
 
-- [Install ZeroTier on Steam Deck](https://wimpysworld.com/posts/install-zerotier-on-steamdeck/) (7 months ago)
+- [Install ZeroTier on Steam Deck](https://wimpysworld.com/posts/install-zerotier-on-steamdeck/) (8 months ago)
 - [Steam Box vs Steam Deck](https://wimpysworld.com/posts/steambox-vs-steamdeck/) (11 months ago)
 - [Flash Stadia Controller Bluetooth Firmware on Linux](https://wimpysworld.com/posts/flash-stadia-controller-bluetooth-firmware-on-linux/) (11 months ago)
 - [Why I chose the ThinkPad Z13 Gen1 as my Linux laptop](https://wimpysworld.com/posts/why-i-chose-the-thinkpad-z13-as-my-linux-laptop/) (1 year ago)
