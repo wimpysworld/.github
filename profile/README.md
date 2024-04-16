@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: add flake.nix to assist local development](https://github.com/quickemu-project/quickemu/pull/1035) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [chore: disable reviewdog for PRs](https://github.com/quickemu-project/quickemu/pull/1033) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix: update URLs referencing the project #945](https://github.com/quickemu-project/quickemu/pull/1032) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [Initial preparation for 9.4.3 release](https://github.com/quickemu-project/quickemu/pull/989) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (5 days ago)
 - [Update OBS Studio and plugins](https://github.com/wimpysworld/nix-config/pull/162) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
-- [fix: add cjson to obs-studio so RIST support is enabled](https://github.com/NixOS/nixpkgs/pull/302830) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
 
 ### Recent releases 📦️
 
@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9072)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9073)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [grigio/obs-cmd](https://github.com/grigio/obs-cmd) (60)
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
