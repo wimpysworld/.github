@@ -32,12 +32,12 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+  - My personal blog
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
-  - My personal blog
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
   - Nix Packages collection &amp; NixOS
 - [ubuntu-mate/ubuntu-mate-settings](https://github.com/ubuntu-mate/ubuntu-mate-settings) (1 week ago)
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [chore: disable reviewdog for PRs](https://github.com/quickemu-project/quickemu/pull/1033) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix: update URLs referencing the project #945](https://github.com/quickemu-project/quickemu/pull/1032) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [Initial preparation for 9.4.3 release](https://github.com/quickemu-project/quickemu/pull/989) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (5 days ago)
 - [Update OBS Studio and plugins](https://github.com/wimpysworld/nix-config/pull/162) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 - [fix: add cjson to obs-studio so RIST support is enabled](https://github.com/NixOS/nixpkgs/pull/302830) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
-- [linuxPackages.mwprocapture: 1.3.0.4373 -&gt; 1.3.0.4390](https://github.com/NixOS/nixpkgs/pull/302797) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
 
 ### Recent releases 📦️
 
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1421)
   - A Steam Big Picture based couch gaming OS
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16410)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16411)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1395)
   - NixOS on WSL(2) [maintainer=@nzbr] 
