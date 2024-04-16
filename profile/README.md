@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix: update URLs referencing the project #945](https://github.com/quickemu-project/quickemu/pull/1032) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [Initial preparation for 9.4.3 release](https://github.com/quickemu-project/quickemu/pull/989) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (5 days ago)
 - [Update OBS Studio and plugins](https://github.com/wimpysworld/nix-config/pull/162) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 - [fix: add cjson to obs-studio so RIST support is enabled](https://github.com/NixOS/nixpkgs/pull/302830) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
 - [linuxPackages.mwprocapture: 1.3.0.4373 -&gt; 1.3.0.4390](https://github.com/NixOS/nixpkgs/pull/302797) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
-- [Update OBS Studio to 30.1.2](https://github.com/wimpysworld/nix-config/pull/160) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1421)
   - A Steam Big Picture based couch gaming OS
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16408)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16410)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1395)
   - NixOS on WSL(2) [maintainer=@nzbr] 
