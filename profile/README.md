@@ -46,15 +46,17 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [Refactor Windows downloading based on Mido](https://github.com/quickemu-project/quickemu/pull/1042) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [feat: add flake.nix to assist local development](https://github.com/quickemu-project/quickemu/pull/1035) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [chore: disable reviewdog for PRs](https://github.com/quickemu-project/quickemu/pull/1033) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix: update URLs referencing the project #945](https://github.com/quickemu-project/quickemu/pull/1032) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [Initial preparation for 9.4.3 release](https://github.com/quickemu-project/quickemu/pull/989) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (5 days ago)
-- [Update OBS Studio and plugins](https://github.com/wimpysworld/nix-config/pull/162) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 
 ### Recent releases 📦️
 
 
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.18.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.18.0), today)
+  - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.18](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.18), 4 days ago)
   - Health checks for your Nix flakes
 - [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.0](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.0), 5 days ago)
@@ -63,13 +65,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   -  Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions. 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.2.4](https://github.com/sxyazi/yazi/releases/tag/v0.2.4), 1 month ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.17.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.17.1), 1 month ago)
-  - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 
 ### Recent starred projects ⭐️
 
 
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9074)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9076)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [grigio/obs-cmd](https://github.com/grigio/obs-cmd) (60)
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
