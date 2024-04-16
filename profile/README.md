@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [Add compatibility for old Linux operating systems](https://github.com/quickemu-project/quickemu/pull/1050) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [Disable HPET based on the QEMU version being used](https://github.com/quickemu-project/quickemu/pull/1047) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [feat: add cut_1()](https://github.com/quickemu-project/quickemu/pull/1046) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [A couple of fixes for quickget](https://github.com/quickemu-project/quickemu/pull/1045) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [Refactor Windows downloading based on Mido](https://github.com/quickemu-project/quickemu/pull/1042) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [feat: add flake.nix to assist local development](https://github.com/quickemu-project/quickemu/pull/1035) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 
 ### Recent releases 📦️
 
