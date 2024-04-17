@@ -32,12 +32,12 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
-  - My personal blog
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
+  - My personal blog
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
   - Nix Packages collection &amp; NixOS
 - [ubuntu-mate/ubuntu-mate-settings](https://github.com/ubuntu-mate/ubuntu-mate-settings) (1 week ago)
@@ -46,20 +46,20 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [Add compatibility for old Linux operating systems](https://github.com/quickemu-project/quickemu/pull/1050) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [Disable HPET based on the QEMU version being used](https://github.com/quickemu-project/quickemu/pull/1047) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [feat: add cut_1()](https://github.com/quickemu-project/quickemu/pull/1046) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [A couple of fixes for quickget](https://github.com/quickemu-project/quickemu/pull/1045) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [Refactor Windows downloading based on Mido](https://github.com/quickemu-project/quickemu/pull/1042) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [fix: clean exit returns 0. Fixes #531](https://github.com/quickemu-project/quickemu/pull/1052) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [Add compatibility for old Linux operating systems](https://github.com/quickemu-project/quickemu/pull/1050) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [Disable HPET based on the QEMU version being used](https://github.com/quickemu-project/quickemu/pull/1047) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [feat: add cut_1()](https://github.com/quickemu-project/quickemu/pull/1046) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [A couple of fixes for quickget](https://github.com/quickemu-project/quickemu/pull/1045) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.18.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.18.0), today)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.18.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.18.0), 1 day ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
-- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.18](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.18), 4 days ago)
+- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.18](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.18), 5 days ago)
   - Health checks for your Nix flakes
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.0](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.0), 5 days ago)
+- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.0](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.0), 6 days ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) ([v4](https://github.com/DeterminateSystems/magic-nix-cache-action/releases/tag/v4), 1 month ago)
   -  Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions. 
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [If I Could Just Interject](https://linuxmatters.sh/27/) (today)
+- [If I Could Just Interject](https://linuxmatters.sh/27/) (1 day ago)
 - [Snappy Snap Snapshots](https://linuxmatters.sh/26/) (2 weeks ago)
 - [The Joy of Linux Torture](https://linuxmatters.sh/25/) (4 weeks ago)
 - [A Mini Swap Adventure](https://linuxmatters.sh/24/) (1 month ago)
