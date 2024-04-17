@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix: add nixos unstable. Fixes #732](https://github.com/quickemu-project/quickemu/pull/1055) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix: clean exit returns 0. Fixes #531](https://github.com/quickemu-project/quickemu/pull/1052) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [Add compatibility for old Linux operating systems](https://github.com/quickemu-project/quickemu/pull/1050) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [Disable HPET based on the QEMU version being used](https://github.com/quickemu-project/quickemu/pull/1047) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [feat: add cut_1()](https://github.com/quickemu-project/quickemu/pull/1046) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
-- [A couple of fixes for quickget](https://github.com/quickemu-project/quickemu/pull/1045) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 
 ### Recent releases 📦️
 
@@ -69,11 +69,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9077)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9078)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [grigio/obs-cmd](https://github.com/grigio/obs-cmd) (60)
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
-- [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1421)
+- [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1422)
   - A Steam Big Picture based couch gaming OS
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16418)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
