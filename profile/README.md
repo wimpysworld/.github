@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [Replace aria2 with curl plus assorted fixes and updates](https://github.com/quickemu-project/quickemu/pull/1063) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix: add nixos unstable. Fixes #732](https://github.com/quickemu-project/quickemu/pull/1055) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix: clean exit returns 0. Fixes #531](https://github.com/quickemu-project/quickemu/pull/1052) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [Add compatibility for old Linux operating systems](https://github.com/quickemu-project/quickemu/pull/1050) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [Disable HPET based on the QEMU version being used](https://github.com/quickemu-project/quickemu/pull/1047) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
-- [feat: add cut_1()](https://github.com/quickemu-project/quickemu/pull/1046) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 
 ### Recent releases 📦️
 
