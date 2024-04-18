@@ -32,11 +32,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
   - My personal blog
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
   - Nix Packages collection &amp; NixOS
@@ -46,20 +46,20 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [Replace aria2 with curl plus assorted fixes and updates](https://github.com/quickemu-project/quickemu/pull/1063) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [fix: add nixos unstable. Fixes #732](https://github.com/quickemu-project/quickemu/pull/1055) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [fix: clean exit returns 0. Fixes #531](https://github.com/quickemu-project/quickemu/pull/1052) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
-- [Add compatibility for old Linux operating systems](https://github.com/quickemu-project/quickemu/pull/1050) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
-- [Disable HPET based on the QEMU version being used](https://github.com/quickemu-project/quickemu/pull/1047) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [Replace aria2 with curl plus assorted fixes and updates](https://github.com/quickemu-project/quickemu/pull/1063) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [fix: add nixos unstable. Fixes #732](https://github.com/quickemu-project/quickemu/pull/1055) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [fix: clean exit returns 0. Fixes #531](https://github.com/quickemu-project/quickemu/pull/1052) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
+- [Add compatibility for old Linux operating systems](https://github.com/quickemu-project/quickemu/pull/1050) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
+- [Disable HPET based on the QEMU version being used](https://github.com/quickemu-project/quickemu/pull/1047) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.18.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.18.0), 1 day ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.18.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.18.0), 2 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
-- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.18](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.18), 5 days ago)
+- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.18](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.18), 6 days ago)
   - Health checks for your Nix flakes
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.0](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.0), 6 days ago)
+- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.0](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.0), 1 week ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) ([v4](https://github.com/DeterminateSystems/magic-nix-cache-action/releases/tag/v4), 1 month ago)
   -  Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions. 
@@ -75,9 +75,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1425)
   - A Steam Big Picture based couch gaming OS
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16429)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16430)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
-- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1397)
+- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) (1398)
   - NixOS on WSL(2) [maintainer=@nzbr] 
 
 ### 🎙️ Podcast
@@ -86,9 +86,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [If I Could Just Interject](https://linuxmatters.sh/27/) (1 day ago)
+- [If I Could Just Interject](https://linuxmatters.sh/27/) (2 days ago)
 - [Snappy Snap Snapshots](https://linuxmatters.sh/26/) (2 weeks ago)
-- [The Joy of Linux Torture](https://linuxmatters.sh/25/) (4 weeks ago)
+- [The Joy of Linux Torture](https://linuxmatters.sh/25/) (1 month ago)
 - [A Mini Swap Adventure](https://linuxmatters.sh/24/) (1 month ago)
 - [An Exodus of Bitcoin](https://linuxmatters.sh/23/) (1 month ago)
 
