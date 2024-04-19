@@ -32,12 +32,12 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+  - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
-  - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
   - Nix Packages collection &amp; NixOS
 - [ubuntu-mate/ubuntu-mate-settings](https://github.com/ubuntu-mate/ubuntu-mate-settings) (1 week ago)
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix: correct syntax error when detecting old ubuntu releases](https://github.com/quickemu-project/quickemu/pull/1085) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix: sops-nix systemd unit failing to start](https://github.com/Mic92/sops-nix/pull/540) on [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1 day ago)
 - [Add nh and nix-output-monitor](https://github.com/wimpysworld/nix-config/pull/165) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [Replace aria2 with curl plus assorted fixes and updates](https://github.com/quickemu-project/quickemu/pull/1063) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
 - [fix: add nixos unstable. Fixes #732](https://github.com/quickemu-project/quickemu/pull/1055) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
-- [fix: clean exit returns 0. Fixes #531](https://github.com/quickemu-project/quickemu/pull/1052) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
 
 ### Recent releases 📦️
 
@@ -75,9 +75,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [grigio/obs-cmd](https://github.com/grigio/obs-cmd) (61)
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
-- [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1426)
+- [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1427)
   - A Steam Big Picture based couch gaming OS
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16459)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16460)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 
 ### 🎙️ Podcast
