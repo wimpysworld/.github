@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [Make curl based web handlers and update all ISO downloaders](https://github.com/quickemu-project/quickemu/pull/1087) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix: correct syntax error when detecting old ubuntu releases](https://github.com/quickemu-project/quickemu/pull/1085) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [fix: sops-nix systemd unit failing to start](https://github.com/Mic92/sops-nix/pull/540) on [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (2 days ago)
 - [Add nh and nix-output-monitor](https://github.com/wimpysworld/nix-config/pull/165) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 - [Replace aria2 with curl plus assorted fixes and updates](https://github.com/quickemu-project/quickemu/pull/1063) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
-- [fix: add nixos unstable. Fixes #732](https://github.com/quickemu-project/quickemu/pull/1055) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
 
 ### Recent releases 📦️
 
@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1196)
   - Atomic secret provisioning for NixOS based on sops
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9095)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9097)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [grigio/obs-cmd](https://github.com/grigio/obs-cmd) (61)
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
