@@ -71,13 +71,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1196)
   - Atomic secret provisioning for NixOS based on sops
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9100)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9101)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [grigio/obs-cmd](https://github.com/grigio/obs-cmd) (61)
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
-- [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1430)
+- [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1429)
   - A Steam Big Picture based couch gaming OS
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16468)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16469)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 
 ### 🎙️ Podcast
