@@ -32,11 +32,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
   - Nix Packages collection &amp; NixOS
@@ -46,16 +46,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [fix: correct syntax error when detecting old ubuntu releases](https://github.com/quickemu-project/quickemu/pull/1085) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [fix: sops-nix systemd unit failing to start](https://github.com/Mic92/sops-nix/pull/540) on [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1 day ago)
-- [Add nh and nix-output-monitor](https://github.com/wimpysworld/nix-config/pull/165) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [Replace aria2 with curl plus assorted fixes and updates](https://github.com/quickemu-project/quickemu/pull/1063) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
-- [fix: add nixos unstable. Fixes #732](https://github.com/quickemu-project/quickemu/pull/1055) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
+- [fix: correct syntax error when detecting old ubuntu releases](https://github.com/quickemu-project/quickemu/pull/1085) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [fix: sops-nix systemd unit failing to start](https://github.com/Mic92/sops-nix/pull/540) on [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (2 days ago)
+- [Add nh and nix-output-monitor](https://github.com/wimpysworld/nix-config/pull/165) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [Replace aria2 with curl plus assorted fixes and updates](https://github.com/quickemu-project/quickemu/pull/1063) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
+- [fix: add nixos unstable. Fixes #732](https://github.com/quickemu-project/quickemu/pull/1055) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.18.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.18.0), 3 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.18.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.18.0), 4 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.18](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.18), 1 week ago)
   - Health checks for your Nix flakes
@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1429)
   - A Steam Big Picture based couch gaming OS
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16464)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16465)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 
 ### 🎙️ Podcast
@@ -86,11 +86,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [If I Could Just Interject](https://linuxmatters.sh/27/) (3 days ago)
+- [If I Could Just Interject](https://linuxmatters.sh/27/) (4 days ago)
 - [Snappy Snap Snapshots](https://linuxmatters.sh/26/) (2 weeks ago)
 - [The Joy of Linux Torture](https://linuxmatters.sh/25/) (1 month ago)
 - [A Mini Swap Adventure](https://linuxmatters.sh/24/) (1 month ago)
-- [An Exodus of Bitcoin](https://linuxmatters.sh/23/) (1 month ago)
+- [An Exodus of Bitcoin](https://linuxmatters.sh/23/) (2 months ago)
 
 ### 📺️ YouTube
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
