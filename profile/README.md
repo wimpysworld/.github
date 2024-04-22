@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [mwprocapture: fix incorrect hash](https://github.com/NixOS/nixpkgs/pull/305990) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [Reintroduce some recent changes](https://github.com/quickemu-project/quickemu/pull/1092) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [Make curl based web handlers and update all ISO downloaders](https://github.com/quickemu-project/quickemu/pull/1087) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
 - [fix: correct syntax error when detecting old ubuntu releases](https://github.com/quickemu-project/quickemu/pull/1085) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
 - [fix: sops-nix systemd unit failing to start](https://github.com/Mic92/sops-nix/pull/540) on [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (4 days ago)
-- [Add nh and nix-output-monitor](https://github.com/wimpysworld/nix-config/pull/165) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 
 ### Recent releases 📦️
 
