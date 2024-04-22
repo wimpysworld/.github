@@ -32,14 +32,14 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
+  - Nix Packages collection &amp; NixOS
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
-  - My personal blog
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
-  - Nix Packages collection &amp; NixOS
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
+  - My personal blog
 - [ubuntu-mate/ubuntu-mate-settings](https://github.com/ubuntu-mate/ubuntu-mate-settings) (2 weeks ago)
   - Ubuntu MATE brand configuration and default settings
 
