@@ -32,13 +32,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
   - Nix Packages collection &amp; NixOS
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
   - My personal blog
 - [ubuntu-mate/ubuntu-mate-settings](https://github.com/ubuntu-mate/ubuntu-mate-settings) (2 weeks ago)
   - Ubuntu MATE brand configuration and default settings
@@ -46,16 +46,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [Migrate to web_check()](https://github.com/quickemu-project/quickemu/pull/1105) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [mwprocapture: fix incorrect hash](https://github.com/NixOS/nixpkgs/pull/305990) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
-- [Reintroduce some recent changes](https://github.com/quickemu-project/quickemu/pull/1092) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
-- [Make curl based web handlers and update all ISO downloaders](https://github.com/quickemu-project/quickemu/pull/1087) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
-- [fix: correct syntax error when detecting old ubuntu releases](https://github.com/quickemu-project/quickemu/pull/1085) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (4 days ago)
+- [Migrate to web_check()](https://github.com/quickemu-project/quickemu/pull/1105) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [mwprocapture: fix incorrect hash](https://github.com/NixOS/nixpkgs/pull/305990) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
+- [Reintroduce some recent changes](https://github.com/quickemu-project/quickemu/pull/1092) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
+- [Make curl based web handlers and update all ISO downloaders](https://github.com/quickemu-project/quickemu/pull/1087) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (4 days ago)
+- [fix: correct syntax error when detecting old ubuntu releases](https://github.com/quickemu-project/quickemu/pull/1085) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (5 days ago)
 
 ### Recent releases 📦️
 
 
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.2.5](https://github.com/sxyazi/yazi/releases/tag/v0.2.5), today)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.2.5](https://github.com/sxyazi/yazi/releases/tag/v0.2.5), 1 day ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.18.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.18.0), 1 week ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1201)
   - Atomic secret provisioning for NixOS based on sops
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9116)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9117)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [grigio/obs-cmd](https://github.com/grigio/obs-cmd) (61)
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
