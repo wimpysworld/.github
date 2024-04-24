@@ -34,14 +34,14 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
   - My personal blog
+- [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (today)
+  - The website to showcase Ubuntu MATE&#39;s features.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
   - Nix Packages collection &amp; NixOS
-- [ubuntu-mate/ubuntu-mate-settings](https://github.com/ubuntu-mate/ubuntu-mate-settings) (2 weeks ago)
-  - Ubuntu MATE brand configuration and default settings
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 
 ### Recent pull requests 🛠️
 
