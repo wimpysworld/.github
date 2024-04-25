@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1206)
+- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1207)
   - Atomic secret provisioning for NixOS based on sops
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9127)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
