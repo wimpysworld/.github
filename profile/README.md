@@ -38,10 +38,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - My personal blog
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
-  - Nix Packages collection &amp; NixOS
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
+  - Nix Packages collection &amp; NixOS
 
 ### Recent pull requests 🛠️
 
@@ -75,9 +75,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [grigio/obs-cmd](https://github.com/grigio/obs-cmd) (65)
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
-- [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1438)
+- [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1439)
   - A Steam Big Picture based couch gaming OS
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16590)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16591)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 
 ### 🎙️ Podcast
