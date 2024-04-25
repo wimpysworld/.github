@@ -32,36 +32,36 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
-  - My personal blog
 - [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (today)
   - The website to showcase Ubuntu MATE&#39;s features.
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
+  - My personal blog
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
   - Nix Packages collection &amp; NixOS
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 
 ### Recent pull requests 🛠️
 
 
-- [Migrate to web_check()](https://github.com/quickemu-project/quickemu/pull/1105) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
-- [mwprocapture: fix incorrect hash](https://github.com/NixOS/nixpkgs/pull/305990) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
-- [Reintroduce some recent changes](https://github.com/quickemu-project/quickemu/pull/1092) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
-- [Make curl based web handlers and update all ISO downloaders](https://github.com/quickemu-project/quickemu/pull/1087) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (4 days ago)
-- [fix: correct syntax error when detecting old ubuntu releases](https://github.com/quickemu-project/quickemu/pull/1085) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (5 days ago)
+- [Migrate to web_check()](https://github.com/quickemu-project/quickemu/pull/1105) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
+- [mwprocapture: fix incorrect hash](https://github.com/NixOS/nixpkgs/pull/305990) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
+- [Reintroduce some recent changes](https://github.com/quickemu-project/quickemu/pull/1092) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (4 days ago)
+- [Make curl based web handlers and update all ISO downloaders](https://github.com/quickemu-project/quickemu/pull/1087) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (5 days ago)
+- [fix: correct syntax error when detecting old ubuntu releases](https://github.com/quickemu-project/quickemu/pull/1085) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (6 days ago)
 
 ### Recent releases 📦️
 
 
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.2.5](https://github.com/sxyazi/yazi/releases/tag/v0.2.5), 1 day ago)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.2.5](https://github.com/sxyazi/yazi/releases/tag/v0.2.5), 2 days ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.18.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.18.0), 1 week ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.18](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.18), 1 week ago)
   - Health checks for your Nix flakes
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.0](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.0), 1 week ago)
+- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.0](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.0), 2 weeks ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) ([v4](https://github.com/DeterminateSystems/magic-nix-cache-action/releases/tag/v4), 1 month ago)
   -  Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions. 
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [grigio/obs-cmd](https://github.com/grigio/obs-cmd) (62)
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
-- [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1436)
+- [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1437)
   - A Steam Big Picture based couch gaming OS
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16581)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
@@ -105,7 +105,7 @@ Here's some recent episodes:
 ### ✍️ Blog
 
 - [Install ZeroTier on Steam Deck](https://wimpysworld.com/posts/install-zerotier-on-steamdeck/) (8 months ago)
-- [Steam Box vs Steam Deck](https://wimpysworld.com/posts/steambox-vs-steamdeck/) (11 months ago)
+- [Steam Box vs Steam Deck](https://wimpysworld.com/posts/steambox-vs-steamdeck/) (1 year ago)
 - [Flash Stadia Controller Bluetooth Firmware on Linux](https://wimpysworld.com/posts/flash-stadia-controller-bluetooth-firmware-on-linux/) (1 year ago)
 - [Why I chose the ThinkPad Z13 Gen1 as my Linux laptop](https://wimpysworld.com/posts/why-i-chose-the-thinkpad-z13-as-my-linux-laptop/) (1 year ago)
 - [Creating Production-Ready Containers - Advanced Techniques](https://wimpysworld.com/posts/creating-production-ready-containers-advanced-techniques/) (2 years ago)
