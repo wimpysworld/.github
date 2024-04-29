@@ -38,10 +38,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - The website to showcase Ubuntu MATE&#39;s features.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (6 days ago)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
   - Nix Packages collection &amp; NixOS
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
+  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 
 ### Recent pull requests 🛠️
 
