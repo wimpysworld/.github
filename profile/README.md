@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1220)
   - Atomic secret provisioning for NixOS based on sops
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9165)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9166)
   - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [grigio/obs-cmd](https://github.com/grigio/obs-cmd) (65)
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
@@ -86,11 +86,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
+- [Wake-on-LAN for Preschoolers](https://linuxmatters.sh/28/) (today)
 - [If I Could Just Interject](https://linuxmatters.sh/27/) (2 weeks ago)
 - [Snappy Snap Snapshots](https://linuxmatters.sh/26/) (4 weeks ago)
 - [The Joy of Linux Torture](https://linuxmatters.sh/25/) (1 month ago)
 - [A Mini Swap Adventure](https://linuxmatters.sh/24/) (1 month ago)
-- [An Exodus of Bitcoin](https://linuxmatters.sh/23/) (2 months ago)
 
 ### 📺️ YouTube
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
