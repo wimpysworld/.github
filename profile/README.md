@@ -35,7 +35,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-  - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
+  - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
   - My personal blog
 - [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (1 week ago)
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [docs: update the README to reference the wiki for documentation](https://github.com/quickemu-project/quickemu/pull/1140) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [chore: remove wget](https://github.com/quickemu-project/quickemu/pull/1139) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [Update flake.nix to provide a dev shell and a package](https://github.com/quickemu-project/quickemu/pull/1138) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [Refactor and updates to get most of the tests working](https://github.com/quickemu-project/quickemu/pull/1120) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (4 days ago)
 - [Migrate to web_check()](https://github.com/quickemu-project/quickemu/pull/1105) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
-- [mwprocapture: fix incorrect hash](https://github.com/NixOS/nixpkgs/pull/305990) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
 
 ### Recent releases 📦️
 
@@ -72,12 +72,12 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1222)
   - Atomic secret provisioning for NixOS based on sops
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9191)
-  - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
+  - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [grigio/obs-cmd](https://github.com/grigio/obs-cmd) (65)
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1450)
   - A Steam Big Picture based couch gaming OS
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16711)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16712)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 
 ### 🎙️ Podcast
