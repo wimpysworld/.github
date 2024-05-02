@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [Update flake.nix to provide a dev shell and a package](https://github.com/quickemu-project/quickemu/pull/1138) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [Refactor and updates to get most of the tests working](https://github.com/quickemu-project/quickemu/pull/1120) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (4 days ago)
 - [Migrate to web_check()](https://github.com/quickemu-project/quickemu/pull/1105) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
 - [mwprocapture: fix incorrect hash](https://github.com/NixOS/nixpkgs/pull/305990) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
 - [Reintroduce some recent changes](https://github.com/quickemu-project/quickemu/pull/1092) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
-- [Make curl based web handlers and update all ISO downloaders](https://github.com/quickemu-project/quickemu/pull/1087) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
 
 ### Recent releases 📦️
 
@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1450)
   - A Steam Big Picture based couch gaming OS
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16709)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16710)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 
 ### 🎙️ Podcast
