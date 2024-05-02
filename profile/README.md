@@ -34,14 +34,14 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
+  - A Flutter frontend for quickget and quickemu.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
   - My personal blog
 - [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (1 week ago)
   - The website to showcase Ubuntu MATE&#39;s features.
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
-  - Nix Packages collection &amp; NixOS
 
 ### Recent pull requests 🛠️
 
@@ -71,13 +71,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1222)
   - Atomic secret provisioning for NixOS based on sops
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9191)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9192)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [grigio/obs-cmd](https://github.com/grigio/obs-cmd) (65)
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1450)
   - A Steam Big Picture based couch gaming OS
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16712)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16715)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 
 ### 🎙️ Podcast
