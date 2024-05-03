@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [Add custom_config()](https://github.com/quickemu-project/quickemu/pull/1143) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix: add not_supported_argument()](https://github.com/quickemu-project/quickemu/pull/1142) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [refactor: replace open_url() with open_homepage()](https://github.com/quickemu-project/quickemu/pull/1141) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [docs: update the README to reference the wiki for documentation](https://github.com/quickemu-project/quickemu/pull/1140) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [chore: remove wget](https://github.com/quickemu-project/quickemu/pull/1139) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
-- [Update flake.nix to provide a dev shell and a package](https://github.com/quickemu-project/quickemu/pull/1138) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 
 ### Recent releases 📦️
 
@@ -71,13 +71,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1223)
   - Atomic secret provisioning for NixOS based on sops
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9194)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9195)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [grigio/obs-cmd](https://github.com/grigio/obs-cmd) (65)
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1450)
   - A Steam Big Picture based couch gaming OS
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16721)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16723)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 
 ### 🎙️ Podcast
