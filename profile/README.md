@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [Fixes for daily-live URL checks and shellcheck](https://github.com/quickemu-project/quickemu/pull/1158) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [Add tests CI and refactor release workflow](https://github.com/quickemu-project/quickemu/pull/1155) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [Add custom_config()](https://github.com/quickemu-project/quickemu/pull/1143) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix: add not_supported_argument()](https://github.com/quickemu-project/quickemu/pull/1142) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [refactor: replace open_url() with open_homepage()](https://github.com/quickemu-project/quickemu/pull/1141) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
-- [docs: update the README to reference the wiki for documentation](https://github.com/quickemu-project/quickemu/pull/1140) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 
 ### Recent releases 📦️
 
