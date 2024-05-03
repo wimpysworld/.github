@@ -32,13 +32,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
   - A Flutter frontend for quickget and quickemu.
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (4 days ago)
   - My personal blog
 - [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (1 week ago)
   - The website to showcase Ubuntu MATE&#39;s features.
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [docs: update the README to reference the wiki for documentation](https://github.com/quickemu-project/quickemu/pull/1140) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [chore: remove wget](https://github.com/quickemu-project/quickemu/pull/1139) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [Update flake.nix to provide a dev shell and a package](https://github.com/quickemu-project/quickemu/pull/1138) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [Refactor and updates to get most of the tests working](https://github.com/quickemu-project/quickemu/pull/1120) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (4 days ago)
-- [Migrate to web_check()](https://github.com/quickemu-project/quickemu/pull/1105) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
+- [fix: add not_supported_argument()](https://github.com/quickemu-project/quickemu/pull/1142) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [refactor: replace open_url() with open_homepage()](https://github.com/quickemu-project/quickemu/pull/1141) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [docs: update the README to reference the wiki for documentation](https://github.com/quickemu-project/quickemu/pull/1140) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [chore: remove wget](https://github.com/quickemu-project/quickemu/pull/1139) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [Update flake.nix to provide a dev shell and a package](https://github.com/quickemu-project/quickemu/pull/1138) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 
 ### Recent releases 📦️
 
@@ -59,7 +59,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.18.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.18.0), 2 weeks ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
-- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.18](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.18), 2 weeks ago)
+- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.18](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.18), 3 weeks ago)
   - Health checks for your Nix flakes
 - [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.0](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.0), 3 weeks ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1450)
   - A Steam Big Picture based couch gaming OS
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16718)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16721)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 
 ### 🎙️ Podcast
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Wake-on-LAN for Preschoolers](https://linuxmatters.sh/28/) (2 days ago)
+- [Wake-on-LAN for Preschoolers](https://linuxmatters.sh/28/) (3 days ago)
 - [If I Could Just Interject](https://linuxmatters.sh/27/) (2 weeks ago)
 - [Snappy Snap Snapshots](https://linuxmatters.sh/26/) (1 month ago)
 - [The Joy of Linux Torture](https://linuxmatters.sh/25/) (1 month ago)
