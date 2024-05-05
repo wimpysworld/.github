@@ -32,25 +32,25 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (3 days ago)
   - A Flutter frontend for quickget and quickemu.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (1 week ago)
   - The website to showcase Ubuntu MATE&#39;s features.
 
 ### Recent pull requests 🛠️
 
 
+- [Assorted updates](https://github.com/wimpysworld/nix-config/pull/172) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [Update vscode extensions](https://github.com/wimpysworld/nix-config/pull/171) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [Fixes for daily-live URL checks and shellcheck](https://github.com/quickemu-project/quickemu/pull/1158) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
 - [Add tests CI and refactor release workflow](https://github.com/quickemu-project/quickemu/pull/1155) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
 - [Add custom_config()](https://github.com/quickemu-project/quickemu/pull/1143) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
-- [fix: add not_supported_argument()](https://github.com/quickemu-project/quickemu/pull/1142) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
-- [refactor: replace open_url() with open_homepage()](https://github.com/quickemu-project/quickemu/pull/1141) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
 
 ### Recent releases 📦️
 
@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1225)
   - Atomic secret provisioning for NixOS based on sops
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9225)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9226)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [grigio/obs-cmd](https://github.com/grigio/obs-cmd) (65)
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
