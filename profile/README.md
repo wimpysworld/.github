@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [ci: remove [WIP] opt-in for pull request linting](https://github.com/quickemu-project/quickemu/pull/1166) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [refactor(quickemu): remove requirement for lsb_release. close #1156](https://github.com/quickemu-project/quickemu/pull/1165) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [ci: add lint-pr.yml; conventional commits specification checker](https://github.com/quickemu-project/quickemu/pull/1164) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [Assorted updates](https://github.com/wimpysworld/nix-config/pull/172) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [Update vscode extensions](https://github.com/wimpysworld/nix-config/pull/171) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [Fixes for daily-live URL checks and shellcheck](https://github.com/quickemu-project/quickemu/pull/1158) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
-- [Add tests CI and refactor release workflow](https://github.com/quickemu-project/quickemu/pull/1155) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
 
 ### Recent releases 📦️
 
@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1455)
   - A Steam Big Picture based couch gaming OS
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16768)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16770)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 
 ### 🎙️ Podcast
