@@ -32,13 +32,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (2 days ago)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (3 days ago)
   - A Flutter frontend for quickget and quickemu.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (1 week ago)
   - The website to showcase Ubuntu MATE&#39;s features.
@@ -46,16 +46,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [Fixes for daily-live URL checks and shellcheck](https://github.com/quickemu-project/quickemu/pull/1158) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
-- [Add tests CI and refactor release workflow](https://github.com/quickemu-project/quickemu/pull/1155) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
-- [Add custom_config()](https://github.com/quickemu-project/quickemu/pull/1143) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
-- [fix: add not_supported_argument()](https://github.com/quickemu-project/quickemu/pull/1142) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
-- [refactor: replace open_url() with open_homepage()](https://github.com/quickemu-project/quickemu/pull/1141) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
+- [Fixes for daily-live URL checks and shellcheck](https://github.com/quickemu-project/quickemu/pull/1158) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
+- [Add tests CI and refactor release workflow](https://github.com/quickemu-project/quickemu/pull/1155) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
+- [Add custom_config()](https://github.com/quickemu-project/quickemu/pull/1143) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
+- [fix: add not_supported_argument()](https://github.com/quickemu-project/quickemu/pull/1142) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
+- [refactor: replace open_url() with open_homepage()](https://github.com/quickemu-project/quickemu/pull/1141) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.19.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.19.0), 1 day ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.19.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.19.0), 2 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.2.5](https://github.com/sxyazi/yazi/releases/tag/v0.2.5), 1 week ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -69,15 +69,15 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1224)
+- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1225)
   - Atomic secret provisioning for NixOS based on sops
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9220)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9221)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [grigio/obs-cmd](https://github.com/grigio/obs-cmd) (65)
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
-- [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1453)
+- [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) (1454)
   - A Steam Big Picture based couch gaming OS
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16762)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (16763)
   - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 
 ### 🎙️ Podcast
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Wake-on-LAN for Preschoolers](https://linuxmatters.sh/28/) (4 days ago)
+- [Wake-on-LAN for Preschoolers](https://linuxmatters.sh/28/) (5 days ago)
 - [If I Could Just Interject](https://linuxmatters.sh/27/) (2 weeks ago)
 - [Snappy Snap Snapshots](https://linuxmatters.sh/26/) (1 month ago)
 - [The Joy of Linux Torture](https://linuxmatters.sh/25/) (1 month ago)
