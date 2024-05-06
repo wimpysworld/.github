@@ -32,30 +32,30 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [quickemu-project/.github](https://github.com/quickemu-project/.github) (today)
+- [quickemu-project/.github](https://github.com/quickemu-project/.github) (1 day ago)
   - Quickemu Project
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
   - My personal blog
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (3 days ago)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (4 days ago)
   - A Flutter frontend for quickget and quickemu.
 
 ### Recent pull requests 🛠️
 
 
-- [ci: remove [WIP] opt-in for pull request linting](https://github.com/quickemu-project/quickemu/pull/1166) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [refactor(quickemu): remove requirement for lsb_release. close #1156](https://github.com/quickemu-project/quickemu/pull/1165) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [ci: add lint-pr.yml; conventional commits specification checker](https://github.com/quickemu-project/quickemu/pull/1164) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [Assorted updates](https://github.com/wimpysworld/nix-config/pull/172) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [Update vscode extensions](https://github.com/wimpysworld/nix-config/pull/171) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [ci: remove [WIP] opt-in for pull request linting](https://github.com/quickemu-project/quickemu/pull/1166) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [refactor(quickemu): remove requirement for lsb_release. close #1156](https://github.com/quickemu-project/quickemu/pull/1165) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [ci: add lint-pr.yml; conventional commits specification checker](https://github.com/quickemu-project/quickemu/pull/1164) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [Assorted updates](https://github.com/wimpysworld/nix-config/pull/172) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [Update vscode extensions](https://github.com/wimpysworld/nix-config/pull/171) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.19.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.19.0), 2 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.19.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.19.0), 3 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.2.5](https://github.com/sxyazi/yazi/releases/tag/v0.2.5), 1 week ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Wake-on-LAN for Preschoolers](https://linuxmatters.sh/28/) (5 days ago)
+- [Wake-on-LAN for Preschoolers](https://linuxmatters.sh/28/) (6 days ago)
 - [If I Could Just Interject](https://linuxmatters.sh/27/) (2 weeks ago)
 - [Snappy Snap Snapshots](https://linuxmatters.sh/26/) (1 month ago)
 - [The Joy of Linux Torture](https://linuxmatters.sh/25/) (1 month ago)
