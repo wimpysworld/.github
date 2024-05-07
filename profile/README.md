@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) (17894)
   - ✨ Magical shell history
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (18895)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (18896)
   - A smarter cd command. Supports all major shells.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1234)
   - Atomic secret provisioning for NixOS based on sops
