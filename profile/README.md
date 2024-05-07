@@ -34,14 +34,14 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (today)
+  - apt-get for .debs published via GitHub or direct download 📦
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [quickemu-project/.github](https://github.com/quickemu-project/.github) (2 days ago)
   - Quickemu Project
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
   - My personal blog
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (5 days ago)
-  - A Flutter frontend for quickget and quickemu.
 
 ### Recent pull requests 🛠️
 
