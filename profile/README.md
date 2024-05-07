@@ -32,32 +32,32 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-  - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [quickemu-project/.github](https://github.com/quickemu-project/.github) (1 day ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+  - Quickly create and run optimised Windows, macOS and Linux virtual machines
+- [quickemu-project/.github](https://github.com/quickemu-project/.github) (2 days ago)
   - Quickemu Project
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
   - My personal blog
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (4 days ago)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (5 days ago)
   - A Flutter frontend for quickget and quickemu.
 
 ### Recent pull requests 🛠️
 
 
-- [fix: assorted fixes, mostly shellcheck compliance](https://github.com/quickemu-project/quickemu/pull/1169) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [ci: remove [WIP] opt-in for pull request linting](https://github.com/quickemu-project/quickemu/pull/1166) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
-- [refactor(quickemu): remove requirement for lsb_release. close #1156](https://github.com/quickemu-project/quickemu/pull/1165) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
-- [ci: add lint-pr.yml; conventional commits specification checker](https://github.com/quickemu-project/quickemu/pull/1164) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
-- [Assorted updates](https://github.com/wimpysworld/nix-config/pull/172) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [fix: assorted fixes, mostly shellcheck compliance](https://github.com/quickemu-project/quickemu/pull/1169) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [ci: remove [WIP] opt-in for pull request linting](https://github.com/quickemu-project/quickemu/pull/1166) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
+- [refactor(quickemu): remove requirement for lsb_release. close #1156](https://github.com/quickemu-project/quickemu/pull/1165) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
+- [ci: add lint-pr.yml; conventional commits specification checker](https://github.com/quickemu-project/quickemu/pull/1164) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
+- [Assorted updates](https://github.com/wimpysworld/nix-config/pull/172) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.19.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.19.0), 3 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.19.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.19.0), 4 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.2.5](https://github.com/sxyazi/yazi/releases/tag/v0.2.5), 1 week ago)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.2.5](https://github.com/sxyazi/yazi/releases/tag/v0.2.5), 2 weeks ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.18](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.18), 3 weeks ago)
   - Health checks for your Nix flakes
@@ -71,13 +71,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) (17888)
   - ✨ Magical shell history
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (18883)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (18885)
   - A smarter cd command. Supports all major shells.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1233)
   - Atomic secret provisioning for NixOS based on sops
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9245)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9246)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [grigio/obs-cmd](https://github.com/grigio/obs-cmd) (65)
+- [grigio/obs-cmd](https://github.com/grigio/obs-cmd) (66)
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
 
 ### 🎙️ Podcast
@@ -86,8 +86,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Wake-on-LAN for Preschoolers](https://linuxmatters.sh/28/) (6 days ago)
-- [If I Could Just Interject](https://linuxmatters.sh/27/) (2 weeks ago)
+- [Wake-on-LAN for Preschoolers](https://linuxmatters.sh/28/) (1 week ago)
+- [If I Could Just Interject](https://linuxmatters.sh/27/) (3 weeks ago)
 - [Snappy Snap Snapshots](https://linuxmatters.sh/26/) (1 month ago)
 - [The Joy of Linux Torture](https://linuxmatters.sh/25/) (1 month ago)
 - [A Mini Swap Adventure](https://linuxmatters.sh/24/) (2 months ago)
