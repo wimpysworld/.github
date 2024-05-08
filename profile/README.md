@@ -23,7 +23,7 @@ We're a friendly bunch, and all are welcome 🏳️‍🌈 Join us!
 
 I [steam live-coding on Twitch](https://twitch.tv/WimpysWorld) 📡 and those streams are [archived on YouTube](https://youtube.com/WimpysWorld) 📺️
 
-These awesome people sponsor me: [castrojo](https://github.com/castrojo) Thank you! ❤️
+These awesome people sponsor me: [da-moon](https://github.com/da-moon)[castrojo](https://github.com/castrojo) Thank you! ❤️
 If you appreciate the work I do, then [please consider sponsoring me too](https://github.com/sponsors/flexiondotorg) 🤑 **Curious what I've been working on recently?**
 <div align="center">
   <img align="center" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/snake/github-contribution-grid-snake-dark.svg">
@@ -71,11 +71,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) (17910)
   - ✨ Magical shell history
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (18925)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (18927)
   - A smarter cd command. Supports all major shells.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1236)
   - Atomic secret provisioning for NixOS based on sops
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9259)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9260)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [grigio/obs-cmd](https://github.com/grigio/obs-cmd) (67)
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
