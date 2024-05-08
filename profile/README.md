@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix: collection of fixes and resolution for shellcheck warnings](https://github.com/quickemu-project/quickemu/pull/1172) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix: assorted fixes, mostly shellcheck compliance](https://github.com/quickemu-project/quickemu/pull/1169) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
 - [ci: remove [WIP] opt-in for pull request linting](https://github.com/quickemu-project/quickemu/pull/1166) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
 - [refactor(quickemu): remove requirement for lsb_release. close #1156](https://github.com/quickemu-project/quickemu/pull/1165) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
 - [ci: add lint-pr.yml; conventional commits specification checker](https://github.com/quickemu-project/quickemu/pull/1164) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
-- [Assorted updates](https://github.com/wimpysworld/nix-config/pull/172) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 
 ### Recent releases 📦️
 
@@ -69,9 +69,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) (17910)
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) (17911)
   - ✨ Magical shell history
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (18927)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (18930)
   - A smarter cd command. Supports all major shells.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1236)
   - Atomic secret provisioning for NixOS based on sops
