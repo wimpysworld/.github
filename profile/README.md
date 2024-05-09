@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: add quickreport; gather information for bug reports. close #1163](https://github.com/quickemu-project/quickemu/pull/1176) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix: resolve the remaining shellcheck warnings and clean up](https://github.com/quickemu-project/quickemu/pull/1174) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix: update cpu characteristics for macOS. close #1114](https://github.com/quickemu-project/quickemu/pull/1173) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [fix: collection of fixes and resolution for shellcheck warnings](https://github.com/quickemu-project/quickemu/pull/1172) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [fix: assorted fixes, mostly shellcheck compliance](https://github.com/quickemu-project/quickemu/pull/1169) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
-- [ci: remove [WIP] opt-in for pull request linting](https://github.com/quickemu-project/quickemu/pull/1166) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (4 days ago)
 
 ### Recent releases 📦️
 
