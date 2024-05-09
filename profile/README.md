@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: make siduction editions dynamic](https://github.com/quickemu-project/quickemu/pull/1182) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [quickemu: 4.9.2 -&gt; 4.9.3](https://github.com/NixOS/nixpkgs/pull/310409) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [fix: drop passthru.tests in package.nix](https://github.com/quickemu-project/quickemu/pull/1180) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [chore: open 4.9.4 for development](https://github.com/quickemu-project/quickemu/pull/1179) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [feat: add quickreport; gather information for bug reports. close #1163](https://github.com/quickemu-project/quickemu/pull/1176) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [fix: resolve the remaining shellcheck warnings and clean up](https://github.com/quickemu-project/quickemu/pull/1174) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 
 ### Recent releases 📦️
 
@@ -69,9 +69,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) (17929)
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) (17931)
   - ✨ Magical shell history
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (18960)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (18962)
   - A smarter cd command. Supports all major shells.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1238)
   - Atomic secret provisioning for NixOS based on sops
