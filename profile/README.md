@@ -32,10 +32,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (2 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
 - [quickemu-project/.github](https://github.com/quickemu-project/.github) (4 days ago)
@@ -46,19 +46,19 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: update quickemu to 4.9.4](https://github.com/wimpysworld/nix-config/pull/174) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [fix: don&#39;t double quote while hunting for OVMF. close #1181](https://github.com/quickemu-project/quickemu/pull/1184) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [refactor: make siduction editions dynamic](https://github.com/quickemu-project/quickemu/pull/1182) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [quickemu: 4.9.2 -&gt; 4.9.3](https://github.com/NixOS/nixpkgs/pull/310409) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
+- [quickemu: 4.9.2 -&gt; 4.9.4](https://github.com/NixOS/nixpkgs/pull/310409) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [fix: drop passthru.tests in package.nix](https://github.com/quickemu-project/quickemu/pull/1180) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [chore: open 4.9.4 for development](https://github.com/quickemu-project/quickemu/pull/1179) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 
 ### Recent releases 📦️
 
 
+- [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) ([v6](https://github.com/DeterminateSystems/magic-nix-cache-action/releases/tag/v6), today)
+  -  Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions. 
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.4](https://github.com/quickemu-project/quickemu/releases/tag/4.9.4), today)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) ([v5](https://github.com/DeterminateSystems/magic-nix-cache-action/releases/tag/v5), today)
-  -  Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions. 
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.19.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.19.0), 6 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.2.5](https://github.com/sxyazi/yazi/releases/tag/v0.2.5), 2 weeks ago)
