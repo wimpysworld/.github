@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix: resolve the remaining shellcheck warnings and correct case indentation](https://github.com/quickemu-project/quickemu/pull/1174) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix: update cpu characteristics for macOS. close #1114](https://github.com/quickemu-project/quickemu/pull/1173) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [fix: collection of fixes and resolution for shellcheck warnings](https://github.com/quickemu-project/quickemu/pull/1172) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [fix: assorted fixes, mostly shellcheck compliance](https://github.com/quickemu-project/quickemu/pull/1169) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
 - [ci: remove [WIP] opt-in for pull request linting](https://github.com/quickemu-project/quickemu/pull/1166) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (4 days ago)
-- [refactor(quickemu): remove requirement for lsb_release. close #1156](https://github.com/quickemu-project/quickemu/pull/1165) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (4 days ago)
 
 ### Recent releases 📦️
 
@@ -69,9 +69,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) (17918)
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) (17919)
   - ✨ Magical shell history
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (18942)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (18946)
   - A smarter cd command. Supports all major shells.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1238)
   - Atomic secret provisioning for NixOS based on sops
