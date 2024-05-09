@@ -46,38 +46,38 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix: don&#39;t double quote while hunting for OVMF. close #1181](https://github.com/quickemu-project/quickemu/pull/1184) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [refactor: make siduction editions dynamic](https://github.com/quickemu-project/quickemu/pull/1182) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [quickemu: 4.9.2 -&gt; 4.9.3](https://github.com/NixOS/nixpkgs/pull/310409) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [fix: drop passthru.tests in package.nix](https://github.com/quickemu-project/quickemu/pull/1180) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [chore: open 4.9.4 for development](https://github.com/quickemu-project/quickemu/pull/1179) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [feat: add quickreport; gather information for bug reports. close #1163](https://github.com/quickemu-project/quickemu/pull/1176) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 
 ### Recent releases 📦️
 
 
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.3](https://github.com/quickemu-project/quickemu/releases/tag/4.9.3), today)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.4](https://github.com/quickemu-project/quickemu/releases/tag/4.9.4), today)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
+- [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) ([v5](https://github.com/DeterminateSystems/magic-nix-cache-action/releases/tag/v5), today)
+  -  Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions. 
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.19.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.19.0), 6 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.2.5](https://github.com/sxyazi/yazi/releases/tag/v0.2.5), 2 weeks ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.18](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.18), 3 weeks ago)
   - Health checks for your Nix flakes
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.0](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.0), 4 weeks ago)
-  - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 
 ### Recent starred projects ⭐️
 
 
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) (17931)
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) (17930)
   - ✨ Magical shell history
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (18962)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (18967)
   - A smarter cd command. Supports all major shells.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1238)
   - Atomic secret provisioning for NixOS based on sops
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9268)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9269)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [grigio/obs-cmd](https://github.com/grigio/obs-cmd) (67)
+- [grigio/obs-cmd](https://github.com/grigio/obs-cmd) (68)
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
 
 ### 🎙️ Podcast
