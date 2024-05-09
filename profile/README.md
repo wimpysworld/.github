@@ -32,36 +32,36 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (1 day ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (2 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [quickemu-project/.github](https://github.com/quickemu-project/.github) (3 days ago)
+- [quickemu-project/.github](https://github.com/quickemu-project/.github) (4 days ago)
   - Quickemu Project
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (4 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (5 days ago)
   - My personal blog
 
 ### Recent pull requests 🛠️
 
 
-- [fix: update cpu characteristics for macOS. close #1114](https://github.com/quickemu-project/quickemu/pull/1173) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [fix: collection of fixes and resolution for shellcheck warnings](https://github.com/quickemu-project/quickemu/pull/1172) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [fix: assorted fixes, mostly shellcheck compliance](https://github.com/quickemu-project/quickemu/pull/1169) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
-- [ci: remove [WIP] opt-in for pull request linting](https://github.com/quickemu-project/quickemu/pull/1166) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
-- [refactor(quickemu): remove requirement for lsb_release. close #1156](https://github.com/quickemu-project/quickemu/pull/1165) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
+- [fix: update cpu characteristics for macOS. close #1114](https://github.com/quickemu-project/quickemu/pull/1173) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [fix: collection of fixes and resolution for shellcheck warnings](https://github.com/quickemu-project/quickemu/pull/1172) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [fix: assorted fixes, mostly shellcheck compliance](https://github.com/quickemu-project/quickemu/pull/1169) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
+- [ci: remove [WIP] opt-in for pull request linting](https://github.com/quickemu-project/quickemu/pull/1166) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (4 days ago)
+- [refactor(quickemu): remove requirement for lsb_release. close #1156](https://github.com/quickemu-project/quickemu/pull/1165) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (4 days ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.19.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.19.0), 5 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.19.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.19.0), 6 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.2.5](https://github.com/sxyazi/yazi/releases/tag/v0.2.5), 2 weeks ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.18](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.18), 3 weeks ago)
   - Health checks for your Nix flakes
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.0](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.0), 3 weeks ago)
+- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.0](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.0), 4 weeks ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) ([v4](https://github.com/DeterminateSystems/magic-nix-cache-action/releases/tag/v4), 1 month ago)
   -  Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions. 
@@ -71,11 +71,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) (17917)
   - ✨ Magical shell history
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (18941)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (18942)
   - A smarter cd command. Supports all major shells.
-- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1236)
+- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1237)
   - Atomic secret provisioning for NixOS based on sops
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9263)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9264)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [grigio/obs-cmd](https://github.com/grigio/obs-cmd) (67)
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
@@ -97,10 +97,10 @@ Here's some recent episodes:
 <a href="https://youtube.com/WimpysWorld" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UChpYmMp7EFaxuogUX1eAqyw?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
 - [NixOS | More Nix ❄️ packaging &amp; fixes 🩹 for OBS Studio 📡](https://www.youtube.com/watch?v=VqNaOOm7Dhw) (3 months ago)
-- [NixOS | Updating Nix ❄️ packages of OBS Studio 📡 and it&#39;s plugins🔌](https://www.youtube.com/watch?v=phgOv_UCbMM) (3 months ago)
+- [NixOS | Updating Nix ❄️ packages of OBS Studio 📡 and it&#39;s plugins🔌](https://www.youtube.com/watch?v=phgOv_UCbMM) (4 months ago)
 - [NixOS &amp; Linux | Tinkering with my Nix config ❄️ and poking at some Linux projects 🐧](https://www.youtube.com/watch?v=biVQ_-v8oEo) (4 months ago)
 - [NixOS &amp; Linux 🐧 Automate OBS with Kruiz Control and Scene Switcher](https://www.youtube.com/watch?v=BSITslJbMGA) (4 months ago)
-- [[Linux &amp; NixOS] Catching up on a few projects ❄️ - Part 2](https://www.youtube.com/watch?v=IpiuKvqHU-c) (4 months ago)
+- [[Linux &amp; NixOS] Catching up on a few projects ❄️ - Part 2](https://www.youtube.com/watch?v=IpiuKvqHU-c) (5 months ago)
 
 ### ✍️ Blog
 
