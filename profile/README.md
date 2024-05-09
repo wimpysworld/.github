@@ -32,12 +32,12 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+  - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (2 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
-  - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [quickemu-project/.github](https://github.com/quickemu-project/.github) (4 days ago)
   - Quickemu Project
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (5 days ago)
@@ -69,11 +69,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) (17917)
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) (17918)
   - ✨ Magical shell history
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (18942)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (18941)
   - A smarter cd command. Supports all major shells.
-- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1237)
+- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1238)
   - Atomic secret provisioning for NixOS based on sops
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9264)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
