@@ -71,9 +71,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) (17936)
   - ✨ Magical shell history
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (18977)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (18979)
   - A smarter cd command. Supports all major shells.
-- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1237)
+- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1238)
   - Atomic secret provisioning for NixOS based on sops
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9271)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
