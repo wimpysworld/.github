@@ -32,6 +32,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
+  - Nix Packages collection &amp; NixOS
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
@@ -40,17 +42,15 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - apt-get for .debs published via GitHub or direct download 📦
 - [quickemu-project/.github](https://github.com/quickemu-project/.github) (5 days ago)
   - Quickemu Project
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (6 days ago)
-  - My personal blog
 
 ### Recent pull requests 🛠️
 
 
+- [fix: correct VM RAM allocation check for Windows and macOS. close #1191](https://github.com/quickemu-project/quickemu/pull/1193) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix(nix): add missing gawk](https://github.com/quickemu-project/quickemu/pull/1190) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix(quickemu): detect GLSL version and enable GL accordingly. close #920](https://github.com/quickemu-project/quickemu/pull/1189) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [refactor: align quickemu with upstream nixpkgs](https://github.com/wimpysworld/nix-config/pull/175) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat: update quickemu to 4.9.4](https://github.com/wimpysworld/nix-config/pull/174) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [fix: don&#39;t double quote while hunting for OVMF. close #1181](https://github.com/quickemu-project/quickemu/pull/1184) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 
 ### Recent releases 📦️
 
@@ -69,13 +69,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) (17934)
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) (17936)
   - ✨ Magical shell history
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (18979)
   - A smarter cd command. Supports all major shells.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1237)
   - Atomic secret provisioning for NixOS based on sops
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9272)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9271)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [grigio/obs-cmd](https://github.com/grigio/obs-cmd) (69)
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
