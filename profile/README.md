@@ -32,32 +32,32 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
   - Nix Packages collection &amp; NixOS
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (3 days ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (4 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
-- [quickemu-project/.github](https://github.com/quickemu-project/.github) (5 days ago)
+- [quickemu-project/.github](https://github.com/quickemu-project/.github) (6 days ago)
   - Quickemu Project
 
 ### Recent pull requests 🛠️
 
 
-- [fix: correct VM RAM allocation check for Windows and macOS. close #1191](https://github.com/quickemu-project/quickemu/pull/1193) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [fix(nix): add missing gawk](https://github.com/quickemu-project/quickemu/pull/1190) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [fix(quickemu): detect GLSL version and enable GL accordingly. close #920](https://github.com/quickemu-project/quickemu/pull/1189) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [refactor: align quickemu with upstream nixpkgs](https://github.com/wimpysworld/nix-config/pull/175) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [feat: update quickemu to 4.9.4](https://github.com/wimpysworld/nix-config/pull/174) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [fix: correct VM RAM allocation check for Windows and macOS. close #1191](https://github.com/quickemu-project/quickemu/pull/1193) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [fix(nix): add missing gawk](https://github.com/quickemu-project/quickemu/pull/1190) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [fix(quickemu): detect GLSL version and enable GL accordingly. close #920](https://github.com/quickemu-project/quickemu/pull/1189) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [refactor: align quickemu with upstream nixpkgs](https://github.com/wimpysworld/nix-config/pull/175) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [feat: update quickemu to 4.9.4](https://github.com/wimpysworld/nix-config/pull/174) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) ([v6](https://github.com/DeterminateSystems/magic-nix-cache-action/releases/tag/v6), 1 day ago)
+- [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) ([v6](https://github.com/DeterminateSystems/magic-nix-cache-action/releases/tag/v6), 2 days ago)
   -  Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions. 
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.4](https://github.com/quickemu-project/quickemu/releases/tag/4.9.4), 1 day ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.4](https://github.com/quickemu-project/quickemu/releases/tag/4.9.4), 2 days ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.19.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.19.0), 1 week ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) (17942)
   - ✨ Magical shell history
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (18991)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (18993)
   - A smarter cd command. Supports all major shells.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1239)
   - Atomic secret provisioning for NixOS based on sops
