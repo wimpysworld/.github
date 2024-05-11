@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: add a small collection of requested features and fixes](https://github.com/quickemu-project/quickemu/pull/1199) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix: update sidious to be compatible with nixos-hardware changes](https://github.com/wimpysworld/nix-config/pull/177) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [fix: correct VM RAM allocation check for Windows and macOS. close #1191](https://github.com/quickemu-project/quickemu/pull/1193) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [fix(nix): add missing gawk](https://github.com/quickemu-project/quickemu/pull/1190) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [fix(quickemu): detect GLSL version and enable GL accordingly. close #920](https://github.com/quickemu-project/quickemu/pull/1189) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
-- [refactor: align quickemu with upstream nixpkgs](https://github.com/wimpysworld/nix-config/pull/175) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 
 ### Recent releases 📦️
 
