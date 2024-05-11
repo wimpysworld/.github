@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix: update sidious to be compatible with nixos-hardware changes](https://github.com/wimpysworld/nix-config/pull/177) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [fix: correct VM RAM allocation check for Windows and macOS. close #1191](https://github.com/quickemu-project/quickemu/pull/1193) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [fix(nix): add missing gawk](https://github.com/quickemu-project/quickemu/pull/1190) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [fix(quickemu): detect GLSL version and enable GL accordingly. close #920](https://github.com/quickemu-project/quickemu/pull/1189) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [refactor: align quickemu with upstream nixpkgs](https://github.com/wimpysworld/nix-config/pull/175) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [feat: update quickemu to 4.9.4](https://github.com/wimpysworld/nix-config/pull/174) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 
 ### Recent releases 📦️
 
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - A smarter cd command. Supports all major shells.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1239)
   - Atomic secret provisioning for NixOS based on sops
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9276)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9277)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [grigio/obs-cmd](https://github.com/grigio/obs-cmd) (69)
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
