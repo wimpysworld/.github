@@ -32,6 +32,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+  - My personal blog
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
@@ -40,8 +42,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (5 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
-- [quickemu-project/.github](https://github.com/quickemu-project/.github) (1 week ago)
-  - Quickemu Project
 
 ### Recent pull requests 🛠️
 
@@ -69,9 +69,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) (17956)
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) (17958)
   - ✨ Magical shell history
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19017)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19018)
   - A smarter cd command. Supports all major shells.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1242)
   - Atomic secret provisioning for NixOS based on sops
