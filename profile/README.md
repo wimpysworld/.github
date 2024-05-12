@@ -69,13 +69,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) (17951)
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) (17953)
   - ✨ Magical shell history
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19013)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19015)
   - A smarter cd command. Supports all major shells.
-- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1240)
+- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1241)
   - Atomic secret provisioning for NixOS based on sops
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9282)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9283)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [grigio/obs-cmd](https://github.com/grigio/obs-cmd) (69)
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
