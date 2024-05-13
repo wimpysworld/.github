@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: code clean up](https://github.com/quickemu-project/quickemu/pull/1208) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix: display resolution can be set using `--width` and`--height` for macOS and BSD](https://github.com/quickemu-project/quickemu/pull/1204) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [feat: add a small collection of requested features and fixes](https://github.com/quickemu-project/quickemu/pull/1199) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
 - [fix: update sidious to be compatible with nixos-hardware changes](https://github.com/wimpysworld/nix-config/pull/177) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 - [fix: correct VM RAM allocation check for Windows and macOS. close #1191](https://github.com/quickemu-project/quickemu/pull/1193) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
-- [fix(nix): add missing gawk](https://github.com/quickemu-project/quickemu/pull/1190) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
 
 ### Recent releases 📦️
 
@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) (17962)
   - ✨ Magical shell history
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19030)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19032)
   - A smarter cd command. Supports all major shells.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1242)
   - Atomic secret provisioning for NixOS based on sops
