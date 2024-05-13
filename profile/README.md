@@ -32,14 +32,14 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
   - Nix Packages collection &amp; NixOS
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (6 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
 
@@ -69,13 +69,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) (17966)
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) (17967)
   - ✨ Magical shell history
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19040)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19041)
   - A smarter cd command. Supports all major shells.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1242)
   - Atomic secret provisioning for NixOS based on sops
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9287)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9288)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [grigio/obs-cmd](https://github.com/grigio/obs-cmd) (69)
   - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
