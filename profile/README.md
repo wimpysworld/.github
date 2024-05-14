@@ -46,15 +46,17 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: add support for running quickemu of macOS (x86) hosts. close #447](https://github.com/quickemu-project/quickemu/pull/1225) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [feat: add debian/ packaging. close #1](https://github.com/quickemu-project/quicktest/pull/9) on [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (today)
 - [refactor: code clean up](https://github.com/quickemu-project/quickemu/pull/1208) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [fix: display resolution can be set using `--width` and`--height` for macOS and BSD](https://github.com/quickemu-project/quickemu/pull/1204) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
 - [feat: add a small collection of requested features and fixes](https://github.com/quickemu-project/quickemu/pull/1199) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
-- [fix: update sidious to be compatible with nixos-hardware changes](https://github.com/wimpysworld/nix-config/pull/177) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 
 ### Recent releases 📦️
 
 
+- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) ([0.2.0](https://github.com/quickemu-project/quicktest/releases/tag/0.2.0), today)
+  - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
 - [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) ([v6](https://github.com/DeterminateSystems/magic-nix-cache-action/releases/tag/v6), 5 days ago)
   -  Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions. 
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.4](https://github.com/quickemu-project/quickemu/releases/tag/4.9.4), 5 days ago)
@@ -63,8 +65,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.2.5](https://github.com/sxyazi/yazi/releases/tag/v0.2.5), 3 weeks ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.18](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.18), 1 month ago)
-  - Health checks for your Nix flakes
 
 ### Recent starred projects ⭐️
 
@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - A smarter cd command. Supports all major shells.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1245)
   - Atomic secret provisioning for NixOS based on sops
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9306)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9308)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 
 ### 🎙️ Podcast
