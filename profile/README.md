@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) (17978)
   - ✨ Magical shell history
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19076)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19080)
   - A smarter cd command. Supports all major shells.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1245)
   - Atomic secret provisioning for NixOS based on sops
