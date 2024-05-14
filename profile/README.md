@@ -32,36 +32,36 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [quickemu-project/.github](https://github.com/quickemu-project/.github) (today)
+- [quickemu-project/.github](https://github.com/quickemu-project/.github) (1 day ago)
   - Quickemu Project
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
   - My personal blog
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 days ago)
   - Nix Packages collection &amp; NixOS
 
 ### Recent pull requests 🛠️
 
 
-- [refactor: code clean up](https://github.com/quickemu-project/quickemu/pull/1208) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [fix: display resolution can be set using `--width` and`--height` for macOS and BSD](https://github.com/quickemu-project/quickemu/pull/1204) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
-- [feat: add a small collection of requested features and fixes](https://github.com/quickemu-project/quickemu/pull/1199) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
-- [fix: update sidious to be compatible with nixos-hardware changes](https://github.com/wimpysworld/nix-config/pull/177) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [fix: correct VM RAM allocation check for Windows and macOS. close #1191](https://github.com/quickemu-project/quickemu/pull/1193) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
+- [refactor: code clean up](https://github.com/quickemu-project/quickemu/pull/1208) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [fix: display resolution can be set using `--width` and`--height` for macOS and BSD](https://github.com/quickemu-project/quickemu/pull/1204) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
+- [feat: add a small collection of requested features and fixes](https://github.com/quickemu-project/quickemu/pull/1199) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
+- [fix: update sidious to be compatible with nixos-hardware changes](https://github.com/wimpysworld/nix-config/pull/177) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [fix: correct VM RAM allocation check for Windows and macOS. close #1191](https://github.com/quickemu-project/quickemu/pull/1193) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (4 days ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) ([v6](https://github.com/DeterminateSystems/magic-nix-cache-action/releases/tag/v6), 4 days ago)
+- [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) ([v6](https://github.com/DeterminateSystems/magic-nix-cache-action/releases/tag/v6), 5 days ago)
   -  Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions. 
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.4](https://github.com/quickemu-project/quickemu/releases/tag/4.9.4), 4 days ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.4](https://github.com/quickemu-project/quickemu/releases/tag/4.9.4), 5 days ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.19.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.19.0), 1 week ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.2.5](https://github.com/sxyazi/yazi/releases/tag/v0.2.5), 2 weeks ago)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.2.5](https://github.com/sxyazi/yazi/releases/tag/v0.2.5), 3 weeks ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.18](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.18), 1 month ago)
   - Health checks for your Nix flakes
@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (2)
   - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) (17970)
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) (17971)
   - ✨ Magical shell history
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19053)
   - A smarter cd command. Supports all major shells.
@@ -86,8 +86,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Wake-on-LAN for Preschoolers](https://linuxmatters.sh/28/) (1 week ago)
-- [If I Could Just Interject](https://linuxmatters.sh/27/) (3 weeks ago)
+- [Wake-on-LAN for Preschoolers](https://linuxmatters.sh/28/) (2 weeks ago)
+- [If I Could Just Interject](https://linuxmatters.sh/27/) (4 weeks ago)
 - [Snappy Snap Snapshots](https://linuxmatters.sh/26/) (1 month ago)
 - [The Joy of Linux Torture](https://linuxmatters.sh/25/) (1 month ago)
 - [A Mini Swap Adventure](https://linuxmatters.sh/24/) (2 months ago)
