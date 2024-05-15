@@ -69,11 +69,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (5)
+- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (6)
   - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) (17990)
   - ✨ Magical shell history
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19108)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19109)
   - A smarter cd command. Supports all major shells.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1245)
   - Atomic secret provisioning for NixOS based on sops
