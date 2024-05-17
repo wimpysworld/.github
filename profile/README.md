@@ -55,6 +55,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
+- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.1](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.1), today)
+  - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) ([0.3.1](https://github.com/quickemu-project/quicktest/releases/tag/0.3.1), today)
   - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
 - [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) ([v6](https://github.com/DeterminateSystems/magic-nix-cache-action/releases/tag/v6), 1 week ago)
@@ -63,8 +65,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.19.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.19.0), 2 weeks ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.2.5](https://github.com/sxyazi/yazi/releases/tag/v0.2.5), 3 weeks ago)
-  - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 
 ### Recent starred projects ⭐️
 
@@ -73,9 +73,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) (18007)
   - ✨ Magical shell history
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19162)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19164)
   - A smarter cd command. Supports all major shells.
-- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1248)
+- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1249)
   - Atomic secret provisioning for NixOS based on sops
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9343)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
