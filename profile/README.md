@@ -32,10 +32,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+  - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
   - My personal blog
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
-  - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (3 days ago)
   - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
 - [quickemu-project/.github](https://github.com/quickemu-project/.github) (4 days ago)
