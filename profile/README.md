@@ -55,7 +55,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
-- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) ([0.2.2](https://github.com/quickemu-project/quicktest/releases/tag/0.2.2), 2 days ago)
+- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) ([0.3.1](https://github.com/quickemu-project/quicktest/releases/tag/0.3.1), today)
   - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
 - [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) ([v6](https://github.com/DeterminateSystems/magic-nix-cache-action/releases/tag/v6), 1 week ago)
   -  Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions. 
@@ -73,11 +73,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) (18005)
   - ✨ Magical shell history
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19154)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19157)
   - A smarter cd command. Supports all major shells.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1248)
   - Atomic secret provisioning for NixOS based on sops
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9341)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9342)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 
 ### 🎙️ Podcast
