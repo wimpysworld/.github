@@ -71,11 +71,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (7)
   - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) (18000)
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) (18001)
   - ✨ Magical shell history
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19143)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19145)
   - A smarter cd command. Supports all major shells.
-- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1246)
+- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1247)
   - Atomic secret provisioning for NixOS based on sops
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9338)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
