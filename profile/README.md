@@ -32,32 +32,32 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (5 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (6 days ago)
   - My personal blog
-- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (5 days ago)
+- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (6 days ago)
   - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
-- [quickemu-project/.github](https://github.com/quickemu-project/.github) (6 days ago)
+- [quickemu-project/.github](https://github.com/quickemu-project/.github) (1 week ago)
   - Quickemu Project
 
 ### Recent pull requests 🛠️
 
 
-- [feat: add support for running quickemu on macOS hosts](https://github.com/quickemu-project/quickemu/pull/1225) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (5 days ago)
-- [feat: add debian/ packaging. close #1](https://github.com/quickemu-project/quicktest/pull/9) on [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (5 days ago)
-- [refactor: code clean up](https://github.com/quickemu-project/quickemu/pull/1208) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (6 days ago)
+- [feat: add support for running quickemu on macOS hosts](https://github.com/quickemu-project/quickemu/pull/1225) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (6 days ago)
+- [feat: add debian/ packaging. close #1](https://github.com/quickemu-project/quicktest/pull/9) on [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (6 days ago)
+- [refactor: code clean up](https://github.com/quickemu-project/quickemu/pull/1208) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
 - [fix: display resolution can be set using `--width` and`--height` for macOS and BSD](https://github.com/quickemu-project/quickemu/pull/1204) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
 - [feat: add a small collection of requested features and fixes](https://github.com/quickemu-project/quickemu/pull/1199) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
 
 ### Recent releases 📦️
 
 
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.1](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.1), 2 days ago)
+- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.1](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.1), 3 days ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
-- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) ([0.3.1](https://github.com/quickemu-project/quicktest/releases/tag/0.3.1), 2 days ago)
+- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) ([0.3.1](https://github.com/quickemu-project/quicktest/releases/tag/0.3.1), 3 days ago)
   - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
 - [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) ([v6](https://github.com/DeterminateSystems/magic-nix-cache-action/releases/tag/v6), 1 week ago)
   -  Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions. 
@@ -71,13 +71,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (8)
   - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) (18022)
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) (18023)
   - ✨ Magical shell history
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19226)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19228)
   - A smarter cd command. Supports all major shells.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1251)
   - Atomic secret provisioning for NixOS based on sops
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9365)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9366)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 
 ### 🎙️ Podcast
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Desktop of the Gods](https://linuxmatters.sh/29/) (5 days ago)
+- [Desktop of the Gods](https://linuxmatters.sh/29/) (6 days ago)
 - [Wake-on-LAN for Preschoolers](https://linuxmatters.sh/28/) (2 weeks ago)
 - [If I Could Just Interject](https://linuxmatters.sh/27/) (1 month ago)
 - [Snappy Snap Snapshots](https://linuxmatters.sh/26/) (1 month ago)
