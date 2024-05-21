@@ -69,9 +69,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (8)
+- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (9)
   - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) (18041)
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) (18043)
   - ✨ Magical shell history
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19288)
   - A smarter cd command. Supports all major shells.
