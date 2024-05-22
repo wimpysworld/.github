@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (4 days ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (5 days ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 week ago)
   - My personal blog
@@ -55,9 +55,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.1](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.1), 4 days ago)
+- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.1](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.1), 5 days ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
-- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) ([0.3.1](https://github.com/quickemu-project/quicktest/releases/tag/0.3.1), 4 days ago)
+- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) ([0.3.1](https://github.com/quickemu-project/quicktest/releases/tag/0.3.1), 5 days ago)
   - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
 - [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) ([v6](https://github.com/DeterminateSystems/magic-nix-cache-action/releases/tag/v6), 1 week ago)
   -  Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions. 
@@ -71,9 +71,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (9)
   - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) (18051)
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) (18052)
   - ✨ Magical shell history
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19303)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19304)
   - A smarter cd command. Supports all major shells.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1256)
   - Atomic secret provisioning for NixOS based on sops
