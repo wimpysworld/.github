@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix: resolve portability issues between Linux distros and macOS](https://github.com/quickemu-project/quickemu/pull/1247) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [feat: add support for running quickemu on macOS hosts](https://github.com/quickemu-project/quickemu/pull/1225) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
 - [feat: add debian/ packaging. close #1](https://github.com/quickemu-project/quicktest/pull/9) on [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (1 week ago)
 - [refactor: code clean up](https://github.com/quickemu-project/quickemu/pull/1208) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
 - [fix: display resolution can be set using `--width` and`--height` for macOS and BSD](https://github.com/quickemu-project/quickemu/pull/1204) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
-- [feat: add a small collection of requested features and fixes](https://github.com/quickemu-project/quickemu/pull/1199) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
 
 ### Recent releases 📦️
 
