@@ -32,10 +32,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+  - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
-  - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 week ago)
   - My personal blog
 - [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (1 week ago)
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - ✨ Magical shell history
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19353)
   - A smarter cd command. Supports all major shells.
-- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1265)
+- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1266)
   - Atomic secret provisioning for NixOS based on sops
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9411)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
