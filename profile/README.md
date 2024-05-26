@@ -69,11 +69,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [numtide/system-manager](https://github.com/numtide/system-manager) (562)
+- [numtide/system-manager](https://github.com/numtide/system-manager) (563)
   - Manage system config using nix on any distro
 - [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (8)
   - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) (18119)
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) (18120)
   - ✨ Magical shell history
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19403)
   - A smarter cd command. Supports all major shells.
