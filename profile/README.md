@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [fix: resolve portability issues between Linux distros and macOS](https://github.com/quickemu-project/quickemu/pull/1247) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
+- [fix: resolve portability issues between Linux distros and macOS](https://github.com/quickemu-project/quickemu/pull/1247) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
 - [feat: add support for running quickemu on macOS hosts](https://github.com/quickemu-project/quickemu/pull/1225) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
 - [feat: add debian/ packaging. close #1](https://github.com/quickemu-project/quicktest/pull/9) on [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (1 week ago)
 - [refactor: code clean up](https://github.com/quickemu-project/quickemu/pull/1208) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
-- [fix: display resolution can be set using `--width` and`--height` for macOS and BSD](https://github.com/quickemu-project/quickemu/pull/1204) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
+- [fix: display resolution can be set using `--width` and`--height` for macOS and BSD](https://github.com/quickemu-project/quickemu/pull/1204) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 weeks ago)
 
 ### Recent releases 📦️
 
@@ -71,13 +71,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (8)
   - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) (18114)
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) (18115)
   - ✨ Magical shell history
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19384)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19385)
   - A smarter cd command. Supports all major shells.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1270)
   - Atomic secret provisioning for NixOS based on sops
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9419)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9421)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 
 ### 🎙️ Podcast
