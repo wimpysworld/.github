@@ -69,6 +69,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
+- [numtide/system-manager](https://github.com/numtide/system-manager) (561)
+  - Manage system config using nix on any distro
 - [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (8)
   - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) (18119)
@@ -77,8 +79,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - A smarter cd command. Supports all major shells.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1271)
   - Atomic secret provisioning for NixOS based on sops
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (9428)
-  - Quickly create and run optimised Windows, macOS and Linux virtual machines
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
