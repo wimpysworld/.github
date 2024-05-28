@@ -73,9 +73,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Manage system config using nix on any distro
 - [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (8)
   - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) (18141)
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) (18143)
   - ✨ Magical shell history
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19429)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19431)
   - A smarter cd command. Supports all major shells.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1272)
   - Atomic secret provisioning for NixOS based on sops
