@@ -73,9 +73,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Manage system config using nix on any distro
 - [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (8)
   - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) (18146)
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) (18147)
   - ✨ Magical shell history
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19442)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19443)
   - A smarter cd command. Supports all major shells.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1273)
   - Atomic secret provisioning for NixOS based on sops
@@ -86,11 +86,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
+- [Quickemu Rising From the Bashes](https://linuxmatters.sh/30/) (today)
 - [Desktop of the Gods](https://linuxmatters.sh/29/) (2 weeks ago)
 - [Wake-on-LAN for Preschoolers](https://linuxmatters.sh/28/) (4 weeks ago)
 - [If I Could Just Interject](https://linuxmatters.sh/27/) (1 month ago)
 - [Snappy Snap Snapshots](https://linuxmatters.sh/26/) (1 month ago)
-- [The Joy of Linux Torture](https://linuxmatters.sh/25/) (2 months ago)
 
 ### 📺️ YouTube
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
