@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Manage system config using nix on any distro
 - [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (8)
   - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) (18173)
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) (18174)
   - ✨ Magical shell history
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19483)
   - A smarter cd command. Supports all major shells.
