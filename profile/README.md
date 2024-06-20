@@ -23,7 +23,7 @@ We're a friendly bunch, and all are welcome 🏳️‍🌈 Join us!
 
 I [steam live-coding on Twitch](https://twitch.tv/WimpysWorld) 📡 and those streams are [archived on YouTube](https://youtube.com/WimpysWorld) 📺️
 
-These awesome people sponsor me: [da-moon](https://github.com/da-moon)[castrojo](https://github.com/castrojo) Thank you! ❤️
+These awesome people sponsor me: [mmartial](https://github.com/mmartial)[da-moon](https://github.com/da-moon)[castrojo](https://github.com/castrojo) Thank you! ❤️
 If you appreciate the work I do, then [please consider sponsoring me too](https://github.com/sponsors/flexiondotorg) 🤑 **Curious what I've been working on recently?**
 <div align="center">
   <img align="center" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/snake/github-contribution-grid-snake-dark.svg">
@@ -32,53 +32,53 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
+- [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) (2 weeks ago)
+  - Sources for nixos.org
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (4 weeks ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (2 weeks ago)
+- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (1 month ago)
   - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
-- [quickemu-project/.github](https://github.com/quickemu-project/.github) (2 weeks ago)
-  - Quickemu Project
 
 ### Recent pull requests 🛠️
 
 
-- [fix: resolve portability issues between Linux distros and macOS](https://github.com/quickemu-project/quickemu/pull/1247) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
-- [feat: add support for running quickemu on macOS hosts](https://github.com/quickemu-project/quickemu/pull/1225) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 weeks ago)
-- [feat: add debian/ packaging. close #1](https://github.com/quickemu-project/quicktest/pull/9) on [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (2 weeks ago)
-- [refactor: code clean up](https://github.com/quickemu-project/quickemu/pull/1208) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 weeks ago)
-- [fix: display resolution can be set using `--width` and`--height` for macOS and BSD](https://github.com/quickemu-project/quickemu/pull/1204) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 weeks ago)
+- [feat: add initial samba config](https://github.com/wimpysworld/nix-config/pull/207) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [feat: add plex and jellyfin to revan with improved homepage](https://github.com/wimpysworld/nix-config/pull/206) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [feat: update configuration of revan](https://github.com/wimpysworld/nix-config/pull/204) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
+- [refactor: assorted tweaks and improvements](https://github.com/wimpysworld/nix-config/pull/202) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
+- [chore: update zoom-us (pkg) and wavebox (overlay) to current versions](https://github.com/wimpysworld/nix-config/pull/199) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 weeks ago)
 
 ### Recent releases 📦️
 
 
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.1](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.1), 1 week ago)
+- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.2](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.2), 5 days ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
-- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) ([0.3.1](https://github.com/quickemu-project/quicktest/releases/tag/0.3.1), 1 week ago)
-  - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
-- [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) ([v6](https://github.com/DeterminateSystems/magic-nix-cache-action/releases/tag/v6), 3 weeks ago)
-  -  Save 30-50%&#43; of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions. 
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.4](https://github.com/quickemu-project/quickemu/releases/tag/4.9.4), 3 weeks ago)
-  - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.19.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.19.0), 3 weeks ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.19.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.19.1), 2 weeks ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
+- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.19](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.19), 2 weeks ago)
+  - Health checks for your Nix flakes
+- [DeterminateSystems/flakehub-push](https://github.com/DeterminateSystems/flakehub-push) ([v4](https://github.com/DeterminateSystems/flakehub-push/releases/tag/v4), 2 weeks ago)
+  - Release your Nix flake to FlakeHub.com.
+- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) ([v22](https://github.com/DeterminateSystems/update-flake-lock/releases/tag/v22), 2 weeks ago)
+  - Automatically refresh your Nix Flakes.
 
 ### Recent starred projects ⭐️
 
 
-- [numtide/system-manager](https://github.com/numtide/system-manager) (566)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13594)
+  - 😸 Soothing pastel theme for the high-spirited!
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17732)
+  - Blazing 💥 fast terminal-ui for git written in rust 🦀
+- [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) (377)
+  - An unofficial GUI wrapper around the Tailscale CLI client.
+- [grahamc/git-multi](https://github.com/grahamc/git-multi) (40)
+  - Support Multiple Git Repositories in One Directory
+- [numtide/system-manager](https://github.com/numtide/system-manager) (579)
   - Manage system config using nix on any distro
-- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (8)
-  - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) (18179)
-  - ✨ Magical shell history
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (19496)
-  - A smarter cd command. Supports all major shells.
-- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) (1279)
-  - Atomic secret provisioning for NixOS based on sops
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
@@ -86,29 +86,29 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Quickemu Rising From the Bashes](https://linuxmatters.sh/30/) (2 days ago)
-- [Desktop of the Gods](https://linuxmatters.sh/29/) (2 weeks ago)
+- [Searching for a New Voice](https://linuxmatters.sh/31/) (1 week ago)
+- [Quickemu Rising From the Bashes](https://linuxmatters.sh/30/) (3 weeks ago)
+- [Desktop of the Gods](https://linuxmatters.sh/29/) (1 month ago)
 - [Wake-on-LAN for Preschoolers](https://linuxmatters.sh/28/) (1 month ago)
-- [If I Could Just Interject](https://linuxmatters.sh/27/) (1 month ago)
-- [Snappy Snap Snapshots](https://linuxmatters.sh/26/) (1 month ago)
+- [If I Could Just Interject](https://linuxmatters.sh/27/) (2 months ago)
 
 ### 📺️ YouTube
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/WimpysWorld" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UChpYmMp7EFaxuogUX1eAqyw?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
-- [NixOS | More Nix ❄️ packaging &amp; fixes 🩹 for OBS Studio 📡](https://www.youtube.com/watch?v=VqNaOOm7Dhw) (4 months ago)
-- [NixOS | Updating Nix ❄️ packages of OBS Studio 📡 and it&#39;s plugins🔌](https://www.youtube.com/watch?v=phgOv_UCbMM) (4 months ago)
-- [NixOS &amp; Linux | Tinkering with my Nix config ❄️ and poking at some Linux projects 🐧](https://www.youtube.com/watch?v=biVQ_-v8oEo) (4 months ago)
-- [NixOS &amp; Linux 🐧 Automate OBS with Kruiz Control and Scene Switcher](https://www.youtube.com/watch?v=BSITslJbMGA) (5 months ago)
-- [[Linux &amp; NixOS] Catching up on a few projects ❄️ - Part 2](https://www.youtube.com/watch?v=IpiuKvqHU-c) (5 months ago)
+- [NixOS | More Nix ❄️ packaging &amp; fixes 🩹 for OBS Studio 📡](https://www.youtube.com/watch?v=VqNaOOm7Dhw) (5 months ago)
+- [NixOS | Updating Nix ❄️ packages of OBS Studio 📡 and it&#39;s plugins🔌](https://www.youtube.com/watch?v=phgOv_UCbMM) (5 months ago)
+- [NixOS &amp; Linux | Tinkering with my Nix config ❄️ and poking at some Linux projects 🐧](https://www.youtube.com/watch?v=biVQ_-v8oEo) (5 months ago)
+- [NixOS &amp; Linux 🐧 Automate OBS with Kruiz Control and Scene Switcher](https://www.youtube.com/watch?v=BSITslJbMGA) (6 months ago)
+- [[Linux &amp; NixOS] Catching up on a few projects ❄️ - Part 2](https://www.youtube.com/watch?v=IpiuKvqHU-c) (6 months ago)
 
 ### ✍️ Blog
 
-- [Install ZeroTier on Steam Deck](https://wimpysworld.com/posts/install-zerotier-on-steamdeck/) (9 months ago)
+- [Install ZeroTier on Steam Deck](https://wimpysworld.com/posts/install-zerotier-on-steamdeck/) (10 months ago)
 - [Steam Box vs Steam Deck](https://wimpysworld.com/posts/steambox-vs-steamdeck/) (1 year ago)
 - [Flash Stadia Controller Bluetooth Firmware on Linux](https://wimpysworld.com/posts/flash-stadia-controller-bluetooth-firmware-on-linux/) (1 year ago)
 - [Why I chose the ThinkPad Z13 Gen1 as my Linux laptop](https://wimpysworld.com/posts/why-i-chose-the-thinkpad-z13-as-my-linux-laptop/) (1 year ago)
-- [Creating Production-Ready Containers - Advanced Techniques](https://wimpysworld.com/posts/creating-production-ready-containers-advanced-techniques/) (2 years ago)
+- [Creating Production-Ready Containers - Advanced Techniques](https://wimpysworld.com/posts/creating-production-ready-containers-advanced-techniques/) (3 years ago)
 
 <p align="center">
   <a href="https://github.com/flexiondotorg/flexiondotorg" target="_blank"><img alt="Hit Counter" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fflexiondotorg%2Fflexiondotorg.json&style=flat-square&logo=github&logoColor=ffffff&label=Visitors&labelColor=%23f76ce9&color=%236fbbf6">
