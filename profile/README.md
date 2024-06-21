@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - An unofficial GUI wrapper around the Tailscale CLI client.
 - [grahamc/git-multi](https://github.com/grahamc/git-multi) (40)
   - Support Multiple Git Repositories in One Directory
-- [numtide/system-manager](https://github.com/numtide/system-manager) (581)
+- [numtide/system-manager](https://github.com/numtide/system-manager) (582)
   - Manage system config using nix on any distro
 
 ### 🎙️ Podcast
