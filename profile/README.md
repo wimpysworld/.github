@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: add nix-flatpak to enable flatpak support](https://github.com/wimpysworld/nix-config/pull/211) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add catppuccin mocha blue to all the things](https://github.com/wimpysworld/nix-config/pull/209) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add initial samba config](https://github.com/wimpysworld/nix-config/pull/207) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 - [feat: add plex and jellyfin to revan with improved homepage](https://github.com/wimpysworld/nix-config/pull/206) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 - [feat: update configuration of revan](https://github.com/wimpysworld/nix-config/pull/204) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-- [refactor: assorted tweaks and improvements](https://github.com/wimpysworld/nix-config/pull/202) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
