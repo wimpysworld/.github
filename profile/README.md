@@ -32,10 +32,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
-  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) (2 weeks ago)
   - Sources for nixos.org
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (4 weeks ago)
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: add catppuccin mocha blue to all the things](https://github.com/wimpysworld/nix-config/pull/209) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add initial samba config](https://github.com/wimpysworld/nix-config/pull/207) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 - [feat: add plex and jellyfin to revan with improved homepage](https://github.com/wimpysworld/nix-config/pull/206) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 - [feat: update configuration of revan](https://github.com/wimpysworld/nix-config/pull/204) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [refactor: assorted tweaks and improvements](https://github.com/wimpysworld/nix-config/pull/202) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-- [chore: update zoom-us (pkg) and wavebox (overlay) to current versions](https://github.com/wimpysworld/nix-config/pull/199) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 weeks ago)
 
 ### Recent releases 📦️
 
@@ -69,15 +69,15 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13605)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13606)
   - 😸 Soothing pastel theme for the high-spirited!
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17740)
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17741)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) (377)
   - An unofficial GUI wrapper around the Tailscale CLI client.
 - [grahamc/git-multi](https://github.com/grahamc/git-multi) (40)
   - Support Multiple Git Repositories in One Directory
-- [numtide/system-manager](https://github.com/numtide/system-manager) (580)
+- [numtide/system-manager](https://github.com/numtide/system-manager) (581)
   - Manage system config using nix on any distro
 
 ### 🎙️ Podcast
