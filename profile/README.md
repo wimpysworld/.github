@@ -32,13 +32,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
 - [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) (2 weeks ago)
   - Sources for nixos.org
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (4 weeks ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 month ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (1 month ago)
   - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
@@ -46,16 +46,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [refactor: replace gimp with pinta; should be sufficient](https://github.com/wimpysworld/nix-config/pull/212) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: add nix-flatpak to enable flatpak support](https://github.com/wimpysworld/nix-config/pull/211) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: add catppuccin mocha blue to all the things](https://github.com/wimpysworld/nix-config/pull/209) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: add initial samba config](https://github.com/wimpysworld/nix-config/pull/207) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
-- [feat: add plex and jellyfin to revan with improved homepage](https://github.com/wimpysworld/nix-config/pull/206) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [refactor: replace gimp with pinta; should be sufficient](https://github.com/wimpysworld/nix-config/pull/212) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [refactor: add nix-flatpak to enable flatpak support](https://github.com/wimpysworld/nix-config/pull/211) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: add catppuccin mocha blue to all the things](https://github.com/wimpysworld/nix-config/pull/209) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: add initial samba config](https://github.com/wimpysworld/nix-config/pull/207) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [feat: add plex and jellyfin to revan with improved homepage](https://github.com/wimpysworld/nix-config/pull/206) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 
 ### Recent releases 📦️
 
 
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.2](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.2), 6 days ago)
+- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.2](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.2), 1 week ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.19.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.19.1), 2 weeks ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
@@ -71,9 +71,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13609)
   - 😸 Soothing pastel theme for the high-spirited!
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17742)
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17743)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) (377)
+- [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) (378)
   - An unofficial GUI wrapper around the Tailscale CLI client.
 - [grahamc/git-multi](https://github.com/grahamc/git-multi) (40)
   - Support Multiple Git Repositories in One Directory
