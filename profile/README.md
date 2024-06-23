@@ -69,9 +69,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13621)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13623)
   - 😸 Soothing pastel theme for the high-spirited!
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17745)
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17746)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) (378)
   - An unofficial GUI wrapper around the Tailscale CLI client.
