@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13634)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13635)
   - 😸 Soothing pastel theme for the high-spirited!
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) (17747)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
