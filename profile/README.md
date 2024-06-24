@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [docs: prepare for 4.9.5 release](https://github.com/quickemu-project/quickemu/pull/1298) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix: update/correct downloads for MX Linux, ParrotSec, Deepin, NixOS, NetBSD &amp; Slint](https://github.com/quickemu-project/quickemu/pull/1297) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [chore: make shellcheck happy in releases_parrotsec()](https://github.com/quickemu-project/quickemu/pull/1296) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [chore: make shellcheck happy in releases_nixos()](https://github.com/quickemu-project/quickemu/pull/1295) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix: add uuid-runtime to debian/control. close #1256](https://github.com/quickemu-project/quickemu/pull/1294) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [fix: correctly check for passthrough smartcard support. close #888](https://github.com/quickemu-project/quickemu/pull/1293) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 
 ### Recent releases 📦️
 
