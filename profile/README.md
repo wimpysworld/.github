@@ -36,21 +36,21 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
+- [quickemu-project/.github](https://github.com/quickemu-project/.github) (today)
+  - Quickemu Project
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
   - My personal blog
 - [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) (3 weeks ago)
   - Sources for nixos.org
-- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (1 month ago)
-  - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
 
 ### Recent pull requests 🛠️
 
 
+- [chore: make shellcheck happy in releases_parrotsec()](https://github.com/quickemu-project/quickemu/pull/1296) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [chore: make shellcheck happy in releases_nixos()](https://github.com/quickemu-project/quickemu/pull/1295) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix: add uuid-runtime to debian/control. close #1256](https://github.com/quickemu-project/quickemu/pull/1294) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix: correctly check for passthrough smartcard support. close #888](https://github.com/quickemu-project/quickemu/pull/1293) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix: running quickemu and quickreport in zsh. close #1268](https://github.com/quickemu-project/quickemu/pull/1292) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [fix: update flake to (mostly) work on macOS](https://github.com/quickemu-project/quickemu/pull/1291) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 
 ### Recent releases 📦️
 
