@@ -32,11 +32,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
   - My personal blog
-- [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) (2 weeks ago)
+- [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) (3 weeks ago)
   - Sources for nixos.org
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 month ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [refactor: replace gimp with pinta; should be sufficient](https://github.com/wimpysworld/nix-config/pull/212) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [refactor: add nix-flatpak to enable flatpak support](https://github.com/wimpysworld/nix-config/pull/211) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [feat: add catppuccin mocha blue to all the things](https://github.com/wimpysworld/nix-config/pull/209) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [feat: add initial samba config](https://github.com/wimpysworld/nix-config/pull/207) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
-- [feat: add plex and jellyfin to revan with improved homepage](https://github.com/wimpysworld/nix-config/pull/206) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
+- [refactor: replace gimp with pinta; should be sufficient](https://github.com/wimpysworld/nix-config/pull/212) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [refactor: add nix-flatpak to enable flatpak support](https://github.com/wimpysworld/nix-config/pull/211) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [feat: add catppuccin mocha blue to all the things](https://github.com/wimpysworld/nix-config/pull/209) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [feat: add initial samba config](https://github.com/wimpysworld/nix-config/pull/207) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
+- [feat: add plex and jellyfin to revan with improved homepage](https://github.com/wimpysworld/nix-config/pull/206) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
@@ -61,9 +61,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.19](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.19), 2 weeks ago)
   - Health checks for your Nix flakes
-- [DeterminateSystems/flakehub-push](https://github.com/DeterminateSystems/flakehub-push) ([v4](https://github.com/DeterminateSystems/flakehub-push/releases/tag/v4), 2 weeks ago)
+- [DeterminateSystems/flakehub-push](https://github.com/DeterminateSystems/flakehub-push) ([v4](https://github.com/DeterminateSystems/flakehub-push/releases/tag/v4), 3 weeks ago)
   - Release your Nix flake to FlakeHub.com.
-- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) ([v22](https://github.com/DeterminateSystems/update-flake-lock/releases/tag/v22), 2 weeks ago)
+- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) ([v22](https://github.com/DeterminateSystems/update-flake-lock/releases/tag/v22), 3 weeks ago)
   - Automatically refresh your Nix Flakes.
 
 ### Recent starred projects ⭐️
