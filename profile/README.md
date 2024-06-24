@@ -34,23 +34,23 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+  - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
   - My personal blog
 - [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) (3 weeks ago)
   - Sources for nixos.org
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 month ago)
-  - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (1 month ago)
   - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
 
 ### Recent pull requests 🛠️
 
 
+- [fix: running quickemu and quickreport in zsh. close #1268](https://github.com/quickemu-project/quickemu/pull/1292) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [fix: update flake to (mostly) work on macOS](https://github.com/quickemu-project/quickemu/pull/1291) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [feat: implement underlying aarch64 compatibility](https://github.com/quickemu-project/quickemu/pull/1290) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [refactor: replace gimp with pinta; should be sufficient](https://github.com/wimpysworld/nix-config/pull/212) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 - [refactor: add nix-flatpak to enable flatpak support](https://github.com/wimpysworld/nix-config/pull/211) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [feat: add catppuccin mocha blue to all the things](https://github.com/wimpysworld/nix-config/pull/209) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [feat: add initial samba config](https://github.com/wimpysworld/nix-config/pull/207) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-- [feat: add plex and jellyfin to revan with improved homepage](https://github.com/wimpysworld/nix-config/pull/206) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13636)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13638)
   - 😸 Soothing pastel theme for the high-spirited!
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) (17749)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
