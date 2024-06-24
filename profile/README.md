@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [chore: make shellcheck happy in releases_nixos()](https://github.com/quickemu-project/quickemu/pull/1295) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [fix: add uuid-runtime to debian/control. close #1256](https://github.com/quickemu-project/quickemu/pull/1294) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [fix: correctly check for passthrough smartcard support. close #888](https://github.com/quickemu-project/quickemu/pull/1293) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix: running quickemu and quickreport in zsh. close #1268](https://github.com/quickemu-project/quickemu/pull/1292) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix: update flake to (mostly) work on macOS](https://github.com/quickemu-project/quickemu/pull/1291) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [feat: implement underlying aarch64 compatibility](https://github.com/quickemu-project/quickemu/pull/1290) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [refactor: replace gimp with pinta; should be sufficient](https://github.com/wimpysworld/nix-config/pull/212) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [refactor: add nix-flatpak to enable flatpak support](https://github.com/wimpysworld/nix-config/pull/211) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 
 ### Recent releases 📦️
 
@@ -69,11 +69,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13638)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13640)
   - 😸 Soothing pastel theme for the high-spirited!
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17749)
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17750)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) (378)
+- [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) (379)
   - An unofficial GUI wrapper around the Tailscale CLI client.
 - [grahamc/git-multi](https://github.com/grahamc/git-multi) (40)
   - Support Multiple Git Repositories in One Directory
