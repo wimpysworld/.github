@@ -34,7 +34,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
   - My personal blog
 - [quickemu-project/.github](https://github.com/quickemu-project/.github) (1 day ago)
   - Quickemu Project
@@ -46,15 +46,17 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix(debian): add missing comma in debian/control](https://github.com/quickemu-project/quickemu/pull/1313) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [style: indent RAM allocation warnings/errors](https://github.com/quickemu-project/quickemu/pull/1312) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [style: update warnings/errors for insufficient RAM allocation](https://github.com/quickemu-project/quickemu/pull/1311) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [ fix: update holoiso to only download the most recent release](https://github.com/quickemu-project/quickemu/pull/1310) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix: correct typo in max_outputs conditional](https://github.com/quickemu-project/quickemu/pull/1309) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [fix: update bazzite to always get the latest stable release. close #1306](https://github.com/quickemu-project/quickemu/pull/1307) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 
 ### Recent releases 📦️
 
 
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.5](https://github.com/quickemu-project/quickemu/releases/tag/4.9.5), today)
+  - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.2](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.2), 1 week ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.19.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.19.1), 2 weeks ago)
@@ -63,8 +65,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Health checks for your Nix flakes
 - [DeterminateSystems/flakehub-push](https://github.com/DeterminateSystems/flakehub-push) ([v4](https://github.com/DeterminateSystems/flakehub-push/releases/tag/v4), 3 weeks ago)
   - Release your Nix flake to FlakeHub.com.
-- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) ([v22](https://github.com/DeterminateSystems/update-flake-lock/releases/tag/v22), 3 weeks ago)
-  - Automatically refresh your Nix Flakes.
 
 ### Recent starred projects ⭐️
 
