@@ -36,10 +36,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
   - My personal blog
+- [quickemu-project/.github](https://github.com/quickemu-project/.github) (today)
+  - Quickemu Project
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
   - A Flutter frontend for quickget and quickemu.
-- [quickemu-project/.github](https://github.com/quickemu-project/.github) (1 day ago)
-  - Quickemu Project
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 
@@ -69,11 +69,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13663)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13664)
   - 😸 Soothing pastel theme for the high-spirited!
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) (17766)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) (380)
+- [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) (381)
   - An unofficial GUI wrapper around the Tailscale CLI client.
 - [grahamc/git-multi](https://github.com/grahamc/git-multi) (40)
   - Support Multiple Git Repositories in One Directory
