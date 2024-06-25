@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [style: indent RAM allocation warnings/errors](https://github.com/quickemu-project/quickemu/pull/1312) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [style: update warnings/errors for insufficient RAM allocation](https://github.com/quickemu-project/quickemu/pull/1311) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [ fix: update holoiso to only download the most recent release](https://github.com/quickemu-project/quickemu/pull/1310) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix: correct typo in max_outputs conditional](https://github.com/quickemu-project/quickemu/pull/1309) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix: update bazzite to always get the latest stable release. close #1306](https://github.com/quickemu-project/quickemu/pull/1307) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [docs: prepare for 4.9.5 release](https://github.com/quickemu-project/quickemu/pull/1298) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 
 ### Recent releases 📦️
 
@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13661)
   - 😸 Soothing pastel theme for the high-spirited!
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17759)
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17762)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) (379)
   - An unofficial GUI wrapper around the Tailscale CLI client.
