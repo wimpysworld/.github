@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix: update bazzite to always get the latest stable release. close #1306](https://github.com/quickemu-project/quickemu/pull/1307) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [docs: prepare for 4.9.5 release](https://github.com/quickemu-project/quickemu/pull/1298) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [fix: update/correct downloads for MX Linux, ParrotSec, Deepin, NixOS, NetBSD &amp; Slint](https://github.com/quickemu-project/quickemu/pull/1297) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [chore: make shellcheck happy in releases_parrotsec()](https://github.com/quickemu-project/quickemu/pull/1296) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [chore: make shellcheck happy in releases_nixos()](https://github.com/quickemu-project/quickemu/pull/1295) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
-- [fix: add uuid-runtime to debian/control. close #1256](https://github.com/quickemu-project/quickemu/pull/1294) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 
 ### Recent releases 📦️
 
@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13659)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13660)
   - 😸 Soothing pastel theme for the high-spirited!
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) (17758)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
