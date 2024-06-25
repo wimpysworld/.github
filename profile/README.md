@@ -86,11 +86,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
+- [Quick, Quicker, Quickest](https://linuxmatters.sh/32/) (today)
 - [Searching for a New Voice](https://linuxmatters.sh/31/) (2 weeks ago)
 - [Quickemu Rising From the Bashes](https://linuxmatters.sh/30/) (4 weeks ago)
 - [Desktop of the Gods](https://linuxmatters.sh/29/) (1 month ago)
 - [Wake-on-LAN for Preschoolers](https://linuxmatters.sh/28/) (1 month ago)
-- [If I Could Just Interject](https://linuxmatters.sh/27/) (2 months ago)
 
 ### 📺️ YouTube
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
