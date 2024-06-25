@@ -32,13 +32,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [quickemu-project/.github](https://github.com/quickemu-project/.github) (today)
+- [quickemu-project/.github](https://github.com/quickemu-project/.github) (1 day ago)
   - Quickemu Project
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) (3 weeks ago)
   - Sources for nixos.org
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [docs: prepare for 4.9.5 release](https://github.com/quickemu-project/quickemu/pull/1298) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [fix: update/correct downloads for MX Linux, ParrotSec, Deepin, NixOS, NetBSD &amp; Slint](https://github.com/quickemu-project/quickemu/pull/1297) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [chore: make shellcheck happy in releases_parrotsec()](https://github.com/quickemu-project/quickemu/pull/1296) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [chore: make shellcheck happy in releases_nixos()](https://github.com/quickemu-project/quickemu/pull/1295) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [fix: add uuid-runtime to debian/control. close #1256](https://github.com/quickemu-project/quickemu/pull/1294) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [docs: prepare for 4.9.5 release](https://github.com/quickemu-project/quickemu/pull/1298) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [fix: update/correct downloads for MX Linux, ParrotSec, Deepin, NixOS, NetBSD &amp; Slint](https://github.com/quickemu-project/quickemu/pull/1297) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [chore: make shellcheck happy in releases_parrotsec()](https://github.com/quickemu-project/quickemu/pull/1296) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [chore: make shellcheck happy in releases_nixos()](https://github.com/quickemu-project/quickemu/pull/1295) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [fix: add uuid-runtime to debian/control. close #1256](https://github.com/quickemu-project/quickemu/pull/1294) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 
 ### Recent releases 📦️
 
@@ -59,7 +59,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.19.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.19.1), 2 weeks ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
-- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.19](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.19), 2 weeks ago)
+- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.19](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.19), 3 weeks ago)
   - Health checks for your Nix flakes
 - [DeterminateSystems/flakehub-push](https://github.com/DeterminateSystems/flakehub-push) ([v4](https://github.com/DeterminateSystems/flakehub-push/releases/tag/v4), 3 weeks ago)
   - Release your Nix flake to FlakeHub.com.
@@ -86,8 +86,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Searching for a New Voice](https://linuxmatters.sh/31/) (1 week ago)
-- [Quickemu Rising From the Bashes](https://linuxmatters.sh/30/) (3 weeks ago)
+- [Searching for a New Voice](https://linuxmatters.sh/31/) (2 weeks ago)
+- [Quickemu Rising From the Bashes](https://linuxmatters.sh/30/) (4 weeks ago)
 - [Desktop of the Gods](https://linuxmatters.sh/29/) (1 month ago)
 - [Wake-on-LAN for Preschoolers](https://linuxmatters.sh/28/) (1 month ago)
 - [If I Could Just Interject](https://linuxmatters.sh/27/) (2 months ago)
