@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [chore: temporarily force light mode](https://github.com/quickemu-project/quickgui/pull/139) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
+- [fix: update download progress parsing to support curl&#39;s output](https://github.com/quickemu-project/quickgui/pull/138) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [refactor: update loadOperatingSystems to use quickget --list-csv](https://github.com/quickemu-project/quickgui/pull/137) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [fix: add pubspec.lock.json; required for package.nix](https://github.com/quickemu-project/quickgui/pull/132) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [feat: add nix flake](https://github.com/quickemu-project/quickgui/pull/131) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
-- [feat: add flutter_distributor](https://github.com/quickemu-project/quickgui/pull/130) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
-- [ci: add MVP workflow to build for Linux and archive a zip artifact](https://github.com/quickemu-project/quickgui/pull/129) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
 
 ### Recent releases 📦️
 
@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13670)
   - 😸 Soothing pastel theme for the high-spirited!
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17771)
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17770)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) (381)
   - An unofficial GUI wrapper around the Tailscale CLI client.
