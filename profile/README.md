@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: update loadOperatingSystems to use quickget --list-csv](https://github.com/quickemu-project/quickgui/pull/137) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [fix: add pubspec.lock.json; required for package.nix](https://github.com/quickemu-project/quickgui/pull/132) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [feat: add nix flake](https://github.com/quickemu-project/quickgui/pull/131) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [feat: add flutter_distributor](https://github.com/quickemu-project/quickgui/pull/130) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [ci: add MVP workflow to build for Linux and archive a zip artifact](https://github.com/quickemu-project/quickgui/pull/129) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
-- [fix(debian): add missing comma in debian/control](https://github.com/quickemu-project/quickemu/pull/1313) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 
 ### Recent releases 📦️
 
