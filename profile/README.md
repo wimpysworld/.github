@@ -32,25 +32,25 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
-  - Quickly create and run optimised Windows, macOS and Linux virtual machines
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
+  - A Flutter frontend for quickget and quickemu.
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
 - [quickemu-project/.github](https://github.com/quickemu-project/.github) (1 day ago)
   - Quickemu Project
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
-  - A Flutter frontend for quickget and quickemu.
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+  - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 
 ### Recent pull requests 🛠️
 
 
+- [feat: add flutter_distributor](https://github.com/quickemu-project/quickgui/pull/130) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [ci: add MVP workflow to build for Linux and archive a zip artifact](https://github.com/quickemu-project/quickgui/pull/129) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
 - [fix(debian): add missing comma in debian/control](https://github.com/quickemu-project/quickemu/pull/1313) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [style: indent RAM allocation warnings/errors](https://github.com/quickemu-project/quickemu/pull/1312) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [style: update warnings/errors for insufficient RAM allocation](https://github.com/quickemu-project/quickemu/pull/1311) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
-- [ fix: update holoiso to only download the most recent release](https://github.com/quickemu-project/quickemu/pull/1310) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 
 ### Recent releases 📦️
 
@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13667)
   - 😸 Soothing pastel theme for the high-spirited!
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17767)
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17769)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) (381)
   - An unofficial GUI wrapper around the Tailscale CLI client.
