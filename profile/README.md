@@ -32,30 +32,30 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [quickemu-project/.github](https://github.com/quickemu-project/.github) (today)
+- [quickemu-project/.github](https://github.com/quickemu-project/.github) (1 day ago)
   - Quickemu Project
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
   - A Flutter frontend for quickget and quickemu.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 
 ### Recent pull requests 🛠️
 
 
-- [ci: add MVP workflow to build for Linux and archive a zip artifact](https://github.com/quickemu-project/quickgui/pull/129) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
-- [fix(debian): add missing comma in debian/control](https://github.com/quickemu-project/quickemu/pull/1313) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [style: indent RAM allocation warnings/errors](https://github.com/quickemu-project/quickemu/pull/1312) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [style: update warnings/errors for insufficient RAM allocation](https://github.com/quickemu-project/quickemu/pull/1311) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [ fix: update holoiso to only download the most recent release](https://github.com/quickemu-project/quickemu/pull/1310) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [ci: add MVP workflow to build for Linux and archive a zip artifact](https://github.com/quickemu-project/quickgui/pull/129) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
+- [fix(debian): add missing comma in debian/control](https://github.com/quickemu-project/quickemu/pull/1313) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [style: indent RAM allocation warnings/errors](https://github.com/quickemu-project/quickemu/pull/1312) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [style: update warnings/errors for insufficient RAM allocation](https://github.com/quickemu-project/quickemu/pull/1311) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [ fix: update holoiso to only download the most recent release](https://github.com/quickemu-project/quickemu/pull/1310) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 
 ### Recent releases 📦️
 
 
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.5](https://github.com/quickemu-project/quickemu/releases/tag/4.9.5), today)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.5](https://github.com/quickemu-project/quickemu/releases/tag/4.9.5), 1 day ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.2](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.2), 1 week ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Quick, Quicker, Quickest](https://linuxmatters.sh/32/) (today)
+- [Quick, Quicker, Quickest](https://linuxmatters.sh/32/) (1 day ago)
 - [Searching for a New Voice](https://linuxmatters.sh/31/) (2 weeks ago)
 - [Quickemu Rising From the Bashes](https://linuxmatters.sh/30/) (4 weeks ago)
 - [Desktop of the Gods](https://linuxmatters.sh/29/) (1 month ago)
