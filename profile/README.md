@@ -32,10 +32,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
-  - My personal blog
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
   - A Flutter frontend for quickget and quickemu.
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+  - My personal blog
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: minor tweaks, dependencies updates, nix package fix and version bump](https://github.com/quickemu-project/quickgui/pull/140) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [chore: temporarily force light mode](https://github.com/quickemu-project/quickgui/pull/139) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [fix: update download progress parsing to support curl&#39;s output](https://github.com/quickemu-project/quickgui/pull/138) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [refactor: update loadOperatingSystems to use quickget --list-csv](https://github.com/quickemu-project/quickgui/pull/137) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [fix: add pubspec.lock.json; required for package.nix](https://github.com/quickemu-project/quickgui/pull/132) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
-- [feat: add nix flake](https://github.com/quickemu-project/quickgui/pull/131) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 
 ### Recent releases 📦️
 
@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13670)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13671)
   - 😸 Soothing pastel theme for the high-spirited!
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) (17770)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
