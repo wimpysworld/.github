@@ -34,23 +34,23 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
   - A Flutter frontend for quickget and quickemu.
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+  - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
   - My personal blog
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
-  - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [quickemu-project/.github](https://github.com/quickemu-project/.github) (1 day ago)
   - Quickemu Project
 
 ### Recent pull requests 🛠️
 
 
+- [chore: bump version to 4.9.6](https://github.com/quickemu-project/quickemu/pull/1319) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [refactor: minor tweaks, dependencies updates, nix package fix and version bump](https://github.com/quickemu-project/quickgui/pull/140) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [chore: temporarily force light mode](https://github.com/quickemu-project/quickgui/pull/139) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [fix: update download progress parsing to support curl&#39;s output](https://github.com/quickemu-project/quickgui/pull/138) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [refactor: update loadOperatingSystems to use quickget --list-csv](https://github.com/quickemu-project/quickgui/pull/137) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
-- [fix: add pubspec.lock.json; required for package.nix](https://github.com/quickemu-project/quickgui/pull/132) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 
 ### Recent releases 📦️
 
