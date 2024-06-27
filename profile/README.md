@@ -33,7 +33,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
-  - A Flutter frontend for quickget and quickemu.
+  - An elegant virtual machine manager for the desktop
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [ci: add test building to PPA](https://github.com/quickemu-project/quickgui/pull/147) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [fix: look for supported terminals on operating systems other than Debian/Ubuntu](https://github.com/quickemu-project/quickgui/pull/141) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [fix: monkey patch quickemu via direnv so OVMF firmware can be found. close #1318](https://github.com/quickemu-project/quickemu/pull/1320) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [chore: bump version to 4.9.6](https://github.com/quickemu-project/quickemu/pull/1319) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [refactor: minor tweaks, dependencies updates, nix package fix and version bump](https://github.com/quickemu-project/quickgui/pull/140) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
-- [chore: temporarily force light mode](https://github.com/quickemu-project/quickgui/pull/139) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
 
 ### Recent releases 📦️
 
@@ -70,10 +70,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (855)
-  - A Flutter frontend for quickget and quickemu.
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13685)
+  - An elegant virtual machine manager for the desktop
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13687)
   - 😸 Soothing pastel theme for the high-spirited!
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17777)
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17776)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) (380)
   - An unofficial GUI wrapper around the Tailscale CLI client.
