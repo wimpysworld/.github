@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix: look for supported terminals on operating systems other than Debian/Ubuntu](https://github.com/quickemu-project/quickgui/pull/141) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [fix: monkey patch quickemu via direnv so OVMF firmware can be found. close #1318](https://github.com/quickemu-project/quickemu/pull/1320) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [chore: bump version to 4.9.6](https://github.com/quickemu-project/quickemu/pull/1319) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [refactor: minor tweaks, dependencies updates, nix package fix and version bump](https://github.com/quickemu-project/quickgui/pull/140) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
 - [chore: temporarily force light mode](https://github.com/quickemu-project/quickgui/pull/139) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
-- [fix: update download progress parsing to support curl&#39;s output](https://github.com/quickemu-project/quickgui/pull/138) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
 
 ### Recent releases 📦️
 
