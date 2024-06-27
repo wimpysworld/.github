@@ -32,34 +32,34 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
-  - A Flutter frontend for quickget and quickemu.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
+  - A Flutter frontend for quickget and quickemu.
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [quickemu-project/.github](https://github.com/quickemu-project/.github) (1 day ago)
+- [quickemu-project/.github](https://github.com/quickemu-project/.github) (2 days ago)
   - Quickemu Project
 
 ### Recent pull requests 🛠️
 
 
-- [chore: bump version to 4.9.6](https://github.com/quickemu-project/quickemu/pull/1319) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [refactor: minor tweaks, dependencies updates, nix package fix and version bump](https://github.com/quickemu-project/quickgui/pull/140) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
-- [chore: temporarily force light mode](https://github.com/quickemu-project/quickgui/pull/139) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
-- [fix: update download progress parsing to support curl&#39;s output](https://github.com/quickemu-project/quickgui/pull/138) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
-- [refactor: update loadOperatingSystems to use quickget --list-csv](https://github.com/quickemu-project/quickgui/pull/137) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
+- [fix: monkey patch quickemu via direnv so OVMF firmware can be found. close #1318](https://github.com/quickemu-project/quickemu/pull/1320) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [chore: bump version to 4.9.6](https://github.com/quickemu-project/quickemu/pull/1319) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [refactor: minor tweaks, dependencies updates, nix package fix and version bump](https://github.com/quickemu-project/quickgui/pull/140) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
+- [chore: temporarily force light mode](https://github.com/quickemu-project/quickgui/pull/139) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
+- [fix: update download progress parsing to support curl&#39;s output](https://github.com/quickemu-project/quickgui/pull/138) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
 
 ### Recent releases 📦️
 
 
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.5](https://github.com/quickemu-project/quickemu/releases/tag/4.9.5), 1 day ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.5](https://github.com/quickemu-project/quickemu/releases/tag/4.9.5), 2 days ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.2](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.2), 1 week ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.19.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.19.1), 2 weeks ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.19.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.19.1), 3 weeks ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.19](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.19), 3 weeks ago)
   - Health checks for your Nix flakes
@@ -86,9 +86,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Quick, Quicker, Quickest](https://linuxmatters.sh/32/) (1 day ago)
+- [Quick, Quicker, Quickest](https://linuxmatters.sh/32/) (2 days ago)
 - [Searching for a New Voice](https://linuxmatters.sh/31/) (2 weeks ago)
-- [Quickemu Rising From the Bashes](https://linuxmatters.sh/30/) (4 weeks ago)
+- [Quickemu Rising From the Bashes](https://linuxmatters.sh/30/) (1 month ago)
 - [Desktop of the Gods](https://linuxmatters.sh/29/) (1 month ago)
 - [Wake-on-LAN for Preschoolers](https://linuxmatters.sh/28/) (1 month ago)
 
