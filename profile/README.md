@@ -55,14 +55,14 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.0), today)
+  - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.1](https://github.com/wimpysworld/deb-get/releases/tag/0.4.1), today)
   - apt-get for .debs published via GitHub or direct download 📦
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.5](https://github.com/quickemu-project/quickemu/releases/tag/4.9.5), 2 days ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.2](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.2), 1 week ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.19.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.19.1), 3 weeks ago)
-  - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.19](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.19), 3 weeks ago)
   - Health checks for your Nix flakes
 
