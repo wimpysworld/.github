@@ -36,25 +36,27 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - An elegant virtual machine manager for the desktop
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (today)
+  - apt-get for .debs published via GitHub or direct download 📦
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [quickemu-project/.github](https://github.com/quickemu-project/.github) (2 days ago)
-  - Quickemu Project
 
 ### Recent pull requests 🛠️
 
 
+- [chore: bump version to 0.4.1](https://github.com/wimpysworld/deb-get/pull/1119) on [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (today)
 - [ci: add test building to PPA](https://github.com/quickemu-project/quickgui/pull/147) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [fix: look for supported terminals on operating systems other than Debian/Ubuntu](https://github.com/quickemu-project/quickgui/pull/141) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [fix: monkey patch quickemu via direnv so OVMF firmware can be found. close #1318](https://github.com/quickemu-project/quickemu/pull/1320) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [chore: bump version to 4.9.6](https://github.com/quickemu-project/quickemu/pull/1319) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
-- [refactor: minor tweaks, dependencies updates, nix package fix and version bump](https://github.com/quickemu-project/quickgui/pull/140) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
 
 ### Recent releases 📦️
 
 
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.1](https://github.com/wimpysworld/deb-get/releases/tag/0.4.1), today)
+  - apt-get for .debs published via GitHub or direct download 📦
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.5](https://github.com/quickemu-project/quickemu/releases/tag/4.9.5), 2 days ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.2](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.2), 1 week ago)
@@ -63,15 +65,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.19](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.19), 3 weeks ago)
   - Health checks for your Nix flakes
-- [DeterminateSystems/flakehub-push](https://github.com/DeterminateSystems/flakehub-push) ([v4](https://github.com/DeterminateSystems/flakehub-push/releases/tag/v4), 3 weeks ago)
-  - Release your Nix flake to FlakeHub.com.
 
 ### Recent starred projects ⭐️
 
 
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (855)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (854)
   - An elegant virtual machine manager for the desktop
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13687)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13688)
   - 😸 Soothing pastel theme for the high-spirited!
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) (17776)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
