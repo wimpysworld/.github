@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13676)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13678)
   - 😸 Soothing pastel theme for the high-spirited!
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) (17771)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - An unofficial GUI wrapper around the Tailscale CLI client.
 - [grahamc/git-multi](https://github.com/grahamc/git-multi) (40)
   - Support Multiple Git Repositories in One Directory
-- [numtide/system-manager](https://github.com/numtide/system-manager) (585)
+- [numtide/system-manager](https://github.com/numtide/system-manager) (586)
   - Manage system config using nix on any distro
 
 ### 🎙️ Podcast
