@@ -46,15 +46,17 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [ci: correct typo in uses: to fix publish-quickgui workflow](https://github.com/quickemu-project/quickgui/pull/155) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [fix: prevent flickering while left_menu slides in](https://github.com/quickemu-project/quickgui/pull/154) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [style: make theme switching inactive and enable light theme by default](https://github.com/quickemu-project/quickgui/pull/153) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [refactor: update nix flake to be consistent with other packaging](https://github.com/quickemu-project/quickgui/pull/152) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [docs: update README](https://github.com/quickemu-project/quickgui/pull/151) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
-- [chore: bump version to 0.4.1](https://github.com/wimpysworld/deb-get/pull/1119) on [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (1 day ago)
 
 ### Recent releases 📦️
 
 
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) ([1.2.9](https://github.com/quickemu-project/quickgui/releases/tag/1.2.9), today)
+  - An elegant virtual machine manager for the desktop
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.0), 1 day ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.1](https://github.com/wimpysworld/deb-get/releases/tag/0.4.1), 1 day ago)
@@ -63,8 +65,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.2](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.2), 1 week ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
-- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.19](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.19), 3 weeks ago)
-  - Health checks for your Nix flakes
 
 ### Recent starred projects ⭐️
 
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - An elegant virtual machine manager for the desktop
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13700)
   - 😸 Soothing pastel theme for the high-spirited!
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17785)
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17786)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) (380)
   - An unofficial GUI wrapper around the Tailscale CLI client.
