@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: update nix flake to be consistent with other packaging](https://github.com/quickemu-project/quickgui/pull/152) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
+- [docs: update README](https://github.com/quickemu-project/quickgui/pull/151) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [chore: bump version to 0.4.1](https://github.com/wimpysworld/deb-get/pull/1119) on [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (1 day ago)
 - [ci: add test building to PPA](https://github.com/quickemu-project/quickgui/pull/147) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
 - [fix: look for supported terminals on operating systems other than Debian/Ubuntu](https://github.com/quickemu-project/quickgui/pull/141) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
-- [fix: monkey patch quickemu via direnv so OVMF firmware can be found. close #1318](https://github.com/quickemu-project/quickemu/pull/1320) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
-- [chore: bump version to 4.9.6](https://github.com/quickemu-project/quickemu/pull/1319) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
 
 ### Recent releases 📦️
 
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - An elegant virtual machine manager for the desktop
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13697)
   - 😸 Soothing pastel theme for the high-spirited!
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17782)
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17783)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) (380)
   - An unofficial GUI wrapper around the Tailscale CLI client.
