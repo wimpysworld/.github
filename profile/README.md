@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix: prevent flickering while left_menu slides in](https://github.com/quickemu-project/quickgui/pull/154) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [style: make theme switching inactive and enable light theme by default](https://github.com/quickemu-project/quickgui/pull/153) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [refactor: update nix flake to be consistent with other packaging](https://github.com/quickemu-project/quickgui/pull/152) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [docs: update README](https://github.com/quickemu-project/quickgui/pull/151) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [chore: bump version to 0.4.1](https://github.com/wimpysworld/deb-get/pull/1119) on [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (1 day ago)
-- [ci: add test building to PPA](https://github.com/quickemu-project/quickgui/pull/147) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
 
 ### Recent releases 📦️
 
@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (855)
   - An elegant virtual machine manager for the desktop
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13698)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13700)
   - 😸 Soothing pastel theme for the high-spirited!
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) (17785)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
