@@ -32,14 +32,14 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+  - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
   - An elegant virtual machine manager for the desktop
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
-  - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (2 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
   - My personal blog
 
