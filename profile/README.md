@@ -36,21 +36,21 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+  - My personal blog
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
   - An elegant virtual machine manager for the desktop
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (2 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
-  - My personal blog
 
 ### Recent pull requests 🛠️
 
 
+- [quickgui: 1.2.8 -&gt; 1.2.9](https://github.com/NixOS/nixpkgs/pull/323381) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [chore: tidy up debian/ template](https://github.com/quickemu-project/quickemu/pull/1326) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix(nix): include samba so file sharing works](https://github.com/quickemu-project/quickemu/pull/1325) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [ci: correct typo in uses: to fix publish-quickgui workflow](https://github.com/quickemu-project/quickgui/pull/155) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
 - [fix: prevent flickering while left_menu slides in](https://github.com/quickemu-project/quickgui/pull/154) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
-- [style: make theme switching inactive and enable light theme by default](https://github.com/quickemu-project/quickgui/pull/153) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
 
 ### Recent releases 📦️
 
