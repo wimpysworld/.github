@@ -32,38 +32,38 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
   - An elegant virtual machine manager for the desktop
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (1 day ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (2 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
   - My personal blog
 
 ### Recent pull requests 🛠️
 
 
-- [ci: correct typo in uses: to fix publish-quickgui workflow](https://github.com/quickemu-project/quickgui/pull/155) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
-- [fix: prevent flickering while left_menu slides in](https://github.com/quickemu-project/quickgui/pull/154) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
-- [style: make theme switching inactive and enable light theme by default](https://github.com/quickemu-project/quickgui/pull/153) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
-- [refactor: update nix flake to be consistent with other packaging](https://github.com/quickemu-project/quickgui/pull/152) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
-- [docs: update README](https://github.com/quickemu-project/quickgui/pull/151) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
+- [ci: correct typo in uses: to fix publish-quickgui workflow](https://github.com/quickemu-project/quickgui/pull/155) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
+- [fix: prevent flickering while left_menu slides in](https://github.com/quickemu-project/quickgui/pull/154) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
+- [style: make theme switching inactive and enable light theme by default](https://github.com/quickemu-project/quickgui/pull/153) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
+- [refactor: update nix flake to be consistent with other packaging](https://github.com/quickemu-project/quickgui/pull/152) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
+- [docs: update README](https://github.com/quickemu-project/quickgui/pull/151) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) ([v23](https://github.com/DeterminateSystems/update-flake-lock/releases/tag/v23), today)
+- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) ([v23](https://github.com/DeterminateSystems/update-flake-lock/releases/tag/v23), 1 day ago)
   - Automatically refresh your Nix Flakes.
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) ([1.2.9](https://github.com/quickemu-project/quickgui/releases/tag/1.2.9), today)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) ([1.2.9](https://github.com/quickemu-project/quickgui/releases/tag/1.2.9), 1 day ago)
   - An elegant virtual machine manager for the desktop
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.0), 1 day ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.0), 2 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.1](https://github.com/wimpysworld/deb-get/releases/tag/0.4.1), 1 day ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.1](https://github.com/wimpysworld/deb-get/releases/tag/0.4.1), 2 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.5](https://github.com/quickemu-project/quickemu/releases/tag/4.9.5), 3 days ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.5](https://github.com/quickemu-project/quickemu/releases/tag/4.9.5), 4 days ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 
 ### Recent starred projects ⭐️
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - An elegant virtual machine manager for the desktop
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13703)
   - 😸 Soothing pastel theme for the high-spirited!
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17790)
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17791)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) (380)
   - An unofficial GUI wrapper around the Tailscale CLI client.
@@ -86,11 +86,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Quick, Quicker, Quickest](https://linuxmatters.sh/32/) (3 days ago)
+- [Quick, Quicker, Quickest](https://linuxmatters.sh/32/) (4 days ago)
 - [Searching for a New Voice](https://linuxmatters.sh/31/) (2 weeks ago)
 - [Quickemu Rising From the Bashes](https://linuxmatters.sh/30/) (1 month ago)
 - [Desktop of the Gods](https://linuxmatters.sh/29/) (1 month ago)
-- [Wake-on-LAN for Preschoolers](https://linuxmatters.sh/28/) (1 month ago)
+- [Wake-on-LAN for Preschoolers](https://linuxmatters.sh/28/) (2 months ago)
 
 ### 📺️ YouTube
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
