@@ -38,7 +38,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
   - My personal blog
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
   - An elegant virtual machine manager for the desktop
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (2 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [ci: add semantic commit validator](https://github.com/quickemu-project/quickgui/pull/161) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
+- [ci: add pub to dependabot](https://github.com/quickemu-project/quickgui/pull/158) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
+- [ci: add Nix flake checker and updater](https://github.com/quickemu-project/quickemu/pull/1327) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [ci: add Nix flake checker and updater](https://github.com/quickemu-project/quickgui/pull/156) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [quickgui: 1.2.8 -&gt; 1.2.9](https://github.com/NixOS/nixpkgs/pull/323381) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
-- [chore: tidy up debian/ template](https://github.com/quickemu-project/quickemu/pull/1326) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [fix(nix): include samba so file sharing works](https://github.com/quickemu-project/quickemu/pull/1325) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [ci: correct typo in uses: to fix publish-quickgui workflow](https://github.com/quickemu-project/quickgui/pull/155) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
-- [fix: prevent flickering while left_menu slides in](https://github.com/quickemu-project/quickgui/pull/154) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
 
 ### Recent releases 📦️
 
@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (857)
   - An elegant virtual machine manager for the desktop
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13712)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13711)
   - 😸 Soothing pastel theme for the high-spirited!
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) (17797)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
