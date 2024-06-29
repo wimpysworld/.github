@@ -32,10 +32,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
   - My personal blog
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [ci: add semantic commit validator](https://github.com/quickemu-project/quickgui/pull/161) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
-- [ci: add pub to dependabot](https://github.com/quickemu-project/quickgui/pull/158) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
-- [ci: add Nix flake checker and updater](https://github.com/quickemu-project/quickemu/pull/1327) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [ci: add Nix flake checker and updater](https://github.com/quickemu-project/quickgui/pull/156) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
-- [quickgui: 1.2.8 -&gt; 1.2.9](https://github.com/NixOS/nixpkgs/pull/323381) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
+- [docs: update README.md](https://github.com/quickemu-project/quickemu/pull/1334) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [docs: remove old issue template](https://github.com/quickemu-project/quickemu/pull/1333) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [docs: update issue templates](https://github.com/quickemu-project/quickemu/pull/1332) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [docs: update issue templates](https://github.com/quickemu-project/quickgui/pull/165) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
+- [docs: add SECURITY.md](https://github.com/quickemu-project/quickemu/pull/1331) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 
 ### Recent releases 📦️
 
@@ -71,9 +71,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (857)
   - An elegant virtual machine manager for the desktop
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13711)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13712)
   - 😸 Soothing pastel theme for the high-spirited!
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17797)
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17798)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) (381)
   - An unofficial GUI wrapper around the Tailscale CLI client.
