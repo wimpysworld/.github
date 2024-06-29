@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [chore: tidy up debian/ template](https://github.com/quickemu-project/quickemu/pull/1326) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [fix(nix): include samba so file sharing works](https://github.com/quickemu-project/quickemu/pull/1325) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [ci: correct typo in uses: to fix publish-quickgui workflow](https://github.com/quickemu-project/quickgui/pull/155) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
 - [fix: prevent flickering while left_menu slides in](https://github.com/quickemu-project/quickgui/pull/154) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
 - [style: make theme switching inactive and enable light theme by default](https://github.com/quickemu-project/quickgui/pull/153) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
-- [refactor: update nix flake to be consistent with other packaging](https://github.com/quickemu-project/quickgui/pull/152) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
-- [docs: update README](https://github.com/quickemu-project/quickgui/pull/151) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
 
 ### Recent releases 📦️
 
