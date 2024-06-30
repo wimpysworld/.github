@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix: get VM PID early so kill_vm() works reliably](https://github.com/quickemu-project/quickemu/pull/1342) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [refactor: attempt to press any key 5 times during Window boot from CD/DVD](https://github.com/quickemu-project/quickemu/pull/1341) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix(windows-server): default to e1000 network device. fixes #1315](https://github.com/quickemu-project/quickemu/pull/1340) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [docs: add pull_request_template.md](https://github.com/quickemu-project/quickgui/pull/168) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
 - [docs: add pull_request_template.md](https://github.com/quickemu-project/quickemu/pull/1339) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
-- [docs: add pull_request_template.md](https://github.com/quickemu-project/quickemu/pull/1338) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 
 ### Recent releases 📦️
 
