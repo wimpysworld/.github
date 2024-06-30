@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [ci: only test build quickgui if the flutter app was changed](https://github.com/quickemu-project/quickgui/pull/171) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [chore: remove Windows 8.1, Windows 10 LTSC and Windows Server 2012 R2](https://github.com/quickemu-project/quickemu/pull/1345) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix: pass relevant arguments to Exec when creating shortcuts. close #1285](https://github.com/quickemu-project/quickemu/pull/1343) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix: get VM PID early so kill_vm() works reliably](https://github.com/quickemu-project/quickemu/pull/1342) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [refactor: attempt to press any key 5 times during Window boot from CD/DVD](https://github.com/quickemu-project/quickemu/pull/1341) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [fix(windows-server): default to e1000 network device. fixes #1315](https://github.com/quickemu-project/quickemu/pull/1340) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 
 ### Recent releases 📦️
 
@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (859)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (860)
   - An elegant virtual machine manager for the desktop
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13721)
   - 😸 Soothing pastel theme for the high-spirited!
