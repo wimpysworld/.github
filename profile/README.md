@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: check-in pubspec.lock](https://github.com/quickemu-project/quickgui/pull/172) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [ci: only test build quickgui if the flutter app was changed](https://github.com/quickemu-project/quickgui/pull/171) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [chore: remove Windows 8.1, Windows 10 LTSC and Windows Server 2012 R2](https://github.com/quickemu-project/quickemu/pull/1345) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix: pass relevant arguments to Exec when creating shortcuts. close #1285](https://github.com/quickemu-project/quickemu/pull/1343) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix: get VM PID early so kill_vm() works reliably](https://github.com/quickemu-project/quickemu/pull/1342) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [refactor: attempt to press any key 5 times during Window boot from CD/DVD](https://github.com/quickemu-project/quickemu/pull/1341) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 
 ### Recent releases 📦️
 
