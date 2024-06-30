@@ -34,36 +34,36 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
-  - My personal blog
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
   - An elegant virtual machine manager for the desktop
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
+  - My personal blog
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (3 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
 
 ### Recent pull requests 🛠️
 
 
-- [docs: update README.md](https://github.com/quickemu-project/quickemu/pull/1334) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [docs: remove old issue template](https://github.com/quickemu-project/quickemu/pull/1333) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [docs: update issue templates](https://github.com/quickemu-project/quickemu/pull/1332) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [docs: update issue templates](https://github.com/quickemu-project/quickgui/pull/165) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
-- [docs: add SECURITY.md](https://github.com/quickemu-project/quickemu/pull/1331) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [docs: add pull_request_template.md](https://github.com/quickemu-project/quickgui/pull/168) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
+- [docs: add pull_request_template.md](https://github.com/quickemu-project/quickemu/pull/1339) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [docs: add pull_request_template.md](https://github.com/quickemu-project/quickemu/pull/1338) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [docs: update SECURITY.md](https://github.com/quickemu-project/quickgui/pull/167) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
+- [docs: update SECURITY.md](https://github.com/quickemu-project/quickemu/pull/1336) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) ([v23](https://github.com/DeterminateSystems/update-flake-lock/releases/tag/v23), 1 day ago)
+- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) ([v23](https://github.com/DeterminateSystems/update-flake-lock/releases/tag/v23), 2 days ago)
   - Automatically refresh your Nix Flakes.
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) ([1.2.9](https://github.com/quickemu-project/quickgui/releases/tag/1.2.9), 1 day ago)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) ([1.2.9](https://github.com/quickemu-project/quickgui/releases/tag/1.2.9), 2 days ago)
   - An elegant virtual machine manager for the desktop
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.0), 2 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.0), 3 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.1](https://github.com/wimpysworld/deb-get/releases/tag/0.4.1), 2 days ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.1](https://github.com/wimpysworld/deb-get/releases/tag/0.4.1), 3 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.5](https://github.com/quickemu-project/quickemu/releases/tag/4.9.5), 4 days ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.5](https://github.com/quickemu-project/quickemu/releases/tag/4.9.5), 5 days ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 
 ### Recent starred projects ⭐️
@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (857)
   - An elegant virtual machine manager for the desktop
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13712)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13711)
   - 😸 Soothing pastel theme for the high-spirited!
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) (17798)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Quick, Quicker, Quickest](https://linuxmatters.sh/32/) (4 days ago)
+- [Quick, Quicker, Quickest](https://linuxmatters.sh/32/) (5 days ago)
 - [Searching for a New Voice](https://linuxmatters.sh/31/) (2 weeks ago)
 - [Quickemu Rising From the Bashes](https://linuxmatters.sh/30/) (1 month ago)
 - [Desktop of the Gods](https://linuxmatters.sh/29/) (1 month ago)
