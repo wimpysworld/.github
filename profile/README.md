@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
   - An elegant virtual machine manager for the desktop
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [refactor: check-in pubspec.lock](https://github.com/quickemu-project/quickgui/pull/172) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
-- [ci: only test build quickgui if the flutter app was changed](https://github.com/quickemu-project/quickgui/pull/171) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
-- [chore: remove Windows 8.1, Windows 10 LTSC and Windows Server 2012 R2](https://github.com/quickemu-project/quickemu/pull/1345) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
-- [fix: pass relevant arguments to Exec when creating shortcuts. close #1285](https://github.com/quickemu-project/quickemu/pull/1343) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
-- [fix: get VM PID early so kill_vm() works reliably](https://github.com/quickemu-project/quickemu/pull/1342) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [feat: add authors to the left menu and improve the disabled dark mode toggle](https://github.com/quickemu-project/quickgui/pull/176) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
+- [docs: update pull_request_template.md](https://github.com/quickemu-project/quickemu/pull/1348) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [docs: update pull_request_template.md](https://github.com/quickemu-project/quickgui/pull/175) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
+- [feat: kill VMs using quickemu --kill when running quickemu &gt;= 4.9.6](https://github.com/quickemu-project/quickgui/pull/174) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
+- [feat: add fetchQuickemuVersion() and display version in the menu](https://github.com/quickemu-project/quickgui/pull/173) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 
 ### Recent releases 📦️
 
@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (860)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (861)
   - An elegant virtual machine manager for the desktop
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13722)
   - 😸 Soothing pastel theme for the high-spirited!
