@@ -32,38 +32,38 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
   - An elegant virtual machine manager for the desktop
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
   - My personal blog
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (3 days ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (4 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
 
 ### Recent pull requests 🛠️
 
 
-- [refactor: check-in pubspec.lock](https://github.com/quickemu-project/quickgui/pull/172) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
-- [ci: only test build quickgui if the flutter app was changed](https://github.com/quickemu-project/quickgui/pull/171) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
-- [chore: remove Windows 8.1, Windows 10 LTSC and Windows Server 2012 R2](https://github.com/quickemu-project/quickemu/pull/1345) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [fix: pass relevant arguments to Exec when creating shortcuts. close #1285](https://github.com/quickemu-project/quickemu/pull/1343) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [fix: get VM PID early so kill_vm() works reliably](https://github.com/quickemu-project/quickemu/pull/1342) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [refactor: check-in pubspec.lock](https://github.com/quickemu-project/quickgui/pull/172) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
+- [ci: only test build quickgui if the flutter app was changed](https://github.com/quickemu-project/quickgui/pull/171) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
+- [chore: remove Windows 8.1, Windows 10 LTSC and Windows Server 2012 R2](https://github.com/quickemu-project/quickemu/pull/1345) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [fix: pass relevant arguments to Exec when creating shortcuts. close #1285](https://github.com/quickemu-project/quickemu/pull/1343) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [fix: get VM PID early so kill_vm() works reliably](https://github.com/quickemu-project/quickemu/pull/1342) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) ([v23](https://github.com/DeterminateSystems/update-flake-lock/releases/tag/v23), 2 days ago)
+- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) ([v23](https://github.com/DeterminateSystems/update-flake-lock/releases/tag/v23), 3 days ago)
   - Automatically refresh your Nix Flakes.
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) ([1.2.9](https://github.com/quickemu-project/quickgui/releases/tag/1.2.9), 2 days ago)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) ([1.2.9](https://github.com/quickemu-project/quickgui/releases/tag/1.2.9), 3 days ago)
   - An elegant virtual machine manager for the desktop
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.0), 3 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.0), 4 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.1](https://github.com/wimpysworld/deb-get/releases/tag/0.4.1), 3 days ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.1](https://github.com/wimpysworld/deb-get/releases/tag/0.4.1), 4 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.5](https://github.com/quickemu-project/quickemu/releases/tag/4.9.5), 5 days ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.5](https://github.com/quickemu-project/quickemu/releases/tag/4.9.5), 6 days ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 
 ### Recent starred projects ⭐️
@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (860)
   - An elegant virtual machine manager for the desktop
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13721)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13722)
   - 😸 Soothing pastel theme for the high-spirited!
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) (17805)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Quick, Quicker, Quickest](https://linuxmatters.sh/32/) (5 days ago)
+- [Quick, Quicker, Quickest](https://linuxmatters.sh/32/) (6 days ago)
 - [Searching for a New Voice](https://linuxmatters.sh/31/) (2 weeks ago)
 - [Quickemu Rising From the Bashes](https://linuxmatters.sh/30/) (1 month ago)
 - [Desktop of the Gods](https://linuxmatters.sh/29/) (1 month ago)
