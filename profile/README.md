@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix: patch samba detection in Nix flake](https://github.com/quickemu-project/quickemu/pull/1356) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [refactor: update Nix flake to be consistent with the quickgui flake](https://github.com/quickemu-project/quickemu/pull/1353) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [feat: nix package, overlay and devshell use the quickemu FlakeHub flake](https://github.com/quickemu-project/quickgui/pull/178) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [feat: add authors to the left menu and improve the disabled dark mode toggle](https://github.com/quickemu-project/quickgui/pull/176) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
 - [docs: update pull_request_template.md](https://github.com/quickemu-project/quickemu/pull/1348) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
-- [docs: update pull_request_template.md](https://github.com/quickemu-project/quickgui/pull/175) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
 
 ### Recent releases 📦️
 
