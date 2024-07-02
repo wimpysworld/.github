@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix: add resolve_quickemu() to quickget so it can locate quickemu](https://github.com/quickemu-project/quickemu/pull/1360) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [refactor: replace all use of fold with fmt; no need for ncurses](https://github.com/quickemu-project/quickemu/pull/1359) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix: requesting --help is not an error](https://github.com/quickemu-project/quickemu/pull/1358) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [ci: add test-build-quickemu.yml](https://github.com/quickemu-project/quickemu/pull/1357) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix: patch samba detection in Nix flake](https://github.com/quickemu-project/quickemu/pull/1356) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [refactor: update Nix flake to be consistent with the quickgui flake](https://github.com/quickemu-project/quickemu/pull/1353) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 
 ### Recent releases 📦️
 
@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (864)
   - An elegant virtual machine manager for the desktop
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13735)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13736)
   - 😸 Soothing pastel theme for the high-spirited!
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) (17809)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
