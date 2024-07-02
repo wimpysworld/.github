@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
   - An elegant virtual machine manager for the desktop
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: update Nix flake to be consistent with the quickgui flake](https://github.com/quickemu-project/quickemu/pull/1353) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [feat: nix package, overlay and devshell use the quickemu FlakeHub flake](https://github.com/quickemu-project/quickgui/pull/178) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [feat: add authors to the left menu and improve the disabled dark mode toggle](https://github.com/quickemu-project/quickgui/pull/176) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
 - [docs: update pull_request_template.md](https://github.com/quickemu-project/quickemu/pull/1348) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [docs: update pull_request_template.md](https://github.com/quickemu-project/quickgui/pull/175) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
-- [feat: kill VMs using quickemu --kill when running quickemu &gt;= 4.9.6](https://github.com/quickemu-project/quickgui/pull/174) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
-- [feat: add fetchQuickemuVersion() and display version in the menu](https://github.com/quickemu-project/quickgui/pull/173) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
 
 ### Recent releases 📦️
 
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - An elegant virtual machine manager for the desktop
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13729)
   - 😸 Soothing pastel theme for the high-spirited!
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17808)
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17809)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) (381)
   - An unofficial GUI wrapper around the Tailscale CLI client.
