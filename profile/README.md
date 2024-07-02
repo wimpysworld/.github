@@ -34,23 +34,23 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+  - My personal blog
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
   - An elegant virtual machine manager for the desktop
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
-  - My personal blog
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (5 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
 
 ### Recent pull requests 🛠️
 
 
+- [refactor: replace all use of fold with fmt; no need for ncurses](https://github.com/quickemu-project/quickemu/pull/1359) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [fix: requesting --help is not an error](https://github.com/quickemu-project/quickemu/pull/1358) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [ci: add test-build-quickemu.yml](https://github.com/quickemu-project/quickemu/pull/1357) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [fix: patch samba detection in Nix flake](https://github.com/quickemu-project/quickemu/pull/1356) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [refactor: update Nix flake to be consistent with the quickgui flake](https://github.com/quickemu-project/quickemu/pull/1353) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [feat: nix package, overlay and devshell use the quickemu FlakeHub flake](https://github.com/quickemu-project/quickgui/pull/178) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
-- [feat: add authors to the left menu and improve the disabled dark mode toggle](https://github.com/quickemu-project/quickgui/pull/176) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
 
 ### Recent releases 📦️
 
@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (864)
   - An elegant virtual machine manager for the desktop
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13734)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13735)
   - 😸 Soothing pastel theme for the high-spirited!
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) (17809)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
