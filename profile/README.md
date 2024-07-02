@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (863)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (864)
   - An elegant virtual machine manager for the desktop
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13734)
   - 😸 Soothing pastel theme for the high-spirited!
