@@ -32,38 +32,38 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
   - An elegant virtual machine manager for the desktop
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
   - My personal blog
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (4 days ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (5 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
 
 ### Recent pull requests 🛠️
 
 
-- [feat: add authors to the left menu and improve the disabled dark mode toggle](https://github.com/quickemu-project/quickgui/pull/176) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
-- [docs: update pull_request_template.md](https://github.com/quickemu-project/quickemu/pull/1348) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [docs: update pull_request_template.md](https://github.com/quickemu-project/quickgui/pull/175) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
-- [feat: kill VMs using quickemu --kill when running quickemu &gt;= 4.9.6](https://github.com/quickemu-project/quickgui/pull/174) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
-- [feat: add fetchQuickemuVersion() and display version in the menu](https://github.com/quickemu-project/quickgui/pull/173) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
+- [feat: add authors to the left menu and improve the disabled dark mode toggle](https://github.com/quickemu-project/quickgui/pull/176) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
+- [docs: update pull_request_template.md](https://github.com/quickemu-project/quickemu/pull/1348) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [docs: update pull_request_template.md](https://github.com/quickemu-project/quickgui/pull/175) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
+- [feat: kill VMs using quickemu --kill when running quickemu &gt;= 4.9.6](https://github.com/quickemu-project/quickgui/pull/174) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
+- [feat: add fetchQuickemuVersion() and display version in the menu](https://github.com/quickemu-project/quickgui/pull/173) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.20](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.20), today)
+- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.20](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.20), 1 day ago)
   - Health checks for your Nix flakes
-- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) ([v23](https://github.com/DeterminateSystems/update-flake-lock/releases/tag/v23), 3 days ago)
+- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) ([v23](https://github.com/DeterminateSystems/update-flake-lock/releases/tag/v23), 4 days ago)
   - Automatically refresh your Nix Flakes.
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) ([1.2.9](https://github.com/quickemu-project/quickgui/releases/tag/1.2.9), 3 days ago)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) ([1.2.9](https://github.com/quickemu-project/quickgui/releases/tag/1.2.9), 4 days ago)
   - An elegant virtual machine manager for the desktop
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.0), 4 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.0), 5 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.1](https://github.com/wimpysworld/deb-get/releases/tag/0.4.1), 4 days ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.1](https://github.com/wimpysworld/deb-get/releases/tag/0.4.1), 5 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
 
 ### Recent starred projects ⭐️
@@ -71,9 +71,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (863)
   - An elegant virtual machine manager for the desktop
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13728)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13729)
   - 😸 Soothing pastel theme for the high-spirited!
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17807)
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17808)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) (381)
   - An unofficial GUI wrapper around the Tailscale CLI client.
@@ -86,8 +86,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Quick, Quicker, Quickest](https://linuxmatters.sh/32/) (6 days ago)
-- [Searching for a New Voice](https://linuxmatters.sh/31/) (2 weeks ago)
+- [Quick, Quicker, Quickest](https://linuxmatters.sh/32/) (1 week ago)
+- [Searching for a New Voice](https://linuxmatters.sh/31/) (3 weeks ago)
 - [Quickemu Rising From the Bashes](https://linuxmatters.sh/30/) (1 month ago)
 - [Desktop of the Gods](https://linuxmatters.sh/29/) (1 month ago)
 - [Wake-on-LAN for Preschoolers](https://linuxmatters.sh/28/) (2 months ago)
