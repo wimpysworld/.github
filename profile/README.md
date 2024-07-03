@@ -34,23 +34,23 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (today)
-  - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
-  - An elegant virtual machine manager for the desktop
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+  - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [quickemu-project/quickemu-icons](https://github.com/quickemu-project/quickemu-icons) (today)
   - Icons for the Quickemu project
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
-  - Quickly create and run optimised Windows, macOS and Linux virtual machines
+- [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (today)
+  - Quickemu website
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
+  - An elegant virtual machine manager for the desktop
 
 ### Recent pull requests 🛠️
 
 
+- [feat: add nix devshell](https://github.com/quickemu-project/quickemu-project.github.io/pull/1) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (today)
 - [docs: update pull_request_template.md](https://github.com/quickemu-project/quickgui/pull/184) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [chore: update pubspec.lock.json](https://github.com/quickemu-project/quickgui/pull/183) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [fix: check for running VM processes using kill -0](https://github.com/quickemu-project/quickgui/pull/182) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [chore: collection of updates to vscode extensions and flakes](https://github.com/wimpysworld/nix-config/pull/217) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: get quickemu and quickgui from upstream flake](https://github.com/wimpysworld/nix-config/pull/216) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 
 ### Recent releases 📦️
 
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - An elegant virtual machine manager for the desktop
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13750)
   - 😸 Soothing pastel theme for the high-spirited!
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17812)
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17813)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) (383)
   - An unofficial GUI wrapper around the Tailscale CLI client.
