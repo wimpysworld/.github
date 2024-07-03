@@ -32,25 +32,25 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
-  - An elegant virtual machine manager for the desktop
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-  - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+  - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [quickemu-project/quickemu-icons](https://github.com/quickemu-project/quickemu-icons) (today)
   - Icons for the Quickemu project
-- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (today)
-  - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
+- [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (today)
+  - Quickemu website
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
+  - An elegant virtual machine manager for the desktop
 
 ### Recent pull requests 🛠️
 
 
+- [feat: bare bones Hugo Coder configuration](https://github.com/quickemu-project/quickemu-project.github.io/pull/10) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (today)
+- [ci: add hugo.yml](https://github.com/quickemu-project/quickemu-project.github.io/pull/9) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (today)
 - [feat: add blank hugo site with hugo-coder theme](https://github.com/quickemu-project/quickemu-project.github.io/pull/8) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (today)
 - [docs: add CONTRIBUTING.md](https://github.com/quickemu-project/quickemu-project.github.io/pull/7) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (today)
 - [docs: add pull_request_template.md](https://github.com/quickemu-project/quickemu-project.github.io/pull/6) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (today)
-- [docs : add issue templates](https://github.com/quickemu-project/quickemu-project.github.io/pull/5) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (today)
-- [docs: add SECURITY.md](https://github.com/quickemu-project/quickemu-project.github.io/pull/4) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (today)
 
 ### Recent releases 📦️
 
