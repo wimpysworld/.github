@@ -32,38 +32,38 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
   - An elegant virtual machine manager for the desktop
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (5 days ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (6 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
 
 ### Recent pull requests 🛠️
 
 
-- [fix: make shellcheck happy by removing pointless echo](https://github.com/quickemu-project/quickemu/pull/1361) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [fix: add resolve_quickemu() to quickget so it can locate quickemu](https://github.com/quickemu-project/quickemu/pull/1360) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [refactor: replace all use of fold with fmt; no need for ncurses](https://github.com/quickemu-project/quickemu/pull/1359) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [fix: requesting --help is not an error](https://github.com/quickemu-project/quickemu/pull/1358) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [ci: add test-build-quickemu.yml](https://github.com/quickemu-project/quickemu/pull/1357) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [fix: make shellcheck happy by removing pointless echo](https://github.com/quickemu-project/quickemu/pull/1361) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [fix: add resolve_quickemu() to quickget so it can locate quickemu](https://github.com/quickemu-project/quickemu/pull/1360) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [refactor: replace all use of fold with fmt; no need for ncurses](https://github.com/quickemu-project/quickemu/pull/1359) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [fix: requesting --help is not an error](https://github.com/quickemu-project/quickemu/pull/1358) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [ci: add test-build-quickemu.yml](https://github.com/quickemu-project/quickemu/pull/1357) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.20](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.20), 1 day ago)
+- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.20](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.20), 2 days ago)
   - Health checks for your Nix flakes
-- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) ([v23](https://github.com/DeterminateSystems/update-flake-lock/releases/tag/v23), 4 days ago)
+- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) ([v23](https://github.com/DeterminateSystems/update-flake-lock/releases/tag/v23), 5 days ago)
   - Automatically refresh your Nix Flakes.
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) ([1.2.9](https://github.com/quickemu-project/quickgui/releases/tag/1.2.9), 4 days ago)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) ([1.2.9](https://github.com/quickemu-project/quickgui/releases/tag/1.2.9), 5 days ago)
   - An elegant virtual machine manager for the desktop
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.0), 5 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.0), 6 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.1](https://github.com/wimpysworld/deb-get/releases/tag/0.4.1), 5 days ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.1](https://github.com/wimpysworld/deb-get/releases/tag/0.4.1), 6 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
 
 ### Recent starred projects ⭐️
@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (865)
   - An elegant virtual machine manager for the desktop
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13742)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13743)
   - 😸 Soothing pastel theme for the high-spirited!
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) (17809)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -98,7 +98,7 @@ Here's some recent episodes:
 
 - [NixOS | More Nix ❄️ packaging &amp; fixes 🩹 for OBS Studio 📡](https://www.youtube.com/watch?v=VqNaOOm7Dhw) (5 months ago)
 - [NixOS | Updating Nix ❄️ packages of OBS Studio 📡 and it&#39;s plugins🔌](https://www.youtube.com/watch?v=phgOv_UCbMM) (5 months ago)
-- [NixOS &amp; Linux | Tinkering with my Nix config ❄️ and poking at some Linux projects 🐧](https://www.youtube.com/watch?v=biVQ_-v8oEo) (5 months ago)
+- [NixOS &amp; Linux | Tinkering with my Nix config ❄️ and poking at some Linux projects 🐧](https://www.youtube.com/watch?v=biVQ_-v8oEo) (6 months ago)
 - [NixOS &amp; Linux 🐧 Automate OBS with Kruiz Control and Scene Switcher](https://www.youtube.com/watch?v=BSITslJbMGA) (6 months ago)
 - [[Linux &amp; NixOS] Catching up on a few projects ❄️ - Part 2](https://www.youtube.com/watch?v=IpiuKvqHU-c) (6 months ago)
 
