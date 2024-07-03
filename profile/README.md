@@ -32,25 +32,25 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-  - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [quickemu-project/quickemu-icons](https://github.com/quickemu-project/quickemu-icons) (today)
-  - Icons for the Quickemu project
-- [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (today)
-  - Quickemu website
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
   - An elegant virtual machine manager for the desktop
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+  - Quickly create and run optimised Windows, macOS and Linux virtual machines
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
+- [quickemu-project/quickemu-icons](https://github.com/quickemu-project/quickemu-icons) (today)
+  - Icons for the Quickemu project
+- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (today)
+  - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
 
 ### Recent pull requests 🛠️
 
 
-- [feat: add nix devshell](https://github.com/quickemu-project/quickemu-project.github.io/pull/1) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (today)
-- [docs: update pull_request_template.md](https://github.com/quickemu-project/quickgui/pull/184) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
-- [chore: update pubspec.lock.json](https://github.com/quickemu-project/quickgui/pull/183) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
-- [fix: check for running VM processes using kill -0](https://github.com/quickemu-project/quickgui/pull/182) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
-- [chore: collection of updates to vscode extensions and flakes](https://github.com/wimpysworld/nix-config/pull/217) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [feat: add blank hugo site with hugo-coder theme](https://github.com/quickemu-project/quickemu-project.github.io/pull/8) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (today)
+- [docs: add CONTRIBUTING.md](https://github.com/quickemu-project/quickemu-project.github.io/pull/7) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (today)
+- [docs: add pull_request_template.md](https://github.com/quickemu-project/quickemu-project.github.io/pull/6) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (today)
+- [docs : add issue templates](https://github.com/quickemu-project/quickemu-project.github.io/pull/5) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (today)
+- [docs: add SECURITY.md](https://github.com/quickemu-project/quickemu-project.github.io/pull/4) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (today)
 
 ### Recent releases 📦️
 
