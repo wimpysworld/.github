@@ -34,14 +34,14 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
+- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (today)
+  - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
   - An elegant virtual machine manager for the desktop
+- [quickemu-project/quickemu-icons](https://github.com/quickemu-project/quickemu-icons) (today)
+  - Icons for the Quickemu project
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
-  - My personal blog
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (6 days ago)
-  - apt-get for .debs published via GitHub or direct download 📦
 
 ### Recent pull requests 🛠️
 
@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (865)
   - An elegant virtual machine manager for the desktop
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13749)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13750)
   - 😸 Soothing pastel theme for the high-spirited!
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) (17812)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
