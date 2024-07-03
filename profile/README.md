@@ -71,11 +71,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (865)
   - An elegant virtual machine manager for the desktop
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13746)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13748)
   - 😸 Soothing pastel theme for the high-spirited!
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17811)
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17812)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) (381)
+- [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) (382)
   - An unofficial GUI wrapper around the Tailscale CLI client.
 - [grahamc/git-multi](https://github.com/grahamc/git-multi) (40)
   - Support Multiple Git Repositories in One Directory
