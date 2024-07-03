@@ -32,25 +32,25 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-  - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [quickemu-project/quickemu-icons](https://github.com/quickemu-project/quickemu-icons) (today)
   - Icons for the Quickemu project
-- [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (today)
-  - Quickemu website
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+  - Quickly create and run optimised Windows, macOS and Linux virtual machines
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
+- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (today)
+  - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
   - An elegant virtual machine manager for the desktop
 
 ### Recent pull requests 🛠️
 
 
+- [ci: add semantic pr checker](https://github.com/quickemu-project/quickemu-project.github.io/pull/12) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (today)
 - [feat: bare bones Hugo Coder configuration](https://github.com/quickemu-project/quickemu-project.github.io/pull/10) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (today)
 - [ci: add hugo.yml](https://github.com/quickemu-project/quickemu-project.github.io/pull/9) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (today)
 - [feat: add blank hugo site with hugo-coder theme](https://github.com/quickemu-project/quickemu-project.github.io/pull/8) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (today)
 - [docs: add CONTRIBUTING.md](https://github.com/quickemu-project/quickemu-project.github.io/pull/7) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (today)
-- [docs: add pull_request_template.md](https://github.com/quickemu-project/quickemu-project.github.io/pull/6) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (today)
 
 ### Recent releases 📦️
 
@@ -69,16 +69,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
+- [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (1)
+  - Quickemu website
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (865)
   - An elegant virtual machine manager for the desktop
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13750)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13746)
   - 😸 Soothing pastel theme for the high-spirited!
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) (17813)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) (383)
   - An unofficial GUI wrapper around the Tailscale CLI client.
-- [grahamc/git-multi](https://github.com/grahamc/git-multi) (40)
-  - Support Multiple Git Repositories in One Directory
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
