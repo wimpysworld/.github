@@ -34,23 +34,23 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
+  - An elegant virtual machine manager for the desktop
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
-  - An elegant virtual machine manager for the desktop
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (6 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
 
 ### Recent pull requests 🛠️
 
 
+- [docs: update pull_request_template.md](https://github.com/quickemu-project/quickgui/pull/184) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
+- [chore: update pubspec.lock.json](https://github.com/quickemu-project/quickgui/pull/183) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
+- [fix: check for running VM processes using kill -0](https://github.com/quickemu-project/quickgui/pull/182) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [chore: collection of updates to vscode extensions and flakes](https://github.com/wimpysworld/nix-config/pull/217) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: get quickemu and quickgui from upstream flake](https://github.com/wimpysworld/nix-config/pull/216) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [fix: make shellcheck happy by removing pointless echo](https://github.com/quickemu-project/quickemu/pull/1361) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
-- [fix: add resolve_quickemu() to quickget so it can locate quickemu](https://github.com/quickemu-project/quickemu/pull/1360) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
-- [refactor: replace all use of fold with fmt; no need for ncurses](https://github.com/quickemu-project/quickemu/pull/1359) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 
 ### Recent releases 📦️
 
@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (865)
   - An elegant virtual machine manager for the desktop
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13748)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13749)
   - 😸 Soothing pastel theme for the high-spirited!
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) (17812)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
