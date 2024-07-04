@@ -38,10 +38,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
-  - An elegant virtual machine manager for the desktop
+- [quickemu-project/quickget_configs](https://github.com/quickemu-project/quickget_configs) (1 day ago)
+  - JSON formatted configuration files for use by quickget. Updated daily
+- [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (1 day ago)
+  - Quickemu website
 
 ### Recent pull requests 🛠️
 
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - An elegant virtual machine manager for the desktop
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13757)
   - 😸 Soothing pastel theme for the high-spirited!
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17816)
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17817)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) (383)
   - An unofficial GUI wrapper around the Tailscale CLI client.
