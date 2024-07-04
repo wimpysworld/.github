@@ -32,14 +32,14 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [quickemu-project/quickemu-icons](https://github.com/quickemu-project/quickemu-icons) (1 day ago)
-  - Icons for the Quickemu project
+- [quickemu-project/.github](https://github.com/quickemu-project/.github) (today)
+  - Quickemu Project
+- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (today)
+  - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (1 day ago)
-  - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
   - An elegant virtual machine manager for the desktop
 
