@@ -75,9 +75,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Quickemu website
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (866)
   - An elegant virtual machine manager for the desktop
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13761)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13762)
   - 😸 Soothing pastel theme for the high-spirited!
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17819)
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17820)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
 
 ### 🎙️ Podcast
