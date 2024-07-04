@@ -69,16 +69,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
+- [quickemu-project/quickget_configs](https://github.com/quickemu-project/quickget_configs) (2)
+  - JSON formatted configuration files for use by quickget. Updated daily
 - [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (1)
   - Quickemu website
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (866)
   - An elegant virtual machine manager for the desktop
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13760)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13761)
   - 😸 Soothing pastel theme for the high-spirited!
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) (17819)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) (383)
-  - An unofficial GUI wrapper around the Tailscale CLI client.
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
