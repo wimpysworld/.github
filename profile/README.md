@@ -36,21 +36,21 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Quickemu Project
 - [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (today)
   - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
+  - An elegant virtual machine manager for the desktop
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [quickemu-project/quickget_configs](https://github.com/quickemu-project/quickget_configs) (1 day ago)
   - JSON formatted configuration files for use by quickget. Updated daily
-- [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (1 day ago)
-  - Quickemu website
 
 ### Recent pull requests 🛠️
 
 
+- [ci: actually test running a VM](https://github.com/quickemu-project/quickemu/pull/1366) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [chore: bump version to 1.2.10](https://github.com/quickemu-project/quickgui/pull/185) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [ci: add semantic pr checker](https://github.com/quickemu-project/quickemu-project.github.io/pull/12) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (1 day ago)
 - [feat: bare bones Hugo Coder configuration](https://github.com/quickemu-project/quickemu-project.github.io/pull/10) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (1 day ago)
 - [ci: add hugo.yml](https://github.com/quickemu-project/quickemu-project.github.io/pull/9) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (1 day ago)
-- [feat: add blank hugo site with hugo-coder theme](https://github.com/quickemu-project/quickemu-project.github.io/pull/8) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (1 day ago)
-- [docs: add CONTRIBUTING.md](https://github.com/quickemu-project/quickemu-project.github.io/pull/7) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (1 day ago)
 
 ### Recent releases 📦️
 
