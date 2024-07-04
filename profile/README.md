@@ -46,15 +46,17 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: display socket hints based on what tools are available](https://github.com/quickemu-project/quickemu/pull/1367) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [ci: actually test running a VM](https://github.com/quickemu-project/quickemu/pull/1366) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [chore: bump version to 1.2.10](https://github.com/quickemu-project/quickgui/pull/185) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
 - [ci: add semantic pr checker](https://github.com/quickemu-project/quickemu-project.github.io/pull/12) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (1 day ago)
 - [feat: bare bones Hugo Coder configuration](https://github.com/quickemu-project/quickemu-project.github.io/pull/10) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (1 day ago)
-- [ci: add hugo.yml](https://github.com/quickemu-project/quickemu-project.github.io/pull/9) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (1 day ago)
 
 ### Recent releases 📦️
 
 
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.6](https://github.com/quickemu-project/quickemu/releases/tag/4.9.6), today)
+  - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.2.0](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.2.0), 1 day ago)
   - Health checks for your Nix flakes
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) ([v23](https://github.com/DeterminateSystems/update-flake-lock/releases/tag/v23), 6 days ago)
@@ -63,8 +65,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - An elegant virtual machine manager for the desktop
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.0), 1 week ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.1](https://github.com/wimpysworld/deb-get/releases/tag/0.4.1), 1 week ago)
-  - apt-get for .debs published via GitHub or direct download 📦
 
 ### Recent starred projects ⭐️
 
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Quickemu website
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (866)
   - An elegant virtual machine manager for the desktop
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13758)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13757)
   - 😸 Soothing pastel theme for the high-spirited!
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) (17817)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
