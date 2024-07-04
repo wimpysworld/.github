@@ -32,38 +32,38 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [quickemu-project/quickemu-icons](https://github.com/quickemu-project/quickemu-icons) (today)
+- [quickemu-project/quickemu-icons](https://github.com/quickemu-project/quickemu-icons) (1 day ago)
   - Icons for the Quickemu project
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (today)
+- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (1 day ago)
   - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
   - An elegant virtual machine manager for the desktop
 
 ### Recent pull requests 🛠️
 
 
-- [ci: add semantic pr checker](https://github.com/quickemu-project/quickemu-project.github.io/pull/12) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (today)
-- [feat: bare bones Hugo Coder configuration](https://github.com/quickemu-project/quickemu-project.github.io/pull/10) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (today)
-- [ci: add hugo.yml](https://github.com/quickemu-project/quickemu-project.github.io/pull/9) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (today)
-- [feat: add blank hugo site with hugo-coder theme](https://github.com/quickemu-project/quickemu-project.github.io/pull/8) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (today)
-- [docs: add CONTRIBUTING.md](https://github.com/quickemu-project/quickemu-project.github.io/pull/7) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (today)
+- [ci: add semantic pr checker](https://github.com/quickemu-project/quickemu-project.github.io/pull/12) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (1 day ago)
+- [feat: bare bones Hugo Coder configuration](https://github.com/quickemu-project/quickemu-project.github.io/pull/10) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (1 day ago)
+- [ci: add hugo.yml](https://github.com/quickemu-project/quickemu-project.github.io/pull/9) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (1 day ago)
+- [feat: add blank hugo site with hugo-coder theme](https://github.com/quickemu-project/quickemu-project.github.io/pull/8) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (1 day ago)
+- [docs: add CONTRIBUTING.md](https://github.com/quickemu-project/quickemu-project.github.io/pull/7) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (1 day ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.2.0](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.2.0), today)
+- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.2.0](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.2.0), 1 day ago)
   - Health checks for your Nix flakes
-- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) ([v23](https://github.com/DeterminateSystems/update-flake-lock/releases/tag/v23), 5 days ago)
+- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) ([v23](https://github.com/DeterminateSystems/update-flake-lock/releases/tag/v23), 6 days ago)
   - Automatically refresh your Nix Flakes.
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) ([1.2.9](https://github.com/quickemu-project/quickgui/releases/tag/1.2.9), 5 days ago)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) ([1.2.9](https://github.com/quickemu-project/quickgui/releases/tag/1.2.9), 6 days ago)
   - An elegant virtual machine manager for the desktop
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.0), 6 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.0), 1 week ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.1](https://github.com/wimpysworld/deb-get/releases/tag/0.4.1), 6 days ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.1](https://github.com/wimpysworld/deb-get/releases/tag/0.4.1), 1 week ago)
   - apt-get for .debs published via GitHub or direct download 📦
 
 ### Recent starred projects ⭐️
