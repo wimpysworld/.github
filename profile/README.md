@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - An elegant virtual machine manager for the desktop
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13761)
   - 😸 Soothing pastel theme for the high-spirited!
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17821)
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17822)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
 
 ### 🎙️ Podcast
