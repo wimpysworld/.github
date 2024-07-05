@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [wavebox: 10.124.17-2 -&gt; 10.126.14-2](https://github.com/NixOS/nixpkgs/pull/324822) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
+- [feat: align wavebox packaging with google-chrome update to 10.126.14-2](https://github.com/wimpysworld/nix-config/pull/220) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [fix: update cursors to lower case naming](https://github.com/wimpysworld/nix-config/pull/219) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: align OBS Studio with upstream Nixpkgs proposal and update assorted plugins](https://github.com/wimpysworld/nix-config/pull/218) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: display socket hints based on what tools are available](https://github.com/quickemu-project/quickemu/pull/1367) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
-- [ci: actually test running a VM](https://github.com/quickemu-project/quickemu/pull/1366) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
-- [chore: bump version to 1.2.10](https://github.com/quickemu-project/quickgui/pull/185) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
 
 ### Recent releases 📦️
 
