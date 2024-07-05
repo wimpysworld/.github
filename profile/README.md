@@ -32,16 +32,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [quickemu-project/.github](https://github.com/quickemu-project/.github) (1 day ago)
-  - Quickemu Project
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (1 day ago)
-  - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
+- [quickemu-project/.github](https://github.com/quickemu-project/.github) (1 day ago)
+  - Quickemu Project
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
   - An elegant virtual machine manager for the desktop
-- [quickemu-project/quickget_configs](https://github.com/quickemu-project/quickget_configs) (2 days ago)
-  - JSON formatted configuration files for use by quickget. Updated daily
+- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (1 day ago)
+  - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
 
 ### Recent pull requests 🛠️
 
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Quickemu website
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (869)
   - An elegant virtual machine manager for the desktop
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13772)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13773)
   - 😸 Soothing pastel theme for the high-spirited!
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) (17825)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
