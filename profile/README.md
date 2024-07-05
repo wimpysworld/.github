@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [chore: drop podman-tui and podman-compose](https://github.com/wimpysworld/nix-config/pull/225) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [refactor: migrate all vscode extensions to nix-vscode-extensions overlay](https://github.com/wimpysworld/nix-config/pull/224) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [wavebox: 10.124.17-2 -&gt; 10.126.14-2](https://github.com/NixOS/nixpkgs/pull/324822) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [feat: align wavebox packaging with google-chrome update to 10.126.14-2](https://github.com/wimpysworld/nix-config/pull/220) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [fix: update cursors to lower case naming](https://github.com/wimpysworld/nix-config/pull/219) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: align OBS Studio with upstream Nixpkgs proposal and update assorted plugins](https://github.com/wimpysworld/nix-config/pull/218) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: display socket hints based on what tools are available](https://github.com/quickemu-project/quickemu/pull/1367) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 
 ### Recent releases 📦️
 
