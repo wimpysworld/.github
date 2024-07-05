@@ -32,36 +32,36 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [quickemu-project/.github](https://github.com/quickemu-project/.github) (today)
+- [quickemu-project/.github](https://github.com/quickemu-project/.github) (1 day ago)
   - Quickemu Project
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (today)
+- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (1 day ago)
   - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
   - An elegant virtual machine manager for the desktop
-- [quickemu-project/quickget_configs](https://github.com/quickemu-project/quickget_configs) (1 day ago)
+- [quickemu-project/quickget_configs](https://github.com/quickemu-project/quickget_configs) (2 days ago)
   - JSON formatted configuration files for use by quickget. Updated daily
 
 ### Recent pull requests 🛠️
 
 
-- [refactor: display socket hints based on what tools are available](https://github.com/quickemu-project/quickemu/pull/1367) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [ci: actually test running a VM](https://github.com/quickemu-project/quickemu/pull/1366) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [chore: bump version to 1.2.10](https://github.com/quickemu-project/quickgui/pull/185) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
-- [ci: add semantic pr checker](https://github.com/quickemu-project/quickemu-project.github.io/pull/12) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (1 day ago)
-- [feat: bare bones Hugo Coder configuration](https://github.com/quickemu-project/quickemu-project.github.io/pull/10) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (1 day ago)
+- [refactor: display socket hints based on what tools are available](https://github.com/quickemu-project/quickemu/pull/1367) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [ci: actually test running a VM](https://github.com/quickemu-project/quickemu/pull/1366) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [chore: bump version to 1.2.10](https://github.com/quickemu-project/quickgui/pull/185) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
+- [ci: add semantic pr checker](https://github.com/quickemu-project/quickemu-project.github.io/pull/12) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (2 days ago)
+- [feat: bare bones Hugo Coder configuration](https://github.com/quickemu-project/quickemu-project.github.io/pull/10) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (2 days ago)
 
 ### Recent releases 📦️
 
 
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) ([1.2.10](https://github.com/quickemu-project/quickgui/releases/tag/1.2.10), today)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) ([1.2.10](https://github.com/quickemu-project/quickgui/releases/tag/1.2.10), 1 day ago)
   - An elegant virtual machine manager for the desktop
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.6](https://github.com/quickemu-project/quickemu/releases/tag/4.9.6), today)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.6](https://github.com/quickemu-project/quickemu/releases/tag/4.9.6), 1 day ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.2.0](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.2.0), 1 day ago)
+- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.2.0](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.2.0), 2 days ago)
   - Health checks for your Nix flakes
-- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) ([v23](https://github.com/DeterminateSystems/update-flake-lock/releases/tag/v23), 6 days ago)
+- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) ([v23](https://github.com/DeterminateSystems/update-flake-lock/releases/tag/v23), 1 week ago)
   - Automatically refresh your Nix Flakes.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.0), 1 week ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
@@ -69,15 +69,15 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [quickemu-project/quickget_configs](https://github.com/quickemu-project/quickget_configs) (2)
+- [quickemu-project/quickget_configs](https://github.com/quickemu-project/quickget_configs) (3)
   - JSON formatted configuration files for use by quickget. Updated daily
 - [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (1)
   - Quickemu website
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (866)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (867)
   - An elegant virtual machine manager for the desktop
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13761)
   - 😸 Soothing pastel theme for the high-spirited!
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17820)
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17821)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
 
 ### 🎙️ Podcast
