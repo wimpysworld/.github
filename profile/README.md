@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix: update cursors to lower case naming](https://github.com/wimpysworld/nix-config/pull/219) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [refactor: align OBS Studio with upstream Nixpkgs proposal and update assorted plugins](https://github.com/wimpysworld/nix-config/pull/218) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: display socket hints based on what tools are available](https://github.com/quickemu-project/quickemu/pull/1367) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [ci: actually test running a VM](https://github.com/quickemu-project/quickemu/pull/1366) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [chore: bump version to 1.2.10](https://github.com/quickemu-project/quickgui/pull/185) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
-- [ci: add semantic pr checker](https://github.com/quickemu-project/quickemu-project.github.io/pull/12) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (2 days ago)
-- [feat: bare bones Hugo Coder configuration](https://github.com/quickemu-project/quickemu-project.github.io/pull/10) on [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (2 days ago)
 
 ### Recent releases 📦️
 
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Quickemu website
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (869)
   - An elegant virtual machine manager for the desktop
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13773)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13774)
   - 😸 Soothing pastel theme for the high-spirited!
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) (17825)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
