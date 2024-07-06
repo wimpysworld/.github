@@ -32,34 +32,34 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [quickemu-project/.github](https://github.com/quickemu-project/.github) (1 day ago)
+- [quickemu-project/.github](https://github.com/quickemu-project/.github) (2 days ago)
   - Quickemu Project
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (2 days ago)
   - An elegant virtual machine manager for the desktop
-- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (1 day ago)
+- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (2 days ago)
   - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
 
 ### Recent pull requests 🛠️
 
 
-- [chore: drop podman-tui and podman-compose](https://github.com/wimpysworld/nix-config/pull/225) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: migrate all vscode extensions to nix-vscode-extensions overlay](https://github.com/wimpysworld/nix-config/pull/224) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [wavebox: 10.124.17-2 -&gt; 10.126.14-2](https://github.com/NixOS/nixpkgs/pull/324822) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
-- [feat: align wavebox packaging with google-chrome update to 10.126.14-2](https://github.com/wimpysworld/nix-config/pull/220) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [fix: update cursors to lower case naming](https://github.com/wimpysworld/nix-config/pull/219) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [chore: drop podman-tui and podman-compose](https://github.com/wimpysworld/nix-config/pull/225) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [refactor: migrate all vscode extensions to nix-vscode-extensions overlay](https://github.com/wimpysworld/nix-config/pull/224) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wavebox: 10.124.17-2 -&gt; 10.126.14-2](https://github.com/NixOS/nixpkgs/pull/324822) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
+- [feat: align wavebox packaging with google-chrome update to 10.126.14-2](https://github.com/wimpysworld/nix-config/pull/220) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [fix: update cursors to lower case naming](https://github.com/wimpysworld/nix-config/pull/219) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 
 ### Recent releases 📦️
 
 
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) ([1.2.10](https://github.com/quickemu-project/quickgui/releases/tag/1.2.10), 1 day ago)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) ([1.2.10](https://github.com/quickemu-project/quickgui/releases/tag/1.2.10), 2 days ago)
   - An elegant virtual machine manager for the desktop
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.6](https://github.com/quickemu-project/quickemu/releases/tag/4.9.6), 1 day ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.6](https://github.com/quickemu-project/quickemu/releases/tag/4.9.6), 2 days ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.2.0](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.2.0), 2 days ago)
+- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.2.0](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.2.0), 3 days ago)
   - Health checks for your Nix flakes
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) ([v23](https://github.com/DeterminateSystems/update-flake-lock/releases/tag/v23), 1 week ago)
   - Automatically refresh your Nix Flakes.
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Quickemu website
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (870)
   - An elegant virtual machine manager for the desktop
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13777)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13778)
   - 😸 Soothing pastel theme for the high-spirited!
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) (17828)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
