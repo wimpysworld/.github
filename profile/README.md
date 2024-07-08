@@ -36,12 +36,12 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (4 days ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
+- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (4 days ago)
+  - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
 - [quickemu-project/.github](https://github.com/quickemu-project/.github) (4 days ago)
   - Quickemu Project
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (4 days ago)
   - An elegant virtual machine manager for the desktop
-- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (4 days ago)
-  - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
 
 ### Recent pull requests 🛠️
 
@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - An elegant virtual machine manager for the desktop
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13823)
   - 😸 Soothing pastel theme for the high-spirited!
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17838)
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17839)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
 
 ### 🎙️ Podcast
