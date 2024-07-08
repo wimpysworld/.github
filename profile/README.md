@@ -73,9 +73,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - JSON formatted configuration files for use by quickget. Updated daily
 - [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (1)
   - Quickemu website
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (873)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (874)
   - An elegant virtual machine manager for the desktop
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13809)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13812)
   - 😸 Soothing pastel theme for the high-spirited!
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) (17837)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
