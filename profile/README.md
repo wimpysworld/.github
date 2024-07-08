@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (4 days ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [chore: update flake.lock](https://github.com/wimpysworld/nix-config/pull/226) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [chore: drop podman-tui and podman-compose](https://github.com/wimpysworld/nix-config/pull/225) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 - [refactor: migrate all vscode extensions to nix-vscode-extensions overlay](https://github.com/wimpysworld/nix-config/pull/224) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 - [wavebox: 10.124.17-2 -&gt; 10.126.14-2](https://github.com/NixOS/nixpkgs/pull/324822) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
 - [feat: align wavebox packaging with google-chrome update to 10.126.14-2](https://github.com/wimpysworld/nix-config/pull/220) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [fix: update cursors to lower case naming](https://github.com/wimpysworld/nix-config/pull/219) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 
 ### Recent releases 📦️
 
@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - An elegant virtual machine manager for the desktop
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13801)
   - 😸 Soothing pastel theme for the high-spirited!
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17836)
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17837)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
 
 ### 🎙️ Podcast
