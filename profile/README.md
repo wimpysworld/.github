@@ -32,14 +32,14 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+  - My personal blog
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (5 days ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (5 days ago)
   - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
-- [quickemu-project/.github](https://github.com/quickemu-project/.github) (5 days ago)
-  - Quickemu Project
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (5 days ago)
   - An elegant virtual machine manager for the desktop
 
@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - An elegant virtual machine manager for the desktop
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13838)
   - 😸 Soothing pastel theme for the high-spirited!
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17839)
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17840)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
 
 ### 🎙️ Podcast
