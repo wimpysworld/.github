@@ -32,36 +32,36 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (5 days ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (6 days ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (5 days ago)
+- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (6 days ago)
   - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (5 days ago)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (6 days ago)
   - An elegant virtual machine manager for the desktop
 
 ### Recent pull requests 🛠️
 
 
-- [chore: update flake.lock](https://github.com/wimpysworld/nix-config/pull/226) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [chore: drop podman-tui and podman-compose](https://github.com/wimpysworld/nix-config/pull/225) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
-- [refactor: migrate all vscode extensions to nix-vscode-extensions overlay](https://github.com/wimpysworld/nix-config/pull/224) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
-- [wavebox: 10.124.17-2 -&gt; 10.126.14-2](https://github.com/NixOS/nixpkgs/pull/324822) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 days ago)
-- [feat: align wavebox packaging with google-chrome update to 10.126.14-2](https://github.com/wimpysworld/nix-config/pull/220) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [chore: update flake.lock](https://github.com/wimpysworld/nix-config/pull/226) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [chore: drop podman-tui and podman-compose](https://github.com/wimpysworld/nix-config/pull/225) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [refactor: migrate all vscode extensions to nix-vscode-extensions overlay](https://github.com/wimpysworld/nix-config/pull/224) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [wavebox: 10.124.17-2 -&gt; 10.126.14-2](https://github.com/NixOS/nixpkgs/pull/324822) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 days ago)
+- [feat: align wavebox packaging with google-chrome update to 10.126.14-2](https://github.com/wimpysworld/nix-config/pull/220) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 
 ### Recent releases 📦️
 
 
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.3](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.3), 1 day ago)
+- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.3](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.3), 2 days ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) ([1.2.10](https://github.com/quickemu-project/quickgui/releases/tag/1.2.10), 5 days ago)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) ([1.2.10](https://github.com/quickemu-project/quickgui/releases/tag/1.2.10), 6 days ago)
   - An elegant virtual machine manager for the desktop
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.6](https://github.com/quickemu-project/quickemu/releases/tag/4.9.6), 5 days ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.6](https://github.com/quickemu-project/quickemu/releases/tag/4.9.6), 6 days ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.2.0](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.2.0), 6 days ago)
+- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.2.0](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.2.0), 1 week ago)
   - Health checks for your Nix flakes
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) ([v23](https://github.com/DeterminateSystems/update-flake-lock/releases/tag/v23), 1 week ago)
   - Automatically refresh your Nix Flakes.
@@ -75,9 +75,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Quickemu website
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (874)
   - An elegant virtual machine manager for the desktop
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13843)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13844)
   - 😸 Soothing pastel theme for the high-spirited!
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17842)
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17843)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
 
 ### 🎙️ Podcast
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Welcome Homepage](https://linuxmatters.sh/33/) (today)
+- [Welcome Homepage](https://linuxmatters.sh/33/) (1 day ago)
 - [Quick, Quicker, Quickest](https://linuxmatters.sh/32/) (2 weeks ago)
 - [Searching for a New Voice](https://linuxmatters.sh/31/) (4 weeks ago)
 - [Quickemu Rising From the Bashes](https://linuxmatters.sh/30/) (1 month ago)
