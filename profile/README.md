@@ -55,6 +55,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.1), today)
+  - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.3](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.3), 2 days ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) ([1.2.10](https://github.com/quickemu-project/quickgui/releases/tag/1.2.10), 6 days ago)
@@ -63,8 +65,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.2.0](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.2.0), 1 week ago)
   - Health checks for your Nix flakes
-- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) ([v23](https://github.com/DeterminateSystems/update-flake-lock/releases/tag/v23), 1 week ago)
-  - Automatically refresh your Nix Flakes.
 
 ### Recent starred projects ⭐️
 
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - JSON formatted configuration files for use by quickget. Updated daily
 - [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (1)
   - Quickemu website
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (875)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (876)
   - An elegant virtual machine manager for the desktop
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13852)
   - 😸 Soothing pastel theme for the high-spirited!
