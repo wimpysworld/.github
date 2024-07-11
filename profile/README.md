@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: don&#39;t aggressively silence boot messages and keep more generations](https://github.com/wimpysworld/nix-config/pull/230) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: initial re-organisation of the nix-config tree](https://github.com/wimpysworld/nix-config/pull/229) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [chore: update flake.lock](https://github.com/wimpysworld/nix-config/pull/226) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 - [chore: drop podman-tui and podman-compose](https://github.com/wimpysworld/nix-config/pull/225) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 - [refactor: migrate all vscode extensions to nix-vscode-extensions overlay](https://github.com/wimpysworld/nix-config/pull/224) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
-- [wavebox: 10.124.17-2 -&gt; 10.126.14-2](https://github.com/NixOS/nixpkgs/pull/324822) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (6 days ago)
 
 ### Recent releases 📦️
 
