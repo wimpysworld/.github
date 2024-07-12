@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
   - My personal blog
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: simplify home manager user imports](https://github.com/wimpysworld/nix-config/pull/238) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [refactor: re-organise and consolidate media production configs](https://github.com/wimpysworld/nix-config/pull/237) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: make home manager desktop apps conditional](https://github.com/wimpysworld/nix-config/pull/236) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [refactor: move easyeffects its own service](https://github.com/wimpysworld/nix-config/pull/235) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [refactor: feature imports for nixos and home manager](https://github.com/wimpysworld/nix-config/pull/234) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [refactor: make plex and jellyfin host conditional services](https://github.com/wimpysworld/nix-config/pull/233) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [chore: drop tartube](https://github.com/wimpysworld/nix-config/pull/232) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 
 ### Recent releases 📦️
 
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Quickemu website
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (878)
   - An elegant virtual machine manager for the desktop
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13881)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13882)
   - 😸 Soothing pastel theme for the high-spirited!
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) (17864)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
