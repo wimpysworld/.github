@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: simplify how user specific desktop config overrides are organised](https://github.com/wimpysworld/nix-config/pull/240) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: simplify home manager user imports](https://github.com/wimpysworld/nix-config/pull/238) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: re-organise and consolidate media production configs](https://github.com/wimpysworld/nix-config/pull/237) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: make home manager desktop apps conditional](https://github.com/wimpysworld/nix-config/pull/236) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [refactor: move easyeffects its own service](https://github.com/wimpysworld/nix-config/pull/235) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [refactor: feature imports for nixos and home manager](https://github.com/wimpysworld/nix-config/pull/234) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 
 ### Recent releases 📦️
 
