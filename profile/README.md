@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix: address issue with building or running the live iso images](https://github.com/wimpysworld/nix-config/pull/242) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: complete the reorganisation of desktop configs](https://github.com/wimpysworld/nix-config/pull/241) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: simplify how user specific desktop config overrides are organised](https://github.com/wimpysworld/nix-config/pull/240) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: simplify home manager user imports](https://github.com/wimpysworld/nix-config/pull/238) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: re-organise and consolidate media production configs](https://github.com/wimpysworld/nix-config/pull/237) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: make home manager desktop apps conditional](https://github.com/wimpysworld/nix-config/pull/236) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 
 ### Recent releases 📦️
 
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Quickemu website
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (878)
   - An elegant virtual machine manager for the desktop
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13889)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13890)
   - 😸 Soothing pastel theme for the high-spirited!
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) (17865)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
