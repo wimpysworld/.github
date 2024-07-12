@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
   - My personal blog
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
@@ -46,18 +46,18 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [refactor: make home manager desktop apps conditional](https://github.com/wimpysworld/nix-config/pull/236) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: move easyeffects its own service](https://github.com/wimpysworld/nix-config/pull/235) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: feature imports for nixos and home manager](https://github.com/wimpysworld/nix-config/pull/234) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: make plex and jellyfin host conditional services](https://github.com/wimpysworld/nix-config/pull/233) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [chore: drop tartube](https://github.com/wimpysworld/nix-config/pull/232) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [refactor: make home manager desktop apps conditional](https://github.com/wimpysworld/nix-config/pull/236) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [refactor: move easyeffects its own service](https://github.com/wimpysworld/nix-config/pull/235) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [refactor: feature imports for nixos and home manager](https://github.com/wimpysworld/nix-config/pull/234) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [refactor: make plex and jellyfin host conditional services](https://github.com/wimpysworld/nix-config/pull/233) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [chore: drop tartube](https://github.com/wimpysworld/nix-config/pull/232) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.1), 1 day ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.1), 2 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.3](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.3), 3 days ago)
+- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.3](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.3), 4 days ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) ([1.2.10](https://github.com/quickemu-project/quickgui/releases/tag/1.2.10), 1 week ago)
   - An elegant virtual machine manager for the desktop
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Quickemu website
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (877)
   - An elegant virtual machine manager for the desktop
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13873)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13874)
   - 😸 Soothing pastel theme for the high-spirited!
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) (17858)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Welcome Homepage](https://linuxmatters.sh/33/) (2 days ago)
+- [Welcome Homepage](https://linuxmatters.sh/33/) (3 days ago)
 - [Quick, Quicker, Quickest](https://linuxmatters.sh/32/) (2 weeks ago)
 - [Searching for a New Voice](https://linuxmatters.sh/31/) (1 month ago)
 - [Quickemu Rising From the Bashes](https://linuxmatters.sh/30/) (1 month ago)
@@ -104,7 +104,7 @@ Here's some recent episodes:
 
 ### ✍️ Blog
 
-- [Install ZeroTier on Steam Deck](https://wimpysworld.com/posts/install-zerotier-on-steamdeck/) (10 months ago)
+- [Install ZeroTier on Steam Deck](https://wimpysworld.com/posts/install-zerotier-on-steamdeck/) (11 months ago)
 - [Steam Box vs Steam Deck](https://wimpysworld.com/posts/steambox-vs-steamdeck/) (1 year ago)
 - [Flash Stadia Controller Bluetooth Firmware on Linux](https://wimpysworld.com/posts/flash-stadia-controller-bluetooth-firmware-on-linux/) (1 year ago)
 - [Why I chose the ThinkPad Z13 Gen1 as my Linux laptop](https://wimpysworld.com/posts/why-i-chose-the-thinkpad-z13-as-my-linux-laptop/) (1 year ago)
