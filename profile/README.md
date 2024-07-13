@@ -46,15 +46,17 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: simplify build and publish](https://github.com/wimpysworld/nix-config/pull/246) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [fix: disable obs-studio-plugins when running in ci](https://github.com/wimpysworld/nix-config/pull/245) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat: add nixfmt-plus and run statix tree wide](https://github.com/wimpysworld/nix-config/pull/244) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [fix: make sops-nix user conditional](https://github.com/wimpysworld/nix-config/pull/243) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [fix: address issue with building or running the live iso images](https://github.com/wimpysworld/nix-config/pull/242) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [refactor: complete the reorganisation of desktop configs](https://github.com/wimpysworld/nix-config/pull/241) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 
 ### Recent releases 📦️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.195.01](https://github.com/wimpysworld/nix-config/releases/tag/24.195.01), today)
+  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.1), 3 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.3](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.3), 5 days ago)
@@ -63,12 +65,12 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - An elegant virtual machine manager for the desktop
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.6](https://github.com/quickemu-project/quickemu/releases/tag/4.9.6), 1 week ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.2.0](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.2.0), 1 week ago)
-  - Health checks for your Nix flakes
 
 ### Recent starred projects ⭐️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (331)
+  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickget_configs](https://github.com/quickemu-project/quickget_configs) (3)
   - JSON formatted configuration files for use by quickget. Updated daily
 - [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (1)
@@ -77,8 +79,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - An elegant virtual machine manager for the desktop
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13893)
   - 😸 Soothing pastel theme for the high-spirited!
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17866)
-  - Blazing 💥 fast terminal-ui for git written in rust 🦀
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
