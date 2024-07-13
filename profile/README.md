@@ -34,7 +34,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (4 days ago)
   - My personal blog
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
@@ -46,18 +46,18 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [fix: make sops-nix user conditional](https://github.com/wimpysworld/nix-config/pull/243) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [fix: address issue with building or running the live iso images](https://github.com/wimpysworld/nix-config/pull/242) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: complete the reorganisation of desktop configs](https://github.com/wimpysworld/nix-config/pull/241) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: simplify how user specific desktop config overrides are organised](https://github.com/wimpysworld/nix-config/pull/240) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: simplify home manager user imports](https://github.com/wimpysworld/nix-config/pull/238) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [fix: disable obs-studio-plugins when running in ci](https://github.com/wimpysworld/nix-config/pull/245) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: add nixfmt-plus and run statix tree wide](https://github.com/wimpysworld/nix-config/pull/244) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [fix: make sops-nix user conditional](https://github.com/wimpysworld/nix-config/pull/243) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [fix: address issue with building or running the live iso images](https://github.com/wimpysworld/nix-config/pull/242) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [refactor: complete the reorganisation of desktop configs](https://github.com/wimpysworld/nix-config/pull/241) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.1), 2 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.1), 3 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.3](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.3), 4 days ago)
+- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.3](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.3), 5 days ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) ([1.2.10](https://github.com/quickemu-project/quickgui/releases/tag/1.2.10), 1 week ago)
   - An elegant virtual machine manager for the desktop
@@ -75,9 +75,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Quickemu website
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (878)
   - An elegant virtual machine manager for the desktop
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13891)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13893)
   - 😸 Soothing pastel theme for the high-spirited!
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17865)
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) (17866)
   - Blazing 💥 fast terminal-ui for git written in rust 🦀
 
 ### 🎙️ Podcast
@@ -86,11 +86,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Welcome Homepage](https://linuxmatters.sh/33/) (3 days ago)
+- [Welcome Homepage](https://linuxmatters.sh/33/) (4 days ago)
 - [Quick, Quicker, Quickest](https://linuxmatters.sh/32/) (2 weeks ago)
 - [Searching for a New Voice](https://linuxmatters.sh/31/) (1 month ago)
 - [Quickemu Rising From the Bashes](https://linuxmatters.sh/30/) (1 month ago)
-- [Desktop of the Gods](https://linuxmatters.sh/29/) (1 month ago)
+- [Desktop of the Gods](https://linuxmatters.sh/29/) (2 months ago)
 
 ### 📺️ YouTube
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
