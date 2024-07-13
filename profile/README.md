@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (332)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (333)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickget_configs](https://github.com/quickemu-project/quickget_configs) (3)
   - JSON formatted configuration files for use by quickget. Updated daily
@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Quickemu website
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (878)
   - An elegant virtual machine manager for the desktop
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13894)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13895)
   - 😸 Soothing pastel theme for the high-spirited!
 
 ### 🎙️ Podcast
