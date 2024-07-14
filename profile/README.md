@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: enable pueue](https://github.com/wimpysworld/nix-config/pull/253) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: enable automatic-timezoned](https://github.com/wimpysworld/nix-config/pull/252) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: replace betterdiscord with OpenAsar](https://github.com/wimpysworld/nix-config/pull/251) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add user to nix trusted-users](https://github.com/wimpysworld/nix-config/pull/250) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: prevent keybase and syncthing being installed on lima VMs](https://github.com/wimpysworld/nix-config/pull/249) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: do not create stub directories on lima VMs](https://github.com/wimpysworld/nix-config/pull/248) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 
 ### Recent releases 📦️
 
@@ -69,6 +69,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
+- [Nukesor/pueue](https://github.com/Nukesor/pueue) (4706)
+  - :stars: Manage your shell commands.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (334)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickget_configs](https://github.com/quickemu-project/quickget_configs) (3)
@@ -77,8 +79,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Quickemu website
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (878)
   - An elegant virtual machine manager for the desktop
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13910)
-  - 😸 Soothing pastel theme for the high-spirited!
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
