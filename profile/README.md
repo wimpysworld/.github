@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: prevent keybase and syncthing being installed on lima VMs](https://github.com/wimpysworld/nix-config/pull/249) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [refactor: do not create stub directories on lima VMs](https://github.com/wimpysworld/nix-config/pull/248) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: migrate bundled scripts to writeShellApplication](https://github.com/wimpysworld/nix-config/pull/247) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: simplify build and publish](https://github.com/wimpysworld/nix-config/pull/246) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [fix: disable obs-studio-plugins when running in ci](https://github.com/wimpysworld/nix-config/pull/245) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [feat: add nixfmt-plus and run statix tree wide](https://github.com/wimpysworld/nix-config/pull/244) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [fix: make sops-nix user conditional](https://github.com/wimpysworld/nix-config/pull/243) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 
 ### Recent releases 📦️
 
@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (335)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (334)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickget_configs](https://github.com/quickemu-project/quickget_configs) (3)
   - JSON formatted configuration files for use by quickget. Updated daily
