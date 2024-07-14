@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: replace betterdiscord with OpenAsar](https://github.com/wimpysworld/nix-config/pull/251) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add user to nix trusted-users](https://github.com/wimpysworld/nix-config/pull/250) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: prevent keybase and syncthing being installed on lima VMs](https://github.com/wimpysworld/nix-config/pull/249) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: do not create stub directories on lima VMs](https://github.com/wimpysworld/nix-config/pull/248) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: migrate bundled scripts to writeShellApplication](https://github.com/wimpysworld/nix-config/pull/247) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: simplify build and publish](https://github.com/wimpysworld/nix-config/pull/246) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 
 ### Recent releases 📦️
 
@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Quickemu website
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (878)
   - An elegant virtual machine manager for the desktop
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13908)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) (13909)
   - 😸 Soothing pastel theme for the high-spirited!
 
 ### 🎙️ Podcast
