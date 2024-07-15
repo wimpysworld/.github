@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - JSON formatted configuration files for use by quickget. Updated daily
 - [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (1)
   - Quickemu website
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (878)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (879)
   - An elegant virtual machine manager for the desktop
 
 ### 🎙️ Podcast
