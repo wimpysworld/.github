@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) (4710)
   - :stars: Manage your shell commands.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (334)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (335)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickget_configs](https://github.com/quickemu-project/quickget_configs) (3)
   - JSON formatted configuration files for use by quickget. Updated daily
