@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 week ago)
   - My personal blog
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: add braille patched nerd-font-patcher local package](https://github.com/wimpysworld/nix-config/pull/256) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add assorted fonts](https://github.com/wimpysworld/nix-config/pull/254) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat: enable pueue](https://github.com/wimpysworld/nix-config/pull/253) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 - [feat: enable automatic-timezoned](https://github.com/wimpysworld/nix-config/pull/252) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 - [refactor: replace betterdiscord with OpenAsar](https://github.com/wimpysworld/nix-config/pull/251) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [feat: add user to nix trusted-users](https://github.com/wimpysworld/nix-config/pull/250) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 
 ### Recent releases 📦️
 
