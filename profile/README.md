@@ -69,16 +69,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
+- [Aetf/kmscon](https://github.com/Aetf/kmscon) (162)
+  - Linux KMS/DRM based virtual Console Emulator
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) (2882)
+  - A scrollable-tiling Wayland compositor.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) (4709)
   - :stars: Manage your shell commands.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (335)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickget_configs](https://github.com/quickemu-project/quickget_configs) (3)
   - JSON formatted configuration files for use by quickget. Updated daily
-- [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (1)
-  - Quickemu website
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (880)
-  - An elegant virtual machine manager for the desktop
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
