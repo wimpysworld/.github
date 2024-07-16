@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [Nukesor/pueue](https://github.com/Nukesor/pueue) (4707)
+- [Nukesor/pueue](https://github.com/Nukesor/pueue) (4708)
   - :stars: Manage your shell commands.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (334)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
