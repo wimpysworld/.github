@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (6 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 week ago)
   - My personal blog
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
@@ -46,18 +46,18 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [feat: add assorted fonts](https://github.com/wimpysworld/nix-config/pull/254) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: enable pueue](https://github.com/wimpysworld/nix-config/pull/253) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [feat: enable automatic-timezoned](https://github.com/wimpysworld/nix-config/pull/252) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [refactor: replace betterdiscord with OpenAsar](https://github.com/wimpysworld/nix-config/pull/251) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [feat: add user to nix trusted-users](https://github.com/wimpysworld/nix-config/pull/250) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: add assorted fonts](https://github.com/wimpysworld/nix-config/pull/254) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: enable pueue](https://github.com/wimpysworld/nix-config/pull/253) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [feat: enable automatic-timezoned](https://github.com/wimpysworld/nix-config/pull/252) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [refactor: replace betterdiscord with OpenAsar](https://github.com/wimpysworld/nix-config/pull/251) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [feat: add user to nix trusted-users](https://github.com/wimpysworld/nix-config/pull/250) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.195.01](https://github.com/wimpysworld/nix-config/releases/tag/24.195.01), 2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.195.01](https://github.com/wimpysworld/nix-config/releases/tag/24.195.01), 3 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.1), 5 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.1), 6 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.3](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.3), 1 week ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
@@ -86,8 +86,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Welcome Homepage](https://linuxmatters.sh/33/) (6 days ago)
-- [Quick, Quicker, Quickest](https://linuxmatters.sh/32/) (2 weeks ago)
+- [Welcome Homepage](https://linuxmatters.sh/33/) (1 week ago)
+- [Quick, Quicker, Quickest](https://linuxmatters.sh/32/) (3 weeks ago)
 - [Searching for a New Voice](https://linuxmatters.sh/31/) (1 month ago)
 - [Quickemu Rising From the Bashes](https://linuxmatters.sh/30/) (1 month ago)
 - [Desktop of the Gods](https://linuxmatters.sh/29/) (2 months ago)
