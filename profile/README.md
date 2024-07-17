@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [chore: reinstate udev.log_priority=3](https://github.com/wimpysworld/nix-config/pull/260) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [fix: only run kmscon on the primary gpu, config screens and wallpapers](https://github.com/wimpysworld/nix-config/pull/259) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: replace deprecate crates with dependi](https://github.com/wimpysworld/nix-config/pull/258) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat: add nerd font enable fixedsys fonts](https://github.com/wimpysworld/nix-config/pull/257) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat: add braille patched nerd-font-patcher local package](https://github.com/wimpysworld/nix-config/pull/256) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [feat: add assorted fonts](https://github.com/wimpysworld/nix-config/pull/254) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 
 ### Recent releases 📦️
 
