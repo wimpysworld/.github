@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix: only run kmscon on the primary gpu, config screens and wallpapers](https://github.com/wimpysworld/nix-config/pull/259) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: replace deprecate crates with dependi](https://github.com/wimpysworld/nix-config/pull/258) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat: add nerd font enable fixedsys fonts](https://github.com/wimpysworld/nix-config/pull/257) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat: add braille patched nerd-font-patcher local package](https://github.com/wimpysworld/nix-config/pull/256) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat: add assorted fonts](https://github.com/wimpysworld/nix-config/pull/254) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [feat: enable pueue](https://github.com/wimpysworld/nix-config/pull/253) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 
 ### Recent releases 📦️
 
@@ -71,9 +71,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (162)
   - Linux KMS/DRM based virtual Console Emulator
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) (2886)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) (2888)
   - A scrollable-tiling Wayland compositor.
-- [Nukesor/pueue](https://github.com/Nukesor/pueue) (4709)
+- [Nukesor/pueue](https://github.com/Nukesor/pueue) (4710)
   - :stars: Manage your shell commands.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (335)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
