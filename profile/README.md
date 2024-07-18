@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [Aetf/kmscon](https://github.com/Aetf/kmscon) (161)
+- [Aetf/kmscon](https://github.com/Aetf/kmscon) (162)
   - Linux KMS/DRM based virtual Console Emulator
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) (2895)
   - A scrollable-tiling Wayland compositor.
