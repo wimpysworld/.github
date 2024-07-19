@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
   - My personal blog
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 weeks ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
@@ -46,16 +46,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [chore: reinstate udev.log_priority=3](https://github.com/wimpysworld/nix-config/pull/260) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [fix: only run kmscon on the primary gpu, config screens and wallpapers](https://github.com/wimpysworld/nix-config/pull/259) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [refactor: replace deprecate crates with dependi](https://github.com/wimpysworld/nix-config/pull/258) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [feat: add nerd font enable fixedsys fonts](https://github.com/wimpysworld/nix-config/pull/257) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [feat: add braille patched nerd-font-patcher local package](https://github.com/wimpysworld/nix-config/pull/256) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [chore: reinstate udev.log_priority=3](https://github.com/wimpysworld/nix-config/pull/260) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [fix: only run kmscon on the primary gpu, config screens and wallpapers](https://github.com/wimpysworld/nix-config/pull/259) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [refactor: replace deprecate crates with dependi](https://github.com/wimpysworld/nix-config/pull/258) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [feat: add nerd font enable fixedsys fonts](https://github.com/wimpysworld/nix-config/pull/257) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [feat: add braille patched nerd-font-patcher local package](https://github.com/wimpysworld/nix-config/pull/256) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.195.01](https://github.com/wimpysworld/nix-config/releases/tag/24.195.01), 5 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.195.01](https://github.com/wimpysworld/nix-config/releases/tag/24.195.01), 6 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.1), 1 week ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
