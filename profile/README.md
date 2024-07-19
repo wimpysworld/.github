@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Linux KMS/DRM based virtual Console Emulator
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) (2896)
   - A scrollable-tiling Wayland compositor.
-- [Nukesor/pueue](https://github.com/Nukesor/pueue) (4717)
+- [Nukesor/pueue](https://github.com/Nukesor/pueue) (4718)
   - :stars: Manage your shell commands.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (335)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
