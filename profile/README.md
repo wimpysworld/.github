@@ -32,14 +32,14 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (today)
+  - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (4 days ago)
   - My personal blog
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 weeks ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (2 weeks ago)
-  - An elegant virtual machine manager for the desktop
 - [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (2 weeks ago)
   - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
 
@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (162)
   - Linux KMS/DRM based virtual Console Emulator
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) (2904)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) (2905)
   - A scrollable-tiling Wayland compositor.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) (4718)
   - :stars: Manage your shell commands.
