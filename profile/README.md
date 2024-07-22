@@ -33,7 +33,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 
 - [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
-  - Restream a video source to multiple destinations such as Twitch, YouTube, and Owncast 📡
+  - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
   - My personal blog
 - [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (2 days ago)
@@ -46,19 +46,19 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [docs: improve README.md](https://github.com/wimpysworld/stream-sprout/pull/13) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 - [feat: add support for protecting the stream sprout server with a key](https://github.com/wimpysworld/stream-sprout/pull/10) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 - [docs: update README](https://github.com/wimpysworld/stream-sprout/pull/7) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 - [ci: fix release workflow](https://github.com/wimpysworld/stream-sprout/pull/6) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 - [ci: add release workflow and update docs](https://github.com/wimpysworld/stream-sprout/pull/5) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
-- [feat: add debian packaging](https://github.com/wimpysworld/stream-sprout/pull/4) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 
 ### Recent releases 📦️
 
 
+- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.1](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.1), today)
+  - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.2), today)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
-- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.0](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.0), today)
-  - Restream a video source to multiple destinations such as Twitch, YouTube, and Owncast 📡
 - [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.4](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.4), today)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.195.01](https://github.com/wimpysworld/nix-config/releases/tag/24.195.01), 1 week ago)
@@ -70,7 +70,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 
 - [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (4)
-  - Restream a video source to multiple destinations such as Twitch, YouTube, and Owncast 📡
+  - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (162)
   - Linux KMS/DRM based virtual Console Emulator
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) (2912)
