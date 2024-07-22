@@ -32,6 +32,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
+  - Restream to multiple destinations with ease 📡 No server required
 - [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (2 days ago)
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
@@ -40,17 +42,15 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - My personal blog
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 weeks ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (2 weeks ago)
-  - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
 
 ### Recent pull requests 🛠️
 
 
+- [feat: add debian packaging](https://github.com/wimpysworld/stream-sprout/pull/4) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
+- [ci: add initial workflows](https://github.com/wimpysworld/stream-sprout/pull/3) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
+- [docs: add initial project documentation and templates](https://github.com/wimpysworld/stream-sprout/pull/2) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
+- [feat: add nix flake](https://github.com/wimpysworld/stream-sprout/pull/1) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 - [feat: add audio related scripts for live streaming and stream deck](https://github.com/wimpysworld/nix-config/pull/261) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [chore: reinstate udev.log_priority=3](https://github.com/wimpysworld/nix-config/pull/260) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
-- [fix: only run kmscon on the primary gpu, config screens and wallpapers](https://github.com/wimpysworld/nix-config/pull/259) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
-- [refactor: replace deprecate crates with dependi](https://github.com/wimpysworld/nix-config/pull/258) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
-- [feat: add nerd font enable fixedsys fonts](https://github.com/wimpysworld/nix-config/pull/257) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 
 ### Recent releases 📦️
 
