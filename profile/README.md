@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: add support for protecting the stream sprout server with a key](https://github.com/wimpysworld/stream-sprout/pull/10) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 - [docs: update README](https://github.com/wimpysworld/stream-sprout/pull/7) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 - [ci: fix release workflow](https://github.com/wimpysworld/stream-sprout/pull/6) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 - [ci: add release workflow and update docs](https://github.com/wimpysworld/stream-sprout/pull/5) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 - [feat: add debian packaging](https://github.com/wimpysworld/stream-sprout/pull/4) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
-- [ci: add initial workflows](https://github.com/wimpysworld/stream-sprout/pull/3) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 
 ### Recent releases 📦️
 
@@ -69,6 +69,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
+- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (2)
+  - Restream a video source to multiple destinations such as Twitch, YouTube, and Owncast 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (162)
   - Linux KMS/DRM based virtual Console Emulator
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) (2911)
@@ -77,8 +79,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - :stars: Manage your shell commands.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (335)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [quickemu-project/quickget_configs](https://github.com/quickemu-project/quickget_configs) (3)
-  - JSON formatted configuration files for use by quickget. Updated daily
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
