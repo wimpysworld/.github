@@ -33,7 +33,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 
 - [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
-  - Restream to multiple destinations with ease 📡 No server required
+  - Restream a video source to multiple destinations such as Twitch, YouTube, and Owncast 📡
 - [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (2 days ago)
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
@@ -46,15 +46,17 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [ci: fix release workflow](https://github.com/wimpysworld/stream-sprout/pull/6) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
+- [ci: add release workflow and update docs](https://github.com/wimpysworld/stream-sprout/pull/5) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 - [feat: add debian packaging](https://github.com/wimpysworld/stream-sprout/pull/4) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 - [ci: add initial workflows](https://github.com/wimpysworld/stream-sprout/pull/3) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 - [docs: add initial project documentation and templates](https://github.com/wimpysworld/stream-sprout/pull/2) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
-- [feat: add nix flake](https://github.com/wimpysworld/stream-sprout/pull/1) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
-- [feat: add audio related scripts for live streaming and stream deck](https://github.com/wimpysworld/nix-config/pull/261) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 
 ### Recent releases 📦️
 
 
+- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.0](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.0), today)
+  - Restream a video source to multiple destinations such as Twitch, YouTube, and Owncast 📡
 - [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.4](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.4), today)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.195.01](https://github.com/wimpysworld/nix-config/releases/tag/24.195.01), 1 week ago)
@@ -63,15 +65,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) ([1.2.10](https://github.com/quickemu-project/quickgui/releases/tag/1.2.10), 2 weeks ago)
   - An elegant virtual machine manager for the desktop
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.6](https://github.com/quickemu-project/quickemu/releases/tag/4.9.6), 2 weeks ago)
-  - Quickly create and run optimised Windows, macOS and Linux virtual machines
 
 ### Recent starred projects ⭐️
 
 
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (162)
   - Linux KMS/DRM based virtual Console Emulator
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) (2909)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) (2910)
   - A scrollable-tiling Wayland compositor.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) (4720)
   - :stars: Manage your shell commands.
