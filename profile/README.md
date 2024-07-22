@@ -55,7 +55,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.4](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.4), 2 days ago)
+- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.4](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.4), today)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.195.01](https://github.com/wimpysworld/nix-config/releases/tag/24.195.01), 1 week ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
