@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [docs: update README](https://github.com/wimpysworld/stream-sprout/pull/7) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 - [ci: fix release workflow](https://github.com/wimpysworld/stream-sprout/pull/6) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 - [ci: add release workflow and update docs](https://github.com/wimpysworld/stream-sprout/pull/5) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 - [feat: add debian packaging](https://github.com/wimpysworld/stream-sprout/pull/4) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 - [ci: add initial workflows](https://github.com/wimpysworld/stream-sprout/pull/3) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
-- [docs: add initial project documentation and templates](https://github.com/wimpysworld/stream-sprout/pull/2) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 
 ### Recent releases 📦️
 
