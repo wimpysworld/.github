@@ -40,22 +40,22 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 weeks ago)
-  - Quickly create and run optimised Windows, macOS and Linux virtual machines
+- [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) (2 weeks ago)
+  - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
 
 ### Recent pull requests 🛠️
 
 
+- [fix: update yq use to be compatible with github.com/kislyuk/yq](https://github.com/wimpysworld/stream-sprout/pull/15) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 - [fix: correct URLs to the project and license in debian/copyright](https://github.com/wimpysworld/stream-sprout/pull/14) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (1 day ago)
 - [docs: improve README.md](https://github.com/wimpysworld/stream-sprout/pull/13) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (1 day ago)
 - [feat: add support for protecting the stream sprout server with a key](https://github.com/wimpysworld/stream-sprout/pull/10) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (1 day ago)
 - [docs: update README](https://github.com/wimpysworld/stream-sprout/pull/7) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (1 day ago)
-- [ci: fix release workflow](https://github.com/wimpysworld/stream-sprout/pull/6) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (1 day ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.1](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.1), 1 day ago)
+- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.2](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.2), today)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.2), 1 day ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (4)
+- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (5)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (162)
   - Linux KMS/DRM based virtual Console Emulator
