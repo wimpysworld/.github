@@ -40,17 +40,17 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [quickemu-project/.github](https://github.com/quickemu-project/.github) (2 weeks ago)
-  - Quickemu Project
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 weeks ago)
+  - Quickly create and run optimised Windows, macOS and Linux virtual machines
 
 ### Recent pull requests 🛠️
 
 
+- [style: make everything a little more fancy](https://github.com/wimpysworld/stream-sprout/pull/19) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 - [feat: background ffmpeg and monitor the status](https://github.com/wimpysworld/stream-sprout/pull/18) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 - [refactor: replace yq with a yaml parser implemented with awk/sed](https://github.com/wimpysworld/stream-sprout/pull/16) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 - [fix: update yq use to be compatible with github.com/kislyuk/yq](https://github.com/wimpysworld/stream-sprout/pull/15) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 - [fix: correct URLs to the project and license in debian/copyright](https://github.com/wimpysworld/stream-sprout/pull/14) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (1 day ago)
-- [docs: improve README.md](https://github.com/wimpysworld/stream-sprout/pull/13) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (1 day ago)
 
 ### Recent releases 📦️
 
