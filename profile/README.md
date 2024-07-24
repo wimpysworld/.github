@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix: do not build STREAM_TEE inside a subshell. fixes #25](https://github.com/wimpysworld/stream-sprout/pull/26) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 - [feat: add arm64 and amd64 container images](https://github.com/wimpysworld/stream-sprout/pull/24) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 - [feat: add command line interface and the option to specify a custom config file](https://github.com/wimpysworld/stream-sprout/pull/21) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (1 day ago)
 - [style: make everything a little more fancy](https://github.com/wimpysworld/stream-sprout/pull/19) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (1 day ago)
 - [feat: background ffmpeg and monitor the status](https://github.com/wimpysworld/stream-sprout/pull/18) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (1 day ago)
-- [refactor: replace yq with a yaml parser implemented with awk/sed](https://github.com/wimpysworld/stream-sprout/pull/16) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (1 day ago)
 
 ### Recent releases 📦️
 
@@ -69,9 +69,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (11)
+- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (12)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
-- [Aetf/kmscon](https://github.com/Aetf/kmscon) (162)
+- [Aetf/kmscon](https://github.com/Aetf/kmscon) (163)
   - Linux KMS/DRM based virtual Console Emulator
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) (2918)
   - A scrollable-tiling Wayland compositor.
