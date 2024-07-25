@@ -40,17 +40,17 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 weeks ago)
-  - Quickly create and run optimised Windows, macOS and Linux virtual machines
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (3 weeks ago)
+  - An elegant virtual machine manager for the desktop
 
 ### Recent pull requests 🛠️
 
 
+- [feat: add show_info()](https://github.com/wimpysworld/stream-sprout/pull/35) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
+- [ci: use the actual stream-sprout version for tagging container releases](https://github.com/wimpysworld/stream-sprout/pull/34) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 - [docs: update docs and templates](https://github.com/wimpysworld/stream-sprout/pull/33) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 - [docs: add warnings about exposing Stream Sprout on the public internet](https://github.com/wimpysworld/stream-sprout/pull/32) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 - [feat: expand ~ to $HOME in the yaml parser](https://github.com/wimpysworld/stream-sprout/pull/31) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
-- [ci: tag containers with alpine so I can namespace future variants](https://github.com/wimpysworld/stream-sprout/pull/30) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
-- [refactor: minors fixes and relocate the snap test build in the same workflow as the others](https://github.com/wimpysworld/stream-sprout/pull/29) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 
 ### Recent releases 📦️
 
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Linux KMS/DRM based virtual Console Emulator
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) (2926)
   - A scrollable-tiling Wayland compositor.
-- [Nukesor/pueue](https://github.com/Nukesor/pueue) (4722)
+- [Nukesor/pueue](https://github.com/Nukesor/pueue) (4725)
   - :stars: Manage your shell commands.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (336)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
