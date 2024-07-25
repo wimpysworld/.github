@@ -23,7 +23,7 @@ We're a friendly bunch, and all are welcome 🏳️‍🌈 Join us!
 
 I [steam live-coding on Twitch](https://twitch.tv/WimpysWorld) 📡 and those streams are [archived on YouTube](https://youtube.com/WimpysWorld) 📺️
 
-These awesome people sponsor me: [mmartial](https://github.com/mmartial)[da-moon](https://github.com/da-moon)[castrojo](https://github.com/castrojo) Thank you! ❤️
+These awesome people sponsor me: [mmartial](https://github.com/mmartial)[da-moon](https://github.com/da-moon)[Simmonz](https://github.com/Simmonz)[castrojo](https://github.com/castrojo) Thank you! ❤️
 If you appreciate the work I do, then [please consider sponsoring me too](https://github.com/sponsors/flexiondotorg) 🤑 **Curious what I've been working on recently?**
 <div align="center">
   <img align="center" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/snake/github-contribution-grid-snake-dark.svg">
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (163)
   - Linux KMS/DRM based virtual Console Emulator
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) (2926)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) (2927)
   - A scrollable-tiling Wayland compositor.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) (4727)
   - :stars: Manage your shell commands.
