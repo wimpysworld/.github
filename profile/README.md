@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [docs: update docs and templates](https://github.com/wimpysworld/stream-sprout/pull/33) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
+- [docs: add warnings about exposing Stream Sprout on the public internet](https://github.com/wimpysworld/stream-sprout/pull/32) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 - [feat: expand ~ to $HOME in the yaml parser](https://github.com/wimpysworld/stream-sprout/pull/31) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 - [ci: tag containers with alpine so I can namespace future variants](https://github.com/wimpysworld/stream-sprout/pull/30) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 - [refactor: minors fixes and relocate the snap test build in the same workflow as the others](https://github.com/wimpysworld/stream-sprout/pull/29) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
-- [refactor: change the server configuration format](https://github.com/wimpysworld/stream-sprout/pull/27) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (1 day ago)
-- [fix: do not build STREAM_TEE inside a subshell. fixes #25](https://github.com/wimpysworld/stream-sprout/pull/26) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (1 day ago)
 
 ### Recent releases 📦️
 
