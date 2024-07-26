@@ -32,25 +32,25 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (1 day ago)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
   - My personal blog
 - [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (6 days ago)
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (3 weeks ago)
   - An elegant virtual machine manager for the desktop
 
 ### Recent pull requests 🛠️
 
 
+- [refactor: rollback to advanced scene switcher 1.26.2](https://github.com/wimpysworld/nix-config/pull/266) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [fix: disable kmscon hardware render and switch to xanmod kernel](https://github.com/wimpysworld/nix-config/pull/265) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [feat: add stream-sprout](https://github.com/wimpysworld/nix-config/pull/264) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add show_info()](https://github.com/wimpysworld/stream-sprout/pull/35) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (1 day ago)
 - [ci: use the actual stream-sprout version for tagging container releases](https://github.com/wimpysworld/stream-sprout/pull/34) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (1 day ago)
-- [docs: update docs and templates](https://github.com/wimpysworld/stream-sprout/pull/33) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (1 day ago)
-- [docs: add warnings about exposing Stream Sprout on the public internet](https://github.com/wimpysworld/stream-sprout/pull/32) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (1 day ago)
-- [feat: expand ~ to $HOME in the yaml parser](https://github.com/wimpysworld/stream-sprout/pull/31) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (1 day ago)
 
 ### Recent releases 📦️
 
