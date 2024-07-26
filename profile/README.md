@@ -32,10 +32,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
+  - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (1 day ago)
-  - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
   - My personal blog
 - [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (6 days ago)
@@ -46,16 +46,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix: actually wrap the runtime requirement in the nix package](https://github.com/wimpysworld/stream-sprout/pull/36) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
+- [refactor: update generation preservation and gitkraken 10.1.1](https://github.com/wimpysworld/nix-config/pull/267) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: rollback to advanced scene switcher 1.26.2](https://github.com/wimpysworld/nix-config/pull/266) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [fix: disable kmscon hardware render and switch to xanmod kernel](https://github.com/wimpysworld/nix-config/pull/265) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add stream-sprout](https://github.com/wimpysworld/nix-config/pull/264) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: add show_info()](https://github.com/wimpysworld/stream-sprout/pull/35) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (1 day ago)
-- [ci: use the actual stream-sprout version for tagging container releases](https://github.com/wimpysworld/stream-sprout/pull/34) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (1 day ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.4](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.4), 3 days ago)
+- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.5](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.5), today)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.2), 4 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
