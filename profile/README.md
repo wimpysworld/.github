@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: drop fh and add determinate](https://github.com/wimpysworld/nix-config/pull/269) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [fix: make home manager configuration compatible with macOS](https://github.com/wimpysworld/nix-config/pull/268) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [fix: actually wrap the runtime requirement in the nix package](https://github.com/wimpysworld/stream-sprout/pull/36) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
 - [refactor: update generation preservation and gitkraken 10.1.1](https://github.com/wimpysworld/nix-config/pull/267) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: rollback to advanced scene switcher 1.26.2](https://github.com/wimpysworld/nix-config/pull/266) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [fix: disable kmscon hardware render and switch to xanmod kernel](https://github.com/wimpysworld/nix-config/pull/265) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 
 ### Recent releases 📦️
 
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (163)
   - Linux KMS/DRM based virtual Console Emulator
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) (2933)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) (2934)
   - A scrollable-tiling Wayland compositor.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) (4733)
   - :stars: Manage your shell commands.
