@@ -32,13 +32,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
+- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (1 day ago)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
   - My personal blog
-- [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (5 days ago)
+- [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (6 days ago)
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (3 weeks ago)
   - An elegant virtual machine manager for the desktop
@@ -46,20 +46,20 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [feat: add show_info()](https://github.com/wimpysworld/stream-sprout/pull/35) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
-- [ci: use the actual stream-sprout version for tagging container releases](https://github.com/wimpysworld/stream-sprout/pull/34) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
-- [docs: update docs and templates](https://github.com/wimpysworld/stream-sprout/pull/33) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
-- [docs: add warnings about exposing Stream Sprout on the public internet](https://github.com/wimpysworld/stream-sprout/pull/32) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
-- [feat: expand ~ to $HOME in the yaml parser](https://github.com/wimpysworld/stream-sprout/pull/31) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (today)
+- [feat: add show_info()](https://github.com/wimpysworld/stream-sprout/pull/35) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (1 day ago)
+- [ci: use the actual stream-sprout version for tagging container releases](https://github.com/wimpysworld/stream-sprout/pull/34) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (1 day ago)
+- [docs: update docs and templates](https://github.com/wimpysworld/stream-sprout/pull/33) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (1 day ago)
+- [docs: add warnings about exposing Stream Sprout on the public internet](https://github.com/wimpysworld/stream-sprout/pull/32) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (1 day ago)
+- [feat: expand ~ to $HOME in the yaml parser](https://github.com/wimpysworld/stream-sprout/pull/31) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (1 day ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.4](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.4), 2 days ago)
+- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.4](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.4), 3 days ago)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.2), 3 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.2), 4 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.4](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.4), 3 days ago)
+- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.4](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.4), 4 days ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.195.01](https://github.com/wimpysworld/nix-config/releases/tag/24.195.01), 1 week ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Linux KMS/DRM based virtual Console Emulator
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) (2930)
   - A scrollable-tiling Wayland compositor.
-- [Nukesor/pueue](https://github.com/Nukesor/pueue) (4727)
+- [Nukesor/pueue](https://github.com/Nukesor/pueue) (4730)
   - :stars: Manage your shell commands.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (336)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [All of a Flutter](https://linuxmatters.sh/34/) (2 days ago)
+- [All of a Flutter](https://linuxmatters.sh/34/) (3 days ago)
 - [Welcome Homepage](https://linuxmatters.sh/33/) (2 weeks ago)
 - [Quick, Quicker, Quickest](https://linuxmatters.sh/32/) (1 month ago)
 - [Searching for a New Voice](https://linuxmatters.sh/31/) (1 month ago)
