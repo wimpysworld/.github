@@ -32,16 +32,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (3 days ago)
-  - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
+- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (3 days ago)
+  - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (6 days ago)
   - My personal blog
 - [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (1 week ago)
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (3 weeks ago)
-  - An elegant virtual machine manager for the desktop
+- [quickemu-project/.github](https://github.com/quickemu-project/.github) (3 weeks ago)
+  - Quickemu Project
 
 ### Recent pull requests 🛠️
 
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (163)
   - Linux KMS/DRM based virtual Console Emulator
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) (2974)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) (2975)
   - A scrollable-tiling Wayland compositor.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) (4745)
   - :stars: Manage your shell commands.
