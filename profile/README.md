@@ -32,11 +32,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (2 days ago)
+- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (3 days ago)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (5 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (6 days ago)
   - My personal blog
 - [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (1 week ago)
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
@@ -46,20 +46,20 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [feat: add nix-darwin](https://github.com/wimpysworld/nix-config/pull/270) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [refactor: drop fh and add determinate](https://github.com/wimpysworld/nix-config/pull/269) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [fix: make home manager configuration compatible with macOS](https://github.com/wimpysworld/nix-config/pull/268) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [fix: actually wrap the runtime requirement in the nix package](https://github.com/wimpysworld/stream-sprout/pull/36) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (2 days ago)
-- [refactor: update generation preservation and gitkraken 10.1.1](https://github.com/wimpysworld/nix-config/pull/267) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [feat: add nix-darwin](https://github.com/wimpysworld/nix-config/pull/270) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [refactor: drop fh and add determinate](https://github.com/wimpysworld/nix-config/pull/269) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [fix: make home manager configuration compatible with macOS](https://github.com/wimpysworld/nix-config/pull/268) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [fix: actually wrap the runtime requirement in the nix package](https://github.com/wimpysworld/stream-sprout/pull/36) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (3 days ago)
+- [refactor: update generation preservation and gitkraken 10.1.1](https://github.com/wimpysworld/nix-config/pull/267) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.5](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.5), 2 days ago)
+- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.5](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.5), 3 days ago)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.2), 6 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.2), 1 week ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.4](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.4), 6 days ago)
+- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.3.4](https://github.com/occ-ai/obs-urlsource/releases/tag/0.3.4), 1 week ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.195.01](https://github.com/wimpysworld/nix-config/releases/tag/24.195.01), 2 weeks ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (163)
   - Linux KMS/DRM based virtual Console Emulator
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) (2963)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) (2964)
   - A scrollable-tiling Wayland compositor.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) (4741)
   - :stars: Manage your shell commands.
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [All of a Flutter](https://linuxmatters.sh/34/) (5 days ago)
+- [All of a Flutter](https://linuxmatters.sh/34/) (6 days ago)
 - [Welcome Homepage](https://linuxmatters.sh/33/) (2 weeks ago)
 - [Quick, Quicker, Quickest](https://linuxmatters.sh/32/) (1 month ago)
 - [Searching for a New Voice](https://linuxmatters.sh/31/) (1 month ago)
