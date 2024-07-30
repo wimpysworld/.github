@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: rename mkHost to mkNixos](https://github.com/wimpysworld/nix-config/pull/274) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: complete nix-darwin configuration](https://github.com/wimpysworld/nix-config/pull/273) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add nix-darwin](https://github.com/wimpysworld/nix-config/pull/270) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 - [refactor: drop fh and add determinate](https://github.com/wimpysworld/nix-config/pull/269) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 - [fix: make home manager configuration compatible with macOS](https://github.com/wimpysworld/nix-config/pull/268) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
-- [fix: actually wrap the runtime requirement in the nix package](https://github.com/wimpysworld/stream-sprout/pull/36) on [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (4 days ago)
 
 ### Recent releases 📦️
 
