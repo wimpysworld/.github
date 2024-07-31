@@ -32,11 +32,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (4 days ago)
+- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (5 days ago)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (1 week ago)
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
@@ -46,16 +46,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [docs: update README](https://github.com/wimpysworld/nix-config/pull/275) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: rename mkHost to mkNixos](https://github.com/wimpysworld/nix-config/pull/274) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: complete nix-darwin configuration](https://github.com/wimpysworld/nix-config/pull/273) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: add nix-darwin](https://github.com/wimpysworld/nix-config/pull/270) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
-- [refactor: drop fh and add determinate](https://github.com/wimpysworld/nix-config/pull/269) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [docs: update README](https://github.com/wimpysworld/nix-config/pull/275) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [refactor: rename mkHost to mkNixos](https://github.com/wimpysworld/nix-config/pull/274) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: complete nix-darwin configuration](https://github.com/wimpysworld/nix-config/pull/273) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: add nix-darwin](https://github.com/wimpysworld/nix-config/pull/270) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [refactor: drop fh and add determinate](https://github.com/wimpysworld/nix-config/pull/269) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.5](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.5), 4 days ago)
+- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.5](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.5), 5 days ago)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.2), 1 week ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
@@ -69,11 +69,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (17)
+- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (18)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (163)
   - Linux KMS/DRM based virtual Console Emulator
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) (2981)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) (2983)
   - A scrollable-tiling Wayland compositor.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) (4746)
   - :stars: Manage your shell commands.
