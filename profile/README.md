@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
   - My personal blog
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (164)
   - Linux KMS/DRM based virtual Console Emulator
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) (2987)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) (2988)
   - A scrollable-tiling Wayland compositor.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) (4747)
   - :stars: Manage your shell commands.
