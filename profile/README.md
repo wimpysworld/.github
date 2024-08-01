@@ -32,30 +32,30 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (5 days ago)
+- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (6 days ago)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (1 week ago)
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
-- [quickemu-project/.github](https://github.com/quickemu-project/.github) (3 weeks ago)
+- [quickemu-project/.github](https://github.com/quickemu-project/.github) (4 weeks ago)
   - Quickemu Project
 
 ### Recent pull requests 🛠️
 
 
-- [docs: update README](https://github.com/wimpysworld/nix-config/pull/275) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [refactor: rename mkHost to mkNixos](https://github.com/wimpysworld/nix-config/pull/274) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [feat: complete nix-darwin configuration](https://github.com/wimpysworld/nix-config/pull/273) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [feat: add nix-darwin](https://github.com/wimpysworld/nix-config/pull/270) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
-- [refactor: drop fh and add determinate](https://github.com/wimpysworld/nix-config/pull/269) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [docs: update README](https://github.com/wimpysworld/nix-config/pull/275) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [refactor: rename mkHost to mkNixos](https://github.com/wimpysworld/nix-config/pull/274) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [feat: complete nix-darwin configuration](https://github.com/wimpysworld/nix-config/pull/273) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [feat: add nix-darwin](https://github.com/wimpysworld/nix-config/pull/270) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
+- [refactor: drop fh and add determinate](https://github.com/wimpysworld/nix-config/pull/269) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.5](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.5), 5 days ago)
+- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.5](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.5), 6 days ago)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.2), 1 week ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
@@ -63,7 +63,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.195.01](https://github.com/wimpysworld/nix-config/releases/tag/24.195.01), 2 weeks ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) ([1.2.10](https://github.com/quickemu-project/quickgui/releases/tag/1.2.10), 3 weeks ago)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) ([1.2.10](https://github.com/quickemu-project/quickgui/releases/tag/1.2.10), 4 weeks ago)
   - An elegant virtual machine manager for the desktop
 
 ### Recent starred projects ⭐️
