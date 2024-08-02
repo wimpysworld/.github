@@ -34,14 +34,14 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [quickemu-project/quickget_configs](https://github.com/quickemu-project/quickget_configs) (today)
   - JSON formatted configuration files for use by quickget. Updated daily
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (today)
-  - apt-get for .debs published via GitHub or direct download 📦
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
+  - Nix Packages collection &amp; NixOS
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (today)
   - An elegant virtual machine manager for the desktop
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
-  - My personal blog
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (today)
+  - apt-get for .debs published via GitHub or direct download 📦
 
 ### Recent pull requests 🛠️
 
