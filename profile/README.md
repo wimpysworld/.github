@@ -32,16 +32,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [quickemu-project/quickget_configs](https://github.com/quickemu-project/quickget_configs) (today)
+  - JSON formatted configuration files for use by quickget. Updated daily
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (today)
+  - apt-get for .debs published via GitHub or direct download 📦
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
   - My personal blog
 - [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (1 week ago)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
-- [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (1 week ago)
-  - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
-- [quickemu-project/.github](https://github.com/quickemu-project/.github) (4 weeks ago)
-  - Quickemu Project
 
 ### Recent pull requests 🛠️
 
@@ -55,6 +55,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.2](https://github.com/wimpysworld/deb-get/releases/tag/0.4.2), today)
+  - apt-get for .debs published via GitHub or direct download 📦
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.0](https://github.com/sxyazi/yazi/releases/tag/v0.3.0), 1 day ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.5](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.5), 1 week ago)
@@ -63,8 +65,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [locaal-ai/obs-urlsource](https://github.com/locaal-ai/obs-urlsource) ([0.3.4](https://github.com/locaal-ai/obs-urlsource/releases/tag/0.3.4), 1 week ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.195.01](https://github.com/wimpysworld/nix-config/releases/tag/24.195.01), 2 weeks ago)
-  - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 
 ### Recent starred projects ⭐️
 
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Linux KMS/DRM based virtual Console Emulator
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) (3001)
   - A scrollable-tiling Wayland compositor.
-- [Nukesor/pueue](https://github.com/Nukesor/pueue) (4747)
+- [Nukesor/pueue](https://github.com/Nukesor/pueue) (4748)
   - :stars: Manage your shell commands.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (341)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
