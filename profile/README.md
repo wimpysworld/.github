@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
   - My personal blog
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [chore: update flake.lock](https://github.com/wimpysworld/nix-config/pull/278) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [chore: rename dooku to momin and update docs](https://github.com/wimpysworld/nix-config/pull/277) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat: add krall (Macbook Pro, x86)](https://github.com/wimpysworld/nix-config/pull/276) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [docs: update README](https://github.com/wimpysworld/nix-config/pull/275) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 - [refactor: rename mkHost to mkNixos](https://github.com/wimpysworld/nix-config/pull/274) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [feat: complete nix-darwin configuration](https://github.com/wimpysworld/nix-config/pull/273) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 
 ### Recent releases 📦️
 
