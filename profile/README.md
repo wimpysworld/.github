@@ -32,11 +32,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
   - My personal blog
-- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (6 days ago)
+- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (1 week ago)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [wimpysworld/kruiz-control-triggers](https://github.com/wimpysworld/kruiz-control-triggers) (1 week ago)
   - Kruiz Control 🎛️ Triggers for Twitch Chatbot, OBS Studio Automation &amp; DecAPI
@@ -46,18 +46,18 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [chore: rename dooku to momin and update docs](https://github.com/wimpysworld/nix-config/pull/277) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: add krall (Macbook Pro, x86)](https://github.com/wimpysworld/nix-config/pull/276) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [docs: update README](https://github.com/wimpysworld/nix-config/pull/275) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [refactor: rename mkHost to mkNixos](https://github.com/wimpysworld/nix-config/pull/274) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [feat: complete nix-darwin configuration](https://github.com/wimpysworld/nix-config/pull/273) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [chore: rename dooku to momin and update docs](https://github.com/wimpysworld/nix-config/pull/277) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: add krall (Macbook Pro, x86)](https://github.com/wimpysworld/nix-config/pull/276) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [docs: update README](https://github.com/wimpysworld/nix-config/pull/275) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [refactor: rename mkHost to mkNixos](https://github.com/wimpysworld/nix-config/pull/274) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [feat: complete nix-darwin configuration](https://github.com/wimpysworld/nix-config/pull/273) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 
 ### Recent releases 📦️
 
 
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.0](https://github.com/sxyazi/yazi/releases/tag/v0.3.0), today)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.0](https://github.com/sxyazi/yazi/releases/tag/v0.3.0), 1 day ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.5](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.5), 6 days ago)
+- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.5](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.5), 1 week ago)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.20.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.20.2), 1 week ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
@@ -98,7 +98,7 @@ Here's some recent episodes:
 
 - [NixOS | More Nix ❄️ packaging &amp; fixes 🩹 for OBS Studio 📡](https://www.youtube.com/watch?v=VqNaOOm7Dhw) (6 months ago)
 - [NixOS | Updating Nix ❄️ packages of OBS Studio 📡 and it&#39;s plugins🔌](https://www.youtube.com/watch?v=phgOv_UCbMM) (6 months ago)
-- [NixOS &amp; Linux | Tinkering with my Nix config ❄️ and poking at some Linux projects 🐧](https://www.youtube.com/watch?v=biVQ_-v8oEo) (6 months ago)
+- [NixOS &amp; Linux | Tinkering with my Nix config ❄️ and poking at some Linux projects 🐧](https://www.youtube.com/watch?v=biVQ_-v8oEo) (7 months ago)
 - [NixOS &amp; Linux 🐧 Automate OBS with Kruiz Control and Scene Switcher](https://www.youtube.com/watch?v=BSITslJbMGA) (7 months ago)
 - [[Linux &amp; NixOS] Catching up on a few projects ❄️ - Part 2](https://www.youtube.com/watch?v=IpiuKvqHU-c) (7 months ago)
 
