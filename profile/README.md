@@ -32,16 +32,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+  - My personal blog
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
+  - An elegant virtual machine manager for the desktop
 - [quickemu-project/quickget_configs](https://github.com/quickemu-project/quickget_configs) (1 day ago)
   - JSON formatted configuration files for use by quickget. Updated daily
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
   - Nix Packages collection &amp; NixOS
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 day ago)
-  - An elegant virtual machine manager for the desktop
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (1 day ago)
-  - apt-get for .debs published via GitHub or direct download 📦
 
 ### Recent pull requests 🛠️
 
