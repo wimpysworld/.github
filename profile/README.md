@@ -38,10 +38,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - My personal blog
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (3 days ago)
   - An elegant virtual machine manager for the desktop
-- [quickemu-project/quickget_configs](https://github.com/quickemu-project/quickget_configs) (3 days ago)
-  - JSON formatted configuration files for use by quickget. Updated daily
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
   - Nix Packages collection &amp; NixOS
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (3 days ago)
+  - apt-get for .debs published via GitHub or direct download 📦
 
 ### Recent pull requests 🛠️
 
