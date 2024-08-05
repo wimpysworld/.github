@@ -32,36 +32,36 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (2 days ago)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (3 days ago)
   - An elegant virtual machine manager for the desktop
-- [quickemu-project/quickget_configs](https://github.com/quickemu-project/quickget_configs) (2 days ago)
+- [quickemu-project/quickget_configs](https://github.com/quickemu-project/quickget_configs) (3 days ago)
   - JSON formatted configuration files for use by quickget. Updated daily
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
   - Nix Packages collection &amp; NixOS
 
 ### Recent pull requests 🛠️
 
 
-- [feat: update obs-studio to 30.2.2](https://github.com/wimpysworld/nix-config/pull/279) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [refactor: move quickemu to runtimeBinDependencies](https://github.com/quickemu-project/quickgui/pull/203) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (2 days ago)
-- [chore: update flake.lock](https://github.com/wimpysworld/nix-config/pull/278) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [chore: rename dooku to momin and update docs](https://github.com/wimpysworld/nix-config/pull/277) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [feat: add krall (Macbook Pro, x86)](https://github.com/wimpysworld/nix-config/pull/276) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [feat: update obs-studio to 30.2.2](https://github.com/wimpysworld/nix-config/pull/279) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [refactor: move quickemu to runtimeBinDependencies](https://github.com/quickemu-project/quickgui/pull/203) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (3 days ago)
+- [chore: update flake.lock](https://github.com/wimpysworld/nix-config/pull/278) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [chore: rename dooku to momin and update docs](https://github.com/wimpysworld/nix-config/pull/277) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [feat: add krall (Macbook Pro, x86)](https://github.com/wimpysworld/nix-config/pull/276) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.2](https://github.com/wimpysworld/deb-get/releases/tag/0.4.2), 2 days ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.2](https://github.com/wimpysworld/deb-get/releases/tag/0.4.2), 3 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.0](https://github.com/sxyazi/yazi/releases/tag/v0.3.0), 3 days ago)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.0](https://github.com/sxyazi/yazi/releases/tag/v0.3.0), 4 days ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.5](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.5), 1 week ago)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
-- [locaal-ai/obs-urlsource](https://github.com/locaal-ai/obs-urlsource) ([0.3.4](https://github.com/locaal-ai/obs-urlsource/releases/tag/0.3.4), 1 week ago)
+- [locaal-ai/obs-urlsource](https://github.com/locaal-ai/obs-urlsource) ([0.3.4](https://github.com/locaal-ai/obs-urlsource/releases/tag/0.3.4), 2 weeks ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.195.01](https://github.com/wimpysworld/nix-config/releases/tag/24.195.01), 3 weeks ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - A scrollable-tiling Wayland compositor.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) (4750)
   - :stars: Manage your shell commands.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (344)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (343)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 
 ### 🎙️ Podcast
