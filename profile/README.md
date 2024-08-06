@@ -32,32 +32,32 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
   - My personal blog
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (3 days ago)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (4 days ago)
   - An elegant virtual machine manager for the desktop
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 days ago)
   - Nix Packages collection &amp; NixOS
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (3 days ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (4 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
 
 ### Recent pull requests 🛠️
 
 
-- [feat: add ipfetch](https://github.com/wimpysworld/nix-config/pull/281) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: update obs-studio to 30.2.2](https://github.com/wimpysworld/nix-config/pull/279) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [refactor: move quickemu to runtimeBinDependencies](https://github.com/quickemu-project/quickgui/pull/203) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (3 days ago)
-- [chore: update flake.lock](https://github.com/wimpysworld/nix-config/pull/278) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [chore: rename dooku to momin and update docs](https://github.com/wimpysworld/nix-config/pull/277) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [feat: add ipfetch](https://github.com/wimpysworld/nix-config/pull/281) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: update obs-studio to 30.2.2](https://github.com/wimpysworld/nix-config/pull/279) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [refactor: move quickemu to runtimeBinDependencies](https://github.com/quickemu-project/quickgui/pull/203) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (4 days ago)
+- [chore: update flake.lock](https://github.com/wimpysworld/nix-config/pull/278) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [chore: rename dooku to momin and update docs](https://github.com/wimpysworld/nix-config/pull/277) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.2](https://github.com/wimpysworld/deb-get/releases/tag/0.4.2), 3 days ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.2](https://github.com/wimpysworld/deb-get/releases/tag/0.4.2), 4 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.0](https://github.com/sxyazi/yazi/releases/tag/v0.3.0), 4 days ago)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.0](https://github.com/sxyazi/yazi/releases/tag/v0.3.0), 5 days ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.5](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.5), 1 week ago)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
@@ -86,8 +86,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [All of a Flutter](https://linuxmatters.sh/34/) (1 week ago)
-- [Welcome Homepage](https://linuxmatters.sh/33/) (3 weeks ago)
+- [All of a Flutter](https://linuxmatters.sh/34/) (2 weeks ago)
+- [Welcome Homepage](https://linuxmatters.sh/33/) (4 weeks ago)
 - [Quick, Quicker, Quickest](https://linuxmatters.sh/32/) (1 month ago)
 - [Searching for a New Voice](https://linuxmatters.sh/31/) (1 month ago)
 - [Quickemu Rising From the Bashes](https://linuxmatters.sh/30/) (2 months ago)
