@@ -32,10 +32,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
-  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 week ago)
   - An elegant virtual machine manager for the desktop
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: add shaa; Thinkpad T14s Gen 1](https://github.com/wimpysworld/nix-config/pull/284) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add ipfetch](https://github.com/wimpysworld/nix-config/pull/281) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 - [feat: update obs-studio to 30.2.2](https://github.com/wimpysworld/nix-config/pull/279) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [refactor: move quickemu to runtimeBinDependencies](https://github.com/quickemu-project/quickgui/pull/203) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 week ago)
 - [chore: update flake.lock](https://github.com/wimpysworld/nix-config/pull/278) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-- [chore: rename dooku to momin and update docs](https://github.com/wimpysworld/nix-config/pull/277) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
