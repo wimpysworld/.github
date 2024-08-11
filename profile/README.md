@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: add power management feature](https://github.com/wimpysworld/nix-config/pull/286) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [fix: set nvidia driver version to 555.58.02 so it builds with Linux 6.10](https://github.com/wimpysworld/nix-config/pull/285) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add shaa; Thinkpad T14s Gen 1](https://github.com/wimpysworld/nix-config/pull/284) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add ipfetch](https://github.com/wimpysworld/nix-config/pull/281) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 - [feat: update obs-studio to 30.2.2](https://github.com/wimpysworld/nix-config/pull/279) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-- [refactor: move quickemu to runtimeBinDependencies](https://github.com/quickemu-project/quickgui/pull/203) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 week ago)
 
 ### Recent releases 📦️
 
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (167)
   - Linux KMS/DRM based virtual Console Emulator
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3047)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3050)
   - A scrollable-tiling Wayland compositor.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) (4763)
   - :stars: Manage your shell commands.
