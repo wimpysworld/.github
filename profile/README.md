@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 week ago)
   - An elegant virtual machine manager for the desktop
@@ -46,7 +46,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [feat: add ipfetch](https://github.com/wimpysworld/nix-config/pull/281) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [feat: add ipfetch](https://github.com/wimpysworld/nix-config/pull/281) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 - [feat: update obs-studio to 30.2.2](https://github.com/wimpysworld/nix-config/pull/279) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [refactor: move quickemu to runtimeBinDependencies](https://github.com/quickemu-project/quickgui/pull/203) on [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 week ago)
 - [chore: update flake.lock](https://github.com/wimpysworld/nix-config/pull/278) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
@@ -55,7 +55,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([nightly](https://github.com/sxyazi/yazi/releases/tag/nightly), 3 days ago)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([nightly](https://github.com/sxyazi/yazi/releases/tag/nightly), 4 days ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.2](https://github.com/wimpysworld/deb-get/releases/tag/0.4.2), 1 week ago)
   - apt-get for .debs published via GitHub or direct download 📦
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Mark Was Right, Twice](https://linuxmatters.sh/35/) (4 days ago)
+- [Mark Was Right, Twice](https://linuxmatters.sh/35/) (5 days ago)
 - [All of a Flutter](https://linuxmatters.sh/34/) (2 weeks ago)
 - [Welcome Homepage](https://linuxmatters.sh/33/) (1 month ago)
 - [Quick, Quicker, Quickest](https://linuxmatters.sh/32/) (1 month ago)
@@ -104,7 +104,7 @@ Here's some recent episodes:
 
 ### ✍️ Blog
 
-- [Install ZeroTier on Steam Deck](https://wimpysworld.com/posts/install-zerotier-on-steamdeck/) (11 months ago)
+- [Install ZeroTier on Steam Deck](https://wimpysworld.com/posts/install-zerotier-on-steamdeck/) (1 year ago)
 - [Steam Box vs Steam Deck](https://wimpysworld.com/posts/steambox-vs-steamdeck/) (1 year ago)
 - [Flash Stadia Controller Bluetooth Firmware on Linux](https://wimpysworld.com/posts/flash-stadia-controller-bluetooth-firmware-on-linux/) (1 year ago)
 - [Why I chose the ThinkPad Z13 Gen1 as my Linux laptop](https://wimpysworld.com/posts/why-i-chose-the-thinkpad-z13-as-my-linux-laptop/) (1 year ago)
