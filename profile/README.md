@@ -34,7 +34,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
   - My personal blog
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 week ago)
   - An elegant virtual machine manager for the desktop
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: update OBS vertical canvas plugin to 1.4.8](https://github.com/wimpysworld/nix-config/pull/287) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add power management feature](https://github.com/wimpysworld/nix-config/pull/286) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [fix: set nvidia driver version to 555.58.02 so it builds with Linux 6.10](https://github.com/wimpysworld/nix-config/pull/285) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat: add shaa; Thinkpad T14s Gen 1](https://github.com/wimpysworld/nix-config/pull/284) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat: add ipfetch](https://github.com/wimpysworld/nix-config/pull/281) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-- [feat: update obs-studio to 30.2.2](https://github.com/wimpysworld/nix-config/pull/279) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (167)
   - Linux KMS/DRM based virtual Console Emulator
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3070)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3071)
   - A scrollable-tiling Wayland compositor.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) (4764)
   - :stars: Manage your shell commands.
