@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
   - My personal blog
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (1 week ago)
   - An elegant virtual machine manager for the desktop
@@ -46,24 +46,24 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [feat: add power management feature](https://github.com/wimpysworld/nix-config/pull/286) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [fix: set nvidia driver version to 555.58.02 so it builds with Linux 6.10](https://github.com/wimpysworld/nix-config/pull/285) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: add shaa; Thinkpad T14s Gen 1](https://github.com/wimpysworld/nix-config/pull/284) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: add ipfetch](https://github.com/wimpysworld/nix-config/pull/281) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
+- [feat: add power management feature](https://github.com/wimpysworld/nix-config/pull/286) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [fix: set nvidia driver version to 555.58.02 so it builds with Linux 6.10](https://github.com/wimpysworld/nix-config/pull/285) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: add shaa; Thinkpad T14s Gen 1](https://github.com/wimpysworld/nix-config/pull/284) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: add ipfetch](https://github.com/wimpysworld/nix-config/pull/281) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [feat: update obs-studio to 30.2.2](https://github.com/wimpysworld/nix-config/pull/279) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
 
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([nightly](https://github.com/sxyazi/yazi/releases/tag/nightly), 4 days ago)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([nightly](https://github.com/sxyazi/yazi/releases/tag/nightly), 5 days ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.2](https://github.com/wimpysworld/deb-get/releases/tag/0.4.2), 1 week ago)
   - apt-get for .debs published via GitHub or direct download 📦
 - [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.5](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.5), 2 weeks ago)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
-- [locaal-ai/obs-urlsource](https://github.com/locaal-ai/obs-urlsource) ([0.3.4](https://github.com/locaal-ai/obs-urlsource/releases/tag/0.3.4), 2 weeks ago)
+- [locaal-ai/obs-urlsource](https://github.com/locaal-ai/obs-urlsource) ([0.3.4](https://github.com/locaal-ai/obs-urlsource/releases/tag/0.3.4), 3 weeks ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.195.01](https://github.com/wimpysworld/nix-config/releases/tag/24.195.01), 4 weeks ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.195.01](https://github.com/wimpysworld/nix-config/releases/tag/24.195.01), 1 month ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 
 ### Recent starred projects ⭐️
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Mark Was Right, Twice](https://linuxmatters.sh/35/) (5 days ago)
+- [Mark Was Right, Twice](https://linuxmatters.sh/35/) (6 days ago)
 - [All of a Flutter](https://linuxmatters.sh/34/) (2 weeks ago)
 - [Welcome Homepage](https://linuxmatters.sh/33/) (1 month ago)
 - [Quick, Quicker, Quickest](https://linuxmatters.sh/32/) (1 month ago)
