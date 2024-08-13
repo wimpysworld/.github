@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: track unstable for tailscale](https://github.com/wimpysworld/nix-config/pull/288) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: update OBS vertical canvas plugin to 1.4.8](https://github.com/wimpysworld/nix-config/pull/287) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat: add power management feature](https://github.com/wimpysworld/nix-config/pull/286) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 - [fix: set nvidia driver version to 555.58.02 so it builds with Linux 6.10](https://github.com/wimpysworld/nix-config/pull/285) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 - [feat: add shaa; Thinkpad T14s Gen 1](https://github.com/wimpysworld/nix-config/pull/284) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [feat: add ipfetch](https://github.com/wimpysworld/nix-config/pull/281) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
