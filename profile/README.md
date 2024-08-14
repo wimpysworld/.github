@@ -90,7 +90,7 @@ Here's some recent episodes:
 - [All of a Flutter](https://linuxmatters.sh/34/) (3 weeks ago)
 - [Welcome Homepage](https://linuxmatters.sh/33/) (1 month ago)
 - [Quick, Quicker, Quickest](https://linuxmatters.sh/32/) (1 month ago)
-- [Themes, Streams and Audio Machines](https://linuxmatters.sh/36/) (1 month ago)
+- [Searching for a New Voice](https://linuxmatters.sh/31/) (2 months ago)
 
 ### 📺️ YouTube
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
