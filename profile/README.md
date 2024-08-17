@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (4 days ago)
   - My personal blog
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (2 weeks ago)
   - An elegant virtual machine manager for the desktop
@@ -46,18 +46,18 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [refactor: track unstable for tailscale](https://github.com/wimpysworld/nix-config/pull/288) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [feat: update OBS vertical canvas plugin to 1.4.8](https://github.com/wimpysworld/nix-config/pull/287) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
-- [feat: add power management feature](https://github.com/wimpysworld/nix-config/pull/286) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
-- [fix: set nvidia driver version to 555.58.02 so it builds with Linux 6.10](https://github.com/wimpysworld/nix-config/pull/285) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
-- [feat: add shaa; Thinkpad T14s Gen 1](https://github.com/wimpysworld/nix-config/pull/284) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [refactor: track unstable for tailscale](https://github.com/wimpysworld/nix-config/pull/288) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [feat: update OBS vertical canvas plugin to 1.4.8](https://github.com/wimpysworld/nix-config/pull/287) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [feat: add power management feature](https://github.com/wimpysworld/nix-config/pull/286) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
+- [fix: set nvidia driver version to 555.58.02 so it builds with Linux 6.10](https://github.com/wimpysworld/nix-config/pull/285) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
+- [feat: add shaa; Thinkpad T14s Gen 1](https://github.com/wimpysworld/nix-config/pull/284) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 
 ### Recent releases 📦️
 
 
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.1](https://github.com/sxyazi/yazi/releases/tag/v0.3.1), 1 day ago)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.1](https://github.com/sxyazi/yazi/releases/tag/v0.3.1), 2 days ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.225.12](https://github.com/wimpysworld/nix-config/releases/tag/24.225.12), 4 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.225.12](https://github.com/wimpysworld/nix-config/releases/tag/24.225.12), 5 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.2](https://github.com/wimpysworld/deb-get/releases/tag/0.4.2), 2 weeks ago)
   - apt-get for .debs published via GitHub or direct download 📦
