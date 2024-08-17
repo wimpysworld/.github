@@ -32,10 +32,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+  - My personal blog
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (4 days ago)
-  - My personal blog
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (2 weeks ago)
   - An elegant virtual machine manager for the desktop
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
