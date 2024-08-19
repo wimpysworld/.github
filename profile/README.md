@@ -73,9 +73,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (168)
   - Linux KMS/DRM based virtual Console Emulator
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3112)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3113)
   - A scrollable-tiling Wayland compositor.
-- [Nukesor/pueue](https://github.com/Nukesor/pueue) (4775)
+- [Nukesor/pueue](https://github.com/Nukesor/pueue) (4776)
   - :stars: Manage your shell commands.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (354)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
