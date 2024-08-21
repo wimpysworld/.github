@@ -69,11 +69,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (22)
+- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (23)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (168)
   - Linux KMS/DRM based virtual Console Emulator
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3134)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3135)
   - A scrollable-tiling Wayland compositor.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) (4781)
   - :stars: Manage your shell commands.
