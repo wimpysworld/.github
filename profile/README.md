@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (2 weeks ago)
   - An elegant virtual machine manager for the desktop
@@ -46,8 +46,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [refactor: use minimal sway for regreet and improve Hyprland borders and animations](https://github.com/wimpysworld/nix-config/pull/291) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [feat: add hyprland](https://github.com/wimpysworld/nix-config/pull/290) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [refactor: use minimal sway for regreet and improve Hyprland borders and animations](https://github.com/wimpysworld/nix-config/pull/291) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [feat: add hyprland](https://github.com/wimpysworld/nix-config/pull/290) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 - [refactor: track unstable for tailscale](https://github.com/wimpysworld/nix-config/pull/288) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [feat: update OBS vertical canvas plugin to 1.4.8](https://github.com/wimpysworld/nix-config/pull/287) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [feat: add power management feature](https://github.com/wimpysworld/nix-config/pull/286) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
@@ -55,7 +55,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.1](https://github.com/sxyazi/yazi/releases/tag/v0.3.1), 5 days ago)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.1](https://github.com/sxyazi/yazi/releases/tag/v0.3.1), 6 days ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.225.12](https://github.com/wimpysworld/nix-config/releases/tag/24.225.12), 1 week ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
@@ -63,7 +63,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - apt-get for .debs published via GitHub or direct download 📦
 - [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.5](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.5), 3 weeks ago)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
-- [locaal-ai/obs-urlsource](https://github.com/locaal-ai/obs-urlsource) ([0.3.4](https://github.com/locaal-ai/obs-urlsource/releases/tag/0.3.4), 4 weeks ago)
+- [locaal-ai/obs-urlsource](https://github.com/locaal-ai/obs-urlsource) ([0.3.4](https://github.com/locaal-ai/obs-urlsource/releases/tag/0.3.4), 1 month ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 
 ### Recent starred projects ⭐️
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Linux KMS/DRM based virtual Console Emulator
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) (3125)
   - A scrollable-tiling Wayland compositor.
-- [Nukesor/pueue](https://github.com/Nukesor/pueue) (4777)
+- [Nukesor/pueue](https://github.com/Nukesor/pueue) (4778)
   - :stars: Manage your shell commands.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (356)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Themes, Streams and Audio Machines](https://linuxmatters.sh/36/) (today)
+- [Themes, Streams and Audio Machines](https://linuxmatters.sh/36/) (1 day ago)
 - [Mark Was Right, Twice](https://linuxmatters.sh/35/) (2 weeks ago)
 - [All of a Flutter](https://linuxmatters.sh/34/) (4 weeks ago)
 - [Welcome Homepage](https://linuxmatters.sh/33/) (1 month ago)
