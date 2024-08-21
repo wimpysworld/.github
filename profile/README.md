@@ -32,14 +32,14 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
+  - Nix Packages collection &amp; NixOS
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
   - My personal blog
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) (2 weeks ago)
   - An elegant virtual machine manager for the desktop
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
-  - Nix Packages collection &amp; NixOS
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (2 weeks ago)
   - apt-get for .debs published via GitHub or direct download 📦
 
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (168)
   - Linux KMS/DRM based virtual Console Emulator
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3132)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3133)
   - A scrollable-tiling Wayland compositor.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) (4780)
   - :stars: Manage your shell commands.
