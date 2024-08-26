@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - A scrollable-tiling Wayland compositor.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) (4787)
   - :stars: Manage your shell commands.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (357)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (358)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 
 ### 🎙️ Podcast
