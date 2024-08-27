@@ -36,21 +36,21 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Icons for the Quickemu project
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
   - My personal blog
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (6 days ago)
   - Nix Packages collection &amp; NixOS
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (3 weeks ago)
   - apt-get for .debs published via GitHub or direct download 📦
 
 ### Recent pull requests 🛠️
 
 
+- [fix: use vscode cpptools from nixpkgs](https://github.com/wimpysworld/nix-config/pull/293) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: use minimal sway for regreet and improve Hyprland borders and animations](https://github.com/wimpysworld/nix-config/pull/291) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [feat: add hyprland](https://github.com/wimpysworld/nix-config/pull/290) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [refactor: track unstable for tailscale](https://github.com/wimpysworld/nix-config/pull/288) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 weeks ago)
 - [feat: update OBS vertical canvas plugin to 1.4.8](https://github.com/wimpysworld/nix-config/pull/287) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 weeks ago)
-- [feat: add power management feature](https://github.com/wimpysworld/nix-config/pull/286) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 weeks ago)
 
 ### Recent releases 📦️
 
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (169)
   - Linux KMS/DRM based virtual Console Emulator
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3214)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3216)
   - A scrollable-tiling Wayland compositor.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) (4789)
   - :stars: Manage your shell commands.
