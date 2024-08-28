@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [style: consistent glyphs and margins/padding; add swaync widgets](https://github.com/wimpysworld/nix-config/pull/296) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: enable determinate-nixd and fh](https://github.com/wimpysworld/nix-config/pull/295) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: switch to swaync; drop unused wayland shell components](https://github.com/wimpysworld/nix-config/pull/294) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [fix: use vscode cpptools from nixpkgs](https://github.com/wimpysworld/nix-config/pull/293) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [refactor: use minimal sway for regreet and improve Hyprland borders and animations](https://github.com/wimpysworld/nix-config/pull/291) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-- [feat: add hyprland](https://github.com/wimpysworld/nix-config/pull/290) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (169)
   - Linux KMS/DRM based virtual Console Emulator
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3226)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3227)
   - A scrollable-tiling Wayland compositor.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) (4801)
   - :stars: Manage your shell commands.
