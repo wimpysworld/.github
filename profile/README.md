@@ -34,14 +34,14 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) (today)
+  - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [quickemu-project/quickemu-icons](https://github.com/quickemu-project/quickemu-icons) (1 day ago)
   - Icons for the Quickemu project
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
   - Nix Packages collection &amp; NixOS
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (3 weeks ago)
-  - apt-get for .debs published via GitHub or direct download 📦
 
 ### Recent pull requests 🛠️
 
@@ -57,14 +57,14 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.2](https://github.com/sxyazi/yazi/releases/tag/v0.3.2), today)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.22.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.22.0), 5 days ago)
+  - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [locaal-ai/obs-urlsource](https://github.com/locaal-ai/obs-urlsource) ([0.3.5](https://github.com/locaal-ai/obs-urlsource/releases/tag/0.3.5), 1 week ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.225.12](https://github.com/wimpysworld/nix-config/releases/tag/24.225.12), 2 weeks ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.2](https://github.com/wimpysworld/deb-get/releases/tag/0.4.2), 3 weeks ago)
   - apt-get for .debs published via GitHub or direct download 📦
-- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.5](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.5), 1 month ago)
-  - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 
 ### Recent starred projects ⭐️
 
