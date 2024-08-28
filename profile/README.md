@@ -32,12 +32,12 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickemu-icons](https://github.com/quickemu-project/quickemu-icons) (1 day ago)
   - Icons for the Quickemu project
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
   - Nix Packages collection &amp; NixOS
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (3 weeks ago)
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: enable determinate-nixd and fh](https://github.com/wimpysworld/nix-config/pull/295) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: switch to swaync; drop unused wayland shell components](https://github.com/wimpysworld/nix-config/pull/294) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [fix: use vscode cpptools from nixpkgs](https://github.com/wimpysworld/nix-config/pull/293) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [refactor: use minimal sway for regreet and improve Hyprland borders and animations](https://github.com/wimpysworld/nix-config/pull/291) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [feat: add hyprland](https://github.com/wimpysworld/nix-config/pull/290) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-- [refactor: track unstable for tailscale](https://github.com/wimpysworld/nix-config/pull/288) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 weeks ago)
 
 ### Recent releases 📦️
 
@@ -73,9 +73,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (169)
   - Linux KMS/DRM based virtual Console Emulator
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3222)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3223)
   - A scrollable-tiling Wayland compositor.
-- [Nukesor/pueue](https://github.com/Nukesor/pueue) (4799)
+- [Nukesor/pueue](https://github.com/Nukesor/pueue) (4801)
   - :stars: Manage your shell commands.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (360)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
