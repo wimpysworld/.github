@@ -32,13 +32,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) (today)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) (1 day ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
-- [quickemu-project/quickemu-icons](https://github.com/quickemu-project/quickemu-icons) (1 day ago)
+- [quickemu-project/quickemu-icons](https://github.com/quickemu-project/quickemu-icons) (2 days ago)
   - Icons for the Quickemu project
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
   - My personal blog
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
   - Nix Packages collection &amp; NixOS
@@ -46,18 +46,18 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [style: add hover effect to waybar](https://github.com/wimpysworld/nix-config/pull/297) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [style: consistent glyphs and margins/padding; add swaync widgets](https://github.com/wimpysworld/nix-config/pull/296) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: enable determinate-nixd and fh](https://github.com/wimpysworld/nix-config/pull/295) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: switch to swaync; drop unused wayland shell components](https://github.com/wimpysworld/nix-config/pull/294) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [fix: use vscode cpptools from nixpkgs](https://github.com/wimpysworld/nix-config/pull/293) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [style: add hover effect to waybar](https://github.com/wimpysworld/nix-config/pull/297) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [style: consistent glyphs and margins/padding; add swaync widgets](https://github.com/wimpysworld/nix-config/pull/296) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [refactor: enable determinate-nixd and fh](https://github.com/wimpysworld/nix-config/pull/295) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: switch to swaync; drop unused wayland shell components](https://github.com/wimpysworld/nix-config/pull/294) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [fix: use vscode cpptools from nixpkgs](https://github.com/wimpysworld/nix-config/pull/293) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 
 ### Recent releases 📦️
 
 
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.2](https://github.com/sxyazi/yazi/releases/tag/v0.3.2), today)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.2](https://github.com/sxyazi/yazi/releases/tag/v0.3.2), 1 day ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.22.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.22.0), 5 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.22.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.22.0), 6 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [locaal-ai/obs-urlsource](https://github.com/locaal-ai/obs-urlsource) ([0.3.5](https://github.com/locaal-ai/obs-urlsource/releases/tag/0.3.5), 1 week ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
