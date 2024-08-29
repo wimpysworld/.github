@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [style: make styling more consistent across hyprland components](https://github.com/wimpysworld/nix-config/pull/298) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [style: add hover effect to waybar](https://github.com/wimpysworld/nix-config/pull/297) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [style: consistent glyphs and margins/padding; add swaync widgets](https://github.com/wimpysworld/nix-config/pull/296) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [refactor: enable determinate-nixd and fh](https://github.com/wimpysworld/nix-config/pull/295) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat: switch to swaync; drop unused wayland shell components](https://github.com/wimpysworld/nix-config/pull/294) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [fix: use vscode cpptools from nixpkgs](https://github.com/wimpysworld/nix-config/pull/293) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 
 ### Recent releases 📦️
 
