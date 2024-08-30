@@ -32,13 +32,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) (1 day ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) (2 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
-- [quickemu-project/quickemu-icons](https://github.com/quickemu-project/quickemu-icons) (2 days ago)
+- [quickemu-project/quickemu-icons](https://github.com/quickemu-project/quickemu-icons) (3 days ago)
   - Icons for the Quickemu project
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
   - My personal blog
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
   - Nix Packages collection &amp; NixOS
@@ -46,24 +46,24 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [style: make styling more consistent across hyprland components](https://github.com/wimpysworld/nix-config/pull/298) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [style: add hover effect to waybar](https://github.com/wimpysworld/nix-config/pull/297) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [style: consistent glyphs and margins/padding; add swaync widgets](https://github.com/wimpysworld/nix-config/pull/296) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [refactor: enable determinate-nixd and fh](https://github.com/wimpysworld/nix-config/pull/295) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [feat: switch to swaync; drop unused wayland shell components](https://github.com/wimpysworld/nix-config/pull/294) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [style: make styling more consistent across hyprland components](https://github.com/wimpysworld/nix-config/pull/298) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [style: add hover effect to waybar](https://github.com/wimpysworld/nix-config/pull/297) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [style: consistent glyphs and margins/padding; add swaync widgets](https://github.com/wimpysworld/nix-config/pull/296) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [refactor: enable determinate-nixd and fh](https://github.com/wimpysworld/nix-config/pull/295) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [feat: switch to swaync; drop unused wayland shell components](https://github.com/wimpysworld/nix-config/pull/294) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 
 ### Recent releases 📦️
 
 
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.2](https://github.com/sxyazi/yazi/releases/tag/v0.3.2), 1 day ago)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.2](https://github.com/sxyazi/yazi/releases/tag/v0.3.2), 2 days ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.22.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.22.0), 6 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.22.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.22.0), 1 week ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [locaal-ai/obs-urlsource](https://github.com/locaal-ai/obs-urlsource) ([0.3.5](https://github.com/locaal-ai/obs-urlsource/releases/tag/0.3.5), 1 week ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.225.12](https://github.com/wimpysworld/nix-config/releases/tag/24.225.12), 2 weeks ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.2](https://github.com/wimpysworld/deb-get/releases/tag/0.4.2), 3 weeks ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.2](https://github.com/wimpysworld/deb-get/releases/tag/0.4.2), 4 weeks ago)
   - apt-get for .debs published via GitHub or direct download 📦
 
 ### Recent starred projects ⭐️
