@@ -32,13 +32,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) (2 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) (3 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
-- [quickemu-project/quickemu-icons](https://github.com/quickemu-project/quickemu-icons) (3 days ago)
+- [quickemu-project/quickemu-icons](https://github.com/quickemu-project/quickemu-icons) (4 days ago)
   - Icons for the Quickemu project
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
   - Nix Packages collection &amp; NixOS
@@ -46,19 +46,19 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [style: treewide nixfmt-plus, disable global flake registry, hyprland improvements](https://github.com/wimpysworld/nix-config/pull/301) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: make flake registry and overlays match flake inputs](https://github.com/wimpysworld/nix-config/pull/300) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [style: hyprland eye-candy](https://github.com/wimpysworld/nix-config/pull/299) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [style: make styling more consistent across hyprland components](https://github.com/wimpysworld/nix-config/pull/298) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [style: add hover effect to waybar](https://github.com/wimpysworld/nix-config/pull/297) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [style: treewide nixfmt-plus, disable global flake registry, hyprland improvements](https://github.com/wimpysworld/nix-config/pull/301) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: make flake registry and overlays match flake inputs](https://github.com/wimpysworld/nix-config/pull/300) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [style: hyprland eye-candy](https://github.com/wimpysworld/nix-config/pull/299) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [style: make styling more consistent across hyprland components](https://github.com/wimpysworld/nix-config/pull/298) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [style: add hover effect to waybar](https://github.com/wimpysworld/nix-config/pull/297) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 
 ### Recent releases 📦️
 
 
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.2](https://github.com/sxyazi/yazi/releases/tag/v0.3.2), 2 days ago)
-  - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.22.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.22.0), 1 week ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.23.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.23.0), 1 day ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.2](https://github.com/sxyazi/yazi/releases/tag/v0.3.2), 3 days ago)
+  - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [locaal-ai/obs-urlsource](https://github.com/locaal-ai/obs-urlsource) ([0.3.5](https://github.com/locaal-ai/obs-urlsource/releases/tag/0.3.5), 1 week ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.225.12](https://github.com/wimpysworld/nix-config/releases/tag/24.225.12), 2 weeks ago)
