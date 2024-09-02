@@ -32,13 +32,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) (4 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) (5 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
-- [quickemu-project/quickemu-icons](https://github.com/quickemu-project/quickemu-icons) (5 days ago)
+- [quickemu-project/quickemu-icons](https://github.com/quickemu-project/quickemu-icons) (6 days ago)
   - Icons for the Quickemu project
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
   - Nix Packages collection &amp; NixOS
@@ -46,22 +46,22 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [style: treewide nixfmt-plus, disable global flake registry, hyprland improvements](https://github.com/wimpysworld/nix-config/pull/301) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [feat: make flake registry and overlays match flake inputs](https://github.com/wimpysworld/nix-config/pull/300) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [style: hyprland eye-candy](https://github.com/wimpysworld/nix-config/pull/299) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [style: make styling more consistent across hyprland components](https://github.com/wimpysworld/nix-config/pull/298) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [style: add hover effect to waybar](https://github.com/wimpysworld/nix-config/pull/297) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [style: treewide nixfmt-plus, disable global flake registry, hyprland improvements](https://github.com/wimpysworld/nix-config/pull/301) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [feat: make flake registry and overlays match flake inputs](https://github.com/wimpysworld/nix-config/pull/300) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [style: hyprland eye-candy](https://github.com/wimpysworld/nix-config/pull/299) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [style: make styling more consistent across hyprland components](https://github.com/wimpysworld/nix-config/pull/298) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [style: add hover effect to waybar](https://github.com/wimpysworld/nix-config/pull/297) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.23.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.23.0), 2 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.23.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.23.0), 3 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.2](https://github.com/sxyazi/yazi/releases/tag/v0.3.2), 4 days ago)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.2](https://github.com/sxyazi/yazi/releases/tag/v0.3.2), 5 days ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [locaal-ai/obs-urlsource](https://github.com/locaal-ai/obs-urlsource) ([0.3.5](https://github.com/locaal-ai/obs-urlsource/releases/tag/0.3.5), 1 week ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.225.12](https://github.com/wimpysworld/nix-config/releases/tag/24.225.12), 2 weeks ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.225.12](https://github.com/wimpysworld/nix-config/releases/tag/24.225.12), 3 weeks ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.2](https://github.com/wimpysworld/deb-get/releases/tag/0.4.2), 1 month ago)
   - apt-get for .debs published via GitHub or direct download 📦
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (169)
   - Linux KMS/DRM based virtual Console Emulator
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3247)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3248)
   - A scrollable-tiling Wayland compositor.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) (4817)
   - :stars: Manage your shell commands.
