@@ -32,10 +32,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) (5 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [quickemu-project/quickemu-icons](https://github.com/quickemu-project/quickemu-icons) (6 days ago)
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [style: enable hyprland for phasma and vader along with the required config changes](https://github.com/wimpysworld/nix-config/pull/303) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [style: treewide nixfmt-plus, disable global flake registry, hyprland improvements](https://github.com/wimpysworld/nix-config/pull/301) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 - [feat: make flake registry and overlays match flake inputs](https://github.com/wimpysworld/nix-config/pull/300) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 - [style: hyprland eye-candy](https://github.com/wimpysworld/nix-config/pull/299) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 - [style: make styling more consistent across hyprland components](https://github.com/wimpysworld/nix-config/pull/298) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
-- [style: add hover effect to waybar](https://github.com/wimpysworld/nix-config/pull/297) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 
 ### Recent releases 📦️
 
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (169)
   - Linux KMS/DRM based virtual Console Emulator
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3252)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3253)
   - A scrollable-tiling Wayland compositor.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) (4817)
   - :stars: Manage your shell commands.
