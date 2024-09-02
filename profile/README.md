@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (24)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
-- [Aetf/kmscon](https://github.com/Aetf/kmscon) (169)
+- [Aetf/kmscon](https://github.com/Aetf/kmscon) (170)
   - Linux KMS/DRM based virtual Console Emulator
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) (3255)
   - A scrollable-tiling Wayland compositor.
