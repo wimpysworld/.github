@@ -55,10 +55,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.3](https://github.com/sxyazi/yazi/releases/tag/v0.3.3), today)
+  - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.24.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.24.0), 1 day ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.2](https://github.com/sxyazi/yazi/releases/tag/v0.3.2), 1 week ago)
-  - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [locaal-ai/obs-urlsource](https://github.com/locaal-ai/obs-urlsource) ([0.3.5](https://github.com/locaal-ai/obs-urlsource/releases/tag/0.3.5), 2 weeks ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.225.12](https://github.com/wimpysworld/nix-config/releases/tag/24.225.12), 3 weeks ago)
