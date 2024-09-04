@@ -32,34 +32,34 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) (6 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) (1 week ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [quickemu-project/quickemu-icons](https://github.com/quickemu-project/quickemu-icons) (1 week ago)
   - Icons for the Quickemu project
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
   - Nix Packages collection &amp; NixOS
 
 ### Recent pull requests 🛠️
 
 
-- [feat: add basic hyprland session manager](https://github.com/wimpysworld/nix-config/pull/304) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [style: enable hyprland for phasma and vader along with the required config changes](https://github.com/wimpysworld/nix-config/pull/303) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [style: treewide nixfmt-plus, disable global flake registry, hyprland improvements](https://github.com/wimpysworld/nix-config/pull/301) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
-- [feat: make flake registry and overlays match flake inputs](https://github.com/wimpysworld/nix-config/pull/300) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
-- [style: hyprland eye-candy](https://github.com/wimpysworld/nix-config/pull/299) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [feat: add basic hyprland session manager](https://github.com/wimpysworld/nix-config/pull/304) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [style: enable hyprland for phasma and vader along with the required config changes](https://github.com/wimpysworld/nix-config/pull/303) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [style: treewide nixfmt-plus, disable global flake registry, hyprland improvements](https://github.com/wimpysworld/nix-config/pull/301) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [feat: make flake registry and overlays match flake inputs](https://github.com/wimpysworld/nix-config/pull/300) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [style: hyprland eye-candy](https://github.com/wimpysworld/nix-config/pull/299) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.24.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.24.0), today)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.24.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.24.0), 1 day ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.2](https://github.com/sxyazi/yazi/releases/tag/v0.3.2), 6 days ago)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.2](https://github.com/sxyazi/yazi/releases/tag/v0.3.2), 1 week ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [locaal-ai/obs-urlsource](https://github.com/locaal-ai/obs-urlsource) ([0.3.5](https://github.com/locaal-ai/obs-urlsource/releases/tag/0.3.5), 1 week ago)
+- [locaal-ai/obs-urlsource](https://github.com/locaal-ai/obs-urlsource) ([0.3.5](https://github.com/locaal-ai/obs-urlsource/releases/tag/0.3.5), 2 weeks ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.225.12](https://github.com/wimpysworld/nix-config/releases/tag/24.225.12), 3 weeks ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Lipstick on a Font](https://linuxmatters.sh/37/) (today)
+- [Lipstick on a Font](https://linuxmatters.sh/37/) (1 day ago)
 - [Themes, Streams and Audio Machines](https://linuxmatters.sh/36/) (2 weeks ago)
 - [Mark Was Right, Twice](https://linuxmatters.sh/35/) (4 weeks ago)
 - [All of a Flutter](https://linuxmatters.sh/34/) (1 month ago)
