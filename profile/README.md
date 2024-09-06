@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: consolidate common desktop apps and associations](https://github.com/wimpysworld/nix-config/pull/307) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [style: hyprland polish](https://github.com/wimpysworld/nix-config/pull/305) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add basic hyprland session manager](https://github.com/wimpysworld/nix-config/pull/304) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 - [style: enable hyprland for phasma and vader along with the required config changes](https://github.com/wimpysworld/nix-config/pull/303) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 - [style: treewide nixfmt-plus, disable global flake registry, hyprland improvements](https://github.com/wimpysworld/nix-config/pull/301) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-- [feat: make flake registry and overlays match flake inputs](https://github.com/wimpysworld/nix-config/pull/300) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
@@ -73,9 +73,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (171)
   - Linux KMS/DRM based virtual Console Emulator
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3289)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3290)
   - A scrollable-tiling Wayland compositor.
-- [Nukesor/pueue](https://github.com/Nukesor/pueue) (4829)
+- [Nukesor/pueue](https://github.com/Nukesor/pueue) (4830)
   - :stars: Manage your shell commands.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (361)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
