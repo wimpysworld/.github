@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
   - My personal blog
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: improve hyprland session loading](https://github.com/wimpysworld/nix-config/pull/310) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: get OBS working](https://github.com/wimpysworld/nix-config/pull/309) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [refactor: assorted updates](https://github.com/wimpysworld/nix-config/pull/308) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 - [refactor: consolidate common desktop apps and associations](https://github.com/wimpysworld/nix-config/pull/307) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 - [style: hyprland polish](https://github.com/wimpysworld/nix-config/pull/305) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [feat: add basic hyprland session manager](https://github.com/wimpysworld/nix-config/pull/304) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 
 ### Recent releases 📦️
 
