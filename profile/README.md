@@ -32,13 +32,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
   - My personal blog
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) (1 week ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
-- [quickemu-project/quickemu-icons](https://github.com/quickemu-project/quickemu-icons) (1 week ago)
+- [quickemu-project/quickemu-icons](https://github.com/quickemu-project/quickemu-icons) (2 weeks ago)
   - Icons for the Quickemu project
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
   - Nix Packages collection &amp; NixOS
@@ -46,18 +46,18 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [refactor: improve hyprland session loading](https://github.com/wimpysworld/nix-config/pull/310) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: get OBS working](https://github.com/wimpysworld/nix-config/pull/309) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [refactor: assorted updates](https://github.com/wimpysworld/nix-config/pull/308) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [refactor: consolidate common desktop apps and associations](https://github.com/wimpysworld/nix-config/pull/307) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [style: hyprland polish](https://github.com/wimpysworld/nix-config/pull/305) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [refactor: improve hyprland session loading](https://github.com/wimpysworld/nix-config/pull/310) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [refactor: get OBS working](https://github.com/wimpysworld/nix-config/pull/309) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [refactor: assorted updates](https://github.com/wimpysworld/nix-config/pull/308) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [refactor: consolidate common desktop apps and associations](https://github.com/wimpysworld/nix-config/pull/307) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [style: hyprland polish](https://github.com/wimpysworld/nix-config/pull/305) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 
 ### Recent releases 📦️
 
 
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.3](https://github.com/sxyazi/yazi/releases/tag/v0.3.3), 5 days ago)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.3](https://github.com/sxyazi/yazi/releases/tag/v0.3.3), 6 days ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.24.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.24.0), 6 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.24.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.24.0), 1 week ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [locaal-ai/obs-urlsource](https://github.com/locaal-ai/obs-urlsource) ([0.3.5](https://github.com/locaal-ai/obs-urlsource/releases/tag/0.3.5), 2 weeks ago)
   - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
@@ -86,8 +86,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Lipstick on a Font](https://linuxmatters.sh/37/) (6 days ago)
-- [Themes, Streams and Audio Machines](https://linuxmatters.sh/36/) (2 weeks ago)
+- [Lipstick on a Font](https://linuxmatters.sh/37/) (1 week ago)
+- [Themes, Streams and Audio Machines](https://linuxmatters.sh/36/) (3 weeks ago)
 - [Mark Was Right, Twice](https://linuxmatters.sh/35/) (1 month ago)
 - [All of a Flutter](https://linuxmatters.sh/34/) (1 month ago)
 - [Welcome Homepage](https://linuxmatters.sh/33/) (2 months ago)
