@@ -55,7 +55,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.25.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.25.0), 2 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.26.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.26.0), today)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.3](https://github.com/sxyazi/yazi/releases/tag/v0.3.3), 1 week ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Linux KMS/DRM based virtual Console Emulator
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) (3325)
   - A scrollable-tiling Wayland compositor.
-- [Nukesor/pueue](https://github.com/Nukesor/pueue) (4852)
+- [Nukesor/pueue](https://github.com/Nukesor/pueue) (4853)
   - :stars: Manage your shell commands.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (361)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
