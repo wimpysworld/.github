@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: hyprland fprintd and pam](https://github.com/wimpysworld/nix-config/pull/318) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: always reload the hyprland session, switch tanis to hyprland, emoji fallback](https://github.com/wimpysworld/nix-config/pull/317) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [style: improve hyprlock, refactor fonts, update mime associations](https://github.com/wimpysworld/nix-config/pull/316) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: improve hyprland session loading](https://github.com/wimpysworld/nix-config/pull/310) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 - [refactor: get OBS working](https://github.com/wimpysworld/nix-config/pull/309) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
-- [refactor: assorted updates](https://github.com/wimpysworld/nix-config/pull/308) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 
 ### Recent releases 📦️
 
