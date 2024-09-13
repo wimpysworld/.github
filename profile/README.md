@@ -34,14 +34,14 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
+- [AmbiguousTechnologies/.github](https://github.com/AmbiguousTechnologies/.github) (today)
+  - Ambiguous Technologies 💸
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (6 days ago)
   - My personal blog
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) (2 weeks ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [quickemu-project/quickemu-icons](https://github.com/quickemu-project/quickemu-icons) (2 weeks ago)
   - Icons for the Quickemu project
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 weeks ago)
-  - Nix Packages collection &amp; NixOS
 
 ### Recent pull requests 🛠️
 
