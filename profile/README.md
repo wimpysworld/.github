@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (5 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (6 days ago)
   - My personal blog
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) (2 weeks ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
@@ -46,16 +46,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [refactor: improve hyprland session loading](https://github.com/wimpysworld/nix-config/pull/310) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [refactor: get OBS working](https://github.com/wimpysworld/nix-config/pull/309) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
-- [refactor: assorted updates](https://github.com/wimpysworld/nix-config/pull/308) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
-- [refactor: consolidate common desktop apps and associations](https://github.com/wimpysworld/nix-config/pull/307) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
-- [style: hyprland polish](https://github.com/wimpysworld/nix-config/pull/305) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
+- [refactor: improve hyprland session loading](https://github.com/wimpysworld/nix-config/pull/310) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [refactor: get OBS working](https://github.com/wimpysworld/nix-config/pull/309) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [refactor: assorted updates](https://github.com/wimpysworld/nix-config/pull/308) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
+- [refactor: consolidate common desktop apps and associations](https://github.com/wimpysworld/nix-config/pull/307) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
+- [style: hyprland polish](https://github.com/wimpysworld/nix-config/pull/305) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.26.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.26.0), today)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.26.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.26.0), 1 day ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.3](https://github.com/sxyazi/yazi/releases/tag/v0.3.3), 1 week ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (174)
   - Linux KMS/DRM based virtual Console Emulator
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3326)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3327)
   - A scrollable-tiling Wayland compositor.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) (4853)
   - :stars: Manage your shell commands.
