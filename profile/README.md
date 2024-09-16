@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [AmbiguousTechnologies/.github](https://github.com/AmbiguousTechnologies/.github) (2 days ago)
+- [AmbiguousTechnologies/.github](https://github.com/AmbiguousTechnologies/.github) (3 days ago)
   - Ambiguous Technologies 💸
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 week ago)
   - My personal blog
@@ -46,16 +46,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [refactor: make hyprland session clean up correctly](https://github.com/wimpysworld/nix-config/pull/320) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [feat: hyprland fprintd and pam](https://github.com/wimpysworld/nix-config/pull/318) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [refactor: always reload the hyprland session, switch tanis to hyprland, emoji fallback](https://github.com/wimpysworld/nix-config/pull/317) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [style: improve hyprlock, refactor fonts, update mime associations](https://github.com/wimpysworld/nix-config/pull/316) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [refactor: improve hyprland session loading](https://github.com/wimpysworld/nix-config/pull/310) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
+- [refactor: make hyprland session clean up correctly](https://github.com/wimpysworld/nix-config/pull/320) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [feat: hyprland fprintd and pam](https://github.com/wimpysworld/nix-config/pull/318) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [refactor: always reload the hyprland session, switch tanis to hyprland, emoji fallback](https://github.com/wimpysworld/nix-config/pull/317) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [style: improve hyprlock, refactor fonts, update mime associations](https://github.com/wimpysworld/nix-config/pull/316) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [refactor: improve hyprland session loading](https://github.com/wimpysworld/nix-config/pull/310) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.26.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.26.0), 3 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.26.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.26.0), 4 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.3](https://github.com/sxyazi/yazi/releases/tag/v0.3.3), 1 week ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (174)
   - Linux KMS/DRM based virtual Console Emulator
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3388)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3389)
   - A scrollable-tiling Wayland compositor.
 
 ### 🎙️ Podcast
