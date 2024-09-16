@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [docs: add upgrade-hint markers to guide upgrade actions](https://github.com/wimpysworld/nix-config/pull/323) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [fix: use nvidia 555.58.02 to resolve FTBFS with linuxPackages_latest](https://github.com/wimpysworld/nix-config/pull/322) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: fix hyprland session update waybar to 0.10.4](https://github.com/wimpysworld/nix-config/pull/321) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: make hyprland session clean up correctly](https://github.com/wimpysworld/nix-config/pull/320) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 - [feat: hyprland fprintd and pam](https://github.com/wimpysworld/nix-config/pull/318) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [refactor: always reload the hyprland session, switch tanis to hyprland, emoji fallback](https://github.com/wimpysworld/nix-config/pull/317) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [style: improve hyprlock, refactor fonts, update mime associations](https://github.com/wimpysworld/nix-config/pull/316) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 
 ### Recent releases 📦️
 
@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (174)
   - Linux KMS/DRM based virtual Console Emulator
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3402)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3403)
   - A scrollable-tiling Wayland compositor.
 
 ### 🎙️ Podcast
