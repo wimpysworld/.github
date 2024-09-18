@@ -32,12 +32,12 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [AmbiguousTechnologies/.github](https://github.com/AmbiguousTechnologies/.github) (today)
+  - Ambiguous Technologies 💸
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [AmbiguousTechnologies/.github](https://github.com/AmbiguousTechnologies/.github) (5 days ago)
-  - Ambiguous Technologies 💸
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) (3 weeks ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [quickemu-project/quickemu-icons](https://github.com/quickemu-project/quickemu-icons) (3 weeks ago)
@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (174)
   - Linux KMS/DRM based virtual Console Emulator
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3463)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3464)
   - A scrollable-tiling Wayland compositor.
 
 ### 🎙️ Podcast
