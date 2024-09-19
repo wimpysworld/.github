@@ -32,11 +32,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [AmbiguousTechnologies/.github](https://github.com/AmbiguousTechnologies/.github) (today)
+- [AmbiguousTechnologies/.github](https://github.com/AmbiguousTechnologies/.github) (1 day ago)
   - Ambiguous Technologies 💸
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) (3 weeks ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
@@ -46,16 +46,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [refactor: improve come console and secret configuration](https://github.com/wimpysworld/nix-config/pull/326) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [refactor: improve some console and secret configs](https://github.com/wimpysworld/nix-config/pull/325) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [docs: add upgrade-hint markers to guide upgrade actions](https://github.com/wimpysworld/nix-config/pull/323) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [fix: use nvidia 555.58.02 to resolve FTBFS with linuxPackages_latest](https://github.com/wimpysworld/nix-config/pull/322) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [refactor: fix hyprland session update waybar to 0.10.4](https://github.com/wimpysworld/nix-config/pull/321) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [refactor: improve come console and secret configuration](https://github.com/wimpysworld/nix-config/pull/326) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [refactor: improve some console and secret configs](https://github.com/wimpysworld/nix-config/pull/325) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [docs: add upgrade-hint markers to guide upgrade actions](https://github.com/wimpysworld/nix-config/pull/323) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [fix: use nvidia 555.58.02 to resolve FTBFS with linuxPackages_latest](https://github.com/wimpysworld/nix-config/pull/322) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [refactor: fix hyprland session update waybar to 0.10.4](https://github.com/wimpysworld/nix-config/pull/321) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.26.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.26.1), today)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.26.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.26.1), 1 day ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.3](https://github.com/sxyazi/yazi/releases/tag/v0.3.3), 2 weeks ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (175)
   - Linux KMS/DRM based virtual Console Emulator
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3466)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3467)
   - A scrollable-tiling Wayland compositor.
 
 ### 🎙️ Podcast
@@ -86,9 +86,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [A Pair of Comfortable GPUs](https://linuxmatters.sh/38/) (1 day ago)
+- [A Pair of Comfortable GPUs](https://linuxmatters.sh/38/) (2 days ago)
 - [Lipstick on a Font](https://linuxmatters.sh/37/) (2 weeks ago)
-- [Themes, Streams and Audio Machines](https://linuxmatters.sh/36/) (4 weeks ago)
+- [Themes, Streams and Audio Machines](https://linuxmatters.sh/36/) (1 month ago)
 - [Mark Was Right, Twice](https://linuxmatters.sh/35/) (1 month ago)
 - [All of a Flutter](https://linuxmatters.sh/34/) (1 month ago)
 
