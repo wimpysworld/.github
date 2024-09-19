@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [anchore/grype](https://github.com/anchore/grype) (8489)
+- [anchore/grype](https://github.com/anchore/grype) (8490)
   - A vulnerability scanner for container images and filesystems
 - [anchore/syft](https://github.com/anchore/syft) (6018)
   - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
