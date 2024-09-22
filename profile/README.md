@@ -69,15 +69,15 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [anchore/grype](https://github.com/anchore/grype) (8506)
+- [anchore/grype](https://github.com/anchore/grype) (8508)
   - A vulnerability scanner for container images and filesystems
-- [anchore/syft](https://github.com/anchore/syft) (6031)
+- [anchore/syft](https://github.com/anchore/syft) (6032)
   - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (26)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (175)
   - Linux KMS/DRM based virtual Console Emulator
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3492)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3493)
   - A scrollable-tiling Wayland compositor.
 
 ### 🎙️ Podcast
