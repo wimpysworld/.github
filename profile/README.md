@@ -32,12 +32,12 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
 - [AmbiguousTechnologies/.github](https://github.com/AmbiguousTechnologies/.github) (5 days ago)
   - Ambiguous Technologies 💸
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) (3 weeks ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [quickemu-project/quickemu-icons](https://github.com/quickemu-project/quickemu-icons) (3 weeks ago)
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: add Davinci Resolve 19.1 and helpers for video encoding for youtube and DNxHR](https://github.com/wimpysworld/nix-config/pull/328) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: improve come console and secret configuration](https://github.com/wimpysworld/nix-config/pull/326) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 - [refactor: improve some console and secret configs](https://github.com/wimpysworld/nix-config/pull/325) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 - [docs: add upgrade-hint markers to guide upgrade actions](https://github.com/wimpysworld/nix-config/pull/323) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [fix: use nvidia 555.58.02 to resolve FTBFS with linuxPackages_latest](https://github.com/wimpysworld/nix-config/pull/322) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-- [refactor: fix hyprland session update waybar to 0.10.4](https://github.com/wimpysworld/nix-config/pull/321) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [anchore/grype](https://github.com/anchore/grype) (8513)
+- [anchore/grype](https://github.com/anchore/grype) (8514)
   - A vulnerability scanner for container images and filesystems
 - [anchore/syft](https://github.com/anchore/syft) (6035)
   - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
