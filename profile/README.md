@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [anchore/grype](https://github.com/anchore/grype) (8521)
   - A vulnerability scanner for container images and filesystems
-- [anchore/syft](https://github.com/anchore/syft) (6038)
+- [anchore/syft](https://github.com/anchore/syft) (6039)
   - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (26)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
