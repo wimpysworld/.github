@@ -32,10 +32,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+  - My personal blog
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
-  - My personal blog
 - [AmbiguousTechnologies/.github](https://github.com/AmbiguousTechnologies/.github) (6 days ago)
   - Ambiguous Technologies 💸
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) (3 weeks ago)
@@ -69,9 +69,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [anchore/grype](https://github.com/anchore/grype) (8524)
+- [anchore/grype](https://github.com/anchore/grype) (8525)
   - A vulnerability scanner for container images and filesystems
-- [anchore/syft](https://github.com/anchore/syft) (6039)
+- [anchore/syft](https://github.com/anchore/syft) (6040)
   - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (26)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
