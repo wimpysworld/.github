@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
   - My personal blog
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix: QoL improvements and several new local packages instead of appimage-run](https://github.com/wimpysworld/nix-config/pull/330) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add Davinci Resolve 19.1 and helpers for video encoding for youtube and DNxHR](https://github.com/wimpysworld/nix-config/pull/328) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [refactor: improve come console and secret configuration](https://github.com/wimpysworld/nix-config/pull/326) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [refactor: improve some console and secret configs](https://github.com/wimpysworld/nix-config/pull/325) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [docs: add upgrade-hint markers to guide upgrade actions](https://github.com/wimpysworld/nix-config/pull/323) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-- [fix: use nvidia 555.58.02 to resolve FTBFS with linuxPackages_latest](https://github.com/wimpysworld/nix-config/pull/322) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [anchore/grype](https://github.com/anchore/grype) (8521)
+- [anchore/grype](https://github.com/anchore/grype) (8522)
   - A vulnerability scanner for container images and filesystems
 - [anchore/syft](https://github.com/anchore/syft) (6039)
   - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
