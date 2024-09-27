@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: update obs-vaapi to 0.4.2](https://github.com/wimpysworld/nix-config/pull/337) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [refactor: minor tweaks](https://github.com/wimpysworld/nix-config/pull/336) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [fix: update catppuccin-gtk theme name](https://github.com/wimpysworld/nix-config/pull/334) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: upgrade to davinci resolve studio and fix catppuccin-gtk](https://github.com/wimpysworld/nix-config/pull/333) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [wip: add defold, defold-bob and defold-gdc](https://github.com/wimpysworld/nix-config/pull/332) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: add PICO-8 local package and minor updates](https://github.com/wimpysworld/nix-config/pull/331) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [fix: QoL improvements and several new local packages instead of appimage-run](https://github.com/wimpysworld/nix-config/pull/330) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 
 ### Recent releases 📦️
 
@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (175)
   - Linux KMS/DRM based virtual Console Emulator
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3529)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3530)
   - A scrollable-tiling Wayland compositor.
 
 ### 🎙️ Podcast
