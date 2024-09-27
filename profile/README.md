@@ -73,11 +73,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - A vulnerability scanner for container images and filesystems
 - [anchore/syft](https://github.com/anchore/syft) (6049)
   - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (26)
+- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (27)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (175)
   - Linux KMS/DRM based virtual Console Emulator
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3526)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3529)
   - A scrollable-tiling Wayland compositor.
 
 ### 🎙️ Podcast
