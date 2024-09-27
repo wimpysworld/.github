@@ -32,13 +32,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
   - My personal blog
 - [AmbiguousTechnologies/.github](https://github.com/AmbiguousTechnologies/.github) (1 week ago)
   - Ambiguous Technologies 💸
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) (4 weeks ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) (1 month ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [quickemu-project/quickemu-icons](https://github.com/quickemu-project/quickemu-icons) (1 month ago)
   - Icons for the Quickemu project
@@ -46,16 +46,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [feat: add PICO-8 local package and minor updates](https://github.com/wimpysworld/nix-config/pull/331) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [fix: QoL improvements and several new local packages instead of appimage-run](https://github.com/wimpysworld/nix-config/pull/330) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [feat: add Davinci Resolve 19.1 and helpers for video encoding for youtube and DNxHR](https://github.com/wimpysworld/nix-config/pull/328) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [feat: add PICO-8 local package and minor updates](https://github.com/wimpysworld/nix-config/pull/331) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [fix: QoL improvements and several new local packages instead of appimage-run](https://github.com/wimpysworld/nix-config/pull/330) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [feat: add Davinci Resolve 19.1 and helpers for video encoding for youtube and DNxHR](https://github.com/wimpysworld/nix-config/pull/328) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 - [refactor: improve come console and secret configuration](https://github.com/wimpysworld/nix-config/pull/326) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [refactor: improve some console and secret configs](https://github.com/wimpysworld/nix-config/pull/325) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.26.3](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.26.3), today)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.26.3](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.26.3), 1 day ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.3](https://github.com/sxyazi/yazi/releases/tag/v0.3.3), 3 weeks ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (175)
   - Linux KMS/DRM based virtual Console Emulator
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3515)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3517)
   - A scrollable-tiling Wayland compositor.
 
 ### 🎙️ Podcast
