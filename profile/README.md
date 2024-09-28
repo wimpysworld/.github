@@ -55,7 +55,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.26.3](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.26.3), 2 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.26.4](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.26.4), today)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.3](https://github.com/sxyazi/yazi/releases/tag/v0.3.3), 3 weeks ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [anchore/grype](https://github.com/anchore/grype) (8537)
   - A vulnerability scanner for container images and filesystems
-- [anchore/syft](https://github.com/anchore/syft) (6049)
+- [anchore/syft](https://github.com/anchore/syft) (6048)
   - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (27)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
