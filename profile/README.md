@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (4 days ago)
   - My personal blog
 - [AmbiguousTechnologies/.github](https://github.com/AmbiguousTechnologies/.github) (1 week ago)
   - Ambiguous Technologies 💸
@@ -46,16 +46,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [feat: update obs-vaapi to 0.4.2](https://github.com/wimpysworld/nix-config/pull/337) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: minor tweaks](https://github.com/wimpysworld/nix-config/pull/336) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [fix: update catppuccin-gtk theme name](https://github.com/wimpysworld/nix-config/pull/334) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: upgrade to davinci resolve studio and fix catppuccin-gtk](https://github.com/wimpysworld/nix-config/pull/333) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [wip: add defold, defold-bob and defold-gdc](https://github.com/wimpysworld/nix-config/pull/332) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [feat: update obs-vaapi to 0.4.2](https://github.com/wimpysworld/nix-config/pull/337) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [refactor: minor tweaks](https://github.com/wimpysworld/nix-config/pull/336) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [fix: update catppuccin-gtk theme name](https://github.com/wimpysworld/nix-config/pull/334) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: upgrade to davinci resolve studio and fix catppuccin-gtk](https://github.com/wimpysworld/nix-config/pull/333) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wip: add defold, defold-bob and defold-gdc](https://github.com/wimpysworld/nix-config/pull/332) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.26.3](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.26.3), 1 day ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.26.3](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.26.3), 2 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.3](https://github.com/sxyazi/yazi/releases/tag/v0.3.3), 3 weeks ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
