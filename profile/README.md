@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (4 days ago)
   - My personal blog
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: add updateScript to heynote and jan](https://github.com/wimpysworld/nix-config/pull/338) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: update obs-vaapi to 0.4.2](https://github.com/wimpysworld/nix-config/pull/337) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [refactor: minor tweaks](https://github.com/wimpysworld/nix-config/pull/336) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [fix: update catppuccin-gtk theme name](https://github.com/wimpysworld/nix-config/pull/334) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat: upgrade to davinci resolve studio and fix catppuccin-gtk](https://github.com/wimpysworld/nix-config/pull/333) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [wip: add defold, defold-bob and defold-gdc](https://github.com/wimpysworld/nix-config/pull/332) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 
 ### Recent releases 📦️
 
@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (175)
   - Linux KMS/DRM based virtual Console Emulator
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3539)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3540)
   - A scrollable-tiling Wayland compositor.
 
 ### 🎙️ Podcast
