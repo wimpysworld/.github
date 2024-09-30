@@ -32,13 +32,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
-  - My personal blog
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (today)
   - apt-get for .debs published via GitHub or direct download 📦
 - [ubuntu-mate/ubuntu-mate-settings](https://github.com/ubuntu-mate/ubuntu-mate-settings) (today)
   - Ubuntu MATE brand configuration and default settings
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+  - My personal blog
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [AmbiguousTechnologies/.github](https://github.com/AmbiguousTechnologies/.github) (1 week ago)
   - Ambiguous Technologies 💸
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: streamline default Lima VM for Ubuntu development](https://github.com/wimpysworld/nix-config/pull/341) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [fix: migrate defold to buildFHSEnv so the project builder works](https://github.com/wimpysworld/nix-config/pull/339) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat: add updateScript to heynote and jan](https://github.com/wimpysworld/nix-config/pull/338) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 - [feat: update obs-vaapi to 0.4.2](https://github.com/wimpysworld/nix-config/pull/337) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 - [refactor: minor tweaks](https://github.com/wimpysworld/nix-config/pull/336) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [fix: update catppuccin-gtk theme name](https://github.com/wimpysworld/nix-config/pull/334) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 
 ### Recent releases 📦️
 
@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [anchore/grype](https://github.com/anchore/grype) (8545)
+- [anchore/grype](https://github.com/anchore/grype) (8546)
   - A vulnerability scanner for container images and filesystems
 - [anchore/syft](https://github.com/anchore/syft) (6050)
   - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
