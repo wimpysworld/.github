@@ -32,10 +32,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+  - My personal blog
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (6 days ago)
-  - My personal blog
 - [AmbiguousTechnologies/.github](https://github.com/AmbiguousTechnologies/.github) (1 week ago)
   - Ambiguous Technologies 💸
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) (1 month ago)
