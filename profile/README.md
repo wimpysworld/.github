@@ -32,16 +32,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (today)
-  - apt-get for .debs published via GitHub or direct download 📦
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
   - My personal blog
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (today)
+  - apt-get for .debs published via GitHub or direct download 📦
+- [ubuntu-mate/ubuntu-mate-settings](https://github.com/ubuntu-mate/ubuntu-mate-settings) (today)
+  - Ubuntu MATE brand configuration and default settings
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [AmbiguousTechnologies/.github](https://github.com/AmbiguousTechnologies/.github) (1 week ago)
   - Ambiguous Technologies 💸
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) (1 month ago)
-  - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 
 ### Recent pull requests 🛠️
 
