@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: deploy jekyll and tailscale via lima-create](https://github.com/wimpysworld/nix-config/pull/345) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [chore: change VM naming scheme](https://github.com/wimpysworld/nix-config/pull/344) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add zeta to lima VMs](https://github.com/wimpysworld/nix-config/pull/343) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add incus](https://github.com/wimpysworld/nix-config/pull/342) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: streamline default Lima VM for Ubuntu development](https://github.com/wimpysworld/nix-config/pull/341) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [fix: migrate defold to buildFHSEnv so the project builder works](https://github.com/wimpysworld/nix-config/pull/339) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 
 ### Recent releases 📦️
 
