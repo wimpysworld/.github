@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: add zeta to lima VMs](https://github.com/wimpysworld/nix-config/pull/343) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add incus](https://github.com/wimpysworld/nix-config/pull/342) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: streamline default Lima VM for Ubuntu development](https://github.com/wimpysworld/nix-config/pull/341) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [fix: migrate defold to buildFHSEnv so the project builder works](https://github.com/wimpysworld/nix-config/pull/339) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 - [feat: add updateScript to heynote and jan](https://github.com/wimpysworld/nix-config/pull/338) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [feat: update obs-vaapi to 0.4.2](https://github.com/wimpysworld/nix-config/pull/337) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 
 ### Recent releases 📦️
 
