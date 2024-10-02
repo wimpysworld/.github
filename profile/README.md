@@ -32,25 +32,25 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [ubuntu-mate/ubuntu-mate-artwork](https://github.com/ubuntu-mate/ubuntu-mate-artwork) (1 day ago)
-  - Desktop themes, icons, boot themes, wallpapers, login manager themes, etc.
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (1 day ago)
   - The website to showcase Ubuntu MATE&#39;s features.
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
+- [ubuntu-mate/ubuntu-mate-artwork](https://github.com/ubuntu-mate/ubuntu-mate-artwork) (1 day ago)
+  - Desktop themes, icons, boot themes, wallpapers, login manager themes, etc.
 - [ubuntu-mate/ubuntu-mate-settings](https://github.com/ubuntu-mate/ubuntu-mate-settings) (2 days ago)
   - Ubuntu MATE brand configuration and default settings
 
 ### Recent pull requests 🛠️
 
 
+- [refactor: modify lima-create to use provision in the yaml template](https://github.com/wimpysworld/nix-config/pull/346) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: deploy jekyll and tailscale via lima-create](https://github.com/wimpysworld/nix-config/pull/345) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [chore: change VM naming scheme](https://github.com/wimpysworld/nix-config/pull/344) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat: add zeta to lima VMs](https://github.com/wimpysworld/nix-config/pull/343) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat: add incus](https://github.com/wimpysworld/nix-config/pull/342) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [refactor: streamline default Lima VM for Ubuntu development](https://github.com/wimpysworld/nix-config/pull/341) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 
 ### Recent releases 📦️
 
@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (175)
   - Linux KMS/DRM based virtual Console Emulator
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3559)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3560)
   - A scrollable-tiling Wayland compositor.
 
 ### 🎙️ Podcast
