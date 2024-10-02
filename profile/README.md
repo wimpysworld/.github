@@ -69,6 +69,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
+- [workflow/nix-shell-action](https://github.com/workflow/nix-shell-action) (39)
+  - Run any command you like in a deterministic Nix shell on Linux and macOS.
 - [anchore/grype](https://github.com/anchore/grype) (8555)
   - A vulnerability scanner for container images and filesystems
 - [anchore/syft](https://github.com/anchore/syft) (6061)
@@ -77,8 +79,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (175)
   - Linux KMS/DRM based virtual Console Emulator
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3575)
-  - A scrollable-tiling Wayland compositor.
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
