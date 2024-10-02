@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: simplify lima-create and optimise templates](https://github.com/wimpysworld/nix-config/pull/347) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: modify lima-create to use provision in the yaml template](https://github.com/wimpysworld/nix-config/pull/346) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: deploy jekyll and tailscale via lima-create](https://github.com/wimpysworld/nix-config/pull/345) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [chore: change VM naming scheme](https://github.com/wimpysworld/nix-config/pull/344) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat: add zeta to lima VMs](https://github.com/wimpysworld/nix-config/pull/343) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [feat: add incus](https://github.com/wimpysworld/nix-config/pull/342) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 
 ### Recent releases 📦️
 
@@ -71,13 +71,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [anchore/grype](https://github.com/anchore/grype) (8551)
   - A vulnerability scanner for container images and filesystems
-- [anchore/syft](https://github.com/anchore/syft) (6057)
+- [anchore/syft](https://github.com/anchore/syft) (6058)
   - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (27)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (175)
   - Linux KMS/DRM based virtual Console Emulator
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3571)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) (3572)
   - A scrollable-tiling Wayland compositor.
 
 ### 🎙️ Podcast
