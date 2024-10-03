@@ -32,32 +32,32 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (1 day ago)
+- [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (2 days ago)
   - The website to showcase Ubuntu MATE&#39;s features.
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
   - My personal blog
-- [ubuntu-mate/ubuntu-mate-artwork](https://github.com/ubuntu-mate/ubuntu-mate-artwork) (1 day ago)
+- [ubuntu-mate/ubuntu-mate-artwork](https://github.com/ubuntu-mate/ubuntu-mate-artwork) (2 days ago)
   - Desktop themes, icons, boot themes, wallpapers, login manager themes, etc.
-- [ubuntu-mate/ubuntu-mate-settings](https://github.com/ubuntu-mate/ubuntu-mate-settings) (2 days ago)
+- [ubuntu-mate/ubuntu-mate-settings](https://github.com/ubuntu-mate/ubuntu-mate-settings) (3 days ago)
   - Ubuntu MATE brand configuration and default settings
 
 ### Recent pull requests 🛠️
 
 
-- [refactor: simplify lima-create and optimise templates](https://github.com/wimpysworld/nix-config/pull/347) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: modify lima-create to use provision in the yaml template](https://github.com/wimpysworld/nix-config/pull/346) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: deploy jekyll and tailscale via lima-create](https://github.com/wimpysworld/nix-config/pull/345) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [chore: change VM naming scheme](https://github.com/wimpysworld/nix-config/pull/344) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [feat: add zeta to lima VMs](https://github.com/wimpysworld/nix-config/pull/343) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [refactor: simplify lima-create and optimise templates](https://github.com/wimpysworld/nix-config/pull/347) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [refactor: modify lima-create to use provision in the yaml template](https://github.com/wimpysworld/nix-config/pull/346) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: deploy jekyll and tailscale via lima-create](https://github.com/wimpysworld/nix-config/pull/345) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [chore: change VM naming scheme](https://github.com/wimpysworld/nix-config/pull/344) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [feat: add zeta to lima VMs](https://github.com/wimpysworld/nix-config/pull/343) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.27.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.27.0), 1 day ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.27.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.27.0), 2 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.3](https://github.com/wimpysworld/deb-get/releases/tag/0.4.3), 2 days ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.3](https://github.com/wimpysworld/deb-get/releases/tag/0.4.3), 3 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.3](https://github.com/sxyazi/yazi/releases/tag/v0.3.3), 4 weeks ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -86,9 +86,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Rock Around the Underclock](https://linuxmatters.sh/39/) (1 day ago)
+- [Rock Around the Underclock](https://linuxmatters.sh/39/) (2 days ago)
 - [A Pair of Comfortable GPUs](https://linuxmatters.sh/38/) (2 weeks ago)
-- [Lipstick on a Font](https://linuxmatters.sh/37/) (4 weeks ago)
+- [Lipstick on a Font](https://linuxmatters.sh/37/) (1 month ago)
 - [Themes, Streams and Audio Machines](https://linuxmatters.sh/36/) (1 month ago)
 - [Mark Was Right, Twice](https://linuxmatters.sh/35/) (1 month ago)
 
