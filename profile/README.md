@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [workflow/nix-shell-action](https://github.com/workflow/nix-shell-action) (39)
+- [workflow/nix-shell-action](https://github.com/workflow/nix-shell-action) (40)
   - Run any command you like in a deterministic Nix shell on Linux and macOS.
 - [anchore/grype](https://github.com/anchore/grype) (8562)
   - A vulnerability scanner for container images and filesystems
