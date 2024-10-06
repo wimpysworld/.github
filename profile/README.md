@@ -32,12 +32,12 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+  - My personal blog
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (5 days ago)
   - The website to showcase Ubuntu MATE&#39;s features.
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (5 days ago)
-  - My personal blog
 - [ubuntu-mate/ubuntu-mate-artwork](https://github.com/ubuntu-mate/ubuntu-mate-artwork) (5 days ago)
   - Desktop themes, icons, boot themes, wallpapers, login manager themes, etc.
 - [ubuntu-mate/ubuntu-mate-settings](https://github.com/ubuntu-mate/ubuntu-mate-settings) (6 days ago)
@@ -71,9 +71,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [workflow/nix-shell-action](https://github.com/workflow/nix-shell-action) (40)
   - Run any command you like in a deterministic Nix shell on Linux and macOS.
-- [anchore/grype](https://github.com/anchore/grype) (8589)
+- [anchore/grype](https://github.com/anchore/grype) (8590)
   - A vulnerability scanner for container images and filesystems
-- [anchore/syft](https://github.com/anchore/syft) (6075)
+- [anchore/syft](https://github.com/anchore/syft) (6076)
   - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (27)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
