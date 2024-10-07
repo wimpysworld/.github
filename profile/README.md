@@ -73,9 +73,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Run any command you like in a deterministic Nix shell on Linux and macOS.
 - [anchore/grype](https://github.com/anchore/grype) (8595)
   - A vulnerability scanner for container images and filesystems
-- [anchore/syft](https://github.com/anchore/syft) (6076)
+- [anchore/syft](https://github.com/anchore/syft) (6077)
   - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (27)
+- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (28)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) (175)
   - Linux KMS/DRM based virtual Console Emulator
