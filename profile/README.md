@@ -32,10 +32,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
-  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (6 days ago)
   - The website to showcase Ubuntu MATE&#39;s features.
 - [ubuntu-mate/ubuntu-mate-artwork](https://github.com/ubuntu-mate/ubuntu-mate-artwork) (6 days ago)
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix: add /bin/bash symlink](https://github.com/wimpysworld/nix-config/pull/349) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: simplify lima-create and optimise templates](https://github.com/wimpysworld/nix-config/pull/347) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 - [refactor: modify lima-create to use provision in the yaml template](https://github.com/wimpysworld/nix-config/pull/346) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 - [feat: deploy jekyll and tailscale via lima-create](https://github.com/wimpysworld/nix-config/pull/345) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 - [chore: change VM naming scheme](https://github.com/wimpysworld/nix-config/pull/344) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
-- [feat: add zeta to lima VMs](https://github.com/wimpysworld/nix-config/pull/343) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 
 ### Recent releases 📦️
 
