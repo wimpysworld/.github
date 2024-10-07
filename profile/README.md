@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: add remote-ssh extension to vscode](https://github.com/wimpysworld/nix-config/pull/351) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [feat: update Lima templates](https://github.com/wimpysworld/nix-config/pull/350) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [fix: add /bin/bash symlink](https://github.com/wimpysworld/nix-config/pull/349) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: simplify lima-create and optimise templates](https://github.com/wimpysworld/nix-config/pull/347) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 - [refactor: modify lima-create to use provision in the yaml template](https://github.com/wimpysworld/nix-config/pull/346) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
-- [feat: deploy jekyll and tailscale via lima-create](https://github.com/wimpysworld/nix-config/pull/345) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
-- [chore: change VM naming scheme](https://github.com/wimpysworld/nix-config/pull/344) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 
 ### Recent releases 📦️
 
