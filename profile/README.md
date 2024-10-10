@@ -32,11 +32,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (1 day ago)
+- [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (2 days ago)
   - The website to showcase Ubuntu MATE&#39;s features.
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (4 days ago)
   - My personal blog
 - [ubuntu-mate/ubuntu-mate-artwork](https://github.com/ubuntu-mate/ubuntu-mate-artwork) (1 week ago)
   - Desktop themes, icons, boot themes, wallpapers, login manager themes, etc.
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [feat: update gitkraken to 10.4.0](https://github.com/wimpysworld/nix-config/pull/353) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: add marp](https://github.com/wimpysworld/nix-config/pull/352) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [docs: add Ubuntu MATE 24.10 release notes](https://github.com/ubuntu-mate/ubuntu-mate.org/pull/181) on [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (1 day ago)
-- [feat: add remote-ssh extension to vscode](https://github.com/wimpysworld/nix-config/pull/351) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [feat: update Lima templates](https://github.com/wimpysworld/nix-config/pull/350) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [feat: update gitkraken to 10.4.0](https://github.com/wimpysworld/nix-config/pull/353) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: add marp](https://github.com/wimpysworld/nix-config/pull/352) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [docs: add Ubuntu MATE 24.10 release notes](https://github.com/ubuntu-mate/ubuntu-mate.org/pull/181) on [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (2 days ago)
+- [feat: add remote-ssh extension to vscode](https://github.com/wimpysworld/nix-config/pull/351) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [feat: update Lima templates](https://github.com/wimpysworld/nix-config/pull/350) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 
 ### Recent releases 📦️
 
