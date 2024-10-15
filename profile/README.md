@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) (1569)
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) (1570)
   - install nixos everywhere via ssh [maintainer=@numtide]
 - [workflow/nix-shell-action](https://github.com/workflow/nix-shell-action) (40)
   - Run any command you like in a deterministic Nix shell on Linux and macOS.
