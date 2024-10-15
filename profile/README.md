@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: disable open ports on laptops](https://github.com/wimpysworld/nix-config/pull/359) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [fix: hardcode server timezone to UTC](https://github.com/wimpysworld/nix-config/pull/358) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [docs: update README](https://github.com/wimpysworld/nix-config/pull/357) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [fix: disable NMEA location sources](https://github.com/wimpysworld/nix-config/pull/356) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add malak; hetzner dedicated server](https://github.com/wimpysworld/nix-config/pull/355) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: update gitkraken to 10.4.0](https://github.com/wimpysworld/nix-config/pull/353) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 
 ### Recent releases 📦️
 
