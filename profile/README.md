@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [chore: clean up some cruft](https://github.com/wimpysworld/nix-config/pull/361) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [feat: add install-anywhere](https://github.com/wimpysworld/nix-config/pull/360) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: disable open ports on laptops](https://github.com/wimpysworld/nix-config/pull/359) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [fix: hardcode server timezone to UTC](https://github.com/wimpysworld/nix-config/pull/358) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [docs: update README](https://github.com/wimpysworld/nix-config/pull/357) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [fix: disable NMEA location sources](https://github.com/wimpysworld/nix-config/pull/356) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: add malak; hetzner dedicated server](https://github.com/wimpysworld/nix-config/pull/355) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 
 ### Recent releases 📦️
 
