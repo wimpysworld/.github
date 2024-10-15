@@ -69,13 +69,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [nix-community/disko](https://github.com/nix-community/disko) (1753)
+- [nix-community/disko](https://github.com/nix-community/disko) (1754)
   - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht]
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) (1570)
   - install nixos everywhere via ssh [maintainer=@numtide]
 - [workflow/nix-shell-action](https://github.com/workflow/nix-shell-action) (40)
   - Run any command you like in a deterministic Nix shell on Linux and macOS.
-- [anchore/grype](https://github.com/anchore/grype) (8633)
+- [anchore/grype](https://github.com/anchore/grype) (8635)
   - A vulnerability scanner for container images and filesystems
 - [anchore/syft](https://github.com/anchore/syft) (6103)
   - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
