@@ -69,15 +69,15 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [nix-community/disko](https://github.com/nix-community/disko) (1756)
+- [nix-community/disko](https://github.com/nix-community/disko) (1757)
   - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht]
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) (1570)
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) (1571)
   - install nixos everywhere via ssh [maintainer=@numtide]
 - [workflow/nix-shell-action](https://github.com/workflow/nix-shell-action) (40)
   - Run any command you like in a deterministic Nix shell on Linux and macOS.
-- [anchore/grype](https://github.com/anchore/grype) (8635)
+- [anchore/grype](https://github.com/anchore/grype) (8637)
   - A vulnerability scanner for container images and filesystems
-- [anchore/syft](https://github.com/anchore/syft) (6103)
+- [anchore/syft](https://github.com/anchore/syft) (6104)
   - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 
 ### 🎙️ Podcast
@@ -86,11 +86,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
+- [The Reply Guys](https://linuxmatters.sh/40/) (today)
 - [Rock Around the Underclock](https://linuxmatters.sh/39/) (2 weeks ago)
 - [A Pair of Comfortable GPUs](https://linuxmatters.sh/38/) (4 weeks ago)
 - [Lipstick on a Font](https://linuxmatters.sh/37/) (1 month ago)
 - [Themes, Streams and Audio Machines](https://linuxmatters.sh/36/) (1 month ago)
-- [Mark Was Right, Twice](https://linuxmatters.sh/35/) (2 months ago)
 
 ### 📺️ YouTube
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
