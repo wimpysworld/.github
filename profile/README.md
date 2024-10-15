@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [docs: update README](https://github.com/wimpysworld/nix-config/pull/357) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [fix: disable NMEA location sources](https://github.com/wimpysworld/nix-config/pull/356) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add malak; hetzner dedicated server](https://github.com/wimpysworld/nix-config/pull/355) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: update gitkraken to 10.4.0](https://github.com/wimpysworld/nix-config/pull/353) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 - [feat: add marp](https://github.com/wimpysworld/nix-config/pull/352) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
-- [docs: add Ubuntu MATE 24.10 release notes](https://github.com/ubuntu-mate/ubuntu-mate.org/pull/181) on [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (1 week ago)
 
 ### Recent releases 📦️
 
@@ -75,9 +75,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - install nixos everywhere via ssh [maintainer=@numtide]
 - [workflow/nix-shell-action](https://github.com/workflow/nix-shell-action) (40)
   - Run any command you like in a deterministic Nix shell on Linux and macOS.
-- [anchore/grype](https://github.com/anchore/grype) (8632)
+- [anchore/grype](https://github.com/anchore/grype) (8633)
   - A vulnerability scanner for container images and filesystems
-- [anchore/syft](https://github.com/anchore/syft) (6102)
+- [anchore/syft](https://github.com/anchore/syft) (6103)
   - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 
 ### 🎙️ Podcast
