@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix: hardcode server timezone to UTC](https://github.com/wimpysworld/nix-config/pull/358) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [docs: update README](https://github.com/wimpysworld/nix-config/pull/357) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [fix: disable NMEA location sources](https://github.com/wimpysworld/nix-config/pull/356) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add malak; hetzner dedicated server](https://github.com/wimpysworld/nix-config/pull/355) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: update gitkraken to 10.4.0](https://github.com/wimpysworld/nix-config/pull/353) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
-- [feat: add marp](https://github.com/wimpysworld/nix-config/pull/352) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 
 ### Recent releases 📦️
 
@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [nix-community/disko](https://github.com/nix-community/disko) (1751)
+- [nix-community/disko](https://github.com/nix-community/disko) (1753)
   - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht]
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) (1570)
   - install nixos everywhere via ssh [maintainer=@numtide]
