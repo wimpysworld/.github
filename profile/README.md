@@ -32,12 +32,12 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
 - [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (5 days ago)
   - The website to showcase Ubuntu MATE&#39;s features.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
-  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [ubuntu-mate/ubuntu-mate-artwork](https://github.com/ubuntu-mate/ubuntu-mate-artwork) (2 weeks ago)
   - Desktop themes, icons, boot themes, wallpapers, login manager themes, etc.
 - [ubuntu-mate/ubuntu-mate-settings](https://github.com/ubuntu-mate/ubuntu-mate-settings) (2 weeks ago)
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix: disable NMEA location sources](https://github.com/wimpysworld/nix-config/pull/356) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [feat: add malak; hetzner dedicated server](https://github.com/wimpysworld/nix-config/pull/355) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: update gitkraken to 10.4.0](https://github.com/wimpysworld/nix-config/pull/353) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 - [feat: add marp](https://github.com/wimpysworld/nix-config/pull/352) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 - [docs: add Ubuntu MATE 24.10 release notes](https://github.com/ubuntu-mate/ubuntu-mate.org/pull/181) on [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (1 week ago)
-- [feat: add remote-ssh extension to vscode](https://github.com/wimpysworld/nix-config/pull/351) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-- [feat: update Lima templates](https://github.com/wimpysworld/nix-config/pull/350) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
@@ -69,16 +69,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
+- [nix-community/disko](https://github.com/nix-community/disko) (1751)
+  - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht]
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) (1570)
   - install nixos everywhere via ssh [maintainer=@numtide]
 - [workflow/nix-shell-action](https://github.com/workflow/nix-shell-action) (40)
   - Run any command you like in a deterministic Nix shell on Linux and macOS.
-- [anchore/grype](https://github.com/anchore/grype) (8633)
+- [anchore/grype](https://github.com/anchore/grype) (8632)
   - A vulnerability scanner for container images and filesystems
 - [anchore/syft](https://github.com/anchore/syft) (6102)
   - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (28)
-  - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
