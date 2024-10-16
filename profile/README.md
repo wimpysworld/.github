@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: change malak disk layout](https://github.com/wimpysworld/nix-config/pull/364) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: send initrd SSH keys if available](https://github.com/wimpysworld/nix-config/pull/363) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: enable initrd ssh for malak](https://github.com/wimpysworld/nix-config/pull/362) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [chore: clean up some cruft](https://github.com/wimpysworld/nix-config/pull/361) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat: add install-anywhere](https://github.com/wimpysworld/nix-config/pull/360) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [refactor: disable open ports on laptops](https://github.com/wimpysworld/nix-config/pull/359) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 
 ### Recent releases 📦️
 
