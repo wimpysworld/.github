@@ -34,9 +34,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
   - My personal blog
-- [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (5 days ago)
+- [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (6 days ago)
   - The website to showcase Ubuntu MATE&#39;s features.
 - [ubuntu-mate/ubuntu-mate-artwork](https://github.com/ubuntu-mate/ubuntu-mate-artwork) (2 weeks ago)
   - Desktop themes, icons, boot themes, wallpapers, login manager themes, etc.
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [chore: clean up some cruft](https://github.com/wimpysworld/nix-config/pull/361) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: add install-anywhere](https://github.com/wimpysworld/nix-config/pull/360) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: disable open ports on laptops](https://github.com/wimpysworld/nix-config/pull/359) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [fix: hardcode server timezone to UTC](https://github.com/wimpysworld/nix-config/pull/358) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [docs: update README](https://github.com/wimpysworld/nix-config/pull/357) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [feat: enable initrd ssh for malak](https://github.com/wimpysworld/nix-config/pull/362) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [chore: clean up some cruft](https://github.com/wimpysworld/nix-config/pull/361) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: add install-anywhere](https://github.com/wimpysworld/nix-config/pull/360) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [refactor: disable open ports on laptops](https://github.com/wimpysworld/nix-config/pull/359) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [fix: hardcode server timezone to UTC](https://github.com/wimpysworld/nix-config/pull/358) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 
 ### Recent releases 📦️
 
@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Run any command you like in a deterministic Nix shell on Linux and macOS.
 - [anchore/grype](https://github.com/anchore/grype) (8637)
   - A vulnerability scanner for container images and filesystems
-- [anchore/syft](https://github.com/anchore/syft) (6104)
+- [anchore/syft](https://github.com/anchore/syft) (6105)
   - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 
 ### 🎙️ Podcast
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [The Reply Guys](https://linuxmatters.sh/40/) (today)
+- [The Reply Guys](https://linuxmatters.sh/40/) (1 day ago)
 - [Rock Around the Underclock](https://linuxmatters.sh/39/) (2 weeks ago)
 - [A Pair of Comfortable GPUs](https://linuxmatters.sh/38/) (4 weeks ago)
 - [Lipstick on a Font](https://linuxmatters.sh/37/) (1 month ago)
