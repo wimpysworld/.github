@@ -56,7 +56,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.27.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.27.0), 2 weeks ago)
-  - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
+  - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.3](https://github.com/wimpysworld/deb-get/releases/tag/0.4.3), 2 weeks ago)
   - apt-get for .debs published via GitHub or direct download 📦
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.3](https://github.com/sxyazi/yazi/releases/tag/v0.3.3), 1 month ago)
@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [nix-community/disko](https://github.com/nix-community/disko) (1770)
+- [nix-community/disko](https://github.com/nix-community/disko) (1771)
   - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht]
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) (1575)
   - install nixos everywhere via ssh [maintainer=@numtide]
