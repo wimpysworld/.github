@@ -75,9 +75,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - install nixos everywhere via ssh [maintainer=@numtide]
 - [workflow/nix-shell-action](https://github.com/workflow/nix-shell-action) (40)
   - Run any command you like in a deterministic Nix shell on Linux and macOS.
-- [anchore/grype](https://github.com/anchore/grype) (8640)
+- [anchore/grype](https://github.com/anchore/grype) (8641)
   - A vulnerability scanner for container images and filesystems
-- [anchore/syft](https://github.com/anchore/syft) (6109)
+- [anchore/syft](https://github.com/anchore/syft) (6110)
   - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 
 ### 🎙️ Podcast
