@@ -32,11 +32,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
   - My personal blog
-- [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (6 days ago)
+- [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (1 week ago)
   - The website to showcase Ubuntu MATE&#39;s features.
 - [ubuntu-mate/ubuntu-mate-artwork](https://github.com/ubuntu-mate/ubuntu-mate-artwork) (2 weeks ago)
   - Desktop themes, icons, boot themes, wallpapers, login manager themes, etc.
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [refactor: add host keys, improve DNS and tweak malak disk layout](https://github.com/wimpysworld/nix-config/pull/365) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: change malak disk layout](https://github.com/wimpysworld/nix-config/pull/364) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: send initrd SSH keys if available](https://github.com/wimpysworld/nix-config/pull/363) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: enable initrd ssh for malak](https://github.com/wimpysworld/nix-config/pull/362) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [chore: clean up some cruft](https://github.com/wimpysworld/nix-config/pull/361) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [refactor: add host keys, improve DNS and tweak malak disk layout](https://github.com/wimpysworld/nix-config/pull/365) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [refactor: change malak disk layout](https://github.com/wimpysworld/nix-config/pull/364) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: send initrd SSH keys if available](https://github.com/wimpysworld/nix-config/pull/363) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: enable initrd ssh for malak](https://github.com/wimpysworld/nix-config/pull/362) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [chore: clean up some cruft](https://github.com/wimpysworld/nix-config/pull/361) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 
 ### Recent releases 📦️
 
@@ -86,9 +86,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [The Reply Guys](https://linuxmatters.sh/40/) (1 day ago)
+- [The Reply Guys](https://linuxmatters.sh/40/) (2 days ago)
 - [Rock Around the Underclock](https://linuxmatters.sh/39/) (2 weeks ago)
-- [A Pair of Comfortable GPUs](https://linuxmatters.sh/38/) (4 weeks ago)
+- [A Pair of Comfortable GPUs](https://linuxmatters.sh/38/) (1 month ago)
 - [Lipstick on a Font](https://linuxmatters.sh/37/) (1 month ago)
 - [Themes, Streams and Audio Machines](https://linuxmatters.sh/36/) (1 month ago)
 
