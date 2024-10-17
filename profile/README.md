@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
   - My personal blog
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [chore: add shaa secrets](https://github.com/wimpysworld/nix-config/pull/366) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: add host keys, improve DNS and tweak malak disk layout](https://github.com/wimpysworld/nix-config/pull/365) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [refactor: change malak disk layout](https://github.com/wimpysworld/nix-config/pull/364) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat: send initrd SSH keys if available](https://github.com/wimpysworld/nix-config/pull/363) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat: enable initrd ssh for malak](https://github.com/wimpysworld/nix-config/pull/362) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [chore: clean up some cruft](https://github.com/wimpysworld/nix-config/pull/361) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 
 ### Recent releases 📦️
 
@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [nix-community/disko](https://github.com/nix-community/disko) (1768)
+- [nix-community/disko](https://github.com/nix-community/disko) (1769)
   - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht]
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) (1574)
   - install nixos everywhere via ssh [maintainer=@numtide]
