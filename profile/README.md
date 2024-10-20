@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (1 week ago)
   - The website to showcase Ubuntu MATE&#39;s features.
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [refactor: assorted fixes and updates](https://github.com/wimpysworld/nix-config/pull/368) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [feat: add send-required script](https://github.com/wimpysworld/nix-config/pull/367) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [chore: add shaa secrets](https://github.com/wimpysworld/nix-config/pull/366) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [refactor: add host keys, improve DNS and tweak malak disk layout](https://github.com/wimpysworld/nix-config/pull/365) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [refactor: change malak disk layout](https://github.com/wimpysworld/nix-config/pull/364) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [refactor: assorted fixes and updates](https://github.com/wimpysworld/nix-config/pull/368) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [feat: add send-required script](https://github.com/wimpysworld/nix-config/pull/367) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [chore: add shaa secrets](https://github.com/wimpysworld/nix-config/pull/366) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [refactor: add host keys, improve DNS and tweak malak disk layout](https://github.com/wimpysworld/nix-config/pull/365) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [refactor: change malak disk layout](https://github.com/wimpysworld/nix-config/pull/364) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 
 ### Recent releases 📦️
 
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [The Reply Guys](https://linuxmatters.sh/40/) (4 days ago)
+- [The Reply Guys](https://linuxmatters.sh/40/) (5 days ago)
 - [Rock Around the Underclock](https://linuxmatters.sh/39/) (2 weeks ago)
 - [A Pair of Comfortable GPUs](https://linuxmatters.sh/38/) (1 month ago)
 - [Lipstick on a Font](https://linuxmatters.sh/37/) (1 month ago)
