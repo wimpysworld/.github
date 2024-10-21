@@ -40,8 +40,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - The website to showcase Ubuntu MATE&#39;s features.
 - [ubuntu-mate/ubuntu-mate-artwork](https://github.com/ubuntu-mate/ubuntu-mate-artwork) (2 weeks ago)
   - Desktop themes, icons, boot themes, wallpapers, login manager themes, etc.
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (3 weeks ago)
-  - apt-get for .debs published via GitHub or direct download 📦
+- [ubuntu-mate/ubuntu-mate-settings](https://github.com/ubuntu-mate/ubuntu-mate-settings) (3 weeks ago)
+  - Ubuntu MATE brand configuration and default settings
 
 ### Recent pull requests 🛠️
 
