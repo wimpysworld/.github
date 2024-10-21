@@ -40,8 +40,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - The website to showcase Ubuntu MATE&#39;s features.
 - [ubuntu-mate/ubuntu-mate-artwork](https://github.com/ubuntu-mate/ubuntu-mate-artwork) (2 weeks ago)
   - Desktop themes, icons, boot themes, wallpapers, login manager themes, etc.
-- [ubuntu-mate/ubuntu-mate-settings](https://github.com/ubuntu-mate/ubuntu-mate-settings) (3 weeks ago)
-  - Ubuntu MATE brand configuration and default settings
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (3 weeks ago)
+  - apt-get for .debs published via GitHub or direct download 📦
 
 ### Recent pull requests 🛠️
 
@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - install nixos everywhere via ssh [maintainer=@numtide]
 - [workflow/nix-shell-action](https://github.com/workflow/nix-shell-action) (40)
   - Run any command you like in a deterministic Nix shell on Linux and macOS.
-- [anchore/grype](https://github.com/anchore/grype) (8657)
+- [anchore/grype](https://github.com/anchore/grype) (8658)
   - A vulnerability scanner for container images and filesystems
 
 ### 🎙️ Podcast
