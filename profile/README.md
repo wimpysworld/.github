@@ -32,10 +32,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
-  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (1 week ago)
   - The website to showcase Ubuntu MATE&#39;s features.
 - [ubuntu-mate/ubuntu-mate-artwork](https://github.com/ubuntu-mate/ubuntu-mate-artwork) (3 weeks ago)
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [chore: disable fprintd on tanis; temporary change for reasons](https://github.com/wimpysworld/nix-config/pull/371) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [feat: add some basic monitoring and alerting to malak](https://github.com/wimpysworld/nix-config/pull/370) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: assorted fixes and updates](https://github.com/wimpysworld/nix-config/pull/368) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 - [feat: add send-required script](https://github.com/wimpysworld/nix-config/pull/367) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 - [chore: add shaa secrets](https://github.com/wimpysworld/nix-config/pull/366) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
-- [refactor: add host keys, improve DNS and tweak malak disk layout](https://github.com/wimpysworld/nix-config/pull/365) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-- [refactor: change malak disk layout](https://github.com/wimpysworld/nix-config/pull/364) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - install nixos everywhere via ssh [maintainer=@numtide]
 - [workflow/nix-shell-action](https://github.com/workflow/nix-shell-action) (40)
   - Run any command you like in a deterministic Nix shell on Linux and macOS.
-- [anchore/grype](https://github.com/anchore/grype) (8663)
+- [anchore/grype](https://github.com/anchore/grype) (8665)
   - A vulnerability scanner for container images and filesystems
 
 ### 🎙️ Podcast
