@@ -32,11 +32,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (1 week ago)
+- [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (2 weeks ago)
   - The website to showcase Ubuntu MATE&#39;s features.
 - [ubuntu-mate/ubuntu-mate-artwork](https://github.com/ubuntu-mate/ubuntu-mate-artwork) (3 weeks ago)
   - Desktop themes, icons, boot themes, wallpapers, login manager themes, etc.
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [chore: disable fprintd on tanis; temporary change for reasons](https://github.com/wimpysworld/nix-config/pull/371) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: add some basic monitoring and alerting to malak](https://github.com/wimpysworld/nix-config/pull/370) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: assorted fixes and updates](https://github.com/wimpysworld/nix-config/pull/368) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
-- [feat: add send-required script](https://github.com/wimpysworld/nix-config/pull/367) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
-- [chore: add shaa secrets](https://github.com/wimpysworld/nix-config/pull/366) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
+- [chore: disable fprintd on tanis; temporary change for reasons](https://github.com/wimpysworld/nix-config/pull/371) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: add some basic monitoring and alerting to malak](https://github.com/wimpysworld/nix-config/pull/370) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [refactor: assorted fixes and updates](https://github.com/wimpysworld/nix-config/pull/368) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
+- [feat: add send-required script](https://github.com/wimpysworld/nix-config/pull/367) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
+- [chore: add shaa secrets](https://github.com/wimpysworld/nix-config/pull/366) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
@@ -63,7 +63,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.225.12](https://github.com/wimpysworld/nix-config/releases/tag/24.225.12), 2 months ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.5](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.5), 2 months ago)
+- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.5](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.5), 3 months ago)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 
 ### Recent starred projects ⭐️
