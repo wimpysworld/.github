@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) (18216)
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) (18217)
   - Send push notifications to your phone or desktop using PUT/POST
 - [nix-community/disko](https://github.com/nix-community/disko) (1794)
   - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht]
