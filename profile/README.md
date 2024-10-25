@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
   - My personal blog
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: add evolution and thunderbird](https://github.com/wimpysworld/nix-config/pull/373) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [chore: disable fprintd on tanis; temporary change for reasons](https://github.com/wimpysworld/nix-config/pull/371) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 - [feat: add some basic monitoring and alerting to malak](https://github.com/wimpysworld/nix-config/pull/370) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 - [refactor: assorted fixes and updates](https://github.com/wimpysworld/nix-config/pull/368) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [feat: add send-required script](https://github.com/wimpysworld/nix-config/pull/367) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-- [chore: add shaa secrets](https://github.com/wimpysworld/nix-config/pull/366) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Send push notifications to your phone or desktop using PUT/POST
 - [nix-community/disko](https://github.com/nix-community/disko) (1795)
   - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht]
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) (1588)
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) (1589)
   - install nixos everywhere via ssh [maintainer=@numtide]
 - [workflow/nix-shell-action](https://github.com/workflow/nix-shell-action) (40)
   - Run any command you like in a deterministic Nix shell on Linux and macOS.
