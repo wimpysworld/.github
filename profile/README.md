@@ -32,24 +32,24 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (2 weeks ago)
   - The website to showcase Ubuntu MATE&#39;s features.
 - [ubuntu-mate/ubuntu-mate-artwork](https://github.com/ubuntu-mate/ubuntu-mate-artwork) (4 weeks ago)
   - Desktop themes, icons, boot themes, wallpapers, login manager themes, etc.
-- [ubuntu-mate/ubuntu-mate-settings](https://github.com/ubuntu-mate/ubuntu-mate-settings) (4 weeks ago)
+- [ubuntu-mate/ubuntu-mate-settings](https://github.com/ubuntu-mate/ubuntu-mate-settings) (1 month ago)
   - Ubuntu MATE brand configuration and default settings
 
 ### Recent pull requests 🛠️
 
 
-- [feat: add lomiri](https://github.com/wimpysworld/nix-config/pull/375) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: add evolution and thunderbird](https://github.com/wimpysworld/nix-config/pull/373) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
-- [chore: disable fprintd on tanis; temporary change for reasons](https://github.com/wimpysworld/nix-config/pull/371) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
-- [feat: add some basic monitoring and alerting to malak](https://github.com/wimpysworld/nix-config/pull/370) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
+- [feat: add lomiri](https://github.com/wimpysworld/nix-config/pull/375) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: add evolution and thunderbird](https://github.com/wimpysworld/nix-config/pull/373) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [chore: disable fprintd on tanis; temporary change for reasons](https://github.com/wimpysworld/nix-config/pull/371) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
+- [feat: add some basic monitoring and alerting to malak](https://github.com/wimpysworld/nix-config/pull/370) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [refactor: assorted fixes and updates](https://github.com/wimpysworld/nix-config/pull/368) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
@@ -57,7 +57,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.27.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.27.0), 4 weeks ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.3](https://github.com/wimpysworld/deb-get/releases/tag/0.4.3), 4 weeks ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.3](https://github.com/wimpysworld/deb-get/releases/tag/0.4.3), 1 month ago)
   - apt-get for .debs published via GitHub or direct download 📦
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.3](https://github.com/sxyazi/yazi/releases/tag/v0.3.3), 1 month ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) (18269)
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) (18270)
   - Send push notifications to your phone or desktop using PUT/POST
 - [nix-community/disko](https://github.com/nix-community/disko) (1806)
   - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht]
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Punch Up in the Garden](https://linuxmatters.sh/41/) (today)
+- [Punch Up in the Garden](https://linuxmatters.sh/41/) (1 day ago)
 - [The Reply Guys](https://linuxmatters.sh/40/) (2 weeks ago)
 - [Rock Around the Underclock](https://linuxmatters.sh/39/) (4 weeks ago)
 - [A Pair of Comfortable GPUs](https://linuxmatters.sh/38/) (1 month ago)
