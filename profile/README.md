@@ -73,11 +73,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Send push notifications to your phone or desktop using PUT/POST
 - [nix-community/disko](https://github.com/nix-community/disko) (1807)
   - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht]
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) (1603)
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) (1604)
   - install nixos everywhere via ssh [maintainer=@numtide]
 - [workflow/nix-shell-action](https://github.com/workflow/nix-shell-action) (40)
   - Run any command you like in a deterministic Nix shell on Linux and macOS.
-- [anchore/grype](https://github.com/anchore/grype) (8697)
+- [anchore/grype](https://github.com/anchore/grype) (8698)
   - A vulnerability scanner for container images and filesystems
 
 ### 🎙️ Podcast
