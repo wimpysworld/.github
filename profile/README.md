@@ -69,15 +69,15 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) (18275)
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) (18276)
   - Send push notifications to your phone or desktop using PUT/POST
 - [nix-community/disko](https://github.com/nix-community/disko) (1807)
   - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht]
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) (1602)
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) (1603)
   - install nixos everywhere via ssh [maintainer=@numtide]
 - [workflow/nix-shell-action](https://github.com/workflow/nix-shell-action) (40)
   - Run any command you like in a deterministic Nix shell on Linux and macOS.
-- [anchore/grype](https://github.com/anchore/grype) (8694)
+- [anchore/grype](https://github.com/anchore/grype) (8696)
   - A vulnerability scanner for container images and filesystems
 
 ### 🎙️ Podcast
