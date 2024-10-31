@@ -69,9 +69,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) (18282)
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) (18283)
   - Send push notifications to your phone or desktop using PUT/POST
-- [nix-community/disko](https://github.com/nix-community/disko) (1808)
+- [nix-community/disko](https://github.com/nix-community/disko) (1809)
   - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht]
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) (1604)
   - install nixos everywhere via ssh [maintainer=@numtide]
