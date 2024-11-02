@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (3 weeks ago)
   - The website to showcase Ubuntu MATE&#39;s features.
@@ -46,7 +46,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [feat: add lomiri](https://github.com/wimpysworld/nix-config/pull/375) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [feat: add lomiri](https://github.com/wimpysworld/nix-config/pull/375) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 - [feat: add evolution and thunderbird](https://github.com/wimpysworld/nix-config/pull/373) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [chore: disable fprintd on tanis; temporary change for reasons](https://github.com/wimpysworld/nix-config/pull/371) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [feat: add some basic monitoring and alerting to malak](https://github.com/wimpysworld/nix-config/pull/370) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
@@ -55,7 +55,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.27.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.27.1), 1 day ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.27.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.27.1), 2 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.3](https://github.com/wimpysworld/deb-get/releases/tag/0.4.3), 1 month ago)
   - apt-get for .debs published via GitHub or direct download 📦
@@ -86,11 +86,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Punch Up in the Garden](https://linuxmatters.sh/41/) (3 days ago)
+- [Punch Up in the Garden](https://linuxmatters.sh/41/) (4 days ago)
 - [The Reply Guys](https://linuxmatters.sh/40/) (2 weeks ago)
 - [Rock Around the Underclock](https://linuxmatters.sh/39/) (1 month ago)
 - [A Pair of Comfortable GPUs](https://linuxmatters.sh/38/) (1 month ago)
-- [Lipstick on a Font](https://linuxmatters.sh/37/) (1 month ago)
+- [Lipstick on a Font](https://linuxmatters.sh/37/) (2 months ago)
 
 ### 📺️ YouTube
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
