@@ -69,16 +69,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
+- [TwiN/gatus](https://github.com/TwiN/gatus) (6317)
+  - ⛑ Automated developer-oriented status page
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) (18322)
   - Send push notifications to your phone or desktop using PUT/POST
 - [nix-community/disko](https://github.com/nix-community/disko) (1820)
   - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht]
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) (1621)
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) (1622)
   - install nixos everywhere via ssh [maintainer=@numtide]
 - [workflow/nix-shell-action](https://github.com/workflow/nix-shell-action) (41)
   - Run any command you like in a deterministic Nix shell on Linux and macOS.
-- [anchore/grype](https://github.com/anchore/grype) (8722)
-  - A vulnerability scanner for container images and filesystems
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
