@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [TwiN/gatus](https://github.com/TwiN/gatus) (6317)
+- [TwiN/gatus](https://github.com/TwiN/gatus) (6318)
   - ⛑ Automated developer-oriented status page
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) (18323)
   - Send push notifications to your phone or desktop using PUT/POST
