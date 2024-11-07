@@ -32,11 +32,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (4 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (5 days ago)
   - My personal blog
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (3 weeks ago)
+- [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (4 weeks ago)
   - The website to showcase Ubuntu MATE&#39;s features.
 - [ubuntu-mate/ubuntu-mate-artwork](https://github.com/ubuntu-mate/ubuntu-mate-artwork) (1 month ago)
   - Desktop themes, icons, boot themes, wallpapers, login manager themes, etc.
@@ -55,7 +55,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.27.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.27.1), 6 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.27.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.27.1), 1 week ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.3](https://github.com/wimpysworld/deb-get/releases/tag/0.4.3), 1 month ago)
   - apt-get for .debs published via GitHub or direct download 📦
