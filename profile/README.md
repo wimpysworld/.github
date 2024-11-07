@@ -69,9 +69,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [TwiN/gatus](https://github.com/TwiN/gatus) (6337)
+- [TwiN/gatus](https://github.com/TwiN/gatus) (6339)
   - ⛑ Automated developer-oriented status page
-- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) (18334)
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) (18333)
   - Send push notifications to your phone or desktop using PUT/POST
 - [nix-community/disko](https://github.com/nix-community/disko) (1823)
   - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht]
