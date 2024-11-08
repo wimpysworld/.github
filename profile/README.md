@@ -69,6 +69,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
+- [popey/grummage](https://github.com/popey/grummage) (1)
+  - Grummage is an interactive terminal frontend to Grype
 - [TwiN/gatus](https://github.com/TwiN/gatus) (6346)
   - ⛑ Automated developer-oriented status page
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) (18347)
@@ -77,8 +79,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht]
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) (1627)
   - install nixos everywhere via ssh [maintainer=@numtide]
-- [workflow/nix-shell-action](https://github.com/workflow/nix-shell-action) (41)
-  - Run any command you like in a deterministic Nix shell on Linux and macOS.
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
