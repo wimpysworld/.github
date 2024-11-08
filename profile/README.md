@@ -69,13 +69,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [TwiN/gatus](https://github.com/TwiN/gatus) (6343)
+- [TwiN/gatus](https://github.com/TwiN/gatus) (6344)
   - ⛑ Automated developer-oriented status page
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) (18347)
   - Send push notifications to your phone or desktop using PUT/POST
-- [nix-community/disko](https://github.com/nix-community/disko) (1830)
+- [nix-community/disko](https://github.com/nix-community/disko) (1832)
   - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht]
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) (1625)
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) (1626)
   - install nixos everywhere via ssh [maintainer=@numtide]
 - [workflow/nix-shell-action](https://github.com/workflow/nix-shell-action) (41)
   - Run any command you like in a deterministic Nix shell on Linux and macOS.
