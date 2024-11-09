@@ -71,11 +71,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [popey/grummage](https://github.com/popey/grummage) (5)
   - Grummage is an interactive terminal frontend to Grype
-- [TwiN/gatus](https://github.com/TwiN/gatus) (6350)
+- [TwiN/gatus](https://github.com/TwiN/gatus) (6351)
   - ⛑ Automated developer-oriented status page
-- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) (18356)
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) (18357)
   - Send push notifications to your phone or desktop using PUT/POST
-- [nix-community/disko](https://github.com/nix-community/disko) (1839)
+- [nix-community/disko](https://github.com/nix-community/disko) (1840)
   - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht]
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) (1629)
   - install nixos everywhere via ssh [maintainer=@numtide]
