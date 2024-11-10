@@ -71,9 +71,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [popey/grummage](https://github.com/popey/grummage) (5)
   - Grummage is an interactive terminal frontend to Grype
-- [TwiN/gatus](https://github.com/TwiN/gatus) (6356)
+- [TwiN/gatus](https://github.com/TwiN/gatus) (6357)
   - ⛑ Automated developer-oriented status page
-- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) (18360)
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) (18361)
   - Send push notifications to your phone or desktop using PUT/POST
 - [nix-community/disko](https://github.com/nix-community/disko) (1839)
   - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht]
