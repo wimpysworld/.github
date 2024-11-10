@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 week ago)
   - My personal blog
@@ -46,7 +46,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [fix: assorted fixes and improvements](https://github.com/wimpysworld/nix-config/pull/379) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [fix: assorted fixes and improvements](https://github.com/wimpysworld/nix-config/pull/379) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 - [feat: add lomiri](https://github.com/wimpysworld/nix-config/pull/375) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [feat: add evolution and thunderbird](https://github.com/wimpysworld/nix-config/pull/373) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 weeks ago)
 - [chore: disable fprintd on tanis; temporary change for reasons](https://github.com/wimpysworld/nix-config/pull/371) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 weeks ago)
@@ -61,7 +61,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - apt-get for .debs published via GitHub or direct download 📦
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.3](https://github.com/sxyazi/yazi/releases/tag/v0.3.3), 2 months ago)
   - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.225.12](https://github.com/wimpysworld/nix-config/releases/tag/24.225.12), 2 months ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.225.12](https://github.com/wimpysworld/nix-config/releases/tag/24.225.12), 3 months ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.5](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.5), 3 months ago)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
