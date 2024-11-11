@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [popey/grummage](https://github.com/popey/grummage) (6)
+- [popey/grummage](https://github.com/popey/grummage) (7)
   - Grummage is an interactive terminal frontend to Grype
 - [TwiN/gatus](https://github.com/TwiN/gatus) (6363)
   - ⛑ Automated developer-oriented status page
