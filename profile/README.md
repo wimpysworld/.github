@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Send push notifications to your phone or desktop using PUT/POST
 - [nix-community/disko](https://github.com/nix-community/disko) (1839)
   - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht]
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) (1629)
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) (1630)
   - install nixos everywhere via ssh [maintainer=@numtide]
 
 ### 🎙️ Podcast
