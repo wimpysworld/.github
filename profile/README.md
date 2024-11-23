@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [popey/slomore](https://github.com/popey/slomore) (19)
   - Slow More.
-- [theimpossibleastronaut/gotosocial-theme-catppuccin](https://github.com/theimpossibleastronaut/gotosocial-theme-catppuccin) (6)
+- [theimpossibleastronaut/gotosocial-theme-catppuccin](https://github.com/theimpossibleastronaut/gotosocial-theme-catppuccin) (7)
   - A Soothing pastel theme for the high-spirited! modified for GoToSocial
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) (3838)
   - Fast, fun, small ActivityPub server.
