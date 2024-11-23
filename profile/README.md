@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/vaapi-checker](https://github.com/wimpysworld/vaapi-checker) (4 days ago)
+- [wimpysworld/vaapi-checker](https://github.com/wimpysworld/vaapi-checker) (5 days ago)
   - PoC introspection of VA-API to determinate video encoder hardware and supported formats
 - [wimpysworld/gotosocial-backup](https://github.com/wimpysworld/gotosocial-backup) (1 week ago)
   - Comprehensive backup script for GotoSocial 🦥
@@ -46,25 +46,25 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [feat: add gotosocial and owncast with backups](https://github.com/wimpysworld/nix-config/pull/383) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: enable Intel Quicksync with support for FFmpeg 4.x to 7.1](https://github.com/owncast/owncast/pull/4028) on [owncast/owncast](https://github.com/owncast/owncast) (1 day ago)
-- [fix: Intel and AMD VA-API accelerated pipeline for all FFmpeg versions](https://github.com/owncast/owncast/pull/4022) on [owncast/owncast](https://github.com/owncast/owncast) (2 days ago)
-- [feat: add nix dev shell](https://github.com/wimpysworld/vaapi-checker/pull/2) on [wimpysworld/vaapi-checker](https://github.com/wimpysworld/vaapi-checker) (4 days ago)
-- [style: remove pointless comment](https://github.com/wimpysworld/vaapi-checker/pull/1) on [wimpysworld/vaapi-checker](https://github.com/wimpysworld/vaapi-checker) (4 days ago)
+- [feat: add gotosocial and owncast with backups](https://github.com/wimpysworld/nix-config/pull/383) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: enable Intel Quicksync with support for FFmpeg 4.x to 7.1](https://github.com/owncast/owncast/pull/4028) on [owncast/owncast](https://github.com/owncast/owncast) (2 days ago)
+- [fix: Intel and AMD VA-API accelerated pipeline for all FFmpeg versions](https://github.com/owncast/owncast/pull/4022) on [owncast/owncast](https://github.com/owncast/owncast) (3 days ago)
+- [feat: add nix dev shell](https://github.com/wimpysworld/vaapi-checker/pull/2) on [wimpysworld/vaapi-checker](https://github.com/wimpysworld/vaapi-checker) (5 days ago)
+- [style: remove pointless comment](https://github.com/wimpysworld/vaapi-checker/pull/1) on [wimpysworld/vaapi-checker](https://github.com/wimpysworld/vaapi-checker) (5 days ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.30.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.30.0), today)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.30.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.30.0), 1 day ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.3](https://github.com/wimpysworld/deb-get/releases/tag/0.4.3), 1 month ago)
   - apt-get for .debs published via GitHub or direct download 📦
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) ([v0.3.3](https://github.com/sxyazi/yazi/releases/tag/v0.3.3), 2 months ago)
-  - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.225.12](https://github.com/wimpysworld/nix-config/releases/tag/24.225.12), 3 months ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.5](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.5), 3 months ago)
+- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.5](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.5), 4 months ago)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) ([1.2.10](https://github.com/quickemu-project/quickgui/releases/tag/1.2.10), 4 months ago)
+  - An elegant virtual machine manager for the desktop
 
 ### Recent starred projects ⭐️
 
