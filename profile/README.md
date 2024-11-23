@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Slow More.
 - [theimpossibleastronaut/gotosocial-theme-catppuccin](https://github.com/theimpossibleastronaut/gotosocial-theme-catppuccin) (6)
   - A Soothing pastel theme for the high-spirited! modified for GoToSocial
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) (3836)
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) (3838)
   - Fast, fun, small ActivityPub server.
 - [popey/grummage](https://github.com/popey/grummage) (9)
   - Grummage is an interactive terminal frontend to Grype
