@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/vaapi-checker](https://github.com/wimpysworld/vaapi-checker) (1 week ago)
   - PoC introspection of VA-API to determinate video encoder hardware and supported formats
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix: assorted updates and fixes for NixOS 24.11 migration](https://github.com/wimpysworld/nix-config/pull/387) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: upgrade to NixOS 24.11](https://github.com/wimpysworld/nix-config/pull/385) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 - [feat: add gotosocial and owncast with backups](https://github.com/wimpysworld/nix-config/pull/383) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 - [feat: enable Intel Quicksync with support for FFmpeg 4.x to 7.1](https://github.com/owncast/owncast/pull/4028) on [owncast/owncast](https://github.com/owncast/owncast) (6 days ago)
 - [fix: Intel and AMD VA-API accelerated pipeline for all FFmpeg versions](https://github.com/owncast/owncast/pull/4022) on [owncast/owncast](https://github.com/owncast/owncast) (1 week ago)
-- [feat: add nix dev shell](https://github.com/wimpysworld/vaapi-checker/pull/2) on [wimpysworld/vaapi-checker](https://github.com/wimpysworld/vaapi-checker) (1 week ago)
 
 ### Recent releases 📦️
 
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Slow More.
 - [theimpossibleastronaut/gotosocial-theme-catppuccin](https://github.com/theimpossibleastronaut/gotosocial-theme-catppuccin) (7)
   - A Soothing pastel theme for the high-spirited! modified for GoToSocial
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) (3847)
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) (3850)
   - Fast, fun, small ActivityPub server.
 - [popey/grummage](https://github.com/popey/grummage) (9)
   - Grummage is an interactive terminal frontend to Grype
