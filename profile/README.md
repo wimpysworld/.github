@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: fix and update obs-urlsource and obs-aitum-multistream OBS plugins](https://github.com/wimpysworld/nix-config/pull/388) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [fix: assorted updates and fixes for NixOS 24.11 migration](https://github.com/wimpysworld/nix-config/pull/387) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: upgrade to NixOS 24.11](https://github.com/wimpysworld/nix-config/pull/385) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 - [feat: add gotosocial and owncast with backups](https://github.com/wimpysworld/nix-config/pull/383) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 - [feat: enable Intel Quicksync with support for FFmpeg 4.x to 7.1](https://github.com/owncast/owncast/pull/4028) on [owncast/owncast](https://github.com/owncast/owncast) (6 days ago)
-- [fix: Intel and AMD VA-API accelerated pipeline for all FFmpeg versions](https://github.com/owncast/owncast/pull/4022) on [owncast/owncast](https://github.com/owncast/owncast) (1 week ago)
 
 ### Recent releases 📦️
 
