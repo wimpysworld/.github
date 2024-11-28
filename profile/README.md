@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [owncast/owncast](https://github.com/owncast/owncast) (9554)
+- [owncast/owncast](https://github.com/owncast/owncast) (9555)
   - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [popey/slomore](https://github.com/popey/slomore) (19)
   - Slow More.
