@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/vaapi-checker](https://github.com/wimpysworld/vaapi-checker) (1 week ago)
   - PoC introspection of VA-API to determinate video encoder hardware and supported formats
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [style: change cursor size to 32](https://github.com/wimpysworld/nix-config/pull/390) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [fix: enable regreet](https://github.com/wimpysworld/nix-config/pull/389) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: fix and update obs-urlsource and obs-aitum-multistream OBS plugins](https://github.com/wimpysworld/nix-config/pull/388) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [fix: assorted updates and fixes for NixOS 24.11 migration](https://github.com/wimpysworld/nix-config/pull/387) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat: upgrade to NixOS 24.11](https://github.com/wimpysworld/nix-config/pull/385) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
-- [feat: add gotosocial and owncast with backups](https://github.com/wimpysworld/nix-config/pull/383) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
-- [feat: enable Intel Quicksync with support for FFmpeg 4.x to 7.1](https://github.com/owncast/owncast/pull/4028) on [owncast/owncast](https://github.com/owncast/owncast) (1 week ago)
 
 ### Recent releases 📦️
 
