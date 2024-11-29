@@ -23,7 +23,7 @@ We're a friendly bunch, and all are welcome 🏳️‍🌈 Join us!
 
 I [steam live-coding on Twitch](https://twitch.tv/WimpysWorld) 📡 and those streams are [archived on YouTube](https://youtube.com/WimpysWorld) 📺️
 
-These awesome people sponsor me: [mmartial](https://github.com/mmartial)[da-moon](https://github.com/da-moon)[castrojo](https://github.com/castrojo) Thank you! ❤️
+These awesome people sponsor me: [mmartial](https://github.com/mmartial)[da-moon](https://github.com/da-moon)[Simmonz](https://github.com/Simmonz)[castrojo](https://github.com/castrojo) Thank you! ❤️
 If you appreciate the work I do, then [please consider sponsoring me too](https://github.com/sponsors/flexiondotorg) 🤑 **Curious what I've been working on recently?**
 <div align="center">
   <img align="center" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/snake/github-contribution-grid-snake-dark.svg">
@@ -32,11 +32,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/vaapi-checker](https://github.com/wimpysworld/vaapi-checker) (1 week ago)
   - PoC introspection of VA-API to determinate video encoder hardware and supported formats
-- [wimpysworld/gotosocial-backup](https://github.com/wimpysworld/gotosocial-backup) (1 week ago)
+- [wimpysworld/gotosocial-backup](https://github.com/wimpysworld/gotosocial-backup) (2 weeks ago)
   - Comprehensive backup script for GotoSocial 🦥
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 weeks ago)
   - My personal blog
@@ -46,18 +46,18 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [style: change cursor size to 32](https://github.com/wimpysworld/nix-config/pull/390) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [fix: enable regreet](https://github.com/wimpysworld/nix-config/pull/389) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: fix and update obs-urlsource and obs-aitum-multistream OBS plugins](https://github.com/wimpysworld/nix-config/pull/388) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [fix: assorted updates and fixes for NixOS 24.11 migration](https://github.com/wimpysworld/nix-config/pull/387) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [feat: upgrade to NixOS 24.11](https://github.com/wimpysworld/nix-config/pull/385) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [style: change cursor size to 32](https://github.com/wimpysworld/nix-config/pull/390) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [fix: enable regreet](https://github.com/wimpysworld/nix-config/pull/389) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [refactor: fix and update obs-urlsource and obs-aitum-multistream OBS plugins](https://github.com/wimpysworld/nix-config/pull/388) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [fix: assorted updates and fixes for NixOS 24.11 migration](https://github.com/wimpysworld/nix-config/pull/387) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [feat: upgrade to NixOS 24.11](https://github.com/wimpysworld/nix-config/pull/385) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.30.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.30.1), 1 day ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.30.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.30.1), 2 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.3](https://github.com/wimpysworld/deb-get/releases/tag/0.4.3), 1 month ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.3](https://github.com/wimpysworld/deb-get/releases/tag/0.4.3), 2 months ago)
   - apt-get for .debs published via GitHub or direct download 📦
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([24.225.12](https://github.com/wimpysworld/nix-config/releases/tag/24.225.12), 3 months ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Cuthbert, Dibble and Grub](https://linuxmatters.sh/43/) (2 days ago)
+- [Cuthbert, Dibble and Grub](https://linuxmatters.sh/43/) (3 days ago)
 - [Somewhere Over the Keybow](https://linuxmatters.sh/42/) (2 weeks ago)
 - [Punch Up in the Garden](https://linuxmatters.sh/41/) (1 month ago)
 - [The Reply Guys](https://linuxmatters.sh/40/) (1 month ago)
