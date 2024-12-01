@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) (347)
+- [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) (348)
   - Install flatpaks declaratively
 - [owncast/owncast](https://github.com/owncast/owncast) (9560)
   - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
