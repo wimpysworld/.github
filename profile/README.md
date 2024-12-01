@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/vaapi-checker](https://github.com/wimpysworld/vaapi-checker) (1 week ago)
   - PoC introspection of VA-API to determinate video encoder hardware and supported formats
@@ -46,16 +46,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [style: change cursor size to 32](https://github.com/wimpysworld/nix-config/pull/390) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [fix: enable regreet](https://github.com/wimpysworld/nix-config/pull/389) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [refactor: fix and update obs-urlsource and obs-aitum-multistream OBS plugins](https://github.com/wimpysworld/nix-config/pull/388) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [fix: assorted updates and fixes for NixOS 24.11 migration](https://github.com/wimpysworld/nix-config/pull/387) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [feat: upgrade to NixOS 24.11](https://github.com/wimpysworld/nix-config/pull/385) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
+- [style: change cursor size to 32](https://github.com/wimpysworld/nix-config/pull/390) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [fix: enable regreet](https://github.com/wimpysworld/nix-config/pull/389) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [refactor: fix and update obs-urlsource and obs-aitum-multistream OBS plugins](https://github.com/wimpysworld/nix-config/pull/388) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [fix: assorted updates and fixes for NixOS 24.11 migration](https://github.com/wimpysworld/nix-config/pull/387) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [feat: upgrade to NixOS 24.11](https://github.com/wimpysworld/nix-config/pull/385) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.30.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.30.2), 1 day ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.30.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.30.2), 2 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.3](https://github.com/wimpysworld/deb-get/releases/tag/0.4.3), 2 months ago)
   - apt-get for .debs published via GitHub or direct download 📦
@@ -63,7 +63,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.5](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.5), 4 months ago)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) ([1.2.10](https://github.com/quickemu-project/quickgui/releases/tag/1.2.10), 4 months ago)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) ([1.2.10](https://github.com/quickemu-project/quickgui/releases/tag/1.2.10), 5 months ago)
   - An elegant virtual machine manager for the desktop
 
 ### Recent starred projects ⭐️
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Cuthbert, Dibble and Grub](https://linuxmatters.sh/43/) (4 days ago)
+- [Cuthbert, Dibble and Grub](https://linuxmatters.sh/43/) (5 days ago)
 - [Somewhere Over the Keybow](https://linuxmatters.sh/42/) (2 weeks ago)
 - [Punch Up in the Garden](https://linuxmatters.sh/41/) (1 month ago)
 - [The Reply Guys](https://linuxmatters.sh/40/) (1 month ago)
