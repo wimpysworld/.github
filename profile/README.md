@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Slow More.
 - [theimpossibleastronaut/gotosocial-theme-catppuccin](https://github.com/theimpossibleastronaut/gotosocial-theme-catppuccin) (7)
   - A Soothing pastel theme for the high-spirited! modified for GoToSocial
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) (3860)
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) (3861)
   - Fast, fun, small ActivityPub server.
 
 ### 🎙️ Podcast
