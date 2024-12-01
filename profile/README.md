@@ -69,6 +69,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
+- [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) (347)
+  - Install flatpaks declaratively
 - [owncast/owncast](https://github.com/owncast/owncast) (9560)
   - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [popey/slomore](https://github.com/popey/slomore) (19)
@@ -77,8 +79,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - A Soothing pastel theme for the high-spirited! modified for GoToSocial
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) (3857)
   - Fast, fun, small ActivityPub server.
-- [popey/grummage](https://github.com/popey/grummage) (9)
-  - Grummage is an interactive terminal frontend to Grype
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
