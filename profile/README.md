@@ -71,13 +71,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) (348)
   - Install flatpaks declaratively
-- [owncast/owncast](https://github.com/owncast/owncast) (9560)
+- [owncast/owncast](https://github.com/owncast/owncast) (9561)
   - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [popey/slomore](https://github.com/popey/slomore) (19)
   - Slow More.
 - [theimpossibleastronaut/gotosocial-theme-catppuccin](https://github.com/theimpossibleastronaut/gotosocial-theme-catppuccin) (7)
   - A Soothing pastel theme for the high-spirited! modified for GoToSocial
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) (3857)
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) (3858)
   - Fast, fun, small ActivityPub server.
 
 ### 🎙️ Podcast
