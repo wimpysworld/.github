@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [style: add quickemu shorthand to starship](https://github.com/wimpysworld/nix-config/pull/394) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [style: complete the starship theme](https://github.com/wimpysworld/nix-config/pull/393) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: many updates and tweaks](https://github.com/wimpysworld/nix-config/pull/392) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [style: change cursor size to 32](https://github.com/wimpysworld/nix-config/pull/390) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 - [fix: enable regreet](https://github.com/wimpysworld/nix-config/pull/389) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
-- [refactor: fix and update obs-urlsource and obs-aitum-multistream OBS plugins](https://github.com/wimpysworld/nix-config/pull/388) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
-- [fix: assorted updates and fixes for NixOS 24.11 migration](https://github.com/wimpysworld/nix-config/pull/387) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 
 ### Recent releases 📦️
 
