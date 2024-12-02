@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: add station 3.3.0](https://github.com/wimpysworld/nix-config/pull/396) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [fix: assorted fixes and tweaks](https://github.com/wimpysworld/nix-config/pull/395) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [style: add quickemu shorthand to starship](https://github.com/wimpysworld/nix-config/pull/394) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [style: complete the starship theme](https://github.com/wimpysworld/nix-config/pull/393) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: many updates and tweaks](https://github.com/wimpysworld/nix-config/pull/392) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [style: change cursor size to 32](https://github.com/wimpysworld/nix-config/pull/390) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 
 ### Recent releases 📦️
 
@@ -69,6 +69,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
+- [getstation/desktop-app](https://github.com/getstation/desktop-app) (1472)
+  - One app to rule them all!
 - [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) (348)
   - Install flatpaks declaratively
 - [owncast/owncast](https://github.com/owncast/owncast) (9562)
@@ -77,8 +79,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Slow More.
 - [theimpossibleastronaut/gotosocial-theme-catppuccin](https://github.com/theimpossibleastronaut/gotosocial-theme-catppuccin) (7)
   - A Soothing pastel theme for the high-spirited! modified for GoToSocial
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) (3863)
-  - Fast, fun, small ActivityPub server.
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
