@@ -69,11 +69,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [getstation/desktop-app](https://github.com/getstation/desktop-app) (1472)
+- [getstation/desktop-app](https://github.com/getstation/desktop-app) (1473)
   - One app to rule them all!
 - [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) (348)
   - Install flatpaks declaratively
-- [owncast/owncast](https://github.com/owncast/owncast) (9562)
+- [owncast/owncast](https://github.com/owncast/owncast) (9563)
   - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [popey/slomore](https://github.com/popey/slomore) (19)
   - Slow More.
