@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [getstation/desktop-app](https://github.com/getstation/desktop-app) (1473)
+- [getstation/desktop-app](https://github.com/getstation/desktop-app) (1474)
   - One app to rule them all!
 - [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) (349)
   - Install flatpaks declaratively
