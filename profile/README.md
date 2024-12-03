@@ -32,13 +32,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/vaapi-checker](https://github.com/wimpysworld/vaapi-checker) (2 weeks ago)
   - PoC introspection of VA-API to determinate video encoder hardware and supported formats
 - [wimpysworld/gotosocial-backup](https://github.com/wimpysworld/gotosocial-backup) (2 weeks ago)
   - Comprehensive backup script for GotoSocial 🦥
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 weeks ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 weeks ago)
   - My personal blog
 - [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (1 month ago)
   - The website to showcase Ubuntu MATE&#39;s features.
@@ -46,16 +46,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [feat: add station 3.3.0](https://github.com/wimpysworld/nix-config/pull/396) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [fix: assorted fixes and tweaks](https://github.com/wimpysworld/nix-config/pull/395) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [style: add quickemu shorthand to starship](https://github.com/wimpysworld/nix-config/pull/394) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [style: complete the starship theme](https://github.com/wimpysworld/nix-config/pull/393) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: many updates and tweaks](https://github.com/wimpysworld/nix-config/pull/392) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [feat: add station 3.3.0](https://github.com/wimpysworld/nix-config/pull/396) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [fix: assorted fixes and tweaks](https://github.com/wimpysworld/nix-config/pull/395) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [style: add quickemu shorthand to starship](https://github.com/wimpysworld/nix-config/pull/394) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [style: complete the starship theme](https://github.com/wimpysworld/nix-config/pull/393) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [refactor: many updates and tweaks](https://github.com/wimpysworld/nix-config/pull/392) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.30.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.30.2), 3 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.30.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.30.2), 4 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.3](https://github.com/wimpysworld/deb-get/releases/tag/0.4.3), 2 months ago)
   - apt-get for .debs published via GitHub or direct download 📦
@@ -86,8 +86,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Cuthbert, Dibble and Grub](https://linuxmatters.sh/43/) (6 days ago)
-- [Somewhere Over the Keybow](https://linuxmatters.sh/42/) (2 weeks ago)
+- [Cuthbert, Dibble and Grub](https://linuxmatters.sh/43/) (1 week ago)
+- [Somewhere Over the Keybow](https://linuxmatters.sh/42/) (3 weeks ago)
 - [Punch Up in the Garden](https://linuxmatters.sh/41/) (1 month ago)
 - [The Reply Guys](https://linuxmatters.sh/40/) (1 month ago)
 - [Rock Around the Underclock](https://linuxmatters.sh/39/) (2 months ago)
