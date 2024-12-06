@@ -40,8 +40,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - [Archived] Online publication viewer for the Ubuntu MATE Guide
 - [ubuntu-mate/ubuntu-mate-guide](https://github.com/ubuntu-mate/ubuntu-mate-guide) (today)
   - A guide to Ubuntu MATE
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
+- [ubuntu-mate/static.ubuntu-mate.org](https://github.com/ubuntu-mate/static.ubuntu-mate.org) (today)
+  - Video assets 📼
 
 ### Recent pull requests 🛠️
 
@@ -55,6 +55,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
+- [ubuntu-mate/guide.ubuntu-mate.org](https://github.com/ubuntu-mate/guide.ubuntu-mate.org) ([2022-04-21](https://github.com/ubuntu-mate/guide.ubuntu-mate.org/releases/tag/2022-04-21), today)
+  - [Archived] Online publication viewer for the Ubuntu MATE Guide
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.32.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.32.0), 1 day ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.3](https://github.com/wimpysworld/deb-get/releases/tag/0.4.3), 2 months ago)
@@ -63,8 +65,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.5](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.5), 4 months ago)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) ([1.2.10](https://github.com/quickemu-project/quickgui/releases/tag/1.2.10), 5 months ago)
-  - An elegant virtual machine manager for the desktop
 
 ### Recent starred projects ⭐️
 
