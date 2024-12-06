@@ -34,12 +34,12 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (today)
   - The website to showcase Ubuntu MATE&#39;s features.
+- [ubuntu-mate/start.ubuntu-mate.org](https://github.com/ubuntu-mate/start.ubuntu-mate.org) (today)
+  - The start page for Ubuntu MATE users.
 - [ubuntu-mate/guide.ubuntu-mate.org](https://github.com/ubuntu-mate/guide.ubuntu-mate.org) (today)
   - An online publication viewer for the Ubuntu MATE Guide
 - [ubuntu-mate/ubuntu-mate-guide](https://github.com/ubuntu-mate/ubuntu-mate-guide) (today)
   - A guide to Ubuntu MATE
-- [ubuntu-mate/start.ubuntu-mate.org](https://github.com/ubuntu-mate/start.ubuntu-mate.org) (today)
-  - The start page for Ubuntu MATE users.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 
