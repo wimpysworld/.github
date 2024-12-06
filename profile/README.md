@@ -34,14 +34,14 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (today)
   - The website to showcase Ubuntu MATE&#39;s features.
+- [ubuntu-mate/guide.ubuntu-mate.org](https://github.com/ubuntu-mate/guide.ubuntu-mate.org) (today)
+  - An online publication viewer for the Ubuntu MATE Guide
+- [ubuntu-mate/ubuntu-mate-guide](https://github.com/ubuntu-mate/ubuntu-mate-guide) (today)
+  - A guide to Ubuntu MATE
 - [ubuntu-mate/start.ubuntu-mate.org](https://github.com/ubuntu-mate/start.ubuntu-mate.org) (today)
   - The start page for Ubuntu MATE users.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/vaapi-checker](https://github.com/wimpysworld/vaapi-checker) (2 weeks ago)
-  - PoC introspection of VA-API to determinate video encoder hardware and supported formats
-- [wimpysworld/gotosocial-backup](https://github.com/wimpysworld/gotosocial-backup) (3 weeks ago)
-  - Comprehensive backup script for GotoSocial 🦥
 
 ### Recent pull requests 🛠️
 
