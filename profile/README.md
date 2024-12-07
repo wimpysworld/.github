@@ -32,32 +32,32 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (today)
+- [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (1 day ago)
   - The website to showcase Ubuntu MATE&#39;s features.
-- [ubuntu-mate/start.ubuntu-mate.org](https://github.com/ubuntu-mate/start.ubuntu-mate.org) (today)
+- [ubuntu-mate/start.ubuntu-mate.org](https://github.com/ubuntu-mate/start.ubuntu-mate.org) (1 day ago)
   - The start page for Ubuntu MATE users.
-- [ubuntu-mate/guide.ubuntu-mate.org](https://github.com/ubuntu-mate/guide.ubuntu-mate.org) (today)
+- [ubuntu-mate/guide.ubuntu-mate.org](https://github.com/ubuntu-mate/guide.ubuntu-mate.org) (1 day ago)
   - [Archived] Online publication viewer for the Ubuntu MATE Guide
-- [ubuntu-mate/ubuntu-mate-guide](https://github.com/ubuntu-mate/ubuntu-mate-guide) (today)
+- [ubuntu-mate/ubuntu-mate-guide](https://github.com/ubuntu-mate/ubuntu-mate-guide) (1 day ago)
   - A guide to Ubuntu MATE
-- [ubuntu-mate/static.ubuntu-mate.org](https://github.com/ubuntu-mate/static.ubuntu-mate.org) (today)
+- [ubuntu-mate/static.ubuntu-mate.org](https://github.com/ubuntu-mate/static.ubuntu-mate.org) (1 day ago)
   - Video assets 📼
 
 ### Recent pull requests 🛠️
 
 
-- [fix: assorted fixes and improvement for session management and automation](https://github.com/wimpysworld/nix-config/pull/398) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [feat: add station 3.3.0](https://github.com/wimpysworld/nix-config/pull/396) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
-- [fix: assorted fixes and tweaks](https://github.com/wimpysworld/nix-config/pull/395) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
-- [style: add quickemu shorthand to starship](https://github.com/wimpysworld/nix-config/pull/394) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
-- [style: complete the starship theme](https://github.com/wimpysworld/nix-config/pull/393) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [fix: assorted fixes and improvement for session management and automation](https://github.com/wimpysworld/nix-config/pull/398) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [feat: add station 3.3.0](https://github.com/wimpysworld/nix-config/pull/396) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [fix: assorted fixes and tweaks](https://github.com/wimpysworld/nix-config/pull/395) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [style: add quickemu shorthand to starship](https://github.com/wimpysworld/nix-config/pull/394) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [style: complete the starship theme](https://github.com/wimpysworld/nix-config/pull/393) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 
 ### Recent releases 📦️
 
 
-- [ubuntu-mate/guide.ubuntu-mate.org](https://github.com/ubuntu-mate/guide.ubuntu-mate.org) ([2022-04-21](https://github.com/ubuntu-mate/guide.ubuntu-mate.org/releases/tag/2022-04-21), today)
+- [ubuntu-mate/guide.ubuntu-mate.org](https://github.com/ubuntu-mate/guide.ubuntu-mate.org) ([2022-04-21](https://github.com/ubuntu-mate/guide.ubuntu-mate.org/releases/tag/2022-04-21), 1 day ago)
   - [Archived] Online publication viewer for the Ubuntu MATE Guide
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.32.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.32.0), 1 day ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.32.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.32.0), 2 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.3](https://github.com/wimpysworld/deb-get/releases/tag/0.4.3), 2 months ago)
   - apt-get for .debs published via GitHub or direct download 📦
