@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - One app to rule them all!
 - [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) (354)
   - Install flatpaks declaratively
-- [owncast/owncast](https://github.com/owncast/owncast) (9573)
+- [owncast/owncast](https://github.com/owncast/owncast) (9574)
   - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [popey/slomore](https://github.com/popey/slomore) (19)
   - Slow More.
