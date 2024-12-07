@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix: assortment of updates to fix build on darwin and in CI](https://github.com/wimpysworld/nix-config/pull/401) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: host some websites and resources for projects I&#39;m involved with.](https://github.com/wimpysworld/nix-config/pull/400) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [fix: assorted fixes and improvement for session management and automation](https://github.com/wimpysworld/nix-config/pull/398) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 - [feat: add station 3.3.0](https://github.com/wimpysworld/nix-config/pull/396) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 - [fix: assorted fixes and tweaks](https://github.com/wimpysworld/nix-config/pull/395) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
-- [style: add quickemu shorthand to starship](https://github.com/wimpysworld/nix-config/pull/394) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 
 ### Recent releases 📦️
 
