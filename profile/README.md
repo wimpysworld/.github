@@ -32,6 +32,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (1 day ago)
   - The website to showcase Ubuntu MATE&#39;s features.
 - [ubuntu-mate/start.ubuntu-mate.org](https://github.com/ubuntu-mate/start.ubuntu-mate.org) (1 day ago)
@@ -40,17 +42,15 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - [Archived] Online publication viewer for the Ubuntu MATE Guide
 - [ubuntu-mate/ubuntu-mate-guide](https://github.com/ubuntu-mate/ubuntu-mate-guide) (1 day ago)
   - A guide to Ubuntu MATE
-- [ubuntu-mate/static.ubuntu-mate.org](https://github.com/ubuntu-mate/static.ubuntu-mate.org) (1 day ago)
-  - Video assets 📼
 
 ### Recent pull requests 🛠️
 
 
+- [feat: host some websites and resources for projects I&#39;m involved with.](https://github.com/wimpysworld/nix-config/pull/400) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [fix: assorted fixes and improvement for session management and automation](https://github.com/wimpysworld/nix-config/pull/398) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 - [feat: add station 3.3.0](https://github.com/wimpysworld/nix-config/pull/396) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 - [fix: assorted fixes and tweaks](https://github.com/wimpysworld/nix-config/pull/395) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 - [style: add quickemu shorthand to starship](https://github.com/wimpysworld/nix-config/pull/394) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
-- [style: complete the starship theme](https://github.com/wimpysworld/nix-config/pull/393) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 
 ### Recent releases 📦️
 
@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [getstation/desktop-app](https://github.com/getstation/desktop-app) (1472)
+- [getstation/desktop-app](https://github.com/getstation/desktop-app) (1473)
   - One app to rule them all!
 - [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) (355)
   - Install flatpaks declaratively
