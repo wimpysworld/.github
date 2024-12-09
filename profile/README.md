@@ -69,13 +69,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [ollama/ollama](https://github.com/ollama/ollama) (101639)
+- [ollama/ollama](https://github.com/ollama/ollama) (101653)
   - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) (50469)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) (50483)
   - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [getstation/desktop-app](https://github.com/getstation/desktop-app) (1474)
   - One app to rule them all!
-- [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) (358)
+- [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) (359)
   - Install flatpaks declaratively
 - [owncast/owncast](https://github.com/owncast/owncast) (9573)
   - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
