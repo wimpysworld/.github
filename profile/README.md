@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (3 days ago)
   - The website to showcase Ubuntu MATE&#39;s features.
@@ -46,19 +46,19 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [ci: update permissions for workflows](https://github.com/wimpysworld/nix-config/pull/406) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [ci: group build-packages](https://github.com/wimpysworld/nix-config/pull/404) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [fix: collection of fixes for CI and package updates](https://github.com/wimpysworld/nix-config/pull/403) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [ci: add more workflows and flakehub publishing](https://github.com/wimpysworld/nix-config/pull/402) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [fix: assortment of updates to fix build on darwin and in CI](https://github.com/wimpysworld/nix-config/pull/401) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [feat: host some websites and resources for projects I&#39;m involved with.](https://github.com/wimpysworld/nix-config/pull/400) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 
 ### Recent releases 📦️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20241207](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20241207), today)
+  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.32.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.32.1), 1 day ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20241205](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20241205), 1 day ago)
-  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [ubuntu-mate/guide.ubuntu-mate.org](https://github.com/ubuntu-mate/guide.ubuntu-mate.org) ([2022-04-21](https://github.com/ubuntu-mate/guide.ubuntu-mate.org/releases/tag/2022-04-21), 3 days ago)
   - [Archived] Online publication viewer for the Ubuntu MATE Guide
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.3](https://github.com/wimpysworld/deb-get/releases/tag/0.4.3), 2 months ago)
@@ -69,16 +69,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [ollama/ollama](https://github.com/ollama/ollama) (101681)
+- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) (255)
+  - Automatically refresh your Nix Flakes.
+- [ollama/ollama](https://github.com/ollama/ollama) (101697)
   - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) (50498)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) (50507)
   - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [getstation/desktop-app](https://github.com/getstation/desktop-app) (1474)
   - One app to rule them all!
 - [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) (359)
   - Install flatpaks declaratively
-- [owncast/owncast](https://github.com/owncast/owncast) (9574)
-  - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
