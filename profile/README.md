@@ -32,34 +32,34 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (2 days ago)
+- [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (3 days ago)
   - The website to showcase Ubuntu MATE&#39;s features.
-- [ubuntu-mate/start.ubuntu-mate.org](https://github.com/ubuntu-mate/start.ubuntu-mate.org) (2 days ago)
+- [ubuntu-mate/start.ubuntu-mate.org](https://github.com/ubuntu-mate/start.ubuntu-mate.org) (3 days ago)
   - The start page for Ubuntu MATE users.
-- [ubuntu-mate/guide.ubuntu-mate.org](https://github.com/ubuntu-mate/guide.ubuntu-mate.org) (2 days ago)
+- [ubuntu-mate/guide.ubuntu-mate.org](https://github.com/ubuntu-mate/guide.ubuntu-mate.org) (3 days ago)
   - [Archived] Online publication viewer for the Ubuntu MATE Guide
-- [ubuntu-mate/ubuntu-mate-guide](https://github.com/ubuntu-mate/ubuntu-mate-guide) (2 days ago)
+- [ubuntu-mate/ubuntu-mate-guide](https://github.com/ubuntu-mate/ubuntu-mate-guide) (3 days ago)
   - A guide to Ubuntu MATE
 
 ### Recent pull requests 🛠️
 
 
-- [ci: group build-packages](https://github.com/wimpysworld/nix-config/pull/404) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [fix: collection of fixes for CI and package updates](https://github.com/wimpysworld/nix-config/pull/403) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [ci: add more workflows and flakehub publishing](https://github.com/wimpysworld/nix-config/pull/402) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [fix: assortment of updates to fix build on darwin and in CI](https://github.com/wimpysworld/nix-config/pull/401) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [feat: host some websites and resources for projects I&#39;m involved with.](https://github.com/wimpysworld/nix-config/pull/400) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [ci: group build-packages](https://github.com/wimpysworld/nix-config/pull/404) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [fix: collection of fixes for CI and package updates](https://github.com/wimpysworld/nix-config/pull/403) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [ci: add more workflows and flakehub publishing](https://github.com/wimpysworld/nix-config/pull/402) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [fix: assortment of updates to fix build on darwin and in CI](https://github.com/wimpysworld/nix-config/pull/401) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [feat: host some websites and resources for projects I&#39;m involved with.](https://github.com/wimpysworld/nix-config/pull/400) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.32.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.32.1), today)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.32.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.32.1), 1 day ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20241205](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20241205), today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20241205](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20241205), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [ubuntu-mate/guide.ubuntu-mate.org](https://github.com/ubuntu-mate/guide.ubuntu-mate.org) ([2022-04-21](https://github.com/ubuntu-mate/guide.ubuntu-mate.org/releases/tag/2022-04-21), 2 days ago)
+- [ubuntu-mate/guide.ubuntu-mate.org](https://github.com/ubuntu-mate/guide.ubuntu-mate.org) ([2022-04-21](https://github.com/ubuntu-mate/guide.ubuntu-mate.org/releases/tag/2022-04-21), 3 days ago)
   - [Archived] Online publication viewer for the Ubuntu MATE Guide
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.3](https://github.com/wimpysworld/deb-get/releases/tag/0.4.3), 2 months ago)
   - apt-get for .debs published via GitHub or direct download 📦
