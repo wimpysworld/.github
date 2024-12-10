@@ -32,34 +32,34 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (3 days ago)
-  - The website to showcase Ubuntu MATE&#39;s features.
-- [ubuntu-mate/start.ubuntu-mate.org](https://github.com/ubuntu-mate/start.ubuntu-mate.org) (3 days ago)
-  - The start page for Ubuntu MATE users.
-- [ubuntu-mate/guide.ubuntu-mate.org](https://github.com/ubuntu-mate/guide.ubuntu-mate.org) (3 days ago)
-  - [Archived] Online publication viewer for the Ubuntu MATE Guide
-- [ubuntu-mate/ubuntu-mate-guide](https://github.com/ubuntu-mate/ubuntu-mate-guide) (3 days ago)
+- [ubuntu-mate/ubuntu-mate-guide](https://github.com/ubuntu-mate/ubuntu-mate-guide) (4 days ago)
   - A guide to Ubuntu MATE
+- [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (4 days ago)
+  - The website to showcase Ubuntu MATE&#39;s features.
+- [ubuntu-mate/start.ubuntu-mate.org](https://github.com/ubuntu-mate/start.ubuntu-mate.org) (4 days ago)
+  - The start page for Ubuntu MATE users.
+- [ubuntu-mate/guide.ubuntu-mate.org](https://github.com/ubuntu-mate/guide.ubuntu-mate.org) (4 days ago)
+  - [Archived] Online publication viewer for the Ubuntu MATE Guide
 
 ### Recent pull requests 🛠️
 
 
-- [ci: update permissions for workflows](https://github.com/wimpysworld/nix-config/pull/406) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [ci: group build-packages](https://github.com/wimpysworld/nix-config/pull/404) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [fix: collection of fixes for CI and package updates](https://github.com/wimpysworld/nix-config/pull/403) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [ci: add more workflows and flakehub publishing](https://github.com/wimpysworld/nix-config/pull/402) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [fix: assortment of updates to fix build on darwin and in CI](https://github.com/wimpysworld/nix-config/pull/401) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [ci: update permissions for workflows](https://github.com/wimpysworld/nix-config/pull/406) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [ci: group build-packages](https://github.com/wimpysworld/nix-config/pull/404) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [fix: collection of fixes for CI and package updates](https://github.com/wimpysworld/nix-config/pull/403) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [ci: add more workflows and flakehub publishing](https://github.com/wimpysworld/nix-config/pull/402) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [fix: assortment of updates to fix build on darwin and in CI](https://github.com/wimpysworld/nix-config/pull/401) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20241207](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20241207), today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20241207](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20241207), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.32.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.32.1), 1 day ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.32.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.32.1), 2 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [ubuntu-mate/guide.ubuntu-mate.org](https://github.com/ubuntu-mate/guide.ubuntu-mate.org) ([2022-04-21](https://github.com/ubuntu-mate/guide.ubuntu-mate.org/releases/tag/2022-04-21), 3 days ago)
+- [ubuntu-mate/guide.ubuntu-mate.org](https://github.com/ubuntu-mate/guide.ubuntu-mate.org) ([2022-04-21](https://github.com/ubuntu-mate/guide.ubuntu-mate.org/releases/tag/2022-04-21), 4 days ago)
   - [Archived] Online publication viewer for the Ubuntu MATE Guide
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.3](https://github.com/wimpysworld/deb-get/releases/tag/0.4.3), 2 months ago)
   - apt-get for .debs published via GitHub or direct download 📦
@@ -71,9 +71,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) (255)
   - Automatically refresh your Nix Flakes.
-- [ollama/ollama](https://github.com/ollama/ollama) (101771)
+- [ollama/ollama](https://github.com/ollama/ollama) (101782)
   - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) (50550)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) (50558)
   - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [getstation/desktop-app](https://github.com/getstation/desktop-app) (1474)
   - One app to rule them all!
@@ -86,8 +86,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Cuthbert, Dibble and Grub](https://linuxmatters.sh/43/) (1 week ago)
-- [Somewhere Over the Keybow](https://linuxmatters.sh/42/) (3 weeks ago)
+- [Cuthbert, Dibble and Grub](https://linuxmatters.sh/43/) (2 weeks ago)
+- [Somewhere Over the Keybow](https://linuxmatters.sh/42/) (4 weeks ago)
 - [Punch Up in the Garden](https://linuxmatters.sh/41/) (1 month ago)
 - [The Reply Guys](https://linuxmatters.sh/40/) (1 month ago)
 - [Rock Around the Underclock](https://linuxmatters.sh/39/) (2 months ago)
