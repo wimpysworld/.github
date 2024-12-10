@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [ubuntu-mate/ubuntu-mate-guide](https://github.com/ubuntu-mate/ubuntu-mate-guide) (4 days ago)
   - A guide to Ubuntu MATE
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: add ollama and open-webui to phasma and vader](https://github.com/wimpysworld/nix-config/pull/407) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [ci: update permissions for workflows](https://github.com/wimpysworld/nix-config/pull/406) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [ci: group build-packages](https://github.com/wimpysworld/nix-config/pull/404) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 - [fix: collection of fixes for CI and package updates](https://github.com/wimpysworld/nix-config/pull/403) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 - [ci: add more workflows and flakehub publishing](https://github.com/wimpysworld/nix-config/pull/402) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [fix: assortment of updates to fix build on darwin and in CI](https://github.com/wimpysworld/nix-config/pull/401) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 
 ### Recent releases 📦️
 
@@ -71,9 +71,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) (255)
   - Automatically refresh your Nix Flakes.
-- [ollama/ollama](https://github.com/ollama/ollama) (101782)
+- [ollama/ollama](https://github.com/ollama/ollama) (101801)
   - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) (50558)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) (50563)
   - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [getstation/desktop-app](https://github.com/getstation/desktop-app) (1474)
   - One app to rule them all!
