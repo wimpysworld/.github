@@ -32,10 +32,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (2 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [ubuntu-mate/start.ubuntu-mate.org](https://github.com/ubuntu-mate/start.ubuntu-mate.org) (6 days ago)
   - The start page for Ubuntu MATE users.
 - [ubuntu-mate/guide.ubuntu-mate.org](https://github.com/ubuntu-mate/guide.ubuntu-mate.org) (6 days ago)
@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) (256)
   - Automatically refresh your Nix Flakes.
-- [ollama/ollama](https://github.com/ollama/ollama) (102339)
+- [ollama/ollama](https://github.com/ollama/ollama) (102342)
   - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) (50935)
   - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
