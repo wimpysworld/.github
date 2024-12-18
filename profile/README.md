@@ -71,13 +71,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) (258)
   - Automatically refresh your Nix Flakes.
-- [ollama/ollama](https://github.com/ollama/ollama) (103330)
+- [ollama/ollama](https://github.com/ollama/ollama) (103335)
   - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) (51851)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) (51855)
   - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [getstation/desktop-app](https://github.com/getstation/desktop-app) (1486)
   - One app to rule them all!
-- [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) (361)
+- [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) (362)
   - Install flatpaks declaratively
 
 ### 🎙️ Podcast
