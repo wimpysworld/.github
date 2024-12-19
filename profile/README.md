@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (1 week ago)
   - apt-get for .debs published via GitHub or direct download 📦
@@ -46,7 +46,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [refactor: configure ollama and open-webui more completely.](https://github.com/wimpysworld/nix-config/pull/411) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [refactor: configure ollama and open-webui more completely.](https://github.com/wimpysworld/nix-config/pull/411) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 - [ci: only build large apps, that a too big for GitHub, in blacksmith](https://github.com/wimpysworld/nix-config/pull/409) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [ci: fix building home-manager configs in CI](https://github.com/wimpysworld/nix-config/pull/408) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [feat: add ollama and open-webui to phasma and vader](https://github.com/wimpysworld/nix-config/pull/407) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
@@ -55,7 +55,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20241213](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20241213), 1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20241213](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20241213), 2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.32.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.32.2), 1 week ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
@@ -71,9 +71,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) (258)
   - Automatically refresh your Nix Flakes.
-- [ollama/ollama](https://github.com/ollama/ollama) (103339)
+- [ollama/ollama](https://github.com/ollama/ollama) (103344)
   - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) (51864)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) (51871)
   - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [getstation/desktop-app](https://github.com/getstation/desktop-app) (1486)
   - One app to rule them all!
