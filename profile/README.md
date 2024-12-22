@@ -69,15 +69,15 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) (90)
+- [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) (91)
   - Run graphics accelerated programs built with Nix on any Linux distribution.
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) (259)
   - Automatically refresh your Nix Flakes.
-- [ollama/ollama](https://github.com/ollama/ollama) (103860)
+- [ollama/ollama](https://github.com/ollama/ollama) (103864)
   - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) (52358)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) (52366)
   - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [getstation/desktop-app](https://github.com/getstation/desktop-app) (1489)
+- [getstation/desktop-app](https://github.com/getstation/desktop-app) (1490)
   - One app to rule them all!
 
 ### 🎙️ Podcast
