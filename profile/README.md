@@ -73,11 +73,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Run graphics accelerated programs built with Nix on any Linux distribution.
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) (260)
   - Automatically refresh your Nix Flakes.
-- [ollama/ollama](https://github.com/ollama/ollama) (104001)
+- [ollama/ollama](https://github.com/ollama/ollama) (104007)
   - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) (52525)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) (52529)
   - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [getstation/desktop-app](https://github.com/getstation/desktop-app) (1490)
+- [getstation/desktop-app](https://github.com/getstation/desktop-app) (1491)
   - One app to rule them all!
 
 ### 🎙️ Podcast
