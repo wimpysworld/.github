@@ -50,12 +50,12 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 - [ci: only build large apps, that a too big for GitHub, in blacksmith](https://github.com/wimpysworld/nix-config/pull/409) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [ci: fix building home-manager configs in CI](https://github.com/wimpysworld/nix-config/pull/408) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [feat: add ollama and open-webui to phasma and vader](https://github.com/wimpysworld/nix-config/pull/407) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-- [ci: update permissions for workflows](https://github.com/wimpysworld/nix-config/pull/406) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
+- [ci: update permissions for workflows](https://github.com/wimpysworld/nix-config/pull/406) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 weeks ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20241219](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20241219), today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20241219](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20241219), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.32.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.32.2), 1 week ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
@@ -63,7 +63,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - [Archived] Online publication viewer for the Ubuntu MATE Guide
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.3](https://github.com/wimpysworld/deb-get/releases/tag/0.4.3), 2 months ago)
   - apt-get for .debs published via GitHub or direct download 📦
-- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.5](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.5), 4 months ago)
+- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.5](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.5), 5 months ago)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 
 ### Recent starred projects ⭐️
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Run graphics accelerated programs built with Nix on any Linux distribution.
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) (259)
   - Automatically refresh your Nix Flakes.
-- [ollama/ollama](https://github.com/ollama/ollama) (103899)
+- [ollama/ollama](https://github.com/ollama/ollama) (103902)
   - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) (52404)
   - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
