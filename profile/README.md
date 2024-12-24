@@ -34,7 +34,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (1 week ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (2 weeks ago)
   - apt-get for .debs published via GitHub or direct download 📦
 - [ubuntu-mate/guide.ubuntu-mate.org](https://github.com/ubuntu-mate/guide.ubuntu-mate.org) (2 weeks ago)
   - [Archived] Online publication viewer for the Ubuntu MATE Guide
@@ -47,15 +47,15 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 
 - [refactor: configure ollama and open-webui more completely.](https://github.com/wimpysworld/nix-config/pull/411) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-- [ci: only build large apps, that a too big for GitHub, in blacksmith](https://github.com/wimpysworld/nix-config/pull/409) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-- [ci: fix building home-manager configs in CI](https://github.com/wimpysworld/nix-config/pull/408) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-- [feat: add ollama and open-webui to phasma and vader](https://github.com/wimpysworld/nix-config/pull/407) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
+- [ci: only build large apps, that a too big for GitHub, in blacksmith](https://github.com/wimpysworld/nix-config/pull/409) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 weeks ago)
+- [ci: fix building home-manager configs in CI](https://github.com/wimpysworld/nix-config/pull/408) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 weeks ago)
+- [feat: add ollama and open-webui to phasma and vader](https://github.com/wimpysworld/nix-config/pull/407) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 weeks ago)
 - [ci: update permissions for workflows](https://github.com/wimpysworld/nix-config/pull/406) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 weeks ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20241219](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20241219), 1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20241219](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20241219), 2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.32.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.32.2), 1 week ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
@@ -73,9 +73,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Run graphics accelerated programs built with Nix on any Linux distribution.
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) (260)
   - Automatically refresh your Nix Flakes.
-- [ollama/ollama](https://github.com/ollama/ollama) (104025)
+- [ollama/ollama](https://github.com/ollama/ollama) (104029)
   - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) (52549)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) (52554)
   - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [getstation/desktop-app](https://github.com/getstation/desktop-app) (1491)
   - One app to rule them all!
@@ -86,8 +86,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [A Textual Rummage With Jason](https://linuxmatters.sh/44/) (1 week ago)
-- [Cuthbert, Dibble and Grub](https://linuxmatters.sh/43/) (3 weeks ago)
+- [A Textual Rummage With Jason](https://linuxmatters.sh/44/) (2 weeks ago)
+- [Cuthbert, Dibble and Grub](https://linuxmatters.sh/43/) (4 weeks ago)
 - [Somewhere Over the Keybow](https://linuxmatters.sh/42/) (1 month ago)
 - [Punch Up in the Garden](https://linuxmatters.sh/41/) (1 month ago)
 - [The Reply Guys](https://linuxmatters.sh/40/) (2 months ago)
