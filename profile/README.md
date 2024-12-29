@@ -23,7 +23,7 @@ We're a friendly bunch, and all are welcome 🏳️‍🌈 Join us!
 
 I [steam live-coding on Twitch](https://twitch.tv/WimpysWorld) 📡 and those streams are [archived on YouTube](https://youtube.com/WimpysWorld) 📺️
 
-These awesome people sponsor me: [mmartial](https://github.com/mmartial) [da-moon](https://github.com/da-moon) [Simmonz](https://github.com/Simmonz) [castrojo](https://github.com/castrojo)  Thank you! ❤️
+These awesome people sponsor me: [mmartial](https://github.com/mmartial) [da-moon](https://github.com/da-moon) [castrojo](https://github.com/castrojo)  Thank you! ❤️
 If you appreciate the work I do, then [please consider sponsoring me too](https://github.com/sponsors/flexiondotorg) 🤑 **Curious what I've been working on recently?**
 <div align="center">
   <img align="center" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/snake/github-contribution-grid-snake-dark.svg">
@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (2 weeks ago)
   - apt-get for .debs published via GitHub or direct download 📦
@@ -46,22 +46,22 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [feat: add act](https://github.com/wimpysworld/nix-config/pull/416) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [feat: add love game development tooling](https://github.com/wimpysworld/nix-config/pull/415) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [refactor: configure ollama and open-webui more completely.](https://github.com/wimpysworld/nix-config/pull/411) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
+- [feat: add act](https://github.com/wimpysworld/nix-config/pull/416) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [feat: add love game development tooling](https://github.com/wimpysworld/nix-config/pull/415) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [refactor: configure ollama and open-webui more completely.](https://github.com/wimpysworld/nix-config/pull/411) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 weeks ago)
 - [ci: only build large apps, that a too big for GitHub, in blacksmith](https://github.com/wimpysworld/nix-config/pull/409) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 weeks ago)
 - [ci: fix building home-manager configs in CI](https://github.com/wimpysworld/nix-config/pull/408) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 weeks ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20241225](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20241225), 1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20241225](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20241225), 2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.32.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.32.2), 2 weeks ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [ubuntu-mate/guide.ubuntu-mate.org](https://github.com/ubuntu-mate/guide.ubuntu-mate.org) ([2022-04-21](https://github.com/ubuntu-mate/guide.ubuntu-mate.org/releases/tag/2022-04-21), 3 weeks ago)
   - [Archived] Online publication viewer for the Ubuntu MATE Guide
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.3](https://github.com/wimpysworld/deb-get/releases/tag/0.4.3), 2 months ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.3](https://github.com/wimpysworld/deb-get/releases/tag/0.4.3), 3 months ago)
   - apt-get for .debs published via GitHub or direct download 📦
 - [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.5](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.5), 5 months ago)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
@@ -73,9 +73,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Run graphics accelerated programs built with Nix on any Linux distribution.
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) (262)
   - Automatically refresh your Nix Flakes.
-- [ollama/ollama](https://github.com/ollama/ollama) (104674)
+- [ollama/ollama](https://github.com/ollama/ollama) (104679)
   - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) (53444)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) (53451)
   - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [getstation/desktop-app](https://github.com/getstation/desktop-app) (1493)
   - One app to rule them all!
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Working Remotely on the Savannah](https://linuxmatters.sh/45/) (4 days ago)
+- [Working Remotely on the Savannah](https://linuxmatters.sh/45/) (5 days ago)
 - [A Textual Rummage With Jason](https://linuxmatters.sh/44/) (2 weeks ago)
 - [Cuthbert, Dibble and Grub](https://linuxmatters.sh/43/) (1 month ago)
 - [Somewhere Over the Keybow](https://linuxmatters.sh/42/) (1 month ago)
