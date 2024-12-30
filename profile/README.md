@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [obs-studio-plugins.obs-transition-table: fix build failure](https://github.com/NixOS/nixpkgs/pull/369369) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [refactor: reorgasnise flake inputs and switch to auto-cpufreq from nixpkgs](https://github.com/wimpysworld/nix-config/pull/418) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [refactor: update catppuccin schema, drop unused apps. update nvidia and enable silent boot](https://github.com/wimpysworld/nix-config/pull/417) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat: add act](https://github.com/wimpysworld/nix-config/pull/416) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 - [feat: add love game development tooling](https://github.com/wimpysworld/nix-config/pull/415) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [refactor: configure ollama and open-webui more completely.](https://github.com/wimpysworld/nix-config/pull/411) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 weeks ago)
 
 ### Recent releases 📦️
 
@@ -73,9 +73,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Run graphics accelerated programs built with Nix on any Linux distribution.
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) (264)
   - Automatically refresh your Nix Flakes.
-- [ollama/ollama](https://github.com/ollama/ollama) (104869)
+- [ollama/ollama](https://github.com/ollama/ollama) (104874)
   - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) (53705)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) (53713)
   - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [getstation/desktop-app](https://github.com/getstation/desktop-app) (1493)
   - One app to rule them all!
