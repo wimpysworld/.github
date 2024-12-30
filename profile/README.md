@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (2 weeks ago)
   - apt-get for .debs published via GitHub or direct download 📦
@@ -46,16 +46,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [refactor: update catppuccin schema, drop unused apps. update nvidia and enable silent boot](https://github.com/wimpysworld/nix-config/pull/417) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: add act](https://github.com/wimpysworld/nix-config/pull/416) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [feat: add love game development tooling](https://github.com/wimpysworld/nix-config/pull/415) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [refactor: reorgasnise flake inputs and switch to auto-cpufreq from nixpkgs](https://github.com/wimpysworld/nix-config/pull/418) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [refactor: update catppuccin schema, drop unused apps. update nvidia and enable silent boot](https://github.com/wimpysworld/nix-config/pull/417) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: add act](https://github.com/wimpysworld/nix-config/pull/416) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [feat: add love game development tooling](https://github.com/wimpysworld/nix-config/pull/415) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 - [refactor: configure ollama and open-webui more completely.](https://github.com/wimpysworld/nix-config/pull/411) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 weeks ago)
-- [ci: only build large apps, that a too big for GitHub, in blacksmith](https://github.com/wimpysworld/nix-config/pull/409) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 weeks ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20241225](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20241225), 2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20241227](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20241227), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.32.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.32.2), 2 weeks ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
@@ -73,9 +73,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Run graphics accelerated programs built with Nix on any Linux distribution.
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) (263)
   - Automatically refresh your Nix Flakes.
-- [ollama/ollama](https://github.com/ollama/ollama) (104788)
+- [ollama/ollama](https://github.com/ollama/ollama) (104791)
   - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) (53585)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) (53593)
   - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [getstation/desktop-app](https://github.com/getstation/desktop-app) (1493)
   - One app to rule them all!
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Working Remotely on the Savannah](https://linuxmatters.sh/45/) (5 days ago)
+- [Working Remotely on the Savannah](https://linuxmatters.sh/45/) (6 days ago)
 - [A Textual Rummage With Jason](https://linuxmatters.sh/44/) (2 weeks ago)
 - [Cuthbert, Dibble and Grub](https://linuxmatters.sh/43/) (1 month ago)
 - [Somewhere Over the Keybow](https://linuxmatters.sh/42/) (1 month ago)
@@ -98,7 +98,7 @@ Here's some recent episodes:
 
 - [NixOS | More Nix ❄️ packaging &amp; fixes 🩹 for OBS Studio 📡](https://www.youtube.com/watch?v=VqNaOOm7Dhw) (11 months ago)
 - [NixOS | Updating Nix ❄️ packages of OBS Studio 📡 and it&#39;s plugins🔌](https://www.youtube.com/watch?v=phgOv_UCbMM) (11 months ago)
-- [NixOS &amp; Linux | Tinkering with my Nix config ❄️ and poking at some Linux projects 🐧](https://www.youtube.com/watch?v=biVQ_-v8oEo) (11 months ago)
+- [NixOS &amp; Linux | Tinkering with my Nix config ❄️ and poking at some Linux projects 🐧](https://www.youtube.com/watch?v=biVQ_-v8oEo) (1 year ago)
 - [NixOS &amp; Linux 🐧 Automate OBS with Kruiz Control and Scene Switcher](https://www.youtube.com/watch?v=BSITslJbMGA) (1 year ago)
 - [[Linux &amp; NixOS] Catching up on a few projects ❄️ - Part 2](https://www.youtube.com/watch?v=IpiuKvqHU-c) (1 year ago)
 
