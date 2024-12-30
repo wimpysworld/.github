@@ -32,29 +32,31 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+  - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (2 weeks ago)
   - apt-get for .debs published via GitHub or direct download 📦
-- [ubuntu-mate/guide.ubuntu-mate.org](https://github.com/ubuntu-mate/guide.ubuntu-mate.org) (3 weeks ago)
-  - [Archived] Online publication viewer for the Ubuntu MATE Guide
-- [ubuntu-mate/static.ubuntu-mate.org](https://github.com/ubuntu-mate/static.ubuntu-mate.org) (3 weeks ago)
-  - Video assets 📼
+- [ubuntu-mate/start.ubuntu-mate.org](https://github.com/ubuntu-mate/start.ubuntu-mate.org) (3 weeks ago)
+  - The start page for Ubuntu MATE users.
 - [ubuntu-mate/ubuntu-mate-guide](https://github.com/ubuntu-mate/ubuntu-mate-guide) (3 weeks ago)
   - A guide to Ubuntu MATE
 
 ### Recent pull requests 🛠️
 
 
+- [chore: bump version to 4.9.7](https://github.com/quickemu-project/quickemu/pull/1543) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
 - [obs-studio-plugins.obs-transition-table: fix build failure](https://github.com/NixOS/nixpkgs/pull/369369) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [refactor: reorgasnise flake inputs and switch to auto-cpufreq from nixpkgs](https://github.com/wimpysworld/nix-config/pull/418) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [refactor: update catppuccin schema, drop unused apps. update nvidia and enable silent boot](https://github.com/wimpysworld/nix-config/pull/417) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat: add act](https://github.com/wimpysworld/nix-config/pull/416) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [feat: add love game development tooling](https://github.com/wimpysworld/nix-config/pull/415) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 
 ### Recent releases 📦️
 
 
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.7](https://github.com/quickemu-project/quickemu/releases/tag/4.9.7), today)
+  - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20241227](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20241227), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.32.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.32.2), 2 weeks ago)
@@ -63,19 +65,17 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - [Archived] Online publication viewer for the Ubuntu MATE Guide
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.3](https://github.com/wimpysworld/deb-get/releases/tag/0.4.3), 3 months ago)
   - apt-get for .debs published via GitHub or direct download 📦
-- [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.5](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.5), 5 months ago)
-  - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
 
 ### Recent starred projects ⭐️
 
 
 - [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) (92)
   - Run graphics accelerated programs built with Nix on any Linux distribution.
-- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) (264)
+- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) (265)
   - Automatically refresh your Nix Flakes.
-- [ollama/ollama](https://github.com/ollama/ollama) (104874)
+- [ollama/ollama](https://github.com/ollama/ollama) (104881)
   - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) (53713)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) (53720)
   - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [getstation/desktop-app](https://github.com/getstation/desktop-app) (1493)
   - One app to rule them all!
