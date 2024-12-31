@@ -32,34 +32,34 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (today)
-  - apt-get for .debs published via GitHub or direct download 📦
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (1 day ago)
+  - apt-get for .debs published via GitHub or direct download 📦
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [ubuntu-mate/ubuntu-mate-guide](https://github.com/ubuntu-mate/ubuntu-mate-guide) (3 weeks ago)
-  - A guide to Ubuntu MATE
-- [ubuntu-mate/static.ubuntu-mate.org](https://github.com/ubuntu-mate/static.ubuntu-mate.org) (3 weeks ago)
-  - Video assets 📼
+- [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (3 weeks ago)
+  - The website to showcase Ubuntu MATE&#39;s features.
+- [ubuntu-mate/guide.ubuntu-mate.org](https://github.com/ubuntu-mate/guide.ubuntu-mate.org) (3 weeks ago)
+  - [Archived] Online publication viewer for the Ubuntu MATE Guide
 
 ### Recent pull requests 🛠️
 
 
-- [refactor: minor clean up](https://github.com/wimpysworld/nix-config/pull/419) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [chore: bump version to 0.4.5](https://github.com/wimpysworld/deb-get/pull/1269) on [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (today)
-- [chore: bump version to 4.9.7](https://github.com/quickemu-project/quickemu/pull/1543) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (today)
-- [obs-studio-plugins.obs-transition-table: fix build failure](https://github.com/NixOS/nixpkgs/pull/369369) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
-- [refactor: reorgasnise flake inputs and switch to auto-cpufreq from nixpkgs](https://github.com/wimpysworld/nix-config/pull/418) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [refactor: minor clean up](https://github.com/wimpysworld/nix-config/pull/419) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [chore: bump version to 0.4.5](https://github.com/wimpysworld/deb-get/pull/1269) on [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (1 day ago)
+- [chore: bump version to 4.9.7](https://github.com/quickemu-project/quickemu/pull/1543) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
+- [obs-studio-plugins.obs-transition-table: fix build failure](https://github.com/NixOS/nixpkgs/pull/369369) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
+- [refactor: reorgasnise flake inputs and switch to auto-cpufreq from nixpkgs](https://github.com/wimpysworld/nix-config/pull/418) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.4](https://github.com/wimpysworld/deb-get/releases/tag/0.4.4), today)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.4](https://github.com/wimpysworld/deb-get/releases/tag/0.4.4), 1 day ago)
   - apt-get for .debs published via GitHub or direct download 📦
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.7](https://github.com/quickemu-project/quickemu/releases/tag/4.9.7), today)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.7](https://github.com/quickemu-project/quickemu/releases/tag/4.9.7), 1 day ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20241227](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20241227), 1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20241227](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20241227), 2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.32.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.32.2), 2 weeks ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
@@ -73,9 +73,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Run graphics accelerated programs built with Nix on any Linux distribution.
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) (265)
   - Automatically refresh your Nix Flakes.
-- [ollama/ollama](https://github.com/ollama/ollama) (104924)
+- [ollama/ollama](https://github.com/ollama/ollama) (104927)
   - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) (53791)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) (53799)
   - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [getstation/desktop-app](https://github.com/getstation/desktop-app) (1493)
   - One app to rule them all!
@@ -86,8 +86,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Working Remotely on the Savannah](https://linuxmatters.sh/45/) (6 days ago)
-- [A Textual Rummage With Jason](https://linuxmatters.sh/44/) (2 weeks ago)
+- [Working Remotely on the Savannah](https://linuxmatters.sh/45/) (1 week ago)
+- [A Textual Rummage With Jason](https://linuxmatters.sh/44/) (3 weeks ago)
 - [Cuthbert, Dibble and Grub](https://linuxmatters.sh/43/) (1 month ago)
 - [Somewhere Over the Keybow](https://linuxmatters.sh/42/) (1 month ago)
 - [Punch Up in the Garden](https://linuxmatters.sh/41/) (2 months ago)
