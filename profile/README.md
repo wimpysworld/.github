@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Automatically refresh your Nix Flakes.
 - [ollama/ollama](https://github.com/ollama/ollama) (105059)
   - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) (53936)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) (53937)
   - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [getstation/desktop-app](https://github.com/getstation/desktop-app) (1494)
   - One app to rule them all!
