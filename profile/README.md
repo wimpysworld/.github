@@ -32,12 +32,12 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (1 day ago)
   - apt-get for .debs published via GitHub or direct download 📦
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (3 weeks ago)
   - The website to showcase Ubuntu MATE&#39;s features.
 - [ubuntu-mate/guide.ubuntu-mate.org](https://github.com/ubuntu-mate/guide.ubuntu-mate.org) (3 weeks ago)
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [chore: add act secrets](https://github.com/wimpysworld/nix-config/pull/421) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: minor clean up](https://github.com/wimpysworld/nix-config/pull/419) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [chore: bump version to 0.4.5](https://github.com/wimpysworld/deb-get/pull/1269) on [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (1 day ago)
 - [chore: bump version to 4.9.7](https://github.com/quickemu-project/quickemu/pull/1543) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 day ago)
 - [obs-studio-plugins.obs-transition-table: fix build failure](https://github.com/NixOS/nixpkgs/pull/369369) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
-- [refactor: reorgasnise flake inputs and switch to auto-cpufreq from nixpkgs](https://github.com/wimpysworld/nix-config/pull/418) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 
 ### Recent releases 📦️
 
@@ -73,9 +73,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Run graphics accelerated programs built with Nix on any Linux distribution.
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) (265)
   - Automatically refresh your Nix Flakes.
-- [ollama/ollama](https://github.com/ollama/ollama) (105016)
+- [ollama/ollama](https://github.com/ollama/ollama) (105023)
   - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) (53897)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) (53905)
   - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [getstation/desktop-app](https://github.com/getstation/desktop-app) (1494)
   - One app to rule them all!
