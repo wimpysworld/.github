@@ -32,25 +32,25 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
+  -  LÖVE template for Visual Studio Code 🪧
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (3 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
-- [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (3 weeks ago)
-  - The website to showcase Ubuntu MATE&#39;s features.
 - [ubuntu-mate/guide.ubuntu-mate.org](https://github.com/ubuntu-mate/guide.ubuntu-mate.org) (3 weeks ago)
   - [Archived] Online publication viewer for the Ubuntu MATE Guide
 
 ### Recent pull requests 🛠️
 
 
+- [ci: add windows sfx support and create build summary](https://github.com/Oval-Tutu/love2d-vscode-template/pull/31) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
+- [ci: run windows build on Linux and use rcedit to resource patch .exe](https://github.com/Oval-Tutu/love2d-vscode-template/pull/30) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
+- [ci: fix appimage and windows builds](https://github.com/Oval-Tutu/love2d-vscode-template/pull/29) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
+- [ci: refactor android and appimage builds, add tarball support for Linux.](https://github.com/Oval-Tutu/love2d-vscode-template/pull/28) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
 - [chore: add act secrets](https://github.com/wimpysworld/nix-config/pull/421) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [refactor: minor clean up](https://github.com/wimpysworld/nix-config/pull/419) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [chore: bump version to 0.4.5](https://github.com/wimpysworld/deb-get/pull/1269) on [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (3 days ago)
-- [chore: bump version to 4.9.7](https://github.com/quickemu-project/quickemu/pull/1543) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
-- [obs-studio-plugins.obs-transition-table: fix build failure](https://github.com/NixOS/nixpkgs/pull/369369) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
 
 ### Recent releases 📦️
 
@@ -61,24 +61,24 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - apt-get for .debs published via GitHub or direct download 📦
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.7](https://github.com/quickemu-project/quickemu/releases/tag/4.9.7), 3 days ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
+- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) ([0.0.1](https://github.com/Oval-Tutu/love2d-vscode-template/releases/tag/0.0.1), 1 week ago)
+  -  LÖVE template for Visual Studio Code 🪧
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.32.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.32.2), 3 weeks ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [ubuntu-mate/guide.ubuntu-mate.org](https://github.com/ubuntu-mate/guide.ubuntu-mate.org) ([2022-04-21](https://github.com/ubuntu-mate/guide.ubuntu-mate.org/releases/tag/2022-04-21), 3 weeks ago)
-  - [Archived] Online publication viewer for the Ubuntu MATE Guide
 
 ### Recent starred projects ⭐️
 
 
+- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1)
+  -  LÖVE template for Visual Studio Code 🪧
 - [electron/rcedit](https://github.com/electron/rcedit) (1755)
   - Command line tool to edit resources of exe
-- [nektos/act](https://github.com/nektos/act) (56486)
+- [nektos/act](https://github.com/nektos/act) (56487)
   - Run your GitHub Actions locally 🚀
 - [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) (94)
   - Run graphics accelerated programs built with Nix on any Linux distribution.
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) (265)
   - Automatically refresh your Nix Flakes.
-- [ollama/ollama](https://github.com/ollama/ollama) (105370)
-  - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
