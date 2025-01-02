@@ -32,11 +32,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (2 days ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (3 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
 - [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (3 weeks ago)
   - The website to showcase Ubuntu MATE&#39;s features.
@@ -46,20 +46,20 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [chore: add act secrets](https://github.com/wimpysworld/nix-config/pull/421) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [refactor: minor clean up](https://github.com/wimpysworld/nix-config/pull/419) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [chore: bump version to 0.4.5](https://github.com/wimpysworld/deb-get/pull/1269) on [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (2 days ago)
-- [chore: bump version to 4.9.7](https://github.com/quickemu-project/quickemu/pull/1543) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (2 days ago)
-- [obs-studio-plugins.obs-transition-table: fix build failure](https://github.com/NixOS/nixpkgs/pull/369369) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
+- [chore: add act secrets](https://github.com/wimpysworld/nix-config/pull/421) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [refactor: minor clean up](https://github.com/wimpysworld/nix-config/pull/419) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [chore: bump version to 0.4.5](https://github.com/wimpysworld/deb-get/pull/1269) on [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (3 days ago)
+- [chore: bump version to 4.9.7](https://github.com/quickemu-project/quickemu/pull/1543) on [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
+- [obs-studio-plugins.obs-transition-table: fix build failure](https://github.com/NixOS/nixpkgs/pull/369369) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20241230](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20241230), 1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20241230](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20241230), 2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.4](https://github.com/wimpysworld/deb-get/releases/tag/0.4.4), 2 days ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.4](https://github.com/wimpysworld/deb-get/releases/tag/0.4.4), 3 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.7](https://github.com/quickemu-project/quickemu/releases/tag/4.9.7), 2 days ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.7](https://github.com/quickemu-project/quickemu/releases/tag/4.9.7), 3 days ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.32.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.32.2), 3 weeks ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
@@ -69,16 +69,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
+- [electron/rcedit](https://github.com/electron/rcedit) (1754)
+  - Command line tool to edit resources of exe
 - [nektos/act](https://github.com/nektos/act) (56467)
   - Run your GitHub Actions locally 🚀
 - [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) (94)
   - Run graphics accelerated programs built with Nix on any Linux distribution.
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) (265)
   - Automatically refresh your Nix Flakes.
-- [ollama/ollama](https://github.com/ollama/ollama) (105219)
+- [ollama/ollama](https://github.com/ollama/ollama) (105221)
   - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) (54065)
-  - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
