@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Run graphics accelerated programs built with Nix on any Linux distribution.
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) (265)
   - Automatically refresh your Nix Flakes.
-- [ollama/ollama](https://github.com/ollama/ollama) (105245)
+- [ollama/ollama](https://github.com/ollama/ollama) (105254)
   - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
 
 ### 🎙️ Podcast
