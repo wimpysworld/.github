@@ -71,13 +71,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [electron/rcedit](https://github.com/electron/rcedit) (1754)
   - Command line tool to edit resources of exe
-- [nektos/act](https://github.com/nektos/act) (56476)
+- [nektos/act](https://github.com/nektos/act) (56477)
   - Run your GitHub Actions locally 🚀
 - [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) (94)
   - Run graphics accelerated programs built with Nix on any Linux distribution.
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) (265)
   - Automatically refresh your Nix Flakes.
-- [ollama/ollama](https://github.com/ollama/ollama) (105318)
+- [ollama/ollama](https://github.com/ollama/ollama) (105327)
   - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
 
 ### 🎙️ Podcast
