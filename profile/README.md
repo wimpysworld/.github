@@ -32,34 +32,34 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
+- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
   -  LÖVE template for Visual Studio Code 🪧
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (3 days ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (4 days ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (3 days ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (4 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
-- [ubuntu-mate/guide.ubuntu-mate.org](https://github.com/ubuntu-mate/guide.ubuntu-mate.org) (3 weeks ago)
+- [ubuntu-mate/guide.ubuntu-mate.org](https://github.com/ubuntu-mate/guide.ubuntu-mate.org) (4 weeks ago)
   - [Archived] Online publication viewer for the Ubuntu MATE Guide
 
 ### Recent pull requests 🛠️
 
 
-- [ci: add windows sfx support and create build summary](https://github.com/Oval-Tutu/love2d-vscode-template/pull/31) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
-- [ci: run windows build on Linux and use rcedit to resource patch .exe](https://github.com/Oval-Tutu/love2d-vscode-template/pull/30) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
-- [ci: fix appimage and windows builds](https://github.com/Oval-Tutu/love2d-vscode-template/pull/29) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
-- [ci: refactor android and appimage builds, add tarball support for Linux.](https://github.com/Oval-Tutu/love2d-vscode-template/pull/28) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
-- [chore: add act secrets](https://github.com/wimpysworld/nix-config/pull/421) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [ci: add windows sfx support and create build summary](https://github.com/Oval-Tutu/love2d-vscode-template/pull/31) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
+- [ci: run windows build on Linux and use rcedit to resource patch .exe](https://github.com/Oval-Tutu/love2d-vscode-template/pull/30) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (2 days ago)
+- [ci: fix appimage and windows builds](https://github.com/Oval-Tutu/love2d-vscode-template/pull/29) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (2 days ago)
+- [ci: refactor android and appimage builds, add tarball support for Linux.](https://github.com/Oval-Tutu/love2d-vscode-template/pull/28) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (2 days ago)
+- [chore: add act secrets](https://github.com/wimpysworld/nix-config/pull/421) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20241230](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20241230), 2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20241230](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20241230), 3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.4](https://github.com/wimpysworld/deb-get/releases/tag/0.4.4), 3 days ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.4](https://github.com/wimpysworld/deb-get/releases/tag/0.4.4), 4 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.7](https://github.com/quickemu-project/quickemu/releases/tag/4.9.7), 3 days ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.7](https://github.com/quickemu-project/quickemu/releases/tag/4.9.7), 4 days ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) ([0.0.1](https://github.com/Oval-Tutu/love2d-vscode-template/releases/tag/0.0.1), 1 week ago)
   -  LÖVE template for Visual Studio Code 🪧
