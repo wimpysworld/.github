@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [ci: harmonise build number and app store version codes](https://github.com/Oval-Tutu/love2d-vscode-template/pull/37) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
+- [feat: add GitHub Local Actions integration](https://github.com/Oval-Tutu/love2d-vscode-template/pull/36) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
 - [feat: add github-local-actions to VSCode](https://github.com/wimpysworld/nix-config/pull/423) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [ci: assorted fixes and improvements](https://github.com/Oval-Tutu/love2d-vscode-template/pull/35) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
 - [ci: separate build steps in to their own actions](https://github.com/Oval-Tutu/love2d-vscode-template/pull/34) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
-- [ci: add windows sfx support and create build summary](https://github.com/Oval-Tutu/love2d-vscode-template/pull/31) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (2 days ago)
-- [ci: run windows build on Linux and use rcedit to resource patch .exe](https://github.com/Oval-Tutu/love2d-vscode-template/pull/30) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (3 days ago)
 
 ### Recent releases 📦️
 
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   -  LÖVE template for Visual Studio Code 🪧
 - [electron/rcedit](https://github.com/electron/rcedit) (1756)
   - Command line tool to edit resources of exe
-- [nektos/act](https://github.com/nektos/act) (56548)
+- [nektos/act](https://github.com/nektos/act) (56550)
   - Run your GitHub Actions locally 🚀
 - [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) (94)
   - Run graphics accelerated programs built with Nix on any Linux distribution.
