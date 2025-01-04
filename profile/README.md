@@ -32,13 +32,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
+- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
   -  LÖVE template for Visual Studio Code 🪧
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (4 days ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (5 days ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (4 days ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (5 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
 - [ubuntu-mate/guide.ubuntu-mate.org](https://github.com/ubuntu-mate/guide.ubuntu-mate.org) (4 weeks ago)
   - [Archived] Online publication viewer for the Ubuntu MATE Guide
@@ -46,20 +46,20 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [ci: separate build steps in to their own actions](https://github.com/Oval-Tutu/love2d-vscode-template/pull/34) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
-- [ci: add windows sfx support and create build summary](https://github.com/Oval-Tutu/love2d-vscode-template/pull/31) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
-- [ci: run windows build on Linux and use rcedit to resource patch .exe](https://github.com/Oval-Tutu/love2d-vscode-template/pull/30) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (2 days ago)
-- [ci: fix appimage and windows builds](https://github.com/Oval-Tutu/love2d-vscode-template/pull/29) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (2 days ago)
-- [ci: refactor android and appimage builds, add tarball support for Linux.](https://github.com/Oval-Tutu/love2d-vscode-template/pull/28) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (2 days ago)
+- [ci: separate build steps in to their own actions](https://github.com/Oval-Tutu/love2d-vscode-template/pull/34) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
+- [ci: add windows sfx support and create build summary](https://github.com/Oval-Tutu/love2d-vscode-template/pull/31) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (2 days ago)
+- [ci: run windows build on Linux and use rcedit to resource patch .exe](https://github.com/Oval-Tutu/love2d-vscode-template/pull/30) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (3 days ago)
+- [ci: fix appimage and windows builds](https://github.com/Oval-Tutu/love2d-vscode-template/pull/29) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (3 days ago)
+- [ci: refactor android and appimage builds, add tarball support for Linux.](https://github.com/Oval-Tutu/love2d-vscode-template/pull/28) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (3 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20241230](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20241230), 3 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20241230](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20241230), 4 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.4](https://github.com/wimpysworld/deb-get/releases/tag/0.4.4), 4 days ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.4](https://github.com/wimpysworld/deb-get/releases/tag/0.4.4), 5 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.7](https://github.com/quickemu-project/quickemu/releases/tag/4.9.7), 4 days ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.7](https://github.com/quickemu-project/quickemu/releases/tag/4.9.7), 5 days ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) ([0.0.1](https://github.com/Oval-Tutu/love2d-vscode-template/releases/tag/0.0.1), 1 week ago)
   -  LÖVE template for Visual Studio Code 🪧
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   -  LÖVE template for Visual Studio Code 🪧
 - [electron/rcedit](https://github.com/electron/rcedit) (1756)
   - Command line tool to edit resources of exe
-- [nektos/act](https://github.com/nektos/act) (56527)
+- [nektos/act](https://github.com/nektos/act) (56528)
   - Run your GitHub Actions locally 🚀
 - [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) (94)
   - Run graphics accelerated programs built with Nix on any Linux distribution.
@@ -97,7 +97,7 @@ Here's some recent episodes:
 <a href="https://youtube.com/WimpysWorld" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UChpYmMp7EFaxuogUX1eAqyw?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&labelColor=%23fb1b20&color=%23e4e2e2"></a>
 
 - [NixOS | More Nix ❄️ packaging &amp; fixes 🩹 for OBS Studio 📡](https://www.youtube.com/watch?v=VqNaOOm7Dhw) (11 months ago)
-- [NixOS | Updating Nix ❄️ packages of OBS Studio 📡 and it&#39;s plugins🔌](https://www.youtube.com/watch?v=phgOv_UCbMM) (11 months ago)
+- [NixOS | Updating Nix ❄️ packages of OBS Studio 📡 and it&#39;s plugins🔌](https://www.youtube.com/watch?v=phgOv_UCbMM) (1 year ago)
 - [NixOS &amp; Linux | Tinkering with my Nix config ❄️ and poking at some Linux projects 🐧](https://www.youtube.com/watch?v=biVQ_-v8oEo) (1 year ago)
 - [NixOS &amp; Linux 🐧 Automate OBS with Kruiz Control and Scene Switcher](https://www.youtube.com/watch?v=BSITslJbMGA) (1 year ago)
 - [[Linux &amp; NixOS] Catching up on a few projects ❄️ - Part 2](https://www.youtube.com/watch?v=IpiuKvqHU-c) (1 year ago)
