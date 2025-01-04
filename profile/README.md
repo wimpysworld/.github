@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: add product.env configuration](https://github.com/Oval-Tutu/love2d-vscode-template/pull/38) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
 - [ci: harmonise build number and app store version codes](https://github.com/Oval-Tutu/love2d-vscode-template/pull/37) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
 - [feat: add GitHub Local Actions integration](https://github.com/Oval-Tutu/love2d-vscode-template/pull/36) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
 - [feat: add github-local-actions to VSCode](https://github.com/wimpysworld/nix-config/pull/423) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [ci: assorted fixes and improvements](https://github.com/Oval-Tutu/love2d-vscode-template/pull/35) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
-- [ci: separate build steps in to their own actions](https://github.com/Oval-Tutu/love2d-vscode-template/pull/34) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
 
 ### Recent releases 📦️
 
