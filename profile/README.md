@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [ci: minor tweaks](https://github.com/Oval-Tutu/love2d-vscode-template/pull/41) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
 - [ci: refactor PRODUCT_VERSION to retain the most recent release version](https://github.com/Oval-Tutu/love2d-vscode-template/pull/40) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
 - [ci: add support for love.js](https://github.com/Oval-Tutu/love2d-vscode-template/pull/39) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
 - [feat: add product.env configuration](https://github.com/Oval-Tutu/love2d-vscode-template/pull/38) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
 - [ci: harmonise build number and app store version codes](https://github.com/Oval-Tutu/love2d-vscode-template/pull/37) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
-- [feat: add GitHub Local Actions integration](https://github.com/Oval-Tutu/love2d-vscode-template/pull/36) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
 
 ### Recent releases 📦️
 
