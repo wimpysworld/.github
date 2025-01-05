@@ -55,14 +55,14 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
+- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) ([0.0.3](https://github.com/Oval-Tutu/love2d-vscode-template/releases/tag/0.0.3), today)
+  -  LÖVE template for Visual Studio Code 🪧
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20241231](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20241231), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.4](https://github.com/wimpysworld/deb-get/releases/tag/0.4.4), 6 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.7](https://github.com/quickemu-project/quickemu/releases/tag/4.9.7), 6 days ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) ([0.0.1](https://github.com/Oval-Tutu/love2d-vscode-template/releases/tag/0.0.1), 1 week ago)
-  -  LÖVE template for Visual Studio Code 🪧
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.32.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.32.2), 3 weeks ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   -  LÖVE template for Visual Studio Code 🪧
 - [electron/rcedit](https://github.com/electron/rcedit) (1757)
   - Command line tool to edit resources of exe
-- [nektos/act](https://github.com/nektos/act) (56565)
+- [nektos/act](https://github.com/nektos/act) (56566)
   - Run your GitHub Actions locally 🚀
 - [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) (95)
   - Run graphics accelerated programs built with Nix on any Linux distribution.
