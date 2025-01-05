@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Run your GitHub Actions locally 🚀
 - [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) (95)
   - Run graphics accelerated programs built with Nix on any Linux distribution.
-- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) (265)
+- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) (266)
   - Automatically refresh your Nix Flakes.
 
 ### 🎙️ Podcast
