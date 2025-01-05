@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
+- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
   -  LÖVE template for Visual Studio Code 🪧
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [ci: refactor PRODUCT_VERSION to retain the most recent release version](https://github.com/Oval-Tutu/love2d-vscode-template/pull/40) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
 - [ci: add support for love.js](https://github.com/Oval-Tutu/love2d-vscode-template/pull/39) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
 - [feat: add product.env configuration](https://github.com/Oval-Tutu/love2d-vscode-template/pull/38) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
 - [ci: harmonise build number and app store version codes](https://github.com/Oval-Tutu/love2d-vscode-template/pull/37) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
 - [feat: add GitHub Local Actions integration](https://github.com/Oval-Tutu/love2d-vscode-template/pull/36) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
-- [feat: add github-local-actions to VSCode](https://github.com/wimpysworld/nix-config/pull/423) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 
 ### Recent releases 📦️
 
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   -  LÖVE template for Visual Studio Code 🪧
 - [electron/rcedit](https://github.com/electron/rcedit) (1756)
   - Command line tool to edit resources of exe
-- [nektos/act](https://github.com/nektos/act) (56562)
+- [nektos/act](https://github.com/nektos/act) (56564)
   - Run your GitHub Actions locally 🚀
 - [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) (95)
   - Run graphics accelerated programs built with Nix on any Linux distribution.
