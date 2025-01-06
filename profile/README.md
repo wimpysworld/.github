@@ -32,16 +32,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
-  -  LÖVE template for Visual Studio Code 🪧
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
+- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
+  -  LÖVE template for Visual Studio Code 🪧
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (1 week ago)
   - apt-get for .debs published via GitHub or direct download 📦
-- [ubuntu-mate/guide.ubuntu-mate.org](https://github.com/ubuntu-mate/guide.ubuntu-mate.org) (1 month ago)
-  - [Archived] Online publication viewer for the Ubuntu MATE Guide
+- [ubuntu-mate/static.ubuntu-mate.org](https://github.com/ubuntu-mate/static.ubuntu-mate.org) (1 month ago)
+  - Video assets 📼
 
 ### Recent pull requests 🛠️
 
@@ -73,9 +73,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   -  LÖVE template for Visual Studio Code 🪧
 - [electron/rcedit](https://github.com/electron/rcedit) (1758)
   - Command line tool to edit resources of exe
-- [nektos/act](https://github.com/nektos/act) (56582)
+- [nektos/act](https://github.com/nektos/act) (56584)
   - Run your GitHub Actions locally 🚀
-- [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) (95)
+- [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) (96)
   - Run graphics accelerated programs built with Nix on any Linux distribution.
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) (267)
   - Automatically refresh your Nix Flakes.
