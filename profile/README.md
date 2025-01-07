@@ -32,32 +32,32 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
+- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (2 days ago)
   -  LÖVE template for Visual Studio Code 🪧
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (1 week ago)
   - apt-get for .debs published via GitHub or direct download 📦
-- [ubuntu-mate/static.ubuntu-mate.org](https://github.com/ubuntu-mate/static.ubuntu-mate.org) (1 month ago)
-  - Video assets 📼
+- [ubuntu-mate/start.ubuntu-mate.org](https://github.com/ubuntu-mate/start.ubuntu-mate.org) (1 month ago)
+  - The start page for Ubuntu MATE users.
 
 ### Recent pull requests 🛠️
 
 
-- [chore: update cider](https://github.com/wimpysworld/nix-config/pull/424) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [ci: minor tweaks](https://github.com/Oval-Tutu/love2d-vscode-template/pull/41) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
-- [ci: refactor PRODUCT_VERSION to retain the most recent release version](https://github.com/Oval-Tutu/love2d-vscode-template/pull/40) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
-- [ci: add support for love.js](https://github.com/Oval-Tutu/love2d-vscode-template/pull/39) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (2 days ago)
-- [feat: add product.env configuration](https://github.com/Oval-Tutu/love2d-vscode-template/pull/38) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (2 days ago)
+- [chore: update cider](https://github.com/wimpysworld/nix-config/pull/424) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [ci: minor tweaks](https://github.com/Oval-Tutu/love2d-vscode-template/pull/41) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (2 days ago)
+- [ci: refactor PRODUCT_VERSION to retain the most recent release version](https://github.com/Oval-Tutu/love2d-vscode-template/pull/40) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (2 days ago)
+- [ci: add support for love.js](https://github.com/Oval-Tutu/love2d-vscode-template/pull/39) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (3 days ago)
+- [feat: add product.env configuration](https://github.com/Oval-Tutu/love2d-vscode-template/pull/38) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (3 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250105](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250105), today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250105](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250105), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) ([0.0.3](https://github.com/Oval-Tutu/love2d-vscode-template/releases/tag/0.0.3), 1 day ago)
+- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) ([0.0.3](https://github.com/Oval-Tutu/love2d-vscode-template/releases/tag/0.0.3), 2 days ago)
   -  LÖVE template for Visual Studio Code 🪧
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.4](https://github.com/wimpysworld/deb-get/releases/tag/0.4.4), 1 week ago)
   - apt-get for .debs published via GitHub or direct download 📦
@@ -86,8 +86,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Working Remotely on the Savannah](https://linuxmatters.sh/45/) (1 week ago)
-- [A Textual Rummage With Jason](https://linuxmatters.sh/44/) (3 weeks ago)
+- [Working Remotely on the Savannah](https://linuxmatters.sh/45/) (2 weeks ago)
+- [A Textual Rummage With Jason](https://linuxmatters.sh/44/) (4 weeks ago)
 - [Cuthbert, Dibble and Grub](https://linuxmatters.sh/43/) (1 month ago)
 - [Somewhere Over the Keybow](https://linuxmatters.sh/42/) (1 month ago)
 - [Punch Up in the Garden](https://linuxmatters.sh/41/) (2 months ago)
