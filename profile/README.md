@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
+- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
   -  LÖVE template for Visual Studio Code 🪧
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
@@ -46,24 +46,24 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [fix: improved compatibility with running act on macOS](https://github.com/Oval-Tutu/love2d-vscode-template/pull/45) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
-- [ci: update macOS .dmg support](https://github.com/Oval-Tutu/love2d-vscode-template/pull/42) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
-- [chore: update cider](https://github.com/wimpysworld/nix-config/pull/424) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [ci: minor tweaks](https://github.com/Oval-Tutu/love2d-vscode-template/pull/41) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (2 days ago)
-- [ci: refactor PRODUCT_VERSION to retain the most recent release version](https://github.com/Oval-Tutu/love2d-vscode-template/pull/40) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (2 days ago)
+- [fix: improved compatibility with running act on macOS](https://github.com/Oval-Tutu/love2d-vscode-template/pull/45) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
+- [ci: update macOS .dmg support](https://github.com/Oval-Tutu/love2d-vscode-template/pull/42) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
+- [chore: update cider](https://github.com/wimpysworld/nix-config/pull/424) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [ci: minor tweaks](https://github.com/Oval-Tutu/love2d-vscode-template/pull/41) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (3 days ago)
+- [ci: refactor PRODUCT_VERSION to retain the most recent release version](https://github.com/Oval-Tutu/love2d-vscode-template/pull/40) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (3 days ago)
 
 ### Recent releases 📦️
 
 
-- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) ([0.0.4](https://github.com/Oval-Tutu/love2d-vscode-template/releases/tag/0.0.4), today)
+- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) ([0.0.4](https://github.com/Oval-Tutu/love2d-vscode-template/releases/tag/0.0.4), 1 day ago)
   -  LÖVE template for Visual Studio Code 🪧
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250105](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250105), 1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250105](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250105), 2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.4](https://github.com/wimpysworld/deb-get/releases/tag/0.4.4), 1 week ago)
   - apt-get for .debs published via GitHub or direct download 📦
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.7](https://github.com/quickemu-project/quickemu/releases/tag/4.9.7), 1 week ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.32.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.32.2), 3 weeks ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.32.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.32.2), 4 weeks ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 
 ### Recent starred projects ⭐️
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Streaming Your Way to Freedom](https://linuxmatters.sh/46/) (today)
+- [Streaming Your Way to Freedom](https://linuxmatters.sh/46/) (1 day ago)
 - [Working Remotely on the Savannah](https://linuxmatters.sh/45/) (2 weeks ago)
 - [A Textual Rummage With Jason](https://linuxmatters.sh/44/) (4 weeks ago)
 - [Cuthbert, Dibble and Grub](https://linuxmatters.sh/43/) (1 month ago)
