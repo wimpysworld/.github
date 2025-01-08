@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [ci: make tool installation more robust](https://github.com/Oval-Tutu/love2d-vscode-template/pull/48) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
+- [chore: drop macos-build-appstore and rename macos-build-portable](https://github.com/Oval-Tutu/love2d-vscode-template/pull/47) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
 - [feat: add podman-desktop on workstations](https://github.com/wimpysworld/nix-config/pull/425) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [ci: fix macos .app by zipping with ditto to preserve symlinks](https://github.com/Oval-Tutu/love2d-vscode-template/pull/46) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
 - [fix: improved compatibility with running act on macOS](https://github.com/Oval-Tutu/love2d-vscode-template/pull/45) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
-- [ci: update macOS .dmg support](https://github.com/Oval-Tutu/love2d-vscode-template/pull/42) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
-- [chore: update cider](https://github.com/wimpysworld/nix-config/pull/424) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 
 ### Recent releases 📦️
 
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   -  LÖVE template for Visual Studio Code 🪧
 - [electron/rcedit](https://github.com/electron/rcedit) (1758)
   - Command line tool to edit resources of exe
-- [nektos/act](https://github.com/nektos/act) (56665)
+- [nektos/act](https://github.com/nektos/act) (56666)
   - Run your GitHub Actions locally 🚀
 - [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) (97)
   - Run graphics accelerated programs built with Nix on any Linux distribution.
