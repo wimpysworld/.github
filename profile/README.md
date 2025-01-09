@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
+- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
   -  LÖVE template for Visual Studio Code 🪧
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
@@ -46,19 +46,19 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: update web builds with example deployments and local testing](https://github.com/Oval-Tutu/love2d-vscode-template/pull/49) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
 - [ci: make tool installation more robust](https://github.com/Oval-Tutu/love2d-vscode-template/pull/48) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
 - [chore: drop macos-build-appstore and rename macos-build-portable](https://github.com/Oval-Tutu/love2d-vscode-template/pull/47) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
 - [feat: add podman-desktop on workstations](https://github.com/wimpysworld/nix-config/pull/425) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [ci: fix macos .app by zipping with ditto to preserve symlinks](https://github.com/Oval-Tutu/love2d-vscode-template/pull/46) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
-- [fix: improved compatibility with running act on macOS](https://github.com/Oval-Tutu/love2d-vscode-template/pull/45) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (2 days ago)
 
 ### Recent releases 📦️
 
 
+- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) ([0.0.5](https://github.com/Oval-Tutu/love2d-vscode-template/releases/tag/0.0.5), today)
+  -  LÖVE template for Visual Studio Code 🪧
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250106](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250106), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) ([0.0.4](https://github.com/Oval-Tutu/love2d-vscode-template/releases/tag/0.0.4), 2 days ago)
-  -  LÖVE template for Visual Studio Code 🪧
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.4](https://github.com/wimpysworld/deb-get/releases/tag/0.4.4), 1 week ago)
   - apt-get for .debs published via GitHub or direct download 📦
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.7](https://github.com/quickemu-project/quickemu/releases/tag/4.9.7), 1 week ago)
