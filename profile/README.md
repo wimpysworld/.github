@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
+- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
   -  LÖVE template for Visual Studio Code 🪧
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
@@ -46,24 +46,24 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [refactor: update web builds with example deployments and local testing](https://github.com/Oval-Tutu/love2d-vscode-template/pull/49) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
-- [ci: make tool installation more robust](https://github.com/Oval-Tutu/love2d-vscode-template/pull/48) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
-- [chore: drop macos-build-appstore and rename macos-build-portable](https://github.com/Oval-Tutu/love2d-vscode-template/pull/47) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
-- [feat: add podman-desktop on workstations](https://github.com/wimpysworld/nix-config/pull/425) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [ci: fix macos .app by zipping with ditto to preserve symlinks](https://github.com/Oval-Tutu/love2d-vscode-template/pull/46) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
+- [refactor: update web builds with example deployments and local testing](https://github.com/Oval-Tutu/love2d-vscode-template/pull/49) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
+- [ci: make tool installation more robust](https://github.com/Oval-Tutu/love2d-vscode-template/pull/48) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (2 days ago)
+- [chore: drop macos-build-appstore and rename macos-build-portable](https://github.com/Oval-Tutu/love2d-vscode-template/pull/47) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (2 days ago)
+- [feat: add podman-desktop on workstations](https://github.com/wimpysworld/nix-config/pull/425) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [ci: fix macos .app by zipping with ditto to preserve symlinks](https://github.com/Oval-Tutu/love2d-vscode-template/pull/46) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (2 days ago)
 
 ### Recent releases 📦️
 
 
-- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) ([0.0.5](https://github.com/Oval-Tutu/love2d-vscode-template/releases/tag/0.0.5), today)
+- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) ([0.0.5](https://github.com/Oval-Tutu/love2d-vscode-template/releases/tag/0.0.5), 1 day ago)
   -  LÖVE template for Visual Studio Code 🪧
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250106](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250106), 1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250106](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250106), 2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.4](https://github.com/wimpysworld/deb-get/releases/tag/0.4.4), 1 week ago)
   - apt-get for .debs published via GitHub or direct download 📦
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.7](https://github.com/quickemu-project/quickemu/releases/tag/4.9.7), 1 week ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.32.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.32.2), 4 weeks ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.32.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.32.2), 1 month ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 
 ### Recent starred projects ⭐️
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Streaming Your Way to Freedom](https://linuxmatters.sh/46/) (2 days ago)
+- [Streaming Your Way to Freedom](https://linuxmatters.sh/46/) (3 days ago)
 - [Working Remotely on the Savannah](https://linuxmatters.sh/45/) (2 weeks ago)
 - [A Textual Rummage With Jason](https://linuxmatters.sh/44/) (1 month ago)
 - [Cuthbert, Dibble and Grub](https://linuxmatters.sh/43/) (1 month ago)
