@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1)
   -  LÖVE template for Visual Studio Code 🪧
-- [electron/rcedit](https://github.com/electron/rcedit) (1759)
+- [electron/rcedit](https://github.com/electron/rcedit) (1760)
   - Command line tool to edit resources of exe
 - [nektos/act](https://github.com/nektos/act) (56697)
   - Run your GitHub Actions locally 🚀
