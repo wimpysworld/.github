@@ -32,16 +32,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
-  -  LÖVE template for Visual Studio Code 🪧
+- [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (today)
+  - Oval Tutu GitHub profile ️🖼️
+- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
+  -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
-  - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (1 week ago)
   - apt-get for .debs published via GitHub or direct download 📦
-- [ubuntu-mate/start.ubuntu-mate.org](https://github.com/ubuntu-mate/start.ubuntu-mate.org) (1 month ago)
-  - The start page for Ubuntu MATE users.
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
+  - Quickly create and run optimised Windows, macOS and Linux virtual machines
 
 ### Recent pull requests 🛠️
 
@@ -56,7 +56,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 
 - [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) ([0.0.5](https://github.com/Oval-Tutu/love2d-vscode-template/releases/tag/0.0.5), 2 days ago)
-  -  LÖVE template for Visual Studio Code 🪧
+  -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250106](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250106), 3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.4](https://github.com/wimpysworld/deb-get/releases/tag/0.4.4), 1 week ago)
@@ -70,7 +70,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 
 - [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1)
-  -  LÖVE template for Visual Studio Code 🪧
+  -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [electron/rcedit](https://github.com/electron/rcedit) (1762)
   - Command line tool to edit resources of exe
 - [nektos/act](https://github.com/nektos/act) (56721)
