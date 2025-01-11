@@ -32,10 +32,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
-  -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (today)
   - Oval Tutu&#39;s GitHub profile ️🟢
+- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
+  -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
@@ -71,9 +71,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1)
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
-- [electron/rcedit](https://github.com/electron/rcedit) (1762)
+- [electron/rcedit](https://github.com/electron/rcedit) (1763)
   - Command line tool to edit resources of exe
-- [nektos/act](https://github.com/nektos/act) (56724)
+- [nektos/act](https://github.com/nektos/act) (56725)
   - Run your GitHub Actions locally 🚀
 - [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) (97)
   - Run graphics accelerated programs built with Nix on any Linux distribution.
