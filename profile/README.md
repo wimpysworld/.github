@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
+- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
   -  LÖVE template for Visual Studio Code 🪧
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
   - Quickly create and run optimised Windows, macOS and Linux virtual machines
@@ -46,18 +46,18 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [ci: add support for iOS builds](https://github.com/Oval-Tutu/love2d-vscode-template/pull/50) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
-- [refactor: update web builds with example deployments and local testing](https://github.com/Oval-Tutu/love2d-vscode-template/pull/49) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
-- [ci: make tool installation more robust](https://github.com/Oval-Tutu/love2d-vscode-template/pull/48) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (2 days ago)
-- [chore: drop macos-build-appstore and rename macos-build-portable](https://github.com/Oval-Tutu/love2d-vscode-template/pull/47) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (2 days ago)
-- [feat: add podman-desktop on workstations](https://github.com/wimpysworld/nix-config/pull/425) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [ci: add support for iOS builds](https://github.com/Oval-Tutu/love2d-vscode-template/pull/50) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
+- [refactor: update web builds with example deployments and local testing](https://github.com/Oval-Tutu/love2d-vscode-template/pull/49) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (2 days ago)
+- [ci: make tool installation more robust](https://github.com/Oval-Tutu/love2d-vscode-template/pull/48) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (3 days ago)
+- [chore: drop macos-build-appstore and rename macos-build-portable](https://github.com/Oval-Tutu/love2d-vscode-template/pull/47) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (3 days ago)
+- [feat: add podman-desktop on workstations](https://github.com/wimpysworld/nix-config/pull/425) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 
 ### Recent releases 📦️
 
 
-- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) ([0.0.5](https://github.com/Oval-Tutu/love2d-vscode-template/releases/tag/0.0.5), 1 day ago)
+- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) ([0.0.5](https://github.com/Oval-Tutu/love2d-vscode-template/releases/tag/0.0.5), 2 days ago)
   -  LÖVE template for Visual Studio Code 🪧
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250106](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250106), 2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250106](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250106), 3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.4](https://github.com/wimpysworld/deb-get/releases/tag/0.4.4), 1 week ago)
   - apt-get for .debs published via GitHub or direct download 📦
@@ -86,11 +86,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Streaming Your Way to Freedom](https://linuxmatters.sh/46/) (3 days ago)
+- [Streaming Your Way to Freedom](https://linuxmatters.sh/46/) (4 days ago)
 - [Working Remotely on the Savannah](https://linuxmatters.sh/45/) (2 weeks ago)
 - [A Textual Rummage With Jason](https://linuxmatters.sh/44/) (1 month ago)
 - [Cuthbert, Dibble and Grub](https://linuxmatters.sh/43/) (1 month ago)
-- [Somewhere Over the Keybow](https://linuxmatters.sh/42/) (1 month ago)
+- [Somewhere Over the Keybow](https://linuxmatters.sh/42/) (2 months ago)
 
 ### 📺️ YouTube
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
