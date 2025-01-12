@@ -33,7 +33,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 
 - [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
-  - A very complete i18n library for LÖVE and Lua 💕🌕
+  - A very complete internationalization library for Lua with LÖVE support 🌕💕
 - [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (1 day ago)
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [electron/rcedit](https://github.com/electron/rcedit) (1763)
   - Command line tool to edit resources of exe
-- [nektos/act](https://github.com/nektos/act) (56736)
+- [nektos/act](https://github.com/nektos/act) (56737)
   - Run your GitHub Actions locally 🚀
 - [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) (97)
   - Run graphics accelerated programs built with Nix on any Linux distribution.
