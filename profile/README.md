@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: add LÖVE filesystem support](https://github.com/Oval-Tutu/smiti18n/pull/11) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 - [docs: update the documentation to match current functionality](https://github.com/Oval-Tutu/smiti18n/pull/10) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 - [refactor: update rockspec and release ci workflow](https://github.com/Oval-Tutu/smiti18n/pull/9) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 - [ci: add github ci to run tests](https://github.com/Oval-Tutu/smiti18n/pull/8) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 - [refactor: rename package to smiti18n](https://github.com/Oval-Tutu/smiti18n/pull/7) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
-- [fix: preserve data immutability and improve count interpolation](https://github.com/Oval-Tutu/smiti18n/pull/6) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 
 ### Recent releases 📦️
 
