@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix: preserve data immutability and improve count interpolation](https://github.com/Oval-Tutu/smiti18n/pull/6) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
+- [fix: use correct locale for pluralization rules](https://github.com/Oval-Tutu/smiti18n/pull/5) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
+- [feat: add interpolation support for default values](https://github.com/Oval-Tutu/smiti18n/pull/4) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 - [feat: add support for multiple fallback locales](https://github.com/Oval-Tutu/smiti18n/pull/3) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 - [feat: add array support for translations](https://github.com/Oval-Tutu/smiti18n/pull/2) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
-- [README.md: small fixes](https://github.com/Oval-Tutu/smiti18n/pull/1) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
-- [ci: add support for iOS builds](https://github.com/Oval-Tutu/love2d-vscode-template/pull/50) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (2 days ago)
-- [refactor: update web builds with example deployments and local testing](https://github.com/Oval-Tutu/love2d-vscode-template/pull/49) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (3 days ago)
 
 ### Recent releases 📦️
 
