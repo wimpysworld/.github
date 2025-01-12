@@ -34,10 +34,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
   - A very complete internationalization library for Lua with LÖVE support 🌕💕
-- [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (1 day ago)
-  - Oval Tutu&#39;s GitHub profile ️🟢
 - [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
+- [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (1 day ago)
+  - Oval Tutu&#39;s GitHub profile ️🟢
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [docs: update the documentation to match current functionality](https://github.com/Oval-Tutu/smiti18n/pull/10) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 - [refactor: update rockspec and release ci workflow](https://github.com/Oval-Tutu/smiti18n/pull/9) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 - [ci: add github ci to run tests](https://github.com/Oval-Tutu/smiti18n/pull/8) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 - [refactor: rename package to smiti18n](https://github.com/Oval-Tutu/smiti18n/pull/7) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 - [fix: preserve data immutability and improve count interpolation](https://github.com/Oval-Tutu/smiti18n/pull/6) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
-- [fix: use correct locale for pluralization rules](https://github.com/Oval-Tutu/smiti18n/pull/5) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 
 ### Recent releases 📦️
 
