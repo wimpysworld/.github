@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: rename package to smiti18n](https://github.com/Oval-Tutu/smiti18n/pull/7) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 - [fix: preserve data immutability and improve count interpolation](https://github.com/Oval-Tutu/smiti18n/pull/6) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 - [fix: use correct locale for pluralization rules](https://github.com/Oval-Tutu/smiti18n/pull/5) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 - [feat: add interpolation support for default values](https://github.com/Oval-Tutu/smiti18n/pull/4) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 - [feat: add support for multiple fallback locales](https://github.com/Oval-Tutu/smiti18n/pull/3) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
-- [feat: add array support for translations](https://github.com/Oval-Tutu/smiti18n/pull/2) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 
 ### Recent releases 📦️
 
