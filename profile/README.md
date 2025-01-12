@@ -40,8 +40,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Oval Tutu&#39;s GitHub profile ️🟢
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) (1 week ago)
-  - Quickly create and run optimised Windows, macOS and Linux virtual machines
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (1 week ago)
+  - apt-get for .debs published via GitHub or direct download 📦
 
 ### Recent pull requests 🛠️
 
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [electron/rcedit](https://github.com/electron/rcedit) (1763)
   - Command line tool to edit resources of exe
-- [nektos/act](https://github.com/nektos/act) (56735)
+- [nektos/act](https://github.com/nektos/act) (56736)
   - Run your GitHub Actions locally 🚀
 - [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) (97)
   - Run graphics accelerated programs built with Nix on any Linux distribution.
