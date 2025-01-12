@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [ci: add github ci to run tests](https://github.com/Oval-Tutu/smiti18n/pull/8) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 - [refactor: rename package to smiti18n](https://github.com/Oval-Tutu/smiti18n/pull/7) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 - [fix: preserve data immutability and improve count interpolation](https://github.com/Oval-Tutu/smiti18n/pull/6) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 - [fix: use correct locale for pluralization rules](https://github.com/Oval-Tutu/smiti18n/pull/5) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 - [feat: add interpolation support for default values](https://github.com/Oval-Tutu/smiti18n/pull/4) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
-- [feat: add support for multiple fallback locales](https://github.com/Oval-Tutu/smiti18n/pull/3) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 
 ### Recent releases 📦️
 
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [electron/rcedit](https://github.com/electron/rcedit) (1763)
   - Command line tool to edit resources of exe
-- [nektos/act](https://github.com/nektos/act) (56733)
+- [nektos/act](https://github.com/nektos/act) (56735)
   - Run your GitHub Actions locally 🚀
 - [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) (97)
   - Run graphics accelerated programs built with Nix on any Linux distribution.
