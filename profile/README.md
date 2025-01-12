@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: prepare for release](https://github.com/Oval-Tutu/smiti18n/pull/12) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 - [feat: add LÖVE filesystem support](https://github.com/Oval-Tutu/smiti18n/pull/11) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 - [docs: update the documentation to match current functionality](https://github.com/Oval-Tutu/smiti18n/pull/10) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 - [refactor: update rockspec and release ci workflow](https://github.com/Oval-Tutu/smiti18n/pull/9) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 - [ci: add github ci to run tests](https://github.com/Oval-Tutu/smiti18n/pull/8) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
-- [refactor: rename package to smiti18n](https://github.com/Oval-Tutu/smiti18n/pull/7) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 
 ### Recent releases 📦️
 
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [electron/rcedit](https://github.com/electron/rcedit) (1763)
   - Command line tool to edit resources of exe
-- [nektos/act](https://github.com/nektos/act) (56742)
+- [nektos/act](https://github.com/nektos/act) (56743)
   - Run your GitHub Actions locally 🚀
 - [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) (97)
   - Run graphics accelerated programs built with Nix on any Linux distribution.
