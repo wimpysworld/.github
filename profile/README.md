@@ -32,10 +32,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
+  -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (1 day ago)
   - A very complete internationalization library for Lua with LÖVE support 🌕💕
-- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (2 days ago)
-  -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (2 days ago)
   - Oval Tutu&#39;s GitHub profile ️🟢
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: add eyes](https://github.com/Oval-Tutu/love2d-vscode-template/pull/52) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
+- [feat: add smiti18n](https://github.com/Oval-Tutu/love2d-vscode-template/pull/51) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
 - [refactor: prepare for release](https://github.com/Oval-Tutu/smiti18n/pull/12) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (1 day ago)
 - [feat: add LÖVE filesystem support](https://github.com/Oval-Tutu/smiti18n/pull/11) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (1 day ago)
 - [docs: update the documentation to match current functionality](https://github.com/Oval-Tutu/smiti18n/pull/10) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (1 day ago)
-- [refactor: update rockspec and release ci workflow](https://github.com/Oval-Tutu/smiti18n/pull/9) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (1 day ago)
-- [ci: add github ci to run tests](https://github.com/Oval-Tutu/smiti18n/pull/8) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (1 day ago)
 
 ### Recent releases 📦️
 
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [electron/rcedit](https://github.com/electron/rcedit) (1763)
   - Command line tool to edit resources of exe
-- [nektos/act](https://github.com/nektos/act) (56744)
+- [nektos/act](https://github.com/nektos/act) (56745)
   - Run your GitHub Actions locally 🚀
 - [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) (97)
   - Run graphics accelerated programs built with Nix on any Linux distribution.
