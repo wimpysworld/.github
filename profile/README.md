@@ -69,16 +69,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
+- [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (1)
+  - A very complete internationalization library for Lua with LÖVE support 🌕💕
 - [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1)
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [electron/rcedit](https://github.com/electron/rcedit) (1763)
   - Command line tool to edit resources of exe
-- [nektos/act](https://github.com/nektos/act) (56745)
+- [nektos/act](https://github.com/nektos/act) (56747)
   - Run your GitHub Actions locally 🚀
 - [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) (97)
   - Run graphics accelerated programs built with Nix on any Linux distribution.
-- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) (269)
-  - Automatically refresh your Nix Flakes.
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
