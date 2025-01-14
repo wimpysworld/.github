@@ -32,12 +32,12 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
+  - A very complete internationalization library for Lua with LÖVE support 🌕💕
 - [owncast/owncast](https://github.com/owncast/owncast) (1 day ago)
   - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
-- [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (1 day ago)
-  - A very complete internationalization library for Lua with LÖVE support 🌕💕
 - [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (3 days ago)
   - Oval Tutu&#39;s GitHub profile ️🟢
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
@@ -55,7 +55,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.32.3](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.32.3), 1 day ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.33.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.33.0), today)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) ([0.0.6](https://github.com/Oval-Tutu/love2d-vscode-template/releases/tag/0.0.6), 1 day ago)
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [electron/rcedit](https://github.com/electron/rcedit) (1763)
   - Command line tool to edit resources of exe
-- [nektos/act](https://github.com/nektos/act) (56792)
+- [nektos/act](https://github.com/nektos/act) (56793)
   - Run your GitHub Actions locally 🚀
 - [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) (98)
   - Run graphics accelerated programs built with Nix on any Linux distribution.
