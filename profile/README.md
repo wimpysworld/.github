@@ -32,38 +32,38 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [owncast/owncast](https://github.com/owncast/owncast) (today)
+- [owncast/owncast](https://github.com/owncast/owncast) (1 day ago)
   - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
-- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
+- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
-- [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
+- [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (1 day ago)
   - A very complete internationalization library for Lua with LÖVE support 🌕💕
-- [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (2 days ago)
+- [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (3 days ago)
   - Oval Tutu&#39;s GitHub profile ️🟢
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 
 ### Recent pull requests 🛠️
 
 
-- [docs: add badges](https://github.com/Oval-Tutu/smiti18n/pull/15) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
-- [refactor: optimize code and improve test coverage](https://github.com/Oval-Tutu/smiti18n/pull/14) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
-- [chore: assorted tweaks and improvements](https://github.com/Oval-Tutu/smiti18n/pull/13) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
-- [feat: add eyes](https://github.com/Oval-Tutu/love2d-vscode-template/pull/52) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
-- [feat: add smiti18n](https://github.com/Oval-Tutu/love2d-vscode-template/pull/51) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (today)
+- [docs: add badges](https://github.com/Oval-Tutu/smiti18n/pull/15) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (1 day ago)
+- [refactor: optimize code and improve test coverage](https://github.com/Oval-Tutu/smiti18n/pull/14) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (1 day ago)
+- [chore: assorted tweaks and improvements](https://github.com/Oval-Tutu/smiti18n/pull/13) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (1 day ago)
+- [feat: add eyes](https://github.com/Oval-Tutu/love2d-vscode-template/pull/52) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
+- [feat: add smiti18n](https://github.com/Oval-Tutu/love2d-vscode-template/pull/51) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.32.3](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.32.3), today)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.32.3](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.32.3), 1 day ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) ([0.0.6](https://github.com/Oval-Tutu/love2d-vscode-template/releases/tag/0.0.6), today)
+- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) ([0.0.6](https://github.com/Oval-Tutu/love2d-vscode-template/releases/tag/0.0.6), 1 day ago)
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
-- [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) ([0.9.3](https://github.com/Oval-Tutu/smiti18n/releases/tag/0.9.3), today)
+- [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) ([0.9.3](https://github.com/Oval-Tutu/smiti18n/releases/tag/0.9.3), 1 day ago)
   - A very complete internationalization library for Lua with LÖVE support 🌕💕
-- [owncast/owncast](https://github.com/owncast/owncast) ([v0.2.0](https://github.com/owncast/owncast/releases/tag/v0.2.0), 2 days ago)
+- [owncast/owncast](https://github.com/owncast/owncast) ([v0.2.0](https://github.com/owncast/owncast/releases/tag/v0.2.0), 3 days ago)
   - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250106](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250106), 5 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250106](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250106), 6 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 
 ### Recent starred projects ⭐️
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [electron/rcedit](https://github.com/electron/rcedit) (1763)
   - Command line tool to edit resources of exe
-- [nektos/act](https://github.com/nektos/act) (56763)
+- [nektos/act](https://github.com/nektos/act) (56764)
   - Run your GitHub Actions locally 🚀
 - [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) (98)
   - Run graphics accelerated programs built with Nix on any Linux distribution.
@@ -86,8 +86,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Streaming Your Way to Freedom](https://linuxmatters.sh/46/) (6 days ago)
-- [Working Remotely on the Savannah](https://linuxmatters.sh/45/) (2 weeks ago)
+- [Streaming Your Way to Freedom](https://linuxmatters.sh/46/) (1 week ago)
+- [Working Remotely on the Savannah](https://linuxmatters.sh/45/) (3 weeks ago)
 - [A Textual Rummage With Jason](https://linuxmatters.sh/44/) (1 month ago)
 - [Cuthbert, Dibble and Grub](https://linuxmatters.sh/43/) (1 month ago)
 - [Somewhere Over the Keybow](https://linuxmatters.sh/42/) (2 months ago)
