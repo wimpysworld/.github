@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: add locale-aware number and currency formatting](https://github.com/Oval-Tutu/smiti18n/pull/16) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 - [docs: add badges](https://github.com/Oval-Tutu/smiti18n/pull/15) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (1 day ago)
 - [refactor: optimize code and improve test coverage](https://github.com/Oval-Tutu/smiti18n/pull/14) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (1 day ago)
 - [chore: assorted tweaks and improvements](https://github.com/Oval-Tutu/smiti18n/pull/13) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (1 day ago)
 - [feat: add eyes](https://github.com/Oval-Tutu/love2d-vscode-template/pull/52) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
-- [feat: add smiti18n](https://github.com/Oval-Tutu/love2d-vscode-template/pull/51) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 day ago)
 
 ### Recent releases 📦️
 
