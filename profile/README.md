@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix: correct some locale codes and separate formats from parent translations](https://github.com/Oval-Tutu/smiti18n/pull/21) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 - [fix: a couple of fixes](https://github.com/Oval-Tutu/smiti18n/pull/20) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 - [refactor: reorganise tests and update CI accordingly](https://github.com/Oval-Tutu/smiti18n/pull/19) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 - [feat: add locales](https://github.com/Oval-Tutu/smiti18n/pull/18) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (1 day ago)
 - [docs: update format section of the README](https://github.com/Oval-Tutu/smiti18n/pull/17) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (1 day ago)
-- [feat: add locale-aware number and currency formatting](https://github.com/Oval-Tutu/smiti18n/pull/16) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (1 day ago)
 
 ### Recent releases 📦️
 
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [electron/rcedit](https://github.com/electron/rcedit) (1763)
   - Command line tool to edit resources of exe
-- [nektos/act](https://github.com/nektos/act) (56813)
+- [nektos/act](https://github.com/nektos/act) (56817)
   - Run your GitHub Actions locally 🚀
 - [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) (98)
   - Run graphics accelerated programs built with Nix on any Linux distribution.
