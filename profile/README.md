@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [docs: update README](https://github.com/Oval-Tutu/smiti18n/pull/22) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 - [fix: correct some locale codes and separate formats from parent translations](https://github.com/Oval-Tutu/smiti18n/pull/21) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 - [fix: a couple of fixes](https://github.com/Oval-Tutu/smiti18n/pull/20) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 - [refactor: reorganise tests and update CI accordingly](https://github.com/Oval-Tutu/smiti18n/pull/19) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 - [feat: add locales](https://github.com/Oval-Tutu/smiti18n/pull/18) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (1 day ago)
-- [docs: update format section of the README](https://github.com/Oval-Tutu/smiti18n/pull/17) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (1 day ago)
 
 ### Recent releases 📦️
 
