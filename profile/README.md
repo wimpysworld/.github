@@ -55,6 +55,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
+- [owncast/owncast](https://github.com/owncast/owncast) ([v0.2.1](https://github.com/owncast/owncast/releases/tag/v0.2.1), today)
+  - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.34.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.34.0), 1 day ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250112](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250112), 1 day ago)
@@ -63,8 +65,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) ([0.9.3](https://github.com/Oval-Tutu/smiti18n/releases/tag/0.9.3), 4 days ago)
   - A very complete internationalization library for Lua with LÖVE support 🌕💕
-- [owncast/owncast](https://github.com/owncast/owncast) ([v0.2.0](https://github.com/owncast/owncast/releases/tag/v0.2.0), 6 days ago)
-  - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 
 ### Recent starred projects ⭐️
 
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [electron/rcedit](https://github.com/electron/rcedit) (1764)
   - Command line tool to edit resources of exe
-- [nektos/act](https://github.com/nektos/act) (56887)
+- [nektos/act](https://github.com/nektos/act) (56888)
   - Run your GitHub Actions locally 🚀
 - [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) (98)
   - Run graphics accelerated programs built with Nix on any Linux distribution.
