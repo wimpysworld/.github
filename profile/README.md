@@ -32,13 +32,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (1 day ago)
+- [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (2 days ago)
   - A very complete internationalization library for Lua with LÖVE support 🌕💕
-- [owncast/owncast](https://github.com/owncast/owncast) (3 days ago)
+- [owncast/owncast](https://github.com/owncast/owncast) (4 days ago)
   - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
-- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (3 days ago)
+- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (4 days ago)
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
-- [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (5 days ago)
+- [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (6 days ago)
   - Oval Tutu&#39;s GitHub profile ️🟢
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
@@ -46,24 +46,24 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [docs: update README](https://github.com/Oval-Tutu/smiti18n/pull/22) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (1 day ago)
-- [fix: correct some locale codes and separate formats from parent translations](https://github.com/Oval-Tutu/smiti18n/pull/21) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (1 day ago)
-- [fix: a couple of fixes](https://github.com/Oval-Tutu/smiti18n/pull/20) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (1 day ago)
-- [refactor: reorganise tests and update CI accordingly](https://github.com/Oval-Tutu/smiti18n/pull/19) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (1 day ago)
-- [feat: add locales](https://github.com/Oval-Tutu/smiti18n/pull/18) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (2 days ago)
+- [docs: update README](https://github.com/Oval-Tutu/smiti18n/pull/22) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (2 days ago)
+- [fix: correct some locale codes and separate formats from parent translations](https://github.com/Oval-Tutu/smiti18n/pull/21) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (2 days ago)
+- [fix: a couple of fixes](https://github.com/Oval-Tutu/smiti18n/pull/20) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (2 days ago)
+- [refactor: reorganise tests and update CI accordingly](https://github.com/Oval-Tutu/smiti18n/pull/19) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (2 days ago)
+- [feat: add locales](https://github.com/Oval-Tutu/smiti18n/pull/18) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (3 days ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.34.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.34.0), today)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.34.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.34.0), 1 day ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250112](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250112), today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250112](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250112), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) ([0.0.6](https://github.com/Oval-Tutu/love2d-vscode-template/releases/tag/0.0.6), 3 days ago)
+- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) ([0.0.6](https://github.com/Oval-Tutu/love2d-vscode-template/releases/tag/0.0.6), 4 days ago)
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
-- [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) ([0.9.3](https://github.com/Oval-Tutu/smiti18n/releases/tag/0.9.3), 3 days ago)
+- [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) ([0.9.3](https://github.com/Oval-Tutu/smiti18n/releases/tag/0.9.3), 4 days ago)
   - A very complete internationalization library for Lua with LÖVE support 🌕💕
-- [owncast/owncast](https://github.com/owncast/owncast) ([v0.2.0](https://github.com/owncast/owncast/releases/tag/v0.2.0), 5 days ago)
+- [owncast/owncast](https://github.com/owncast/owncast) ([v0.2.0](https://github.com/owncast/owncast/releases/tag/v0.2.0), 6 days ago)
   - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 
 ### Recent starred projects ⭐️
