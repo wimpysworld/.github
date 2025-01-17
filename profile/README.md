@@ -34,14 +34,14 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [wimpysworld/.github](https://github.com/wimpysworld/.github) (today)
   - A ✨special ✨ repository
+- [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (today)
+  - Oval Tutu&#39;s GitHub profile ️🟢
 - [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (2 days ago)
   - A very complete internationalization library for Lua with LÖVE support 🌕💕
-- [owncast/owncast](https://github.com/owncast/owncast) (4 days ago)
-  - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (4 days ago)
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
-- [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (6 days ago)
-  - Oval Tutu&#39;s GitHub profile ️🟢
+- [owncast/owncast](https://github.com/owncast/owncast) (4 days ago)
+  - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 
 ### Recent pull requests 🛠️
 
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [electron/rcedit](https://github.com/electron/rcedit) (1764)
   - Command line tool to edit resources of exe
-- [nektos/act](https://github.com/nektos/act) (56874)
+- [nektos/act](https://github.com/nektos/act) (56875)
   - Run your GitHub Actions locally 🚀
 - [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) (98)
   - Run graphics accelerated programs built with Nix on any Linux distribution.
