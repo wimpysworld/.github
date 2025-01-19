@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [chore: bump version](https://github.com/Oval-Tutu/smiti18n/pull/25) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
+- [docs: add smiti18n](https://github.com/love2d-community/awesome-love2d/pull/280) on [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (today)
+- [docs: add smiti18n](https://github.com/love2d-community/awesome-love2d/pull/279) on [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (today)
 - [refactor: optimize dotSplit performance by replacing gsub](https://github.com/Oval-Tutu/smiti18n/pull/24) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 - [refactor: replace concat with optimised appendLocales and add tests](https://github.com/Oval-Tutu/smiti18n/pull/23) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
-- [docs: update README](https://github.com/Oval-Tutu/smiti18n/pull/22) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (4 days ago)
-- [fix: correct some locale codes and separate formats from parent translations](https://github.com/Oval-Tutu/smiti18n/pull/21) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (4 days ago)
-- [fix: a couple of fixes](https://github.com/Oval-Tutu/smiti18n/pull/20) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (4 days ago)
 
 ### Recent releases 📦️
 
@@ -69,16 +69,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
+- [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3476)
+  - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 - [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (1)
   - A very complete internationalization library for Lua with LÖVE support 🌕💕
 - [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1)
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [electron/rcedit](https://github.com/electron/rcedit) (1766)
   - Command line tool to edit resources of exe
-- [nektos/act](https://github.com/nektos/act) (56924)
+- [nektos/act](https://github.com/nektos/act) (56923)
   - Run your GitHub Actions locally 🚀
-- [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) (98)
-  - Run graphics accelerated programs built with Nix on any Linux distribution.
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
