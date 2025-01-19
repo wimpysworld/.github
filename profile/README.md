@@ -71,13 +71,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3476)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
-- [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (3)
+- [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (5)
   - A very complete internationalization library for Lua with LÖVE support 🌕💕
 - [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1)
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [electron/rcedit](https://github.com/electron/rcedit) (1766)
   - Command line tool to edit resources of exe
-- [nektos/act](https://github.com/nektos/act) (56923)
+- [nektos/act](https://github.com/nektos/act) (56924)
   - Run your GitHub Actions locally 🚀
 
 ### 🎙️ Podcast
