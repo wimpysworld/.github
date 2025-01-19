@@ -32,12 +32,12 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
+  - A very complete internationalization library for Lua with LÖVE support 🌕💕
 - [wimpysworld/.github](https://github.com/wimpysworld/.github) (2 days ago)
   - A ✨special ✨ repository
 - [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (2 days ago)
   - Oval Tutu&#39;s GitHub profile ️🟢
-- [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (4 days ago)
-  - A very complete internationalization library for Lua with LÖVE support 🌕💕
 - [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (6 days ago)
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [owncast/owncast](https://github.com/owncast/owncast) (6 days ago)
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: replace concat with optimised appendLocales and add tests](https://github.com/Oval-Tutu/smiti18n/pull/23) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (today)
 - [docs: update README](https://github.com/Oval-Tutu/smiti18n/pull/22) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (4 days ago)
 - [fix: correct some locale codes and separate formats from parent translations](https://github.com/Oval-Tutu/smiti18n/pull/21) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (4 days ago)
 - [fix: a couple of fixes](https://github.com/Oval-Tutu/smiti18n/pull/20) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (4 days ago)
 - [refactor: reorganise tests and update CI accordingly](https://github.com/Oval-Tutu/smiti18n/pull/19) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (4 days ago)
-- [feat: add locales](https://github.com/Oval-Tutu/smiti18n/pull/18) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (5 days ago)
 
 ### Recent releases 📦️
 
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [electron/rcedit](https://github.com/electron/rcedit) (1766)
   - Command line tool to edit resources of exe
-- [nektos/act](https://github.com/nektos/act) (56920)
+- [nektos/act](https://github.com/nektos/act) (56921)
   - Run your GitHub Actions locally 🚀
 - [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) (98)
   - Run graphics accelerated programs built with Nix on any Linux distribution.
