@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [electron/rcedit](https://github.com/electron/rcedit) (1766)
   - Command line tool to edit resources of exe
-- [nektos/act](https://github.com/nektos/act) (56936)
+- [nektos/act](https://github.com/nektos/act) (56937)
   - Run your GitHub Actions locally 🚀
 
 ### 🎙️ Podcast
