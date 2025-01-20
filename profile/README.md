@@ -69,6 +69,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
+- [yorukot/superfile](https://github.com/yorukot/superfile) (9046)
+  - Pretty fancy and modern terminal file manager
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3477)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 - [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (11)
@@ -77,8 +79,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [electron/rcedit](https://github.com/electron/rcedit) (1766)
   - Command line tool to edit resources of exe
-- [nektos/act](https://github.com/nektos/act) (56941)
-  - Run your GitHub Actions locally 🚀
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
