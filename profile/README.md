@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [yorukot/superfile](https://github.com/yorukot/superfile) (9410)
+- [yorukot/superfile](https://github.com/yorukot/superfile) (9429)
   - Pretty fancy and modern terminal file manager
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3482)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
