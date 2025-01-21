@@ -69,13 +69,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [yorukot/superfile](https://github.com/yorukot/superfile) (9429)
+- [yorukot/superfile](https://github.com/yorukot/superfile) (9445)
   - Pretty fancy and modern terminal file manager
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3482)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
-- [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (14)
+- [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (15)
   - A very complete internationalization library for Lua with LÖVE support 🌕💕
-- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1)
+- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (2)
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [electron/rcedit](https://github.com/electron/rcedit) (1766)
   - Command line tool to edit resources of exe
