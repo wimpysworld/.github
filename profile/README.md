@@ -34,12 +34,12 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (2 days ago)
   - A very complete internationalization library for Lua with LÖVE support 🌕💕
-- [wimpysworld/.github](https://github.com/wimpysworld/.github) (4 days ago)
-  - A ✨special ✨ repository
+- [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (2 days ago)
+  - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 - [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (4 days ago)
   - Oval Tutu&#39;s GitHub profile ️🟢
-- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 week ago)
-  -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
+- [wimpysworld/.github](https://github.com/wimpysworld/.github) (4 days ago)
+  - A ✨special ✨ repository
 - [owncast/owncast](https://github.com/owncast/owncast) (1 week ago)
   - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 
@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [yorukot/superfile](https://github.com/yorukot/superfile) (9482)
+- [yorukot/superfile](https://github.com/yorukot/superfile) (9484)
   - Pretty fancy and modern terminal file manager
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3483)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
