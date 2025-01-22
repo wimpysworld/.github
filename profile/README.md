@@ -69,9 +69,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [yorukot/superfile](https://github.com/yorukot/superfile) (9525)
+- [yorukot/superfile](https://github.com/yorukot/superfile) (9527)
   - Pretty fancy and modern terminal file manager
-- [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3486)
+- [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3487)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 - [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (16)
   - A very complete internationalization library for Lua with LÖVE support 🌕💕
