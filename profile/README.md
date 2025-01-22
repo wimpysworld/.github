@@ -32,13 +32,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (2 days ago)
+- [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (3 days ago)
   - A very complete internationalization library for Lua with LÖVE support 🌕💕
-- [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (2 days ago)
+- [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3 days ago)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
-- [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (4 days ago)
+- [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (5 days ago)
   - Oval Tutu&#39;s GitHub profile ️🟢
-- [wimpysworld/.github](https://github.com/wimpysworld/.github) (4 days ago)
+- [wimpysworld/.github](https://github.com/wimpysworld/.github) (5 days ago)
   - A ✨special ✨ repository
 - [owncast/owncast](https://github.com/owncast/owncast) (1 week ago)
   - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
@@ -46,22 +46,22 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [chore: bump version](https://github.com/Oval-Tutu/smiti18n/pull/25) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (2 days ago)
-- [docs: add smiti18n](https://github.com/love2d-community/awesome-love2d/pull/280) on [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (2 days ago)
-- [docs: add smiti18n](https://github.com/love2d-community/awesome-love2d/pull/279) on [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (2 days ago)
-- [refactor: optimize dotSplit performance by replacing gsub](https://github.com/Oval-Tutu/smiti18n/pull/24) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (2 days ago)
-- [refactor: replace concat with optimised appendLocales and add tests](https://github.com/Oval-Tutu/smiti18n/pull/23) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (2 days ago)
+- [chore: bump version](https://github.com/Oval-Tutu/smiti18n/pull/25) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (3 days ago)
+- [docs: add smiti18n](https://github.com/love2d-community/awesome-love2d/pull/280) on [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3 days ago)
+- [docs: add smiti18n](https://github.com/love2d-community/awesome-love2d/pull/279) on [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3 days ago)
+- [refactor: optimize dotSplit performance by replacing gsub](https://github.com/Oval-Tutu/smiti18n/pull/24) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (3 days ago)
+- [refactor: replace concat with optimised appendLocales and add tests](https://github.com/Oval-Tutu/smiti18n/pull/23) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (3 days ago)
 
 ### Recent releases 📦️
 
 
-- [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) ([0.9.4](https://github.com/Oval-Tutu/smiti18n/releases/tag/0.9.4), 2 days ago)
+- [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) ([0.9.4](https://github.com/Oval-Tutu/smiti18n/releases/tag/0.9.4), 3 days ago)
   - A very complete internationalization library for Lua with LÖVE support 🌕💕
-- [owncast/owncast](https://github.com/owncast/owncast) ([v0.2.1](https://github.com/owncast/owncast/releases/tag/v0.2.1), 4 days ago)
+- [owncast/owncast](https://github.com/owncast/owncast) ([v0.2.1](https://github.com/owncast/owncast/releases/tag/v0.2.1), 5 days ago)
   - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.34.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.34.0), 5 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.34.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.34.0), 6 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250112](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250112), 5 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250112](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250112), 6 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) ([0.0.6](https://github.com/Oval-Tutu/love2d-vscode-template/releases/tag/0.0.6), 1 week ago)
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [yorukot/superfile](https://github.com/yorukot/superfile) (9500)
+- [yorukot/superfile](https://github.com/yorukot/superfile) (9505)
   - Pretty fancy and modern terminal file manager
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3485)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Not a Bar or a Camp](https://linuxmatters.sh/47/) (today)
+- [Not a Bar or a Camp](https://linuxmatters.sh/47/) (1 day ago)
 - [Streaming Your Way to Freedom](https://linuxmatters.sh/46/) (2 weeks ago)
 - [Working Remotely on the Savannah](https://linuxmatters.sh/45/) (4 weeks ago)
 - [A Textual Rummage With Jason](https://linuxmatters.sh/44/) (1 month ago)
