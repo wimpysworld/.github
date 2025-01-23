@@ -32,14 +32,14 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (today)
+  - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (4 days ago)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 - [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (4 days ago)
   - A very complete internationalization library for Lua with LÖVE support 🌕💕
-- [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (6 days ago)
-  - Oval Tutu&#39;s GitHub profile ️🟢
 - [wimpysworld/.github](https://github.com/wimpysworld/.github) (6 days ago)
   - A ✨special ✨ repository
 
@@ -55,6 +55,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
+- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.3](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.3), today)
+  - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250122](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250122), today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) ([0.9.4](https://github.com/Oval-Tutu/smiti18n/releases/tag/0.9.4), 4 days ago)
@@ -63,13 +65,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.34.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.34.0), 1 week ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) ([0.0.6](https://github.com/Oval-Tutu/love2d-vscode-template/releases/tag/0.0.6), 1 week ago)
-  -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 
 ### Recent starred projects ⭐️
 
 
-- [yorukot/superfile](https://github.com/yorukot/superfile) (9982)
+- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (1)
+  - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
+- [yorukot/superfile](https://github.com/yorukot/superfile) (9990)
   - Pretty fancy and modern terminal file manager
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3489)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
@@ -77,8 +79,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - A very complete internationalization library for Lua with LÖVE support 🌕💕
 - [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (2)
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
-- [electron/rcedit](https://github.com/electron/rcedit) (1767)
-  - Command line tool to edit resources of exe
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
