@@ -32,16 +32,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (4 days ago)
-  - A very complete internationalization library for Lua with LÖVE support 🌕💕
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (4 days ago)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
+- [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (4 days ago)
+  - A very complete internationalization library for Lua with LÖVE support 🌕💕
 - [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (6 days ago)
   - Oval Tutu&#39;s GitHub profile ️🟢
 - [wimpysworld/.github](https://github.com/wimpysworld/.github) (6 days ago)
   - A ✨special ✨ repository
-- [owncast/owncast](https://github.com/owncast/owncast) (1 week ago)
-  - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 
 ### Recent pull requests 🛠️
 
@@ -55,7 +55,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250119](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250119), 1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250122](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250122), today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) ([0.9.4](https://github.com/Oval-Tutu/smiti18n/releases/tag/0.9.4), 4 days ago)
   - A very complete internationalization library for Lua with LÖVE support 🌕💕
@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [yorukot/superfile](https://github.com/yorukot/superfile) (9938)
+- [yorukot/superfile](https://github.com/yorukot/superfile) (9957)
   - Pretty fancy and modern terminal file manager
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3490)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
