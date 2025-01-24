@@ -36,21 +36,21 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (1 day ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (5 days ago)
-  - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 - [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (5 days ago)
   - A very complete internationalization library for Lua with LÖVE support 🌕💕
+- [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (5 days ago)
+  - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 - [wimpysworld/.github](https://github.com/wimpysworld/.github) (1 week ago)
   - A ✨special ✨ repository
 
 ### Recent pull requests 🛠️
 
 
+- [ci: migrate to flakehub-cache-action](https://github.com/DeterminateSystems/home-manager-example/pull/6) on [DeterminateSystems/home-manager-example](https://github.com/DeterminateSystems/home-manager-example) (today)
 - [ci: migrate to flakehub cache action](https://github.com/wimpysworld/nix-config/pull/431) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [refactor: more updates](https://github.com/wimpysworld/nix-config/pull/430) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [refactor: assorted updates](https://github.com/wimpysworld/nix-config/pull/429) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [fix: update fh](https://github.com/wimpysworld/nix-config/pull/428) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [chore: bump version](https://github.com/Oval-Tutu/smiti18n/pull/25) on [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (5 days ago)
 
 ### Recent releases 📦️
 
@@ -71,11 +71,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (3)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [yorukot/superfile](https://github.com/yorukot/superfile) (10108)
+- [yorukot/superfile](https://github.com/yorukot/superfile) (10114)
   - Pretty fancy and modern terminal file manager
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3489)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
-- [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (19)
+- [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (20)
   - A very complete internationalization library for Lua with LÖVE support 🌕💕
 - [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (2)
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
