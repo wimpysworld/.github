@@ -32,34 +32,34 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [DeterminateSystems/home-manager-example](https://github.com/DeterminateSystems/home-manager-example) (today)
+- [DeterminateSystems/home-manager-example](https://github.com/DeterminateSystems/home-manager-example) (1 day ago)
   - Example Home Manager flake integrated with FlakeHub
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (1 day ago)
+- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (2 days ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (5 days ago)
+- [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) (6 days ago)
   - A very complete internationalization library for Lua with LÖVE support 🌕💕
-- [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (5 days ago)
+- [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (6 days ago)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 
 ### Recent pull requests 🛠️
 
 
-- [ci: migrate to flakehub-cache-action](https://github.com/DeterminateSystems/home-manager-example/pull/6) on [DeterminateSystems/home-manager-example](https://github.com/DeterminateSystems/home-manager-example) (today)
-- [ci: migrate to flakehub cache action](https://github.com/wimpysworld/nix-config/pull/431) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [refactor: more updates](https://github.com/wimpysworld/nix-config/pull/430) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [refactor: assorted updates](https://github.com/wimpysworld/nix-config/pull/429) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [fix: update fh](https://github.com/wimpysworld/nix-config/pull/428) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [ci: migrate to flakehub-cache-action](https://github.com/DeterminateSystems/home-manager-example/pull/6) on [DeterminateSystems/home-manager-example](https://github.com/DeterminateSystems/home-manager-example) (1 day ago)
+- [ci: migrate to flakehub cache action](https://github.com/wimpysworld/nix-config/pull/431) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [refactor: more updates](https://github.com/wimpysworld/nix-config/pull/430) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [refactor: assorted updates](https://github.com/wimpysworld/nix-config/pull/429) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [fix: update fh](https://github.com/wimpysworld/nix-config/pull/428) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.3](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.3), 1 day ago)
+- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.3](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.3), 2 days ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250122](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250122), 1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250122](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250122), 2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) ([0.9.4](https://github.com/Oval-Tutu/smiti18n/releases/tag/0.9.4), 5 days ago)
+- [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) ([0.9.4](https://github.com/Oval-Tutu/smiti18n/releases/tag/0.9.4), 6 days ago)
   - A very complete internationalization library for Lua with LÖVE support 🌕💕
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.2.1](https://github.com/owncast/owncast/releases/tag/v0.2.1), 1 week ago)
   - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - A Python script to automatically remove followers from your Twitter/X account. This script helps remove people who *follow you*, not people you follow.
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (3)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [yorukot/superfile](https://github.com/yorukot/superfile) (10160)
+- [yorukot/superfile](https://github.com/yorukot/superfile) (10167)
   - Pretty fancy and modern terminal file manager
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3489)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
@@ -86,11 +86,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Not a Bar or a Camp](https://linuxmatters.sh/47/) (3 days ago)
+- [Not a Bar or a Camp](https://linuxmatters.sh/47/) (4 days ago)
 - [Streaming Your Way to Freedom](https://linuxmatters.sh/46/) (2 weeks ago)
 - [Working Remotely on the Savannah](https://linuxmatters.sh/45/) (1 month ago)
 - [A Textual Rummage With Jason](https://linuxmatters.sh/44/) (1 month ago)
-- [Cuthbert, Dibble and Grub](https://linuxmatters.sh/43/) (1 month ago)
+- [Cuthbert, Dibble and Grub](https://linuxmatters.sh/43/) (2 months ago)
 
 ### 📺️ YouTube
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
