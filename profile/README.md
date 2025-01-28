@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [DeterminateSystems/home-manager-example](https://github.com/DeterminateSystems/home-manager-example) (4 days ago)
   - Example Home Manager flake integrated with FlakeHub
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - A Python script to automatically remove followers from your Twitter/X account. This script helps remove people who *follow you*, not people you follow.
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (3)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [yorukot/superfile](https://github.com/yorukot/superfile) (10511)
+- [yorukot/superfile](https://github.com/yorukot/superfile) (10512)
   - Pretty fancy and modern terminal file manager
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3497)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
