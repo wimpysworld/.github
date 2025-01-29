@@ -32,11 +32,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [DeterminateSystems/home-manager-example](https://github.com/DeterminateSystems/home-manager-example) (4 days ago)
+- [DeterminateSystems/home-manager-example](https://github.com/DeterminateSystems/home-manager-example) (5 days ago)
   - Example Home Manager flake integrated with FlakeHub
-- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (5 days ago)
+- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (6 days ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (1 week ago)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
@@ -46,18 +46,18 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [ci: migrate to flakehub-cache-action](https://github.com/DeterminateSystems/home-manager-example/pull/6) on [DeterminateSystems/home-manager-example](https://github.com/DeterminateSystems/home-manager-example) (4 days ago)
-- [ci: migrate to flakehub cache action](https://github.com/wimpysworld/nix-config/pull/431) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
-- [refactor: more updates](https://github.com/wimpysworld/nix-config/pull/430) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
-- [refactor: assorted updates](https://github.com/wimpysworld/nix-config/pull/429) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
-- [fix: update fh](https://github.com/wimpysworld/nix-config/pull/428) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
+- [ci: migrate to flakehub-cache-action](https://github.com/DeterminateSystems/home-manager-example/pull/6) on [DeterminateSystems/home-manager-example](https://github.com/DeterminateSystems/home-manager-example) (5 days ago)
+- [ci: migrate to flakehub cache action](https://github.com/wimpysworld/nix-config/pull/431) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
+- [refactor: more updates](https://github.com/wimpysworld/nix-config/pull/430) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
+- [refactor: assorted updates](https://github.com/wimpysworld/nix-config/pull/429) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
+- [fix: update fh](https://github.com/wimpysworld/nix-config/pull/428) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.3](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.3), 5 days ago)
+- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.3](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.3), 6 days ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250122](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250122), 5 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250122](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250122), 6 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) ([0.9.4](https://github.com/Oval-Tutu/smiti18n/releases/tag/0.9.4), 1 week ago)
   - A very complete internationalization library for Lua with LÖVE support 🌕💕
@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - A Python script to automatically remove followers from your Twitter/X account. This script helps remove people who *follow you*, not people you follow.
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (3)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [yorukot/superfile](https://github.com/yorukot/superfile) (10535)
+- [yorukot/superfile](https://github.com/yorukot/superfile) (10536)
   - Pretty fancy and modern terminal file manager
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3496)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
