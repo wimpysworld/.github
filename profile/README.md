@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (2 days ago)
+- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (3 days ago)
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [DeterminateSystems/home-manager-example](https://github.com/DeterminateSystems/home-manager-example) (1 week ago)
   - Example Home Manager flake integrated with FlakeHub
@@ -46,8 +46,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [feat: add debug overlay](https://github.com/Oval-Tutu/love2d-vscode-template/pull/54) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (2 days ago)
-- [wip: add the beginnings of locale switching](https://github.com/Oval-Tutu/love2d-vscode-template/pull/53) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (2 days ago)
+- [feat: add debug overlay](https://github.com/Oval-Tutu/love2d-vscode-template/pull/54) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (3 days ago)
+- [wip: add the beginnings of locale switching](https://github.com/Oval-Tutu/love2d-vscode-template/pull/53) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (3 days ago)
 - [ci: migrate to flakehub-cache-action](https://github.com/DeterminateSystems/home-manager-example/pull/6) on [DeterminateSystems/home-manager-example](https://github.com/DeterminateSystems/home-manager-example) (1 week ago)
 - [ci: migrate to flakehub cache action](https://github.com/wimpysworld/nix-config/pull/431) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [refactor: more updates](https://github.com/wimpysworld/nix-config/pull/430) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
@@ -55,7 +55,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250129](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250129), 2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250129](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250129), 3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.3](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.3), 1 week ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [Haxxnet/nmap-bootstrap-xsl](https://github.com/Haxxnet/nmap-bootstrap-xsl) (63)
+- [Haxxnet/nmap-bootstrap-xsl](https://github.com/Haxxnet/nmap-bootstrap-xsl) (64)
   - An Nmap XSL implementation with Bootstrap. Allows Nmap XML port scan results to be converted into beautiful HTML reports.
 - [popey/twitter-defollower](https://github.com/popey/twitter-defollower) (6)
   - A Python script to automatically remove followers from your Twitter/X account. This script helps remove people who *follow you*, not people you follow.
