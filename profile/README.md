@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - A Python script to automatically remove followers from your Twitter/X account. This script helps remove people who *follow you*, not people you follow.
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (4)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [yorukot/superfile](https://github.com/yorukot/superfile) (10648)
+- [yorukot/superfile](https://github.com/yorukot/superfile) (10649)
   - Pretty fancy and modern terminal file manager
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3505)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
@@ -86,11 +86,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
+- [Algorithms, Actions, and GitHub Adventures](https://linuxmatters.sh/48/) (today)
 - [Not a Bar or a Camp](https://linuxmatters.sh/47/) (2 weeks ago)
 - [Streaming Your Way to Freedom](https://linuxmatters.sh/46/) (4 weeks ago)
 - [Working Remotely on the Savannah](https://linuxmatters.sh/45/) (1 month ago)
 - [A Textual Rummage With Jason](https://linuxmatters.sh/44/) (1 month ago)
-- [Cuthbert, Dibble and Grub](https://linuxmatters.sh/43/) (2 months ago)
 
 ### 📺️ YouTube
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
