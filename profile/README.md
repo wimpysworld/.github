@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (4 days ago)
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
@@ -46,16 +46,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: add transmission](https://github.com/wimpysworld/nix-config/pull/436) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add debug overlay](https://github.com/Oval-Tutu/love2d-vscode-template/pull/54) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (4 days ago)
 - [wip: add the beginnings of locale switching](https://github.com/Oval-Tutu/love2d-vscode-template/pull/53) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (4 days ago)
 - [ci: migrate to flakehub-cache-action](https://github.com/DeterminateSystems/home-manager-example/pull/6) on [DeterminateSystems/home-manager-example](https://github.com/DeterminateSystems/home-manager-example) (1 week ago)
 - [ci: migrate to flakehub cache action](https://github.com/wimpysworld/nix-config/pull/431) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-- [refactor: more updates](https://github.com/wimpysworld/nix-config/pull/430) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250129](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250129), 4 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250201](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250201), today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.3](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.3), 1 week ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
