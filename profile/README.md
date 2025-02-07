@@ -55,10 +55,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.36.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.36.0), today)
+  - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250206](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250206), today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.35.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.35.0), 2 days ago)
-  - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.3](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.3), 2 weeks ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 - [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) ([0.9.4](https://github.com/Oval-Tutu/smiti18n/releases/tag/0.9.4), 2 weeks ago)
