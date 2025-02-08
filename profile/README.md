@@ -75,9 +75,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - A Python script to automatically remove followers from your Twitter/X account. This script helps remove people who *follow you*, not people you follow.
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (4)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [yorukot/superfile](https://github.com/yorukot/superfile) (10766)
+- [yorukot/superfile](https://github.com/yorukot/superfile) (10765)
   - Pretty fancy and modern terminal file manager
-- [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3507)
+- [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3506)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 
 ### 🎙️ Podcast
