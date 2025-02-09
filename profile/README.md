@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 week ago)
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
@@ -40,13 +40,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Example Home Manager flake integrated with FlakeHub
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (2 weeks ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (2 weeks ago)
+- [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3 weeks ago)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 
 ### Recent pull requests 🛠️
 
 
-- [feat: add transmission](https://github.com/wimpysworld/nix-config/pull/436) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [feat: add transmission](https://github.com/wimpysworld/nix-config/pull/436) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 - [feat: add debug overlay](https://github.com/Oval-Tutu/love2d-vscode-template/pull/54) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 week ago)
 - [wip: add the beginnings of locale switching](https://github.com/Oval-Tutu/love2d-vscode-template/pull/53) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 week ago)
 - [ci: migrate to flakehub-cache-action](https://github.com/DeterminateSystems/home-manager-example/pull/6) on [DeterminateSystems/home-manager-example](https://github.com/DeterminateSystems/home-manager-example) (2 weeks ago)
@@ -55,13 +55,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.36.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.36.1), today)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.36.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.36.1), 1 day ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250206](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250206), 1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250206](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250206), 2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.3](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.3), 2 weeks ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) ([0.9.4](https://github.com/Oval-Tutu/smiti18n/releases/tag/0.9.4), 2 weeks ago)
+- [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) ([0.9.4](https://github.com/Oval-Tutu/smiti18n/releases/tag/0.9.4), 3 weeks ago)
   - A very complete internationalization library for Lua with LÖVE support 🌕💕
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.2.1](https://github.com/owncast/owncast/releases/tag/v0.2.1), 3 weeks ago)
   - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Algorithms, Actions, and GitHub Adventures](https://linuxmatters.sh/48/) (4 days ago)
+- [Algorithms, Actions, and GitHub Adventures](https://linuxmatters.sh/48/) (5 days ago)
 - [Not a Bar or a Camp](https://linuxmatters.sh/47/) (2 weeks ago)
 - [Streaming Your Way to Freedom](https://linuxmatters.sh/46/) (1 month ago)
 - [Working Remotely on the Savannah](https://linuxmatters.sh/45/) (1 month ago)
