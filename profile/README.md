@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 week ago)
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
@@ -46,8 +46,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [chore: clear out some cruft](https://github.com/wimpysworld/nix-config/pull/437) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: add transmission](https://github.com/wimpysworld/nix-config/pull/436) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [chore: clear out some cruft](https://github.com/wimpysworld/nix-config/pull/437) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: add transmission](https://github.com/wimpysworld/nix-config/pull/436) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 - [feat: add debug overlay](https://github.com/Oval-Tutu/love2d-vscode-template/pull/54) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 week ago)
 - [wip: add the beginnings of locale switching](https://github.com/Oval-Tutu/love2d-vscode-template/pull/53) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 week ago)
 - [ci: migrate to flakehub-cache-action](https://github.com/DeterminateSystems/home-manager-example/pull/6) on [DeterminateSystems/home-manager-example](https://github.com/DeterminateSystems/home-manager-example) (2 weeks ago)
@@ -55,9 +55,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.36.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.36.1), 1 day ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.36.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.36.1), 2 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250206](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250206), 2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250206](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250206), 3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.3](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.3), 2 weeks ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Algorithms, Actions, and GitHub Adventures](https://linuxmatters.sh/48/) (5 days ago)
+- [Algorithms, Actions, and GitHub Adventures](https://linuxmatters.sh/48/) (6 days ago)
 - [Not a Bar or a Camp](https://linuxmatters.sh/47/) (2 weeks ago)
 - [Streaming Your Way to Freedom](https://linuxmatters.sh/46/) (1 month ago)
 - [Working Remotely on the Savannah](https://linuxmatters.sh/45/) (1 month ago)
