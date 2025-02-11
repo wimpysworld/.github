@@ -36,7 +36,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (today)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 week ago)
+- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 week ago)
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [DeterminateSystems/home-manager-example](https://github.com/DeterminateSystems/home-manager-example) (2 weeks ago)
   - Example Home Manager flake integrated with FlakeHub
@@ -49,8 +49,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 - [style: use nerd fonts](https://github.com/wimpysworld/nixos-needsreboot/pull/1) on [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (today)
 - [chore: clear out some cruft](https://github.com/wimpysworld/nix-config/pull/437) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 - [feat: add transmission](https://github.com/wimpysworld/nix-config/pull/436) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-- [feat: add debug overlay](https://github.com/Oval-Tutu/love2d-vscode-template/pull/54) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 week ago)
-- [wip: add the beginnings of locale switching](https://github.com/Oval-Tutu/love2d-vscode-template/pull/53) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 week ago)
+- [feat: add debug overlay](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/54) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 week ago)
+- [wip: add the beginnings of locale switching](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/53) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 week ago)
 
 ### Recent releases 📦️
 
