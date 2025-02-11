@@ -34,33 +34,33 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
+- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (today)
+  - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 - [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 week ago)
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [DeterminateSystems/home-manager-example](https://github.com/DeterminateSystems/home-manager-example) (2 weeks ago)
   - Example Home Manager flake integrated with FlakeHub
-- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (2 weeks ago)
-  - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3 weeks ago)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 
 ### Recent pull requests 🛠️
 
 
+- [style: use nerd fonts](https://github.com/wimpysworld/nixos-needsreboot/pull/1) on [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (today)
 - [chore: clear out some cruft](https://github.com/wimpysworld/nix-config/pull/437) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 - [feat: add transmission](https://github.com/wimpysworld/nix-config/pull/436) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [feat: add debug overlay](https://github.com/Oval-Tutu/love2d-vscode-template/pull/54) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 week ago)
 - [wip: add the beginnings of locale switching](https://github.com/Oval-Tutu/love2d-vscode-template/pull/53) on [Oval-Tutu/love2d-vscode-template](https://github.com/Oval-Tutu/love2d-vscode-template) (1 week ago)
-- [ci: migrate to flakehub-cache-action](https://github.com/DeterminateSystems/home-manager-example/pull/6) on [DeterminateSystems/home-manager-example](https://github.com/DeterminateSystems/home-manager-example) (2 weeks ago)
 
 ### Recent releases 📦️
 
 
+- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.5](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.5), today)
+  - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250208](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250208), today)
+  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.36.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.36.1), 3 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250206](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250206), 4 days ago)
-  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.3](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.3), 2 weeks ago)
-  - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 - [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) ([0.9.4](https://github.com/Oval-Tutu/smiti18n/releases/tag/0.9.4), 3 weeks ago)
   - A very complete internationalization library for Lua with LÖVE support 🌕💕
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.2.1](https://github.com/owncast/owncast/releases/tag/v0.2.1), 3 weeks ago)
