@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (2 days ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: rationalise hyprland persistent workspaces](https://github.com/wimpysworld/nix-config/pull/439) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [style: use nerd fonts](https://github.com/wimpysworld/nixos-needsreboot/pull/1) on [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (2 days ago)
 - [chore: clear out some cruft](https://github.com/wimpysworld/nix-config/pull/437) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 - [feat: add transmission](https://github.com/wimpysworld/nix-config/pull/436) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [feat: add debug overlay](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/54) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 week ago)
-- [wip: add the beginnings of locale switching](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/53) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 week ago)
 
 ### Recent releases 📦️
 
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - A Python script to automatically remove followers from your Twitter/X account. This script helps remove people who *follow you*, not people you follow.
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (4)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [yorukot/superfile](https://github.com/yorukot/superfile) (10881)
+- [yorukot/superfile](https://github.com/yorukot/superfile) (10883)
   - Pretty fancy and modern terminal file manager
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3527)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
