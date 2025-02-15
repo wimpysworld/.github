@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (3 days ago)
+- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (4 days ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 - [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (2 weeks ago)
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
@@ -46,20 +46,20 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [refactor: add cpu status to waybar, fix aviso OSD, tweak icons and update packages](https://github.com/wimpysworld/nix-config/pull/441) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: rationalise hyprland persistent workspaces](https://github.com/wimpysworld/nix-config/pull/439) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [style: use nerd fonts](https://github.com/wimpysworld/nixos-needsreboot/pull/1) on [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (3 days ago)
-- [chore: clear out some cruft](https://github.com/wimpysworld/nix-config/pull/437) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [refactor: add cpu status to waybar, fix aviso OSD, tweak icons and update packages](https://github.com/wimpysworld/nix-config/pull/441) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [refactor: rationalise hyprland persistent workspaces](https://github.com/wimpysworld/nix-config/pull/439) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [style: use nerd fonts](https://github.com/wimpysworld/nixos-needsreboot/pull/1) on [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (4 days ago)
+- [chore: clear out some cruft](https://github.com/wimpysworld/nix-config/pull/437) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 - [feat: add transmission](https://github.com/wimpysworld/nix-config/pull/436) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.36.4](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.36.4), today)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.36.4](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.36.4), 1 day ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250212](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250212), today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250212](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250212), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.5](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.5), 3 days ago)
+- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.5](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.5), 4 days ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 - [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) ([0.9.4](https://github.com/Oval-Tutu/smiti18n/releases/tag/0.9.4), 3 weeks ago)
   - A very complete internationalization library for Lua with LÖVE support 🌕💕
@@ -75,9 +75,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - A Python script to automatically remove followers from your Twitter/X account. This script helps remove people who *follow you*, not people you follow.
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (4)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [yorukot/superfile](https://github.com/yorukot/superfile) (10898)
+- [yorukot/superfile](https://github.com/yorukot/superfile) (10900)
   - Pretty fancy and modern terminal file manager
-- [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3529)
+- [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3528)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 
 ### 🎙️ Podcast
