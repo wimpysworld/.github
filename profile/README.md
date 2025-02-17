@@ -32,6 +32,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (today)
+  - Oval Tutu&#39;s GitHub profile ️🟢
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (6 days ago)
@@ -40,8 +42,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [DeterminateSystems/home-manager-example](https://github.com/DeterminateSystems/home-manager-example) (3 weeks ago)
   - Example Home Manager flake integrated with FlakeHub
-- [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (4 weeks ago)
-  - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 
 ### Recent pull requests 🛠️
 
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - A Python script to automatically remove followers from your Twitter/X account. This script helps remove people who *follow you*, not people you follow.
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (4)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [yorukot/superfile](https://github.com/yorukot/superfile) (10943)
+- [yorukot/superfile](https://github.com/yorukot/superfile) (10945)
   - Pretty fancy and modern terminal file manager
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3544)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
