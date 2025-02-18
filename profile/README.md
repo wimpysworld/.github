@@ -32,14 +32,14 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
+  -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (1 day ago)
   - Oval Tutu&#39;s GitHub profile ️🟢
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (1 week ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (2 weeks ago)
-  -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [DeterminateSystems/home-manager-example](https://github.com/DeterminateSystems/home-manager-example) (3 weeks ago)
   - Example Home Manager flake integrated with FlakeHub
 
@@ -55,6 +55,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
+- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) ([0.0.7](https://github.com/Oval-Tutu/bootstrap-love2d-project/releases/tag/0.0.7), today)
+  -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250213](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250213), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.36.4](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.36.4), 4 days ago)
@@ -63,8 +65,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 - [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) ([0.9.4](https://github.com/Oval-Tutu/smiti18n/releases/tag/0.9.4), 1 month ago)
   - A very complete internationalization library for Lua with LÖVE support 🌕💕
-- [owncast/owncast](https://github.com/owncast/owncast) ([v0.2.1](https://github.com/owncast/owncast/releases/tag/v0.2.1), 1 month ago)
-  - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 
 ### Recent starred projects ⭐️
 
