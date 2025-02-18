@@ -32,11 +32,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (today)
+- [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (1 day ago)
   - Oval Tutu&#39;s GitHub profile ️🟢
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (6 days ago)
+- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (1 week ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 - [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (2 weeks ago)
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
@@ -46,22 +46,22 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [refactor: improve the hyprland session](https://github.com/wimpysworld/nix-config/pull/443) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: add cpu status to waybar, fix aviso OSD, tweak icons and update packages](https://github.com/wimpysworld/nix-config/pull/441) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [refactor: rationalise hyprland persistent workspaces](https://github.com/wimpysworld/nix-config/pull/439) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
-- [style: use nerd fonts](https://github.com/wimpysworld/nixos-needsreboot/pull/1) on [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (6 days ago)
+- [refactor: improve the hyprland session](https://github.com/wimpysworld/nix-config/pull/443) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [refactor: add cpu status to waybar, fix aviso OSD, tweak icons and update packages](https://github.com/wimpysworld/nix-config/pull/441) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [refactor: rationalise hyprland persistent workspaces](https://github.com/wimpysworld/nix-config/pull/439) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [style: use nerd fonts](https://github.com/wimpysworld/nixos-needsreboot/pull/1) on [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (1 week ago)
 - [chore: clear out some cruft](https://github.com/wimpysworld/nix-config/pull/437) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250213](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250213), today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250213](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250213), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.36.4](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.36.4), 3 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.36.4](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.36.4), 4 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.5](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.5), 6 days ago)
+- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.5](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.5), 1 week ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) ([0.9.4](https://github.com/Oval-Tutu/smiti18n/releases/tag/0.9.4), 4 weeks ago)
+- [Oval-Tutu/smiti18n](https://github.com/Oval-Tutu/smiti18n) ([0.9.4](https://github.com/Oval-Tutu/smiti18n/releases/tag/0.9.4), 1 month ago)
   - A very complete internationalization library for Lua with LÖVE support 🌕💕
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.2.1](https://github.com/owncast/owncast/releases/tag/v0.2.1), 1 month ago)
   - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - A Python script to automatically remove followers from your Twitter/X account. This script helps remove people who *follow you*, not people you follow.
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (4)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [yorukot/superfile](https://github.com/yorukot/superfile) (10957)
+- [yorukot/superfile](https://github.com/yorukot/superfile) (10958)
   - Pretty fancy and modern terminal file manager
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3544)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
@@ -86,8 +86,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Algorithms, Actions, and GitHub Adventures](https://linuxmatters.sh/48/) (1 week ago)
-- [Not a Bar or a Camp](https://linuxmatters.sh/47/) (3 weeks ago)
+- [Algorithms, Actions, and GitHub Adventures](https://linuxmatters.sh/48/) (2 weeks ago)
+- [Not a Bar or a Camp](https://linuxmatters.sh/47/) (4 weeks ago)
 - [Streaming Your Way to Freedom](https://linuxmatters.sh/46/) (1 month ago)
 - [Working Remotely on the Savannah](https://linuxmatters.sh/45/) (1 month ago)
 - [A Textual Rummage With Jason](https://linuxmatters.sh/44/) (2 months ago)
