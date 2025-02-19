@@ -32,11 +32,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
+- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 day ago)
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
-- [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (1 day ago)
+- [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (2 days ago)
   - Oval Tutu&#39;s GitHub profile ️🟢
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (1 week ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
@@ -46,20 +46,20 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [feat: publish to itch.io](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/55) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
-- [refactor: improve the hyprland session](https://github.com/wimpysworld/nix-config/pull/443) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [refactor: add cpu status to waybar, fix aviso OSD, tweak icons and update packages](https://github.com/wimpysworld/nix-config/pull/441) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
-- [refactor: rationalise hyprland persistent workspaces](https://github.com/wimpysworld/nix-config/pull/439) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [feat: publish to itch.io](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/55) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 day ago)
+- [refactor: improve the hyprland session](https://github.com/wimpysworld/nix-config/pull/443) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [refactor: add cpu status to waybar, fix aviso OSD, tweak icons and update packages](https://github.com/wimpysworld/nix-config/pull/441) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [refactor: rationalise hyprland persistent workspaces](https://github.com/wimpysworld/nix-config/pull/439) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 - [style: use nerd fonts](https://github.com/wimpysworld/nixos-needsreboot/pull/1) on [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (1 week ago)
 
 ### Recent releases 📦️
 
 
-- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) ([0.0.7](https://github.com/Oval-Tutu/bootstrap-love2d-project/releases/tag/0.0.7), today)
+- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) ([0.0.7](https://github.com/Oval-Tutu/bootstrap-love2d-project/releases/tag/0.0.7), 1 day ago)
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250213](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250213), 1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250213](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250213), 2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.36.4](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.36.4), 4 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.36.4](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.36.4), 5 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.5](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.5), 1 week ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Mark Down in the Console Caves](https://linuxmatters.sh/49/) (today)
+- [Mark Down in the Console Caves](https://linuxmatters.sh/49/) (1 day ago)
 - [Algorithms, Actions, and GitHub Adventures](https://linuxmatters.sh/48/) (2 weeks ago)
 - [Not a Bar or a Camp](https://linuxmatters.sh/47/) (4 weeks ago)
 - [Streaming Your Way to Freedom](https://linuxmatters.sh/46/) (1 month ago)
