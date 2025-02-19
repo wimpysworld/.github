@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 day ago)
+- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (2 days ago)
   - Oval Tutu&#39;s GitHub profile ️🟢
@@ -46,16 +46,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor(ci): use our multi-platform compatible itch publishing action](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/56) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
 - [feat: publish to itch.io](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/55) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 day ago)
 - [refactor: improve the hyprland session](https://github.com/wimpysworld/nix-config/pull/443) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 - [refactor: add cpu status to waybar, fix aviso OSD, tweak icons and update packages](https://github.com/wimpysworld/nix-config/pull/441) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 - [refactor: rationalise hyprland persistent workspaces](https://github.com/wimpysworld/nix-config/pull/439) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
-- [style: use nerd fonts](https://github.com/wimpysworld/nixos-needsreboot/pull/1) on [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (1 week ago)
 
 ### Recent releases 📦️
 
 
-- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) ([0.0.7](https://github.com/Oval-Tutu/bootstrap-love2d-project/releases/tag/0.0.7), 1 day ago)
+- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) ([0.0.8](https://github.com/Oval-Tutu/bootstrap-love2d-project/releases/tag/0.0.8), today)
   -  LÖVE template for Visual Studio Code with GitHub CI batteries included ⚡
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250213](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250213), 2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - A Python script to automatically remove followers from your Twitter/X account. This script helps remove people who *follow you*, not people you follow.
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (4)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [yorukot/superfile](https://github.com/yorukot/superfile) (11049)
+- [yorukot/superfile](https://github.com/yorukot/superfile) (11055)
   - Pretty fancy and modern terminal file manager
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3550)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
