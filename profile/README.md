@@ -46,16 +46,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix(android): upload release .apk to the releases page](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/60) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
 - [fix(android): actually embed the game in Android builds](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/59) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
 - [refactor: tweak release publishing](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/58) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
 - [docs: Simplify README and move detail to USAGE.md](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/57) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
 - [refactor(ci): use our multi-platform compatible itch publishing action](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/56) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 day ago)
-- [feat: publish to itch.io](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/55) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (2 days ago)
 
 ### Recent releases 📦️
 
 
-- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) ([0.0.9](https://github.com/Oval-Tutu/bootstrap-love2d-project/releases/tag/0.0.9), today)
+- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) ([0.1.0](https://github.com/Oval-Tutu/bootstrap-love2d-project/releases/tag/0.1.0), today)
   - LÖVE Game Development &amp; Automated Build System ⚡
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250213](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250213), 3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
