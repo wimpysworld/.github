@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor: tweak release publishing](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/58) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
 - [docs: Simplify README and move detail to USAGE.md](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/57) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
 - [refactor(ci): use our multi-platform compatible itch publishing action](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/56) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 day ago)
 - [feat: publish to itch.io](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/55) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (2 days ago)
 - [refactor: improve the hyprland session](https://github.com/wimpysworld/nix-config/pull/443) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [refactor: add cpu status to waybar, fix aviso OSD, tweak icons and update packages](https://github.com/wimpysworld/nix-config/pull/441) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 
 ### Recent releases 📦️
 
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - A Python script to automatically remove followers from your Twitter/X account. This script helps remove people who *follow you*, not people you follow.
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (4)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [yorukot/superfile](https://github.com/yorukot/superfile) (11093)
+- [yorukot/superfile](https://github.com/yorukot/superfile) (11094)
   - Pretty fancy and modern terminal file manager
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3555)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
