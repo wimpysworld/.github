@@ -32,34 +32,34 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
+- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 day ago)
   - LÖVE Game Development &amp; Automated Build System ⚡
-- [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (3 days ago)
+- [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (4 days ago)
   - Oval Tutu&#39;s GitHub profile ️🟢
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (1 week ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [DeterminateSystems/home-manager-example](https://github.com/DeterminateSystems/home-manager-example) (3 weeks ago)
+- [DeterminateSystems/home-manager-example](https://github.com/DeterminateSystems/home-manager-example) (4 weeks ago)
   - Example Home Manager flake integrated with FlakeHub
 
 ### Recent pull requests 🛠️
 
 
-- [fix(android): upload release .apk to the releases page](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/60) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
-- [fix(android): actually embed the game in Android builds](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/59) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
-- [refactor: tweak release publishing](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/58) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
-- [docs: Simplify README and move detail to USAGE.md](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/57) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
-- [refactor(ci): use our multi-platform compatible itch publishing action](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/56) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 day ago)
+- [fix(android): upload release .apk to the releases page](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/60) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 day ago)
+- [fix(android): actually embed the game in Android builds](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/59) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 day ago)
+- [refactor: tweak release publishing](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/58) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 day ago)
+- [docs: Simplify README and move detail to USAGE.md](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/57) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 day ago)
+- [refactor(ci): use our multi-platform compatible itch publishing action](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/56) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (2 days ago)
 
 ### Recent releases 📦️
 
 
-- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) ([0.1.0](https://github.com/Oval-Tutu/bootstrap-love2d-project/releases/tag/0.1.0), today)
+- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) ([0.1.0](https://github.com/Oval-Tutu/bootstrap-love2d-project/releases/tag/0.1.0), 1 day ago)
   - LÖVE Game Development &amp; Automated Build System ⚡
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250213](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250213), 3 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250213](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250213), 4 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.36.4](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.36.4), 6 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.36.4](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.36.4), 1 week ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.5](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.5), 1 week ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
@@ -75,7 +75,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - A Python script to automatically remove followers from your Twitter/X account. This script helps remove people who *follow you*, not people you follow.
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (4)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [yorukot/superfile](https://github.com/yorukot/superfile) (11098)
+- [yorukot/superfile](https://github.com/yorukot/superfile) (11099)
   - Pretty fancy and modern terminal file manager
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3557)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Mark Down in the Console Caves](https://linuxmatters.sh/49/) (2 days ago)
+- [Mark Down in the Console Caves](https://linuxmatters.sh/49/) (3 days ago)
 - [Algorithms, Actions, and GitHub Adventures](https://linuxmatters.sh/48/) (2 weeks ago)
 - [Not a Bar or a Camp](https://linuxmatters.sh/47/) (1 month ago)
 - [Streaming Your Way to Freedom](https://linuxmatters.sh/46/) (1 month ago)
