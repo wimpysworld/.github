@@ -46,21 +46,21 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [docs: add LÖVE Game Development &amp; Automated Build System](https://github.com/love2d-community/awesome-love2d/pull/286) on [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (today)
 - [feat: add support for platform-specific product IDs](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/64) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
 - [chore: assorted code cleanup and tweaks](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/63) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
 - [docs: update docs to describe personal .vscode/settings.json](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/62) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 day ago)
 - [fix(android): upload release .apk to the releases page](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/60) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (2 days ago)
-- [fix(android): actually embed the game in Android builds](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/59) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (2 days ago)
 
 ### Recent releases 📦️
 
 
+- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v0.37.2](https://github.com/DeterminateSystems/determinate/releases/tag/v0.37.2), today)
+  - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
 - [DeterminateSystems/nixos-amis](https://github.com/DeterminateSystems/nixos-amis) ([v0.37.1](https://github.com/DeterminateSystems/nixos-amis/releases/tag/v0.37.1), 1 day ago)
   - 
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.37.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.37.1), 1 day ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v0.37.1](https://github.com/DeterminateSystems/determinate/releases/tag/v0.37.1), 1 day ago)
-  - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250219](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250219), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) ([0.1.0](https://github.com/Oval-Tutu/bootstrap-love2d-project/releases/tag/0.1.0), 2 days ago)
