@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: add support for platform-specific product IDs](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/64) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
 - [chore: assorted code cleanup and tweaks](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/63) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
 - [docs: update docs to describe personal .vscode/settings.json](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/62) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 day ago)
 - [fix(android): upload release .apk to the releases page](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/60) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (2 days ago)
 - [fix(android): actually embed the game in Android builds](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/59) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (2 days ago)
-- [refactor: tweak release publishing](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/58) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (2 days ago)
 
 ### Recent releases 📦️
 
@@ -69,13 +69,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [Haxxnet/nmap-bootstrap-xsl](https://github.com/Haxxnet/nmap-bootstrap-xsl) (65)
+- [Haxxnet/nmap-bootstrap-xsl](https://github.com/Haxxnet/nmap-bootstrap-xsl) (66)
   - An Nmap XSL implementation with Bootstrap. Allows Nmap XML port scan results to be converted into beautiful HTML reports.
 - [popey/twitter-defollower](https://github.com/popey/twitter-defollower) (6)
   - A Python script to automatically remove followers from your Twitter/X account. This script helps remove people who *follow you*, not people you follow.
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (4)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [yorukot/superfile](https://github.com/yorukot/superfile) (11122)
+- [yorukot/superfile](https://github.com/yorukot/superfile) (11123)
   - Pretty fancy and modern terminal file manager
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3563)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
