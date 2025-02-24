@@ -69,16 +69,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
+- [love2d/lua-https](https://github.com/love2d/lua-https) (44)
+  - A simple Lua HTTPS module using native platform backends where applicable.
 - [Haxxnet/nmap-bootstrap-xsl](https://github.com/Haxxnet/nmap-bootstrap-xsl) (66)
   - An Nmap XSL implementation with Bootstrap. Allows Nmap XML port scan results to be converted into beautiful HTML reports.
 - [popey/twitter-defollower](https://github.com/popey/twitter-defollower) (6)
   - A Python script to automatically remove followers from your Twitter/X account. This script helps remove people who *follow you*, not people you follow.
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (4)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [yorukot/superfile](https://github.com/yorukot/superfile) (11816)
+- [yorukot/superfile](https://github.com/yorukot/superfile) (11840)
   - Pretty fancy and modern terminal file manager
-- [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3569)
-  - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
