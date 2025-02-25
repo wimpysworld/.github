@@ -32,38 +32,38 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (2 days ago)
+- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (3 days ago)
   - LÖVE Game Development &amp; Automated Build System ⚡
-- [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (2 days ago)
+- [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3 days ago)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (1 week ago)
   - Oval Tutu&#39;s GitHub profile ️🟢
-- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (1 week ago)
+- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (2 weeks ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 
 ### Recent pull requests 🛠️
 
 
-- [docs: add LÖVE Game Development &amp; Automated Build System](https://github.com/love2d-community/awesome-love2d/pull/286) on [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (2 days ago)
-- [feat: add support for platform-specific product IDs](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/64) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (2 days ago)
-- [chore: assorted code cleanup and tweaks](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/63) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (2 days ago)
-- [docs: update docs to describe personal .vscode/settings.json](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/62) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (3 days ago)
-- [fix(android): upload release .apk to the releases page](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/60) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (4 days ago)
+- [docs: add LÖVE Game Development &amp; Automated Build System](https://github.com/love2d-community/awesome-love2d/pull/286) on [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3 days ago)
+- [feat: add support for platform-specific product IDs](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/64) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (3 days ago)
+- [chore: assorted code cleanup and tweaks](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/63) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (3 days ago)
+- [docs: update docs to describe personal .vscode/settings.json](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/62) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (4 days ago)
+- [fix(android): upload release .apk to the releases page](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/60) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (5 days ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.37.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.37.2), 2 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.37.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.37.2), 3 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v0.37.2](https://github.com/DeterminateSystems/determinate/releases/tag/v0.37.2), 2 days ago)
+- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v0.37.2](https://github.com/DeterminateSystems/determinate/releases/tag/v0.37.2), 3 days ago)
   - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
-- [DeterminateSystems/nixos-amis](https://github.com/DeterminateSystems/nixos-amis) ([v0.37.1](https://github.com/DeterminateSystems/nixos-amis/releases/tag/v0.37.1), 3 days ago)
+- [DeterminateSystems/nixos-amis](https://github.com/DeterminateSystems/nixos-amis) ([v0.37.1](https://github.com/DeterminateSystems/nixos-amis/releases/tag/v0.37.1), 4 days ago)
   - 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250219](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250219), 3 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250219](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250219), 4 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) ([0.1.0](https://github.com/Oval-Tutu/bootstrap-love2d-project/releases/tag/0.1.0), 4 days ago)
+- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) ([0.1.0](https://github.com/Oval-Tutu/bootstrap-love2d-project/releases/tag/0.1.0), 5 days ago)
   - LÖVE Game Development &amp; Automated Build System ⚡
 
 ### Recent starred projects ⭐️
@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - A Python script to automatically remove followers from your Twitter/X account. This script helps remove people who *follow you*, not people you follow.
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (4)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [yorukot/superfile](https://github.com/yorukot/superfile) (12003)
+- [yorukot/superfile](https://github.com/yorukot/superfile) (12012)
   - Pretty fancy and modern terminal file manager
 
 ### 🎙️ Podcast
@@ -86,8 +86,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Mark Down in the Console Caves](https://linuxmatters.sh/49/) (6 days ago)
-- [Algorithms, Actions, and GitHub Adventures](https://linuxmatters.sh/48/) (2 weeks ago)
+- [Mark Down in the Console Caves](https://linuxmatters.sh/49/) (1 week ago)
+- [Algorithms, Actions, and GitHub Adventures](https://linuxmatters.sh/48/) (3 weeks ago)
 - [Not a Bar or a Camp](https://linuxmatters.sh/47/) (1 month ago)
 - [Streaming Your Way to Freedom](https://linuxmatters.sh/46/) (1 month ago)
 - [Working Remotely on the Savannah](https://linuxmatters.sh/45/) (2 months ago)
