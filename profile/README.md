@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix: correct FTBFS for Android and add CI to collect https.so artifacts](https://github.com/love2d/lua-https/pull/38) on [love2d/lua-https](https://github.com/love2d/lua-https) (today)
 - [docs: add LÖVE Game Development &amp; Automated Build System](https://github.com/love2d-community/awesome-love2d/pull/286) on [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (4 days ago)
 - [feat: add support for platform-specific product IDs](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/64) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (4 days ago)
 - [chore: assorted code cleanup and tweaks](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/63) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (4 days ago)
 - [docs: update docs to describe personal .vscode/settings.json](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/62) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (5 days ago)
-- [fix(android): upload release .apk to the releases page](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/60) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (6 days ago)
 
 ### Recent releases 📦️
 
@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - A Python script to automatically remove followers from your Twitter/X account. This script helps remove people who *follow you*, not people you follow.
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (4)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [yorukot/superfile](https://github.com/yorukot/superfile) (12281)
+- [yorukot/superfile](https://github.com/yorukot/superfile) (12296)
   - Pretty fancy and modern terminal file manager
 
 ### 🎙️ Podcast
