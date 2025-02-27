@@ -32,11 +32,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (4 days ago)
+- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (5 days ago)
   - LÖVE Game Development &amp; Automated Build System ⚡
-- [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (4 days ago)
+- [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (5 days ago)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (1 week ago)
   - Oval Tutu&#39;s GitHub profile ️🟢
@@ -46,24 +46,24 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [fix: correct FTBFS for Android and add CI to collect https.so artifacts](https://github.com/love2d/lua-https/pull/38) on [love2d/lua-https](https://github.com/love2d/lua-https) (today)
-- [docs: add LÖVE Game Development &amp; Automated Build System](https://github.com/love2d-community/awesome-love2d/pull/286) on [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (4 days ago)
-- [feat: add support for platform-specific product IDs](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/64) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (4 days ago)
-- [chore: assorted code cleanup and tweaks](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/63) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (4 days ago)
-- [docs: update docs to describe personal .vscode/settings.json](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/62) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (5 days ago)
+- [fix: correct FTBFS for Android and add CI to collect https.so artifacts](https://github.com/love2d/lua-https/pull/38) on [love2d/lua-https](https://github.com/love2d/lua-https) (1 day ago)
+- [docs: add LÖVE Game Development &amp; Automated Build System](https://github.com/love2d-community/awesome-love2d/pull/286) on [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (5 days ago)
+- [feat: add support for platform-specific product IDs](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/64) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (5 days ago)
+- [chore: assorted code cleanup and tweaks](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/63) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (5 days ago)
+- [docs: update docs to describe personal .vscode/settings.json](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/62) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (6 days ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.38.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.38.0), 1 day ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.38.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.38.0), 2 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v0.38.0](https://github.com/DeterminateSystems/determinate/releases/tag/v0.38.0), 1 day ago)
+- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v0.38.0](https://github.com/DeterminateSystems/determinate/releases/tag/v0.38.0), 2 days ago)
   - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
-- [DeterminateSystems/nixos-amis](https://github.com/DeterminateSystems/nixos-amis) ([v0.37.1](https://github.com/DeterminateSystems/nixos-amis/releases/tag/v0.37.1), 5 days ago)
+- [DeterminateSystems/nixos-amis](https://github.com/DeterminateSystems/nixos-amis) ([v0.37.1](https://github.com/DeterminateSystems/nixos-amis/releases/tag/v0.37.1), 6 days ago)
   - 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250219](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250219), 5 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250219](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250219), 6 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) ([0.1.0](https://github.com/Oval-Tutu/bootstrap-love2d-project/releases/tag/0.1.0), 6 days ago)
+- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) ([0.1.0](https://github.com/Oval-Tutu/bootstrap-love2d-project/releases/tag/0.1.0), 1 week ago)
   - LÖVE Game Development &amp; Automated Build System ⚡
 
 ### Recent starred projects ⭐️
@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - A Python script to automatically remove followers from your Twitter/X account. This script helps remove people who *follow you*, not people you follow.
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (4)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [yorukot/superfile](https://github.com/yorukot/superfile) (12348)
+- [yorukot/superfile](https://github.com/yorukot/superfile) (12355)
   - Pretty fancy and modern terminal file manager
 
 ### 🎙️ Podcast
