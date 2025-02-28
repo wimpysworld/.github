@@ -32,11 +32,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
+- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 day ago)
   - LÖVE Game Development &amp; Automated Build System ⚡
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (5 days ago)
+- [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (6 days ago)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 - [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (1 week ago)
   - Oval Tutu&#39;s GitHub profile ️🟢
@@ -46,22 +46,22 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [refactor: decouple game and overlay logic from main.lua](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/68) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
-- [refactor: update vscode configuration](https://github.com/wimpysworld/nix-config/pull/446) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: add pre-built lua-https libraries and native library loader](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/67) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
-- [fix: correct FTBFS for Android and add CI to collect https.so artifacts](https://github.com/love2d/lua-https/pull/38) on [love2d/lua-https](https://github.com/love2d/lua-https) (1 day ago)
-- [docs: add LÖVE Game Development &amp; Automated Build System](https://github.com/love2d-community/awesome-love2d/pull/286) on [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (5 days ago)
+- [refactor: decouple game and overlay logic from main.lua](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/68) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 day ago)
+- [refactor: update vscode configuration](https://github.com/wimpysworld/nix-config/pull/446) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: add pre-built lua-https libraries and native library loader](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/67) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 day ago)
+- [fix: correct FTBFS for Android and add CI to collect https.so artifacts](https://github.com/love2d/lua-https/pull/38) on [love2d/lua-https](https://github.com/love2d/lua-https) (2 days ago)
+- [docs: add LÖVE Game Development &amp; Automated Build System](https://github.com/love2d-community/awesome-love2d/pull/286) on [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (6 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250223](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250223), today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250223](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250223), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.38.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.38.1), today)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.38.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.38.1), 1 day ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v0.38.1](https://github.com/DeterminateSystems/determinate/releases/tag/v0.38.1), today)
+- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v0.38.1](https://github.com/DeterminateSystems/determinate/releases/tag/v0.38.1), 1 day ago)
   - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
-- [DeterminateSystems/nixos-amis](https://github.com/DeterminateSystems/nixos-amis) ([v0.37.1](https://github.com/DeterminateSystems/nixos-amis/releases/tag/v0.37.1), 6 days ago)
+- [DeterminateSystems/nixos-amis](https://github.com/DeterminateSystems/nixos-amis) ([v0.37.1](https://github.com/DeterminateSystems/nixos-amis/releases/tag/v0.37.1), 1 week ago)
   - 
 - [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) ([0.1.0](https://github.com/Oval-Tutu/bootstrap-love2d-project/releases/tag/0.1.0), 1 week ago)
   - LÖVE Game Development &amp; Automated Build System ⚡
