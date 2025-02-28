@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: local build integration for steamos-devkit](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/72) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
 - [feat: add a windows installer](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/71) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
 - [feat: add steamos-devkit to flake.nix](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/70) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
 - [refactor: decouple game and overlay logic from main.lua](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/68) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 day ago)
 - [refactor: update vscode configuration](https://github.com/wimpysworld/nix-config/pull/446) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [feat: add pre-built lua-https libraries and native library loader](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/67) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 day ago)
 
 ### Recent releases 📦️
 
