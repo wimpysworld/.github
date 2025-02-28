@@ -32,25 +32,25 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 day ago)
+- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
   - LÖVE Game Development &amp; Automated Build System ⚡
+- [love2d/lua-https](https://github.com/love2d/lua-https) (2 days ago)
+  - A simple Lua HTTPS module using native platform backends where applicable.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (6 days ago)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 - [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (1 week ago)
   - Oval Tutu&#39;s GitHub profile ️🟢
-- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (2 weeks ago)
-  - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 
 ### Recent pull requests 🛠️
 
 
+- [feat: add steamos-devkit to flake.nix](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/70) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
 - [refactor: decouple game and overlay logic from main.lua](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/68) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 day ago)
 - [refactor: update vscode configuration](https://github.com/wimpysworld/nix-config/pull/446) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat: add pre-built lua-https libraries and native library loader](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/67) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 day ago)
-- [fix: correct FTBFS for Android and add CI to collect https.so artifacts](https://github.com/love2d/lua-https/pull/38) on [love2d/lua-https](https://github.com/love2d/lua-https) (2 days ago)
-- [docs: add LÖVE Game Development &amp; Automated Build System](https://github.com/love2d-community/awesome-love2d/pull/286) on [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (6 days ago)
+- [fix: correct FTBFS for Android](https://github.com/love2d/lua-https/pull/38) on [love2d/lua-https](https://github.com/love2d/lua-https) (2 days ago)
 
 ### Recent releases 📦️
 
