@@ -32,10 +32,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
+  - LÖVE Game Development &amp; Automated Build System ⚡
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (2 days ago)
-  - LÖVE Game Development &amp; Automated Build System ⚡
 - [love2d/lua-https](https://github.com/love2d/lua-https) (5 days ago)
   - A simple Lua HTTPS module using native platform backends where applicable.
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (1 week ago)
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: replace Lua LSP with Lua Helper and align style formatting](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/74) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
 - [refactor: assorted tweaks and updates](https://github.com/wimpysworld/nix-config/pull/447) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: remove build_num from dev build filename and drop Win32 builds](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/73) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (2 days ago)
 - [feat: local build integration for steamos-devkit](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/72) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (3 days ago)
 - [feat: add a windows installer](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/71) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (3 days ago)
-- [feat: add steamos-devkit to flake.nix](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/70) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (3 days ago)
 
 ### Recent releases 📦️
 
