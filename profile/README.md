@@ -32,34 +32,34 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 day ago)
+- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (2 days ago)
   - LÖVE Game Development &amp; Automated Build System ⚡
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [love2d/lua-https](https://github.com/love2d/lua-https) (4 days ago)
+- [love2d/lua-https](https://github.com/love2d/lua-https) (5 days ago)
   - A simple Lua HTTPS module using native platform backends where applicable.
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (1 week ago)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
-- [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (1 week ago)
+- [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (2 weeks ago)
   - Oval Tutu&#39;s GitHub profile ️🟢
 
 ### Recent pull requests 🛠️
 
 
-- [refactor: remove build_num from dev build filename and drop Win32 builds](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/73) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 day ago)
-- [feat: local build integration for steamos-devkit](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/72) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (2 days ago)
-- [feat: add a windows installer](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/71) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (2 days ago)
-- [feat: add steamos-devkit to flake.nix](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/70) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (2 days ago)
-- [refactor: decouple game and overlay logic from main.lua](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/68) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (3 days ago)
+- [refactor: remove build_num from dev build filename and drop Win32 builds](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/73) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (2 days ago)
+- [feat: local build integration for steamos-devkit](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/72) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (3 days ago)
+- [feat: add a windows installer](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/71) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (3 days ago)
+- [feat: add steamos-devkit to flake.nix](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/70) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (3 days ago)
+- [refactor: decouple game and overlay logic from main.lua](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/68) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (4 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250226](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250226), 2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250226](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250226), 3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.38.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.38.1), 3 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.38.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.38.1), 4 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v0.38.1](https://github.com/DeterminateSystems/determinate/releases/tag/v0.38.1), 3 days ago)
+- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v0.38.1](https://github.com/DeterminateSystems/determinate/releases/tag/v0.38.1), 4 days ago)
   - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
 - [DeterminateSystems/nixos-amis](https://github.com/DeterminateSystems/nixos-amis) ([v0.37.1](https://github.com/DeterminateSystems/nixos-amis/releases/tag/v0.37.1), 1 week ago)
   - 
