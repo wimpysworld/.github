@@ -55,12 +55,12 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.0.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.0.0), today)
+  - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.0.0](https://github.com/DeterminateSystems/determinate/releases/tag/v3.0.0), today)
   - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250301](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250301), 2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.38.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.38.1), 6 days ago)
-  - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [DeterminateSystems/nixos-amis](https://github.com/DeterminateSystems/nixos-amis) ([v0.37.1](https://github.com/DeterminateSystems/nixos-amis/releases/tag/v0.37.1), 1 week ago)
   - 
 - [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) ([0.1.0](https://github.com/Oval-Tutu/bootstrap-love2d-project/releases/tag/0.1.0), 1 week ago)
