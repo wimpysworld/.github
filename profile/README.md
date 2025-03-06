@@ -32,10 +32,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
+  - LÖVE Game Development &amp; Automated Build System ⚡
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (2 days ago)
-  - LÖVE Game Development &amp; Automated Build System ⚡
 - [love2d/lua-https](https://github.com/love2d/lua-https) (1 week ago)
   - A simple Lua HTTPS module using native platform backends where applicable.
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (1 week ago)
