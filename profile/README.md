@@ -32,16 +32,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (today)
+  - Quickemu website
 - [Oval-Tutu/publish-to-itch-with-butler](https://github.com/Oval-Tutu/publish-to-itch-with-butler) (today)
   - Automatically sets up Butler 🎩 and provides a simple GitHub Action to publish releases to Itch.io ️🕹️
-- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 day ago)
-  - LÖVE Game Development &amp; Automated Build System ⚡
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
+- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 day ago)
+  - LÖVE Game Development &amp; Automated Build System ⚡
 - [love2d/lua-https](https://github.com/love2d/lua-https) (1 week ago)
   - A simple Lua HTTPS module using native platform backends where applicable.
-- [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (1 week ago)
-  - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 
 ### Recent pull requests 🛠️
 
@@ -69,6 +69,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
+- [Oval-Tutu/publish-to-itch-with-butler](https://github.com/Oval-Tutu/publish-to-itch-with-butler) (1)
+  - Automatically sets up Butler 🎩 and provides a simple GitHub Action to publish releases to Itch.io ️🕹️
 - [elloramir/love.js](https://github.com/elloramir/love.js) (2)
   - A love2d runtime for web games
 - [love2d/lua-https](https://github.com/love2d/lua-https) (45)
@@ -77,8 +79,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - An Nmap XSL implementation with Bootstrap. Allows Nmap XML port scan results to be converted into beautiful HTML reports.
 - [popey/twitter-defollower](https://github.com/popey/twitter-defollower) (6)
   - A Python script to automatically remove followers from your Twitter/X account. This script helps remove people who *follow you*, not people you follow.
-- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (4)
-  - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
