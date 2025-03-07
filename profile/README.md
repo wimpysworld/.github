@@ -32,6 +32,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [Oval-Tutu/publish-to-itch-with-butler](https://github.com/Oval-Tutu/publish-to-itch-with-butler) (today)
+  - Automatically sets up Butler 🎩 and provides a simple GitHub Action to publish releases to Itch.io ️🕹️
 - [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 day ago)
   - LÖVE Game Development &amp; Automated Build System ⚡
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
@@ -40,21 +42,21 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - A simple Lua HTTPS module using native platform backends where applicable.
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (1 week ago)
   - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
-- [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (2 weeks ago)
-  - Oval Tutu&#39;s GitHub profile ️🟢
 
 ### Recent pull requests 🛠️
 
 
+- [feat: initial version](https://github.com/Oval-Tutu/publish-to-itch-with-butler/pull/1) on [Oval-Tutu/publish-to-itch-with-butler](https://github.com/Oval-Tutu/publish-to-itch-with-butler) (today)
 - [docs: update README and USAGE](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/76) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (3 days ago)
 - [fix: add PRODUCT_FILE to cater for game title with spaces in the name](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/75) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (3 days ago)
 - [feat: replace Lua LSP with Lua Helper and align style formatting](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/74) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (4 days ago)
 - [refactor: assorted tweaks and updates](https://github.com/wimpysworld/nix-config/pull/447) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
-- [refactor: remove build_num from dev build filename and drop Win32 builds](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/73) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (6 days ago)
 
 ### Recent releases 📦️
 
 
+- [Oval-Tutu/publish-to-itch-with-butler](https://github.com/Oval-Tutu/publish-to-itch-with-butler) ([1.0.0](https://github.com/Oval-Tutu/publish-to-itch-with-butler/releases/tag/1.0.0), today)
+  - Automatically sets up Butler 🎩 and provides a simple GitHub Action to publish releases to Itch.io ️🕹️
 - [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) ([0.1.1](https://github.com/Oval-Tutu/bootstrap-love2d-project/releases/tag/0.1.1), 1 day ago)
   - LÖVE Game Development &amp; Automated Build System ⚡
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.6](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.6), 1 day ago)
@@ -63,8 +65,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.0.0](https://github.com/DeterminateSystems/determinate/releases/tag/v3.0.0), 2 days ago)
   - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250301](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250301), 4 days ago)
-  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 
 ### Recent starred projects ⭐️
 
