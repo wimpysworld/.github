@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
+- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 day ago)
   - LÖVE Game Development &amp; Automated Build System ⚡
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [love2d/lua-https](https://github.com/love2d/lua-https) (1 week ago)
   - A simple Lua HTTPS module using native platform backends where applicable.
@@ -46,24 +46,24 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [docs: update README and USAGE](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/76) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (2 days ago)
-- [fix: add PRODUCT_FILE to cater for game title with spaces in the name](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/75) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (2 days ago)
-- [feat: replace Lua LSP with Lua Helper and align style formatting](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/74) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (3 days ago)
-- [refactor: assorted tweaks and updates](https://github.com/wimpysworld/nix-config/pull/447) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [refactor: remove build_num from dev build filename and drop Win32 builds](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/73) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (5 days ago)
+- [docs: update README and USAGE](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/76) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (3 days ago)
+- [fix: add PRODUCT_FILE to cater for game title with spaces in the name](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/75) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (3 days ago)
+- [feat: replace Lua LSP with Lua Helper and align style formatting](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/74) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (4 days ago)
+- [refactor: assorted tweaks and updates](https://github.com/wimpysworld/nix-config/pull/447) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [refactor: remove build_num from dev build filename and drop Win32 builds](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/73) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (6 days ago)
 
 ### Recent releases 📦️
 
 
-- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) ([0.1.1](https://github.com/Oval-Tutu/bootstrap-love2d-project/releases/tag/0.1.1), today)
+- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) ([0.1.1](https://github.com/Oval-Tutu/bootstrap-love2d-project/releases/tag/0.1.1), 1 day ago)
   - LÖVE Game Development &amp; Automated Build System ⚡
-- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.6](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.6), today)
+- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.6](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.6), 1 day ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.0.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.0.0), 1 day ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.0.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.0.0), 2 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.0.0](https://github.com/DeterminateSystems/determinate/releases/tag/v3.0.0), 1 day ago)
+- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.0.0](https://github.com/DeterminateSystems/determinate/releases/tag/v3.0.0), 2 days ago)
   - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250301](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250301), 3 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250301](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250301), 4 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 
 ### Recent starred projects ⭐️
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Syfting Through a LÖVEly Rack](https://linuxmatters.sh/50/) (2 days ago)
+- [Syfting Through a LÖVEly Rack](https://linuxmatters.sh/50/) (3 days ago)
 - [Mark Down in the Console Caves](https://linuxmatters.sh/49/) (2 weeks ago)
 - [Algorithms, Actions, and GitHub Adventures](https://linuxmatters.sh/48/) (1 month ago)
 - [Not a Bar or a Camp](https://linuxmatters.sh/47/) (1 month ago)
