@@ -55,10 +55,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250308](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250308), today)
+  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) ([0.1.2](https://github.com/Oval-Tutu/bootstrap-love2d-project/releases/tag/0.1.2), 2 days ago)
   - LÖVE Game Development &amp; Automated Build System ⚡
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250305](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250305), 3 days ago)
-  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [Oval-Tutu/publish-to-itch-with-butler](https://github.com/Oval-Tutu/publish-to-itch-with-butler) ([1.0.0](https://github.com/Oval-Tutu/publish-to-itch-with-butler/releases/tag/1.0.0), 3 days ago)
   - Automatically sets up Butler 🎩 and provides a simple GitHub Action to publish releases to Itch.io ️🕹️
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.6](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.6), 4 days ago)
