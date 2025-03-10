@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix(shader): make eye shader compatible with WebGL/mobile](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/79) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
 - [refactor: clean up and improve local HTML5 testing](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/78) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
 - [refactor: add some polish to the eyes demo](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/77) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (2 days ago)
 - [feat: initial version](https://github.com/Oval-Tutu/publish-to-itch-with-butler/pull/1) on [Oval-Tutu/publish-to-itch-with-butler](https://github.com/Oval-Tutu/publish-to-itch-with-butler) (3 days ago)
 - [docs: update README and USAGE](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/76) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (6 days ago)
-- [fix: add PRODUCT_FILE to cater for game title with spaces in the name](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/75) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (6 days ago)
 
 ### Recent releases 📦️
 
