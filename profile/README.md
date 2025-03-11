@@ -32,13 +32,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
+- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 day ago)
   - LÖVE Game Development &amp; Automated Build System ⚡
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [Oval-Tutu/publish-to-itch-with-butler](https://github.com/Oval-Tutu/publish-to-itch-with-butler) (3 days ago)
+- [Oval-Tutu/publish-to-itch-with-butler](https://github.com/Oval-Tutu/publish-to-itch-with-butler) (4 days ago)
   - Automatically sets up Butler 🎩 and provides a simple GitHub Action to publish releases to Itch.io ️🕹️
-- [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (3 days ago)
+- [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (4 days ago)
   - Quickemu website
 - [love2d/lua-https](https://github.com/love2d/lua-https) (1 week ago)
   - A simple Lua HTTPS module using native platform backends where applicable.
@@ -46,24 +46,24 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [refactor: update nix-darwin](https://github.com/wimpysworld/nix-config/pull/449) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [fix(shader): make eye shader compatible with WebGL/mobile](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/79) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
-- [refactor: clean up and improve local HTML5 testing](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/78) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (today)
-- [refactor: add some polish to the eyes demo](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/77) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (2 days ago)
-- [feat: initial version](https://github.com/Oval-Tutu/publish-to-itch-with-butler/pull/1) on [Oval-Tutu/publish-to-itch-with-butler](https://github.com/Oval-Tutu/publish-to-itch-with-butler) (3 days ago)
+- [refactor: update nix-darwin](https://github.com/wimpysworld/nix-config/pull/449) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [fix(shader): make eye shader compatible with WebGL/mobile](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/79) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 day ago)
+- [refactor: clean up and improve local HTML5 testing](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/78) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 day ago)
+- [refactor: add some polish to the eyes demo](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/77) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (3 days ago)
+- [feat: initial version](https://github.com/Oval-Tutu/publish-to-itch-with-butler/pull/1) on [Oval-Tutu/publish-to-itch-with-butler](https://github.com/Oval-Tutu/publish-to-itch-with-butler) (4 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250308](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250308), today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250308](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250308), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) ([0.1.2](https://github.com/Oval-Tutu/bootstrap-love2d-project/releases/tag/0.1.2), 2 days ago)
+- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) ([0.1.2](https://github.com/Oval-Tutu/bootstrap-love2d-project/releases/tag/0.1.2), 3 days ago)
   - LÖVE Game Development &amp; Automated Build System ⚡
-- [Oval-Tutu/publish-to-itch-with-butler](https://github.com/Oval-Tutu/publish-to-itch-with-butler) ([1.0.0](https://github.com/Oval-Tutu/publish-to-itch-with-butler/releases/tag/1.0.0), 3 days ago)
+- [Oval-Tutu/publish-to-itch-with-butler](https://github.com/Oval-Tutu/publish-to-itch-with-butler) ([1.0.0](https://github.com/Oval-Tutu/publish-to-itch-with-butler/releases/tag/1.0.0), 4 days ago)
   - Automatically sets up Butler 🎩 and provides a simple GitHub Action to publish releases to Itch.io ️🕹️
-- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.6](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.6), 4 days ago)
+- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.6](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.6), 5 days ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.0.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.0.0), 5 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.0.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.0.0), 6 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 
 ### Recent starred projects ⭐️
@@ -86,8 +86,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Syfting Through a LÖVEly Rack](https://linuxmatters.sh/50/) (6 days ago)
-- [Mark Down in the Console Caves](https://linuxmatters.sh/49/) (2 weeks ago)
+- [Syfting Through a LÖVEly Rack](https://linuxmatters.sh/50/) (1 week ago)
+- [Mark Down in the Console Caves](https://linuxmatters.sh/49/) (3 weeks ago)
 - [Algorithms, Actions, and GitHub Adventures](https://linuxmatters.sh/48/) (1 month ago)
 - [Not a Bar or a Camp](https://linuxmatters.sh/47/) (1 month ago)
 - [Streaming Your Way to Freedom](https://linuxmatters.sh/46/) (2 months ago)
