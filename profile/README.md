@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (4 days ago)
+- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (5 days ago)
   - LÖVE Game Development &amp; Automated Build System ⚡
 - [Oval-Tutu/publish-to-itch-with-butler](https://github.com/Oval-Tutu/publish-to-itch-with-butler) (1 week ago)
   - Automatically sets up Butler 🎩 and provides a simple GitHub Action to publish releases to Itch.io ️🕹️
@@ -46,16 +46,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [feat: add blank main.template.lua](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/83) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (4 days ago)
-- [refactor(test-html): simplify and tidy up](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/82) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (4 days ago)
-- [refactor: update nix-darwin](https://github.com/wimpysworld/nix-config/pull/449) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
-- [fix(shader): make eye shader compatible with WebGL/mobile](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/79) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (5 days ago)
-- [refactor: clean up and improve local HTML5 testing](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/78) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (5 days ago)
+- [feat: add blank main.template.lua](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/83) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (5 days ago)
+- [refactor(test-html): simplify and tidy up](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/82) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (5 days ago)
+- [refactor: update nix-darwin](https://github.com/wimpysworld/nix-config/pull/449) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
+- [fix(shader): make eye shader compatible with WebGL/mobile](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/79) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (6 days ago)
+- [refactor: clean up and improve local HTML5 testing](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/78) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (6 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250308](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250308), 5 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250308](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250308), 6 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) ([0.1.2](https://github.com/Oval-Tutu/bootstrap-love2d-project/releases/tag/0.1.2), 1 week ago)
   - LÖVE Game Development &amp; Automated Build System ⚡
