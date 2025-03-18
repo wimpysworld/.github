@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (6 days ago)
+- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 week ago)
   - LÖVE Game Development &amp; Automated Build System ⚡
 - [Oval-Tutu/publish-to-itch-with-butler](https://github.com/Oval-Tutu/publish-to-itch-with-butler) (1 week ago)
   - Automatically sets up Butler 🎩 and provides a simple GitHub Action to publish releases to Itch.io ️🕹️
@@ -46,8 +46,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [feat: add blank main.template.lua](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/83) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (6 days ago)
-- [refactor(test-html): simplify and tidy up](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/82) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (6 days ago)
+- [feat: add blank main.template.lua](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/83) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 week ago)
+- [refactor(test-html): simplify and tidy up](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/82) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 week ago)
 - [refactor: update nix-darwin](https://github.com/wimpysworld/nix-config/pull/449) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [fix(shader): make eye shader compatible with WebGL/mobile](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/79) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 week ago)
 - [refactor: clean up and improve local HTML5 testing](https://github.com/Oval-Tutu/bootstrap-love2d-project/pull/78) on [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 week ago)
@@ -86,8 +86,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Syfting Through a LÖVEly Rack](https://linuxmatters.sh/50/) (1 week ago)
-- [Mark Down in the Console Caves](https://linuxmatters.sh/49/) (3 weeks ago)
+- [Syfting Through a LÖVEly Rack](https://linuxmatters.sh/50/) (2 weeks ago)
+- [Mark Down in the Console Caves](https://linuxmatters.sh/49/) (4 weeks ago)
 - [Algorithms, Actions, and GitHub Adventures](https://linuxmatters.sh/48/) (1 month ago)
 - [Not a Bar or a Camp](https://linuxmatters.sh/47/) (1 month ago)
 - [Streaming Your Way to Freedom](https://linuxmatters.sh/46/) (2 months ago)
