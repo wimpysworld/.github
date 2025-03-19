@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 week ago)
   - LÖVE Game Development &amp; Automated Build System ⚡
@@ -40,7 +40,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Automatically sets up Butler 🎩 and provides a simple GitHub Action to publish releases to Itch.io ️🕹️
 - [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (1 week ago)
   - Quickemu website
-- [love2d/lua-https](https://github.com/love2d/lua-https) (2 weeks ago)
+- [love2d/lua-https](https://github.com/love2d/lua-https) (3 weeks ago)
   - A simple Lua HTTPS module using native platform backends where applicable.
 
 ### Recent pull requests 🛠️
@@ -63,7 +63,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Automatically sets up Butler 🎩 and provides a simple GitHub Action to publish releases to Itch.io ️🕹️
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.6](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.6), 1 week ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.0.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.0.0), 1 week ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.0.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.0.0), 2 weeks ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 
 ### Recent starred projects ⭐️
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Moodling Myself Silly](https://linuxmatters.sh/51/) (today)
+- [Moodling Myself Silly](https://linuxmatters.sh/51/) (1 day ago)
 - [Syfting Through a LÖVEly Rack](https://linuxmatters.sh/50/) (2 weeks ago)
 - [Mark Down in the Console Caves](https://linuxmatters.sh/49/) (4 weeks ago)
 - [Algorithms, Actions, and GitHub Adventures](https://linuxmatters.sh/48/) (1 month ago)
