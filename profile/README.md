@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [Oval-Tutu/publish-to-itch-with-butler](https://github.com/Oval-Tutu/publish-to-itch-with-butler) (1)
+- [Oval-Tutu/publish-to-itch-with-butler](https://github.com/Oval-Tutu/publish-to-itch-with-butler) (2)
   - Automatically sets up Butler 🎩 and provides a simple GitHub Action to publish releases to Itch.io ️🕹️
 - [elloramir/love.js](https://github.com/elloramir/love.js) (2)
   - A love2d runtime for web games
