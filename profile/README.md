@@ -32,25 +32,25 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [AmbiguousTechnologies/profile](https://github.com/AmbiguousTechnologies/profile) (today)
+  - Ambiguous Technologies Home Manager profile 🏠
+- [AmbiguousTechnologies/robot](https://github.com/AmbiguousTechnologies/robot) (today)
+  - Ambiguous Technologies NixOS robot 🤖
 - [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 days ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 week ago)
   - LÖVE Game Development &amp; Automated Build System ⚡
-- [Oval-Tutu/publish-to-itch-with-butler](https://github.com/Oval-Tutu/publish-to-itch-with-butler) (2 weeks ago)
-  - Automatically sets up Butler 🎩 and provides a simple GitHub Action to publish releases to Itch.io ️🕹️
-- [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (2 weeks ago)
-  - Quickemu website
 
 ### Recent pull requests 🛠️
 
 
+- [docs: add README.md](https://github.com/AmbiguousTechnologies/profile/pull/1) on [AmbiguousTechnologies/profile](https://github.com/AmbiguousTechnologies/profile) (today)
+- [docs: add README.md](https://github.com/AmbiguousTechnologies/robot/pull/1) on [AmbiguousTechnologies/robot](https://github.com/AmbiguousTechnologies/robot) (today)
 - [feat(demo): add parallax scrolling demo](https://github.com/Oval-Tutu/shove/pull/18) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (3 days ago)
 - [fix(rendering): improve layer rendering, profiling and performance](https://github.com/Oval-Tutu/shove/pull/17) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (3 days ago)
 - [fix(rendering): prevent mask layers from being composited](https://github.com/Oval-Tutu/shove/pull/16) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (3 days ago)
-- [feat(profiler): add minimal FPS overlay with exclusive display mode](https://github.com/Oval-Tutu/shove/pull/15) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (3 days ago)
-- [DIVERGED feat(profiler): add minimal FPS overlay with exclusive display mode](https://github.com/Oval-Tutu/shove/pull/14) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (3 days ago)
 
 ### Recent releases 📦️
 
