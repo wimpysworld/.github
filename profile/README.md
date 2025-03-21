@@ -32,36 +32,36 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 day ago)
+- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 days ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 week ago)
   - LÖVE Game Development &amp; Automated Build System ⚡
-- [Oval-Tutu/publish-to-itch-with-butler](https://github.com/Oval-Tutu/publish-to-itch-with-butler) (1 week ago)
+- [Oval-Tutu/publish-to-itch-with-butler](https://github.com/Oval-Tutu/publish-to-itch-with-butler) (2 weeks ago)
   - Automatically sets up Butler 🎩 and provides a simple GitHub Action to publish releases to Itch.io ️🕹️
-- [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (1 week ago)
+- [quickemu-project/quickemu-project.github.io](https://github.com/quickemu-project/quickemu-project.github.io) (2 weeks ago)
   - Quickemu website
 
 ### Recent pull requests 🛠️
 
 
-- [feat(demo): add parallax scrolling demo](https://github.com/Oval-Tutu/shove/pull/18) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 days ago)
-- [fix(rendering): improve layer rendering, profiling and performance](https://github.com/Oval-Tutu/shove/pull/17) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 days ago)
-- [fix(rendering): prevent mask layers from being composited](https://github.com/Oval-Tutu/shove/pull/16) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 days ago)
-- [feat(profiler): add minimal FPS overlay with exclusive display mode](https://github.com/Oval-Tutu/shove/pull/15) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 days ago)
-- [DIVERGED feat(profiler): add minimal FPS overlay with exclusive display mode](https://github.com/Oval-Tutu/shove/pull/14) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 days ago)
+- [feat(demo): add parallax scrolling demo](https://github.com/Oval-Tutu/shove/pull/18) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (3 days ago)
+- [fix(rendering): improve layer rendering, profiling and performance](https://github.com/Oval-Tutu/shove/pull/17) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (3 days ago)
+- [fix(rendering): prevent mask layers from being composited](https://github.com/Oval-Tutu/shove/pull/16) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (3 days ago)
+- [feat(profiler): add minimal FPS overlay with exclusive display mode](https://github.com/Oval-Tutu/shove/pull/15) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (3 days ago)
+- [DIVERGED feat(profiler): add minimal FPS overlay with exclusive display mode](https://github.com/Oval-Tutu/shove/pull/14) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (3 days ago)
 
 ### Recent releases 📦️
 
 
-- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) ([1.0.4](https://github.com/Oval-Tutu/shove/releases/tag/1.0.4), 1 day ago)
+- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) ([1.0.4](https://github.com/Oval-Tutu/shove/releases/tag/1.0.4), 2 days ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250308](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250308), 1 week ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) ([0.1.2](https://github.com/Oval-Tutu/bootstrap-love2d-project/releases/tag/0.1.2), 1 week ago)
   - LÖVE Game Development &amp; Automated Build System ⚡
-- [Oval-Tutu/publish-to-itch-with-butler](https://github.com/Oval-Tutu/publish-to-itch-with-butler) ([1.0.0](https://github.com/Oval-Tutu/publish-to-itch-with-butler/releases/tag/1.0.0), 1 week ago)
+- [Oval-Tutu/publish-to-itch-with-butler](https://github.com/Oval-Tutu/publish-to-itch-with-butler) ([1.0.0](https://github.com/Oval-Tutu/publish-to-itch-with-butler/releases/tag/1.0.0), 2 weeks ago)
   - Automatically sets up Butler 🎩 and provides a simple GitHub Action to publish releases to Itch.io ️🕹️
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.6](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.6), 2 weeks ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Moodling Myself Silly](https://linuxmatters.sh/51/) (2 days ago)
+- [Moodling Myself Silly](https://linuxmatters.sh/51/) (3 days ago)
 - [Syfting Through a LÖVEly Rack](https://linuxmatters.sh/50/) (2 weeks ago)
 - [Mark Down in the Console Caves](https://linuxmatters.sh/49/) (1 month ago)
 - [Algorithms, Actions, and GitHub Adventures](https://linuxmatters.sh/48/) (1 month ago)
