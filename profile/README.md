@@ -32,11 +32,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [AmbiguousTechnologies/profile](https://github.com/AmbiguousTechnologies/profile) (today)
+- [AmbiguousTechnologies/profile](https://github.com/AmbiguousTechnologies/profile) (1 day ago)
   - Ambiguous Technologies Home Manager profile 🏠
-- [AmbiguousTechnologies/robot](https://github.com/AmbiguousTechnologies/robot) (today)
+- [AmbiguousTechnologies/robot](https://github.com/AmbiguousTechnologies/robot) (1 day ago)
   - Ambiguous Technologies NixOS robot 🤖
-- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 days ago)
+- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (3 days ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
@@ -46,20 +46,20 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [docs: add README.md](https://github.com/AmbiguousTechnologies/profile/pull/1) on [AmbiguousTechnologies/profile](https://github.com/AmbiguousTechnologies/profile) (today)
-- [docs: add README.md](https://github.com/AmbiguousTechnologies/robot/pull/1) on [AmbiguousTechnologies/robot](https://github.com/AmbiguousTechnologies/robot) (today)
-- [feat(demo): add parallax scrolling demo](https://github.com/Oval-Tutu/shove/pull/18) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (3 days ago)
-- [fix(rendering): improve layer rendering, profiling and performance](https://github.com/Oval-Tutu/shove/pull/17) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (3 days ago)
-- [fix(rendering): prevent mask layers from being composited](https://github.com/Oval-Tutu/shove/pull/16) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (3 days ago)
+- [docs: add README.md](https://github.com/AmbiguousTechnologies/profile/pull/1) on [AmbiguousTechnologies/profile](https://github.com/AmbiguousTechnologies/profile) (1 day ago)
+- [docs: add README.md](https://github.com/AmbiguousTechnologies/robot/pull/1) on [AmbiguousTechnologies/robot](https://github.com/AmbiguousTechnologies/robot) (1 day ago)
+- [feat(demo): add parallax scrolling demo](https://github.com/Oval-Tutu/shove/pull/18) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (4 days ago)
+- [fix(rendering): improve layer rendering, profiling and performance](https://github.com/Oval-Tutu/shove/pull/17) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (4 days ago)
+- [fix(rendering): prevent mask layers from being composited](https://github.com/Oval-Tutu/shove/pull/16) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (4 days ago)
 
 ### Recent releases 📦️
 
 
-- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) ([1.0.4](https://github.com/Oval-Tutu/shove/releases/tag/1.0.4), 2 days ago)
+- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) ([1.0.4](https://github.com/Oval-Tutu/shove/releases/tag/1.0.4), 3 days ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250308](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250308), 1 week ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) ([0.1.2](https://github.com/Oval-Tutu/bootstrap-love2d-project/releases/tag/0.1.2), 1 week ago)
+- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) ([0.1.2](https://github.com/Oval-Tutu/bootstrap-love2d-project/releases/tag/0.1.2), 2 weeks ago)
   - LÖVE Game Development &amp; Automated Build System ⚡
 - [Oval-Tutu/publish-to-itch-with-butler](https://github.com/Oval-Tutu/publish-to-itch-with-butler) ([1.0.0](https://github.com/Oval-Tutu/publish-to-itch-with-butler/releases/tag/1.0.0), 2 weeks ago)
   - Automatically sets up Butler 🎩 and provides a simple GitHub Action to publish releases to Itch.io ️🕹️
@@ -86,11 +86,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Moodling Myself Silly](https://linuxmatters.sh/51/) (3 days ago)
+- [Moodling Myself Silly](https://linuxmatters.sh/51/) (4 days ago)
 - [Syfting Through a LÖVEly Rack](https://linuxmatters.sh/50/) (2 weeks ago)
 - [Mark Down in the Console Caves](https://linuxmatters.sh/49/) (1 month ago)
 - [Algorithms, Actions, and GitHub Adventures](https://linuxmatters.sh/48/) (1 month ago)
-- [Not a Bar or a Camp](https://linuxmatters.sh/47/) (1 month ago)
+- [Not a Bar or a Camp](https://linuxmatters.sh/47/) (2 months ago)
 
 ### 📺️ YouTube
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
