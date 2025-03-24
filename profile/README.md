@@ -32,13 +32,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [AmbiguousTechnologies/profile](https://github.com/AmbiguousTechnologies/profile) (2 days ago)
-  - Ambiguous Technologies Home Manager profile 🏠
-- [AmbiguousTechnologies/robot](https://github.com/AmbiguousTechnologies/robot) (2 days ago)
+- [AmbiguousTechnologies/robot](https://github.com/AmbiguousTechnologies/robot) (3 days ago)
   - Ambiguous Technologies NixOS robot 🤖
-- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (4 days ago)
+- [AmbiguousTechnologies/profile](https://github.com/AmbiguousTechnologies/profile) (3 days ago)
+  - Ambiguous Technologies Home Manager profile 🏠
+- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (5 days ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
 - [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 week ago)
   - LÖVE Game Development &amp; Automated Build System ⚡
@@ -46,18 +46,18 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [docs: add README.md](https://github.com/AmbiguousTechnologies/profile/pull/1) on [AmbiguousTechnologies/profile](https://github.com/AmbiguousTechnologies/profile) (2 days ago)
-- [docs: add README.md](https://github.com/AmbiguousTechnologies/robot/pull/1) on [AmbiguousTechnologies/robot](https://github.com/AmbiguousTechnologies/robot) (2 days ago)
-- [feat(demo): add parallax scrolling demo](https://github.com/Oval-Tutu/shove/pull/18) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (5 days ago)
-- [fix(rendering): improve layer rendering, profiling and performance](https://github.com/Oval-Tutu/shove/pull/17) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (5 days ago)
-- [fix(rendering): prevent mask layers from being composited](https://github.com/Oval-Tutu/shove/pull/16) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (5 days ago)
+- [docs: add README.md](https://github.com/AmbiguousTechnologies/profile/pull/1) on [AmbiguousTechnologies/profile](https://github.com/AmbiguousTechnologies/profile) (3 days ago)
+- [docs: add README.md](https://github.com/AmbiguousTechnologies/robot/pull/1) on [AmbiguousTechnologies/robot](https://github.com/AmbiguousTechnologies/robot) (3 days ago)
+- [feat(demo): add parallax scrolling demo](https://github.com/Oval-Tutu/shove/pull/18) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (6 days ago)
+- [fix(rendering): improve layer rendering, profiling and performance](https://github.com/Oval-Tutu/shove/pull/17) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (6 days ago)
+- [fix(rendering): prevent mask layers from being composited](https://github.com/Oval-Tutu/shove/pull/16) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (6 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250320](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250320), today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250320](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250320), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) ([1.0.4](https://github.com/Oval-Tutu/shove/releases/tag/1.0.4), 4 days ago)
+- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) ([1.0.4](https://github.com/Oval-Tutu/shove/releases/tag/1.0.4), 5 days ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
 - [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) ([0.1.2](https://github.com/Oval-Tutu/bootstrap-love2d-project/releases/tag/0.1.2), 2 weeks ago)
   - LÖVE Game Development &amp; Automated Build System ⚡
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Moodling Myself Silly](https://linuxmatters.sh/51/) (5 days ago)
+- [Moodling Myself Silly](https://linuxmatters.sh/51/) (6 days ago)
 - [Syfting Through a LÖVEly Rack](https://linuxmatters.sh/50/) (2 weeks ago)
 - [Mark Down in the Console Caves](https://linuxmatters.sh/49/) (1 month ago)
 - [Algorithms, Actions, and GitHub Adventures](https://linuxmatters.sh/48/) (1 month ago)
