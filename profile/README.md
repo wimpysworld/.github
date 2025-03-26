@@ -32,13 +32,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [AmbiguousTechnologies/robot](https://github.com/AmbiguousTechnologies/robot) (4 days ago)
+- [AmbiguousTechnologies/robot](https://github.com/AmbiguousTechnologies/robot) (5 days ago)
   - Ambiguous Technologies NixOS robot 🤖
-- [AmbiguousTechnologies/profile](https://github.com/AmbiguousTechnologies/profile) (4 days ago)
+- [AmbiguousTechnologies/profile](https://github.com/AmbiguousTechnologies/profile) (5 days ago)
   - Ambiguous Technologies Home Manager profile 🏠
-- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (6 days ago)
+- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 week ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
 - [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (2 weeks ago)
   - LÖVE Game Development &amp; Automated Build System ⚡
@@ -46,18 +46,18 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [feat: add support for VIA on the Crush 80](https://github.com/wimpysworld/nix-config/pull/452) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [docs: add README.md](https://github.com/AmbiguousTechnologies/profile/pull/1) on [AmbiguousTechnologies/profile](https://github.com/AmbiguousTechnologies/profile) (4 days ago)
-- [docs: add README.md](https://github.com/AmbiguousTechnologies/robot/pull/1) on [AmbiguousTechnologies/robot](https://github.com/AmbiguousTechnologies/robot) (4 days ago)
+- [feat: add support for VIA on the Crush 80](https://github.com/wimpysworld/nix-config/pull/452) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [docs: add README.md](https://github.com/AmbiguousTechnologies/profile/pull/1) on [AmbiguousTechnologies/profile](https://github.com/AmbiguousTechnologies/profile) (5 days ago)
+- [docs: add README.md](https://github.com/AmbiguousTechnologies/robot/pull/1) on [AmbiguousTechnologies/robot](https://github.com/AmbiguousTechnologies/robot) (5 days ago)
 - [feat(demo): add parallax scrolling demo](https://github.com/Oval-Tutu/shove/pull/18) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 week ago)
 - [fix(rendering): improve layer rendering, profiling and performance](https://github.com/Oval-Tutu/shove/pull/17) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 week ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250320](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250320), 2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250320](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250320), 3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) ([1.0.4](https://github.com/Oval-Tutu/shove/releases/tag/1.0.4), 6 days ago)
+- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) ([1.0.4](https://github.com/Oval-Tutu/shove/releases/tag/1.0.4), 1 week ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
 - [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) ([0.1.2](https://github.com/Oval-Tutu/bootstrap-love2d-project/releases/tag/0.1.2), 2 weeks ago)
   - LÖVE Game Development &amp; Automated Build System ⚡
