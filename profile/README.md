@@ -32,11 +32,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [AmbiguousTechnologies/robot](https://github.com/AmbiguousTechnologies/robot) (6 days ago)
+- [AmbiguousTechnologies/robot](https://github.com/AmbiguousTechnologies/robot) (1 week ago)
   - Ambiguous Technologies NixOS robot 🤖
-- [AmbiguousTechnologies/profile](https://github.com/AmbiguousTechnologies/profile) (6 days ago)
+- [AmbiguousTechnologies/profile](https://github.com/AmbiguousTechnologies/profile) (1 week ago)
   - Ambiguous Technologies Home Manager profile 🏠
 - [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 week ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
@@ -46,24 +46,24 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [feat: add support for VIA on the Crush 80](https://github.com/wimpysworld/nix-config/pull/452) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [docs: add README.md](https://github.com/AmbiguousTechnologies/profile/pull/1) on [AmbiguousTechnologies/profile](https://github.com/AmbiguousTechnologies/profile) (6 days ago)
-- [docs: add README.md](https://github.com/AmbiguousTechnologies/robot/pull/1) on [AmbiguousTechnologies/robot](https://github.com/AmbiguousTechnologies/robot) (6 days ago)
+- [feat: add support for VIA on the Crush 80](https://github.com/wimpysworld/nix-config/pull/452) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [docs: add README.md](https://github.com/AmbiguousTechnologies/profile/pull/1) on [AmbiguousTechnologies/profile](https://github.com/AmbiguousTechnologies/profile) (1 week ago)
+- [docs: add README.md](https://github.com/AmbiguousTechnologies/robot/pull/1) on [AmbiguousTechnologies/robot](https://github.com/AmbiguousTechnologies/robot) (1 week ago)
 - [feat(demo): add parallax scrolling demo](https://github.com/Oval-Tutu/shove/pull/18) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 week ago)
 - [fix(rendering): improve layer rendering, profiling and performance](https://github.com/Oval-Tutu/shove/pull/17) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 week ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.1.0](https://github.com/DeterminateSystems/determinate/releases/tag/v3.1.0), today)
+- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.1.0](https://github.com/DeterminateSystems/determinate/releases/tag/v3.1.0), 1 day ago)
   - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250325](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250325), today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250325](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250325), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) ([1.0.4](https://github.com/Oval-Tutu/shove/releases/tag/1.0.4), 1 week ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
 - [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) ([0.1.2](https://github.com/Oval-Tutu/bootstrap-love2d-project/releases/tag/0.1.2), 2 weeks ago)
   - LÖVE Game Development &amp; Automated Build System ⚡
-- [Oval-Tutu/publish-to-itch-with-butler](https://github.com/Oval-Tutu/publish-to-itch-with-butler) ([1.0.0](https://github.com/Oval-Tutu/publish-to-itch-with-butler/releases/tag/1.0.0), 2 weeks ago)
+- [Oval-Tutu/publish-to-itch-with-butler](https://github.com/Oval-Tutu/publish-to-itch-with-butler) ([1.0.0](https://github.com/Oval-Tutu/publish-to-itch-with-butler/releases/tag/1.0.0), 3 weeks ago)
   - Automatically sets up Butler 🎩 and provides a simple GitHub Action to publish releases to Itch.io ️🕹️
 
 ### Recent starred projects ⭐️
