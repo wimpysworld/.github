@@ -55,7 +55,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.1.0](https://github.com/DeterminateSystems/determinate/releases/tag/v3.1.0), 1 day ago)
+- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.1.1](https://github.com/DeterminateSystems/determinate/releases/tag/v3.1.1), today)
   - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250325](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250325), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
