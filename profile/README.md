@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat: add laptop-specific settings for captive portal](https://github.com/wimpysworld/nix-config/pull/456) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: refactor Hyprland session management](https://github.com/wimpysworld/nix-config/pull/454) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add support for VIA on the Crush 80](https://github.com/wimpysworld/nix-config/pull/452) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [docs: add README.md](https://github.com/AmbiguousTechnologies/profile/pull/1) on [AmbiguousTechnologies/profile](https://github.com/AmbiguousTechnologies/profile) (1 week ago)
 - [docs: add README.md](https://github.com/AmbiguousTechnologies/robot/pull/1) on [AmbiguousTechnologies/robot](https://github.com/AmbiguousTechnologies/robot) (1 week ago)
-- [feat(demo): add parallax scrolling demo](https://github.com/Oval-Tutu/shove/pull/18) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 week ago)
 
 ### Recent releases 📦️
 
