@@ -55,7 +55,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250329](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250329), today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250330](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250330), today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.1.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.1.1), 3 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
