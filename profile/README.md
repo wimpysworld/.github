@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [AmbiguousTechnologies/robot](https://github.com/AmbiguousTechnologies/robot) (1 week ago)
   - Ambiguous Technologies NixOS robot 🤖
@@ -40,14 +40,14 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Ambiguous Technologies Home Manager profile 🏠
 - [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 week ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
-- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (2 weeks ago)
+- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (3 weeks ago)
   - LÖVE Game Development &amp; Automated Build System ⚡
 
 ### Recent pull requests 🛠️
 
 
-- [feat: add laptop-specific settings for captive portal](https://github.com/wimpysworld/nix-config/pull/456) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: refactor Hyprland session management](https://github.com/wimpysworld/nix-config/pull/454) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [feat: add laptop-specific settings for captive portal](https://github.com/wimpysworld/nix-config/pull/456) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: refactor Hyprland session management](https://github.com/wimpysworld/nix-config/pull/454) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat: add support for VIA on the Crush 80](https://github.com/wimpysworld/nix-config/pull/452) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [docs: add README.md](https://github.com/AmbiguousTechnologies/profile/pull/1) on [AmbiguousTechnologies/profile](https://github.com/AmbiguousTechnologies/profile) (1 week ago)
 - [docs: add README.md](https://github.com/AmbiguousTechnologies/robot/pull/1) on [AmbiguousTechnologies/robot](https://github.com/AmbiguousTechnologies/robot) (1 week ago)
@@ -55,11 +55,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250330](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250330), today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250330](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250330), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.1.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.1.1), 3 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.1.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.1.1), 4 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.1.1](https://github.com/DeterminateSystems/determinate/releases/tag/v3.1.1), 3 days ago)
+- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.1.1](https://github.com/DeterminateSystems/determinate/releases/tag/v3.1.1), 4 days ago)
   - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
 - [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) ([1.0.4](https://github.com/Oval-Tutu/shove/releases/tag/1.0.4), 1 week ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
@@ -86,8 +86,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Moodling Myself Silly](https://linuxmatters.sh/51/) (1 week ago)
-- [Syfting Through a LÖVEly Rack](https://linuxmatters.sh/50/) (3 weeks ago)
+- [Moodling Myself Silly](https://linuxmatters.sh/51/) (2 weeks ago)
+- [Syfting Through a LÖVEly Rack](https://linuxmatters.sh/50/) (4 weeks ago)
 - [Mark Down in the Console Caves](https://linuxmatters.sh/49/) (1 month ago)
 - [Algorithms, Actions, and GitHub Adventures](https://linuxmatters.sh/48/) (1 month ago)
 - [Not a Bar or a Camp](https://linuxmatters.sh/47/) (2 months ago)
