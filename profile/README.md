@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - A simple Lua HTTPS module using native platform backends where applicable.
 - [Haxxnet/nmap-bootstrap-xsl](https://github.com/Haxxnet/nmap-bootstrap-xsl) (69)
   - An Nmap XSL implementation with Bootstrap. Allows Nmap XML port scan results to be converted into beautiful HTML reports.
-- [popey/twitter-defollower](https://github.com/popey/twitter-defollower) (6)
+- [popey/twitter-defollower](https://github.com/popey/twitter-defollower) (5)
   - A Python script to automatically remove followers from your Twitter/X account. This script helps remove people who *follow you*, not people you follow.
 
 ### 🎙️ Podcast
