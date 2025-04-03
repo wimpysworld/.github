@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat(network): add captive portal dispatcher for NetworkManager](https://github.com/wimpysworld/nix-config/pull/458) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor(hyprland): assorted tweaks and improvements for the hyprland session](https://github.com/wimpysworld/nix-config/pull/457) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat: add laptop-specific settings for captive portal](https://github.com/wimpysworld/nix-config/pull/456) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 - [feat: refactor Hyprland session management](https://github.com/wimpysworld/nix-config/pull/454) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 - [feat: add support for VIA on the Crush 80](https://github.com/wimpysworld/nix-config/pull/452) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-- [docs: add README.md](https://github.com/AmbiguousTechnologies/profile/pull/1) on [AmbiguousTechnologies/profile](https://github.com/AmbiguousTechnologies/profile) (1 week ago)
 
 ### Recent releases 📦️
 
