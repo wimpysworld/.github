@@ -69,6 +69,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
+- [e-tho/iwmenu](https://github.com/e-tho/iwmenu) (149)
+  - Menu-driven Wi-Fi management interface for Linux
 - [e-tho/bzmenu](https://github.com/e-tho/bzmenu) (1)
   - Menu-driven Bluetooth management interface for Linux
 - [Oval-Tutu/publish-to-itch-with-butler](https://github.com/Oval-Tutu/publish-to-itch-with-butler) (3)
@@ -77,8 +79,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - A love2d runtime for web games
 - [love2d/lua-https](https://github.com/love2d/lua-https) (46)
   - A simple Lua HTTPS module using native platform backends where applicable.
-- [Haxxnet/nmap-bootstrap-xsl](https://github.com/Haxxnet/nmap-bootstrap-xsl) (69)
-  - An Nmap XSL implementation with Bootstrap. Allows Nmap XML port scan results to be converted into beautiful HTML reports.
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
