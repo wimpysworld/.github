@@ -69,9 +69,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [e-tho/iwmenu](https://github.com/e-tho/iwmenu) (149)
+- [e-tho/iwmenu](https://github.com/e-tho/iwmenu) (150)
   - Menu-driven Wi-Fi management interface for Linux
-- [e-tho/bzmenu](https://github.com/e-tho/bzmenu) (1)
+- [e-tho/bzmenu](https://github.com/e-tho/bzmenu) (2)
   - Menu-driven Bluetooth management interface for Linux
 - [Oval-Tutu/publish-to-itch-with-butler](https://github.com/Oval-Tutu/publish-to-itch-with-butler) (3)
   - Automatically sets up Butler 🎩 and provides a simple GitHub Action to publish releases to Itch.io ️🕹️
