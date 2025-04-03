@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [AmbiguousTechnologies/robot](https://github.com/AmbiguousTechnologies/robot) (1 week ago)
   - Ambiguous Technologies NixOS robot 🤖
@@ -46,20 +46,20 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [refactor(hyprland): assorted tweaks and improvements for the hyprland session](https://github.com/wimpysworld/nix-config/pull/457) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: add laptop-specific settings for captive portal](https://github.com/wimpysworld/nix-config/pull/456) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [feat: refactor Hyprland session management](https://github.com/wimpysworld/nix-config/pull/454) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [refactor(hyprland): assorted tweaks and improvements for the hyprland session](https://github.com/wimpysworld/nix-config/pull/457) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: add laptop-specific settings for captive portal](https://github.com/wimpysworld/nix-config/pull/456) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [feat: refactor Hyprland session management](https://github.com/wimpysworld/nix-config/pull/454) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 - [feat: add support for VIA on the Crush 80](https://github.com/wimpysworld/nix-config/pull/452) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [docs: add README.md](https://github.com/AmbiguousTechnologies/profile/pull/1) on [AmbiguousTechnologies/profile](https://github.com/AmbiguousTechnologies/profile) (1 week ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.2.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.2.1), today)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.2.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.2.1), 1 day ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.2.1](https://github.com/DeterminateSystems/determinate/releases/tag/v3.2.1), today)
+- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.2.1](https://github.com/DeterminateSystems/determinate/releases/tag/v3.2.1), 1 day ago)
   - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250330](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250330), 2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250330](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250330), 3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) ([1.0.4](https://github.com/Oval-Tutu/shove/releases/tag/1.0.4), 2 weeks ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
@@ -86,9 +86,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Great Scott, 1.21 Jiggabits!](https://linuxmatters.sh/52/) (1 day ago)
+- [Great Scott, 1.21 Jiggabits!](https://linuxmatters.sh/52/) (2 days ago)
 - [Moodling Myself Silly](https://linuxmatters.sh/51/) (2 weeks ago)
-- [Syfting Through a LÖVEly Rack](https://linuxmatters.sh/50/) (4 weeks ago)
+- [Syfting Through a LÖVEly Rack](https://linuxmatters.sh/50/) (1 month ago)
 - [Mark Down in the Console Caves](https://linuxmatters.sh/49/) (1 month ago)
 - [Algorithms, Actions, and GitHub Adventures](https://linuxmatters.sh/48/) (1 month ago)
 
