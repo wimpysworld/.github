@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [AmbiguousTechnologies/robot](https://github.com/AmbiguousTechnologies/robot) (2 weeks ago)
   - Ambiguous Technologies NixOS robot 🤖
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [chore: update phasma keyboard to gb layout in hyprland](https://github.com/wimpysworld/nix-config/pull/461) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor(waybar): split out waybars scripts into separate files](https://github.com/wimpysworld/nix-config/pull/460) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [refactor: add bzmenu and iwmenu for bluetooth and wifi management](https://github.com/wimpysworld/nix-config/pull/459) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat(network): add captive portal dispatcher for NetworkManager](https://github.com/wimpysworld/nix-config/pull/458) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [refactor(hyprland): assorted tweaks and improvements for the hyprland session](https://github.com/wimpysworld/nix-config/pull/457) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [feat: add laptop-specific settings for captive portal](https://github.com/wimpysworld/nix-config/pull/456) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 
 ### Recent releases 📦️
 
