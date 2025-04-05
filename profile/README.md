@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [AmbiguousTechnologies/robot](https://github.com/AmbiguousTechnologies/robot) (2 weeks ago)
   - Ambiguous Technologies NixOS robot 🤖
@@ -46,24 +46,24 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [chore: update phasma keyboard to gb layout in hyprland](https://github.com/wimpysworld/nix-config/pull/461) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor(waybar): split out waybars scripts into separate files](https://github.com/wimpysworld/nix-config/pull/460) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [refactor: add bzmenu and iwmenu for bluetooth and wifi management](https://github.com/wimpysworld/nix-config/pull/459) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [feat(network): add captive portal dispatcher for NetworkManager](https://github.com/wimpysworld/nix-config/pull/458) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [refactor(hyprland): assorted tweaks and improvements for the hyprland session](https://github.com/wimpysworld/nix-config/pull/457) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [chore: update phasma keyboard to gb layout in hyprland](https://github.com/wimpysworld/nix-config/pull/461) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [refactor(waybar): split out waybars scripts into separate files](https://github.com/wimpysworld/nix-config/pull/460) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [refactor: add bzmenu and iwmenu for bluetooth and wifi management](https://github.com/wimpysworld/nix-config/pull/459) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [feat(network): add captive portal dispatcher for NetworkManager](https://github.com/wimpysworld/nix-config/pull/458) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [refactor(hyprland): assorted tweaks and improvements for the hyprland session](https://github.com/wimpysworld/nix-config/pull/457) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.2.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.2.1), 2 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.2.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.2.1), 3 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.2.1](https://github.com/DeterminateSystems/determinate/releases/tag/v3.2.1), 2 days ago)
+- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.2.1](https://github.com/DeterminateSystems/determinate/releases/tag/v3.2.1), 3 days ago)
   - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250330](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250330), 4 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250330](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250330), 5 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) ([1.0.4](https://github.com/Oval-Tutu/shove/releases/tag/1.0.4), 2 weeks ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
-- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) ([0.1.2](https://github.com/Oval-Tutu/bootstrap-love2d-project/releases/tag/0.1.2), 3 weeks ago)
+- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) ([0.1.2](https://github.com/Oval-Tutu/bootstrap-love2d-project/releases/tag/0.1.2), 4 weeks ago)
   - LÖVE Game Development &amp; Automated Build System ⚡
 
 ### Recent starred projects ⭐️
@@ -86,11 +86,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Great Scott, 1.21 Jiggabits!](https://linuxmatters.sh/52/) (3 days ago)
+- [Great Scott, 1.21 Jiggabits!](https://linuxmatters.sh/52/) (4 days ago)
 - [Moodling Myself Silly](https://linuxmatters.sh/51/) (2 weeks ago)
 - [Syfting Through a LÖVEly Rack](https://linuxmatters.sh/50/) (1 month ago)
 - [Mark Down in the Console Caves](https://linuxmatters.sh/49/) (1 month ago)
-- [Algorithms, Actions, and GitHub Adventures](https://linuxmatters.sh/48/) (1 month ago)
+- [Algorithms, Actions, and GitHub Adventures](https://linuxmatters.sh/48/) (2 months ago)
 
 ### 📺️ YouTube
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
