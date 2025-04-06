@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Automatically sets up Butler 🎩 and provides a simple GitHub Action to publish releases to Itch.io ️🕹️
 - [elloramir/love.js](https://github.com/elloramir/love.js) (2)
   - A love2d runtime for web games
-- [love2d/lua-https](https://github.com/love2d/lua-https) (46)
+- [love2d/lua-https](https://github.com/love2d/lua-https) (47)
   - A simple Lua HTTPS module using native platform backends where applicable.
 
 ### 🎙️ Podcast
