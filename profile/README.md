@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [AmbiguousTechnologies/robot](https://github.com/AmbiguousTechnologies/robot) (2 weeks ago)
   - Ambiguous Technologies NixOS robot 🤖
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [feat(fuzzel-hyprshot): add screen recording support](https://github.com/wimpysworld/nix-config/pull/466) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat(fuzzel): add hyperpicker menu](https://github.com/wimpysworld/nix-config/pull/465) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat(fuzzel): add fuzzel-hyprshot - a screenshot helper](https://github.com/wimpysworld/nix-config/pull/464) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 - [feat: add input-remapper](https://github.com/wimpysworld/nix-config/pull/463) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 - [chore: update phasma keyboard to gb layout in hyprland](https://github.com/wimpysworld/nix-config/pull/461) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
-- [refactor(waybar): split out waybars scripts into separate files](https://github.com/wimpysworld/nix-config/pull/460) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 
 ### Recent releases 📦️
 
