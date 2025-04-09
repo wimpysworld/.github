@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix(vscode): update catppuccin to resolve vscode evaluation failure](https://github.com/wimpysworld/nix-config/pull/467) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat(fuzzel-hyprshot): add screen recording support](https://github.com/wimpysworld/nix-config/pull/466) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat(fuzzel): add hyperpicker menu](https://github.com/wimpysworld/nix-config/pull/465) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 - [feat(fuzzel): add fuzzel-hyprshot - a screenshot helper](https://github.com/wimpysworld/nix-config/pull/464) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 - [feat: add input-remapper](https://github.com/wimpysworld/nix-config/pull/463) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
-- [chore: update phasma keyboard to gb layout in hyprland](https://github.com/wimpysworld/nix-config/pull/461) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 
 ### Recent releases 📦️
 
