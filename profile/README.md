@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [AmbiguousTechnologies/robot](https://github.com/AmbiguousTechnologies/robot) (2 weeks ago)
   - Ambiguous Technologies NixOS robot 🤖
@@ -40,17 +40,17 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Ambiguous Technologies Home Manager profile 🏠
 - [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (3 weeks ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
-- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (4 weeks ago)
+- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 month ago)
   - LÖVE Game Development &amp; Automated Build System ⚡
 
 ### Recent pull requests 🛠️
 
 
-- [fix(vscode): update catppuccin to resolve vscode evaluation failure](https://github.com/wimpysworld/nix-config/pull/467) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat(fuzzel-hyprshot): add screen recording support](https://github.com/wimpysworld/nix-config/pull/466) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [feat(fuzzel): add hyperpicker menu](https://github.com/wimpysworld/nix-config/pull/465) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [feat(fuzzel): add fuzzel-hyprshot - a screenshot helper](https://github.com/wimpysworld/nix-config/pull/464) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
-- [feat: add input-remapper](https://github.com/wimpysworld/nix-config/pull/463) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [fix(vscode): update catppuccin to resolve vscode evaluation failure](https://github.com/wimpysworld/nix-config/pull/467) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat(fuzzel-hyprshot): add screen recording support](https://github.com/wimpysworld/nix-config/pull/466) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [feat(fuzzel): add hyperpicker menu](https://github.com/wimpysworld/nix-config/pull/465) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [feat(fuzzel): add fuzzel-hyprshot - a screenshot helper](https://github.com/wimpysworld/nix-config/pull/464) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [feat: add input-remapper](https://github.com/wimpysworld/nix-config/pull/463) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 
 ### Recent releases 📦️
 
