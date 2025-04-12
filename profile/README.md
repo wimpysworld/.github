@@ -55,10 +55,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.3.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.3.1), today)
+  - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.3.1](https://github.com/DeterminateSystems/determinate/releases/tag/v3.3.1), today)
   - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.2.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.2.1), 1 week ago)
-  - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250330](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250330), 1 week ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) ([1.0.4](https://github.com/Oval-Tutu/shove/releases/tag/1.0.4), 3 weeks ago)
