@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [AmbiguousTechnologies/robot](https://github.com/AmbiguousTechnologies/robot) (3 weeks ago)
   - Ambiguous Technologies NixOS robot 🤖
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor(ollama): update LLM selection](https://github.com/wimpysworld/nix-config/pull/469) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [fix(vscode): update catppuccin to resolve vscode evaluation failure](https://github.com/wimpysworld/nix-config/pull/467) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 - [feat(fuzzel-hyprshot): add screen recording support](https://github.com/wimpysworld/nix-config/pull/466) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 - [feat(fuzzel): add hyperpicker menu](https://github.com/wimpysworld/nix-config/pull/465) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
 - [feat(fuzzel): add fuzzel-hyprshot - a screenshot helper](https://github.com/wimpysworld/nix-config/pull/464) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-- [feat: add input-remapper](https://github.com/wimpysworld/nix-config/pull/463) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
