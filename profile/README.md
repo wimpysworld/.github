@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [AmbiguousTechnologies/robot](https://github.com/AmbiguousTechnologies/robot) (3 weeks ago)
   - Ambiguous Technologies NixOS robot 🤖
@@ -46,20 +46,20 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [refactor(ollama): update LLM selection](https://github.com/wimpysworld/nix-config/pull/469) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [fix(vscode): update catppuccin to resolve vscode evaluation failure](https://github.com/wimpysworld/nix-config/pull/467) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
-- [feat(fuzzel-hyprshot): add screen recording support](https://github.com/wimpysworld/nix-config/pull/466) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
-- [feat(fuzzel): add hyperpicker menu](https://github.com/wimpysworld/nix-config/pull/465) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
+- [refactor(ollama): update LLM selection](https://github.com/wimpysworld/nix-config/pull/469) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [fix(vscode): update catppuccin to resolve vscode evaluation failure](https://github.com/wimpysworld/nix-config/pull/467) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [feat(fuzzel-hyprshot): add screen recording support](https://github.com/wimpysworld/nix-config/pull/466) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
+- [feat(fuzzel): add hyperpicker menu](https://github.com/wimpysworld/nix-config/pull/465) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [feat(fuzzel): add fuzzel-hyprshot - a screenshot helper](https://github.com/wimpysworld/nix-config/pull/464) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.3.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.3.1), 1 day ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.3.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.3.1), 2 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.3.1](https://github.com/DeterminateSystems/determinate/releases/tag/v3.3.1), 1 day ago)
+- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.3.1](https://github.com/DeterminateSystems/determinate/releases/tag/v3.3.1), 2 days ago)
   - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250330](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250330), 1 week ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250330](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250330), 2 weeks ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) ([1.0.4](https://github.com/Oval-Tutu/shove/releases/tag/1.0.4), 3 weeks ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
