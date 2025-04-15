@@ -69,7 +69,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (65)
+- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (66)
   - File downloader for archive.org ⬇️
 - [e-tho/iwmenu](https://github.com/e-tho/iwmenu) (151)
   - Menu-driven Wi-Fi management interface for Linux
