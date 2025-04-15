@@ -32,6 +32,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (today)
+  - The website to showcase Ubuntu MATE&#39;s features.
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (today)
   - apt-get for .debs published via GitHub or direct download 📦
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
@@ -40,8 +42,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - Ambiguous Technologies Home Manager profile 🏠
 - [AmbiguousTechnologies/robot](https://github.com/AmbiguousTechnologies/robot) (3 weeks ago)
   - Ambiguous Technologies NixOS robot 🤖
-- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (3 weeks ago)
-  - A powerful resolution-handler and rendering library for LÖVE 📐
 
 ### Recent pull requests 🛠️
 
