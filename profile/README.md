@@ -32,16 +32,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (today)
+  - apt-get for .debs published via GitHub or direct download 📦
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [AmbiguousTechnologies/robot](https://github.com/AmbiguousTechnologies/robot) (3 weeks ago)
-  - Ambiguous Technologies NixOS robot 🤖
 - [AmbiguousTechnologies/profile](https://github.com/AmbiguousTechnologies/profile) (3 weeks ago)
   - Ambiguous Technologies Home Manager profile 🏠
+- [AmbiguousTechnologies/robot](https://github.com/AmbiguousTechnologies/robot) (3 weeks ago)
+  - Ambiguous Technologies NixOS robot 🤖
 - [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (3 weeks ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
-- [Oval-Tutu/bootstrap-love2d-project](https://github.com/Oval-Tutu/bootstrap-love2d-project) (1 month ago)
-  - LÖVE Game Development &amp; Automated Build System ⚡
 
 ### Recent pull requests 🛠️
 
