@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix: revert version to 0.4.5](https://github.com/wimpysworld/deb-get/pull/1403) on [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (today)
 - [chore: remove snapd and snapcraft](https://github.com/wimpysworld/nix-config/pull/471) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat: update ollama and open-webui to current versions with new LLM lineup](https://github.com/wimpysworld/nix-config/pull/470) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [refactor(ollama): update LLM selection](https://github.com/wimpysworld/nix-config/pull/469) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 - [fix(vscode): update catppuccin to resolve vscode evaluation failure](https://github.com/wimpysworld/nix-config/pull/467) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
-- [feat(fuzzel-hyprshot): add screen recording support](https://github.com/wimpysworld/nix-config/pull/466) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
