@@ -32,14 +32,14 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+  - My personal blog
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (1 day ago)
-  - apt-get for .debs published via GitHub or direct download 📦
 - [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (1 day ago)
   - The website to showcase Ubuntu MATE&#39;s features.
-- [AmbiguousTechnologies/robot](https://github.com/AmbiguousTechnologies/robot) (3 weeks ago)
-  - Ambiguous Technologies NixOS robot 🤖
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (1 day ago)
+  - apt-get for .debs published via GitHub or direct download 📦
 - [AmbiguousTechnologies/profile](https://github.com/AmbiguousTechnologies/profile) (3 weeks ago)
   - Ambiguous Technologies Home Manager profile 🏠
 
@@ -104,11 +104,11 @@ Here's some recent episodes:
 
 ### ✍️ Blog
 
+- [Fuzzel Colour Picker](https://wimpysworld.com/posts/fuzzel-hyprpicker/) (1 year ago)
 - [Install ZeroTier on Steam Deck](https://wimpysworld.com/posts/install-zerotier-on-steamdeck/) (2 years ago)
 - [Steam Box vs Steam Deck](https://wimpysworld.com/posts/steambox-vs-steamdeck/) (2 years ago)
 - [Flash Stadia Controller Bluetooth Firmware on Linux](https://wimpysworld.com/posts/flash-stadia-controller-bluetooth-firmware-on-linux/) (2 years ago)
 - [Why I chose the ThinkPad Z13 Gen1 as my Linux laptop](https://wimpysworld.com/posts/why-i-chose-the-thinkpad-z13-as-my-linux-laptop/) (2 years ago)
-- [Creating Production-Ready Containers - Advanced Techniques](https://wimpysworld.com/posts/creating-production-ready-containers-advanced-techniques/) (3 years ago)
 
 <p align="center">
   <a href="https://github.com/flexiondotorg/flexiondotorg" target="_blank"><img alt="Hit Counter" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fflexiondotorg%2Fflexiondotorg.json&style=flat-square&logo=github&logoColor=ffffff&label=Visitors&labelColor=%23f76ce9&color=%236fbbf6">
