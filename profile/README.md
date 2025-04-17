@@ -32,6 +32,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
+  - A powerful resolution-handler and rendering library for LÖVE 📐
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
   - My personal blog
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
@@ -40,17 +42,15 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - The website to showcase Ubuntu MATE&#39;s features.
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (2 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
-- [AmbiguousTechnologies/profile](https://github.com/AmbiguousTechnologies/profile) (3 weeks ago)
-  - Ambiguous Technologies Home Manager profile 🏠
 
 ### Recent pull requests 🛠️
 
 
+- [feat: add canvas proxy demo](https://github.com/Oval-Tutu/shove/pull/21) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
 - [fix: revert version to 0.4.5](https://github.com/wimpysworld/deb-get/pull/1403) on [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (2 days ago)
 - [chore: remove snapd and snapcraft](https://github.com/wimpysworld/nix-config/pull/471) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 - [feat: update ollama and open-webui to current versions with new LLM lineup](https://github.com/wimpysworld/nix-config/pull/470) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 - [refactor(ollama): update LLM selection](https://github.com/wimpysworld/nix-config/pull/469) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
-- [fix(vscode): update catppuccin to resolve vscode evaluation failure](https://github.com/wimpysworld/nix-config/pull/467) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
