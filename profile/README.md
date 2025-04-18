@@ -32,38 +32,38 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
+- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 day ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (2 days ago)
+- [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (3 days ago)
   - The website to showcase Ubuntu MATE&#39;s features.
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (2 days ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (3 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
 
 ### Recent pull requests 🛠️
 
 
-- [feat: add canvas proxy demo](https://github.com/Oval-Tutu/shove/pull/21) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
-- [fix: revert version to 0.4.5](https://github.com/wimpysworld/deb-get/pull/1403) on [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (2 days ago)
-- [chore: remove snapd and snapcraft](https://github.com/wimpysworld/nix-config/pull/471) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [feat: update ollama and open-webui to current versions with new LLM lineup](https://github.com/wimpysworld/nix-config/pull/470) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [refactor(ollama): update LLM selection](https://github.com/wimpysworld/nix-config/pull/469) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [feat: add canvas proxy demo](https://github.com/Oval-Tutu/shove/pull/21) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 day ago)
+- [fix: revert version to 0.4.5](https://github.com/wimpysworld/deb-get/pull/1403) on [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (3 days ago)
+- [chore: remove snapd and snapcraft](https://github.com/wimpysworld/nix-config/pull/471) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [feat: update ollama and open-webui to current versions with new LLM lineup](https://github.com/wimpysworld/nix-config/pull/470) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [refactor(ollama): update LLM selection](https://github.com/wimpysworld/nix-config/pull/469) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.5](https://github.com/wimpysworld/deb-get/releases/tag/0.4.5), 2 days ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.5](https://github.com/wimpysworld/deb-get/releases/tag/0.4.5), 3 days ago)
   - apt-get for .debs published via GitHub or direct download 📦
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.3.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.3.1), 5 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.3.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.3.1), 6 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.3.1](https://github.com/DeterminateSystems/determinate/releases/tag/v3.3.1), 5 days ago)
+- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.3.1](https://github.com/DeterminateSystems/determinate/releases/tag/v3.3.1), 6 days ago)
   - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250330](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250330), 2 weeks ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) ([1.0.4](https://github.com/Oval-Tutu/shove/releases/tag/1.0.4), 4 weeks ago)
+- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) ([1.0.4](https://github.com/Oval-Tutu/shove/releases/tag/1.0.4), 1 month ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
 
 ### Recent starred projects ⭐️
@@ -86,7 +86,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Crafting Bookshelf Buddy](https://linuxmatters.sh/53/) (2 days ago)
+- [Crafting Bookshelf Buddy](https://linuxmatters.sh/53/) (3 days ago)
 - [Great Scott, 1.21 Jiggabits!](https://linuxmatters.sh/52/) (2 weeks ago)
 - [Moodling Myself Silly](https://linuxmatters.sh/51/) (1 month ago)
 - [Syfting Through a LÖVEly Rack](https://linuxmatters.sh/50/) (1 month ago)
