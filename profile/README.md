@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [perf(rendering): optimize layer signature generation with numeric hashing](https://github.com/Oval-Tutu/shove/pull/25) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
+- [refactor(canvas): optimise canvas creation](https://github.com/Oval-Tutu/shove/pull/24) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
 - [perf(render): defer layer sorting until compositing](https://github.com/Oval-Tutu/shove/pull/23) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
 - [feat: temporarily override setCanvas() in the beginDraw()/endDraw() loop and track colour state](https://github.com/Oval-Tutu/shove/pull/22) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
 - [feat: add canvas proxy demo](https://github.com/Oval-Tutu/shove/pull/21) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 day ago)
-- [fix: revert version to 0.4.5](https://github.com/wimpysworld/deb-get/pull/1403) on [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (3 days ago)
-- [chore: remove snapd and snapcraft](https://github.com/wimpysworld/nix-config/pull/471) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 
 ### Recent releases 📦️
 
