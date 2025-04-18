@@ -71,7 +71,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (67)
   - File downloader for archive.org ⬇️
-- [e-tho/iwmenu](https://github.com/e-tho/iwmenu) (151)
+- [e-tho/iwmenu](https://github.com/e-tho/iwmenu) (150)
   - Menu-driven Wi-Fi management interface for Linux
 - [e-tho/bzmenu](https://github.com/e-tho/bzmenu) (3)
   - Menu-driven Bluetooth management interface for Linux
