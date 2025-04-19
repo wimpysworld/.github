@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 day ago)
+- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
   - A powerful resolution-handler and rendering library for LÖVE 📐
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
   - My personal blog
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [perf(canvas): implement separate canvas pools for standard and stencil buffers](https://github.com/Oval-Tutu/shove/pull/27) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
 - [perf(rendering): optimize layer batching with single-layer fast path](https://github.com/Oval-Tutu/shove/pull/26) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 day ago)
 - [perf(rendering): optimize layer signature generation with numeric hashing](https://github.com/Oval-Tutu/shove/pull/25) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 day ago)
 - [refactor(canvas): optimise canvas creation](https://github.com/Oval-Tutu/shove/pull/24) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 day ago)
 - [perf(render): defer layer sorting until compositing](https://github.com/Oval-Tutu/shove/pull/23) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 day ago)
-- [feat: temporarily override setCanvas() in the beginDraw()/endDraw() loop and track colour state](https://github.com/Oval-Tutu/shove/pull/22) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 day ago)
 
 ### Recent releases 📦️
 
