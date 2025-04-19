@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [perf(rendering): optimise blend mode state changes with tracking system](https://github.com/Oval-Tutu/shove/pull/32) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
+- [perf(rendering): optimize shader state changes with caching system](https://github.com/Oval-Tutu/shove/pull/31) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
 - [perf(renderer): optimize layer batch drawing with hybrid approach](https://github.com/Oval-Tutu/shove/pull/30) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
 - [perf(layers): optimize layer signature calculation algorithm](https://github.com/Oval-Tutu/shove/pull/29) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
 - [perf(effects): optimize shader effect application pipeline](https://github.com/Oval-Tutu/shove/pull/28) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
-- [perf(canvas): implement separate canvas pools for standard and stencil buffers](https://github.com/Oval-Tutu/shove/pull/27) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
-- [perf(rendering): optimize layer batching with single-layer fast path](https://github.com/Oval-Tutu/shove/pull/26) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 day ago)
 
 ### Recent releases 📦️
 
