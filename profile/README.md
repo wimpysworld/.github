@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [perf(rendering): remove layer batching optimizations](https://github.com/Oval-Tutu/shove/pull/37) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
 - [feat(profiler): display average FPS](https://github.com/Oval-Tutu/shove/pull/36) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 day ago)
 - [perf(profiler): optimize memory allocation in getState function](https://github.com/Oval-Tutu/shove/pull/35) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 days ago)
 - [fix(profiler): removes redundant state change counts](https://github.com/Oval-Tutu/shove/pull/34) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 days ago)
 - [perf(rendering): implement stencil state tracking system](https://github.com/Oval-Tutu/shove/pull/33) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 days ago)
-- [perf(rendering): optimise blend mode state changes with tracking system](https://github.com/Oval-Tutu/shove/pull/32) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 days ago)
 
 ### Recent releases 📦️
 
