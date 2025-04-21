@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [perf(overlay) cache FPS overlay and improve content change detection](https://github.com/Oval-Tutu/shove/pull/43) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
 - [refactor(profiler): simplify overlay toggling with unified state management](https://github.com/Oval-Tutu/shove/pull/42) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
 - [perf(profiler): optimize overlay rendering with canvas caching](https://github.com/Oval-Tutu/shove/pull/41) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
 - [refactor(profiler): clean up getState() and remove unused layer properties](https://github.com/Oval-Tutu/shove/pull/40) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
 - [refactor(rendering): make sharedEffectsTable local to compositeLayersOnScreen](https://github.com/Oval-Tutu/shove/pull/39) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
-- [feat(rendering): reinstate sequential shader effect chaining](https://github.com/Oval-Tutu/shove/pull/38) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
 
 ### Recent releases 📦️
 
