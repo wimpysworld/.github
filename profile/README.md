@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [refactor(profiler): clean up getState() and remove unused layer properties](https://github.com/Oval-Tutu/shove/pull/40) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
 - [refactor(rendering): make sharedEffectsTable local to compositeLayersOnScreen](https://github.com/Oval-Tutu/shove/pull/39) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
 - [feat(rendering): reinstate sequential shader effect chaining](https://github.com/Oval-Tutu/shove/pull/38) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
 - [perf(rendering): remove layer batching optimizations](https://github.com/Oval-Tutu/shove/pull/37) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
 - [feat(profiler): display average FPS](https://github.com/Oval-Tutu/shove/pull/36) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 day ago)
-- [perf(profiler): optimize memory allocation in getState function](https://github.com/Oval-Tutu/shove/pull/35) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 days ago)
 
 ### Recent releases 📦️
 
