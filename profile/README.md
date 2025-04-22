@@ -32,32 +32,32 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
+- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 day ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (5 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (6 days ago)
   - My personal blog
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (6 days ago)
+- [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (1 week ago)
   - The website to showcase Ubuntu MATE&#39;s features.
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (6 days ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (1 week ago)
   - apt-get for .debs published via GitHub or direct download 📦
 
 ### Recent pull requests 🛠️
 
 
-- [docs: updates demo descriptions and order](https://github.com/Oval-Tutu/shove/pull/44) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
-- [perf(overlay) cache FPS overlay and improve content change detection](https://github.com/Oval-Tutu/shove/pull/43) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
-- [refactor(profiler): simplify overlay toggling with unified state management](https://github.com/Oval-Tutu/shove/pull/42) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
-- [perf(profiler): optimize overlay rendering with canvas caching](https://github.com/Oval-Tutu/shove/pull/41) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
-- [refactor(profiler): clean up getState() and remove unused layer properties](https://github.com/Oval-Tutu/shove/pull/40) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
+- [docs: updates demo descriptions and order](https://github.com/Oval-Tutu/shove/pull/44) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 day ago)
+- [perf(overlay) cache FPS overlay and improve content change detection](https://github.com/Oval-Tutu/shove/pull/43) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 day ago)
+- [refactor(profiler): simplify overlay toggling with unified state management](https://github.com/Oval-Tutu/shove/pull/42) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 day ago)
+- [perf(profiler): optimize overlay rendering with canvas caching](https://github.com/Oval-Tutu/shove/pull/41) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 day ago)
+- [refactor(profiler): clean up getState() and remove unused layer properties](https://github.com/Oval-Tutu/shove/pull/40) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 day ago)
 
 ### Recent releases 📦️
 
 
-- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) ([1.0.5](https://github.com/Oval-Tutu/shove/releases/tag/1.0.5), 3 days ago)
+- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) ([1.0.5](https://github.com/Oval-Tutu/shove/releases/tag/1.0.5), 4 days ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.5](https://github.com/wimpysworld/deb-get/releases/tag/0.4.5), 6 days ago)
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.5](https://github.com/wimpysworld/deb-get/releases/tag/0.4.5), 1 week ago)
   - apt-get for .debs published via GitHub or direct download 📦
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.3.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.3.1), 1 week ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
@@ -86,8 +86,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [Crafting Bookshelf Buddy](https://linuxmatters.sh/53/) (6 days ago)
-- [Great Scott, 1.21 Jiggabits!](https://linuxmatters.sh/52/) (2 weeks ago)
+- [Crafting Bookshelf Buddy](https://linuxmatters.sh/53/) (1 week ago)
+- [Great Scott, 1.21 Jiggabits!](https://linuxmatters.sh/52/) (3 weeks ago)
 - [Moodling Myself Silly](https://linuxmatters.sh/51/) (1 month ago)
 - [Syfting Through a LÖVEly Rack](https://linuxmatters.sh/50/) (1 month ago)
 - [Mark Down in the Console Caves](https://linuxmatters.sh/49/) (2 months ago)
