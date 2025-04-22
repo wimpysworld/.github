@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 day ago)
+- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
   - A powerful resolution-handler and rendering library for LÖVE 📐
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (6 days ago)
   - My personal blog
