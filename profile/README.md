@@ -32,11 +32,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
+- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 day ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (6 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 week ago)
   - My personal blog
 - [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (1 week ago)
   - The website to showcase Ubuntu MATE&#39;s features.
@@ -46,16 +46,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [docs: updates demo descriptions and order](https://github.com/Oval-Tutu/shove/pull/44) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 day ago)
-- [perf(overlay) cache FPS overlay and improve content change detection](https://github.com/Oval-Tutu/shove/pull/43) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 day ago)
-- [refactor(profiler): simplify overlay toggling with unified state management](https://github.com/Oval-Tutu/shove/pull/42) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 day ago)
-- [perf(profiler): optimize overlay rendering with canvas caching](https://github.com/Oval-Tutu/shove/pull/41) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 day ago)
-- [refactor(profiler): clean up getState() and remove unused layer properties](https://github.com/Oval-Tutu/shove/pull/40) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 day ago)
+- [docs: updates demo descriptions and order](https://github.com/Oval-Tutu/shove/pull/44) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 days ago)
+- [perf(overlay) cache FPS overlay and improve content change detection](https://github.com/Oval-Tutu/shove/pull/43) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 days ago)
+- [refactor(profiler): simplify overlay toggling with unified state management](https://github.com/Oval-Tutu/shove/pull/42) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 days ago)
+- [perf(profiler): optimize overlay rendering with canvas caching](https://github.com/Oval-Tutu/shove/pull/41) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 days ago)
+- [refactor(profiler): clean up getState() and remove unused layer properties](https://github.com/Oval-Tutu/shove/pull/40) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 days ago)
 
 ### Recent releases 📦️
 
 
-- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) ([1.0.5](https://github.com/Oval-Tutu/shove/releases/tag/1.0.5), 4 days ago)
+- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) ([1.0.5](https://github.com/Oval-Tutu/shove/releases/tag/1.0.5), 5 days ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.5](https://github.com/wimpysworld/deb-get/releases/tag/0.4.5), 1 week ago)
   - apt-get for .debs published via GitHub or direct download 📦
