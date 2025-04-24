@@ -46,16 +46,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [docs: add Shöve](https://github.com/love2d-community/awesome-love2d/pull/288) on [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (today)
 - [docs: updates demo descriptions and order](https://github.com/Oval-Tutu/shove/pull/44) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (3 days ago)
 - [perf(overlay) cache FPS overlay and improve content change detection](https://github.com/Oval-Tutu/shove/pull/43) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (3 days ago)
 - [refactor(profiler): simplify overlay toggling with unified state management](https://github.com/Oval-Tutu/shove/pull/42) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (3 days ago)
 - [perf(profiler): optimize overlay rendering with canvas caching](https://github.com/Oval-Tutu/shove/pull/41) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (3 days ago)
-- [refactor(profiler): clean up getState() and remove unused layer properties](https://github.com/Oval-Tutu/shove/pull/40) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (3 days ago)
 
 ### Recent releases 📦️
 
 
-- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) ([1.0.5](https://github.com/Oval-Tutu/shove/releases/tag/1.0.5), 6 days ago)
+- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) ([1.0.6](https://github.com/Oval-Tutu/shove/releases/tag/1.0.6), today)
   - A powerful resolution-handler and rendering library for LÖVE 📐
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.5](https://github.com/wimpysworld/deb-get/releases/tag/0.4.5), 1 week ago)
   - apt-get for .debs published via GitHub or direct download 📦
