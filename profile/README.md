@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix(profiler): improve profiler module loading robustness](https://github.com/Oval-Tutu/shove/pull/48) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
 - [fix(setShader): revert change that breaks clearing shader state](https://github.com/Oval-Tutu/shove/pull/47) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
 - [fix(profiler): correctly capture frame stats](https://github.com/Oval-Tutu/shove/pull/46) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
 - [docs: add Shöve](https://github.com/love2d-community/awesome-love2d/pull/288) on [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (2 days ago)
 - [docs: updates demo descriptions and order](https://github.com/Oval-Tutu/shove/pull/44) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (5 days ago)
-- [perf(overlay) cache FPS overlay and improve content change detection](https://github.com/Oval-Tutu/shove/pull/43) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (5 days ago)
 
 ### Recent releases 📦️
 
