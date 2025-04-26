@@ -32,10 +32,10 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
+  - A powerful resolution-handler and rendering library for LÖVE 📐
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (4 days ago)
-  - A powerful resolution-handler and rendering library for LÖVE 📐
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 week ago)
   - My personal blog
 - [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (1 week ago)
@@ -46,11 +46,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [fix(setShader): revert change that breaks clearing shader state](https://github.com/Oval-Tutu/shove/pull/47) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
+- [fix(profiler): correctly capture frame stats](https://github.com/Oval-Tutu/shove/pull/46) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (today)
 - [docs: add Shöve](https://github.com/love2d-community/awesome-love2d/pull/288) on [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (2 days ago)
 - [docs: updates demo descriptions and order](https://github.com/Oval-Tutu/shove/pull/44) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (5 days ago)
 - [perf(overlay) cache FPS overlay and improve content change detection](https://github.com/Oval-Tutu/shove/pull/43) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (5 days ago)
-- [refactor(profiler): simplify overlay toggling with unified state management](https://github.com/Oval-Tutu/shove/pull/42) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (5 days ago)
-- [perf(profiler): optimize overlay rendering with canvas caching](https://github.com/Oval-Tutu/shove/pull/41) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (5 days ago)
 
 ### Recent releases 📦️
 
