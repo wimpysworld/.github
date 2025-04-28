@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 day ago)
+- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 days ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 week ago)
   - My personal blog
@@ -46,24 +46,24 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [fix(profiler): improve profiler module loading robustness](https://github.com/Oval-Tutu/shove/pull/48) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 day ago)
-- [fix(setShader): revert change that breaks clearing shader state](https://github.com/Oval-Tutu/shove/pull/47) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 day ago)
-- [fix(profiler): correctly capture frame stats](https://github.com/Oval-Tutu/shove/pull/46) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 day ago)
-- [docs: add Shöve](https://github.com/love2d-community/awesome-love2d/pull/288) on [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (3 days ago)
-- [docs: updates demo descriptions and order](https://github.com/Oval-Tutu/shove/pull/44) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (6 days ago)
+- [fix(profiler): improve profiler module loading robustness](https://github.com/Oval-Tutu/shove/pull/48) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 days ago)
+- [fix(setShader): revert change that breaks clearing shader state](https://github.com/Oval-Tutu/shove/pull/47) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 days ago)
+- [fix(profiler): correctly capture frame stats](https://github.com/Oval-Tutu/shove/pull/46) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 days ago)
+- [docs: add Shöve](https://github.com/love2d-community/awesome-love2d/pull/288) on [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (4 days ago)
+- [docs: updates demo descriptions and order](https://github.com/Oval-Tutu/shove/pull/44) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 week ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.4.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.4.0), 1 day ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.4.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.4.0), 2 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.4.0](https://github.com/DeterminateSystems/determinate/releases/tag/v3.4.0), 1 day ago)
+- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.4.0](https://github.com/DeterminateSystems/determinate/releases/tag/v3.4.0), 2 days ago)
   - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
-- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) ([1.0.6](https://github.com/Oval-Tutu/shove/releases/tag/1.0.6), 3 days ago)
+- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) ([1.0.6](https://github.com/Oval-Tutu/shove/releases/tag/1.0.6), 4 days ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.5](https://github.com/wimpysworld/deb-get/releases/tag/0.4.5), 1 week ago)
   - apt-get for .debs published via GitHub or direct download 📦
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250330](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250330), 3 weeks ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250330](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250330), 4 weeks ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 
 ### Recent starred projects ⭐️
