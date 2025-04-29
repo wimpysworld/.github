@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - File downloader for archive.org ⬇️
 - [e-tho/iwmenu](https://github.com/e-tho/iwmenu) (161)
   - Launcher-driven Wi-Fi manager for Linux
-- [e-tho/bzmenu](https://github.com/e-tho/bzmenu) (27)
+- [e-tho/bzmenu](https://github.com/e-tho/bzmenu) (28)
   - Launcher-driven Bluetooth manager for Linux
 - [Oval-Tutu/publish-to-itch-with-butler](https://github.com/Oval-Tutu/publish-to-itch-with-butler) (3)
   - Automatically sets up Butler 🎩 and provides a simple GitHub Action to publish releases to Itch.io ️🕹️
