@@ -71,9 +71,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (67)
   - File downloader for archive.org ⬇️
-- [e-tho/iwmenu](https://github.com/e-tho/iwmenu) (158)
+- [e-tho/iwmenu](https://github.com/e-tho/iwmenu) (160)
   - Launcher-driven Wi-Fi manager for Linux
-- [e-tho/bzmenu](https://github.com/e-tho/bzmenu) (18)
+- [e-tho/bzmenu](https://github.com/e-tho/bzmenu) (22)
   - Launcher-driven Bluetooth manager for Linux
 - [Oval-Tutu/publish-to-itch-with-butler](https://github.com/Oval-Tutu/publish-to-itch-with-butler) (3)
   - Automatically sets up Butler 🎩 and provides a simple GitHub Action to publish releases to Itch.io ️🕹️
