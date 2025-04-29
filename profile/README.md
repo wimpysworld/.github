@@ -32,16 +32,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (3 days ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
-  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 week ago)
   - My personal blog
-- [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (2 weeks ago)
-  - The website to showcase Ubuntu MATE&#39;s features.
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (2 weeks ago)
   - apt-get for .debs published via GitHub or direct download 📦
+- [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (2 weeks ago)
+  - The website to showcase Ubuntu MATE&#39;s features.
 
 ### Recent pull requests 🛠️
 
@@ -71,9 +71,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (67)
   - File downloader for archive.org ⬇️
-- [e-tho/iwmenu](https://github.com/e-tho/iwmenu) (157)
+- [e-tho/iwmenu](https://github.com/e-tho/iwmenu) (158)
   - Launcher-driven Wi-Fi manager for Linux
-- [e-tho/bzmenu](https://github.com/e-tho/bzmenu) (15)
+- [e-tho/bzmenu](https://github.com/e-tho/bzmenu) (18)
   - Launcher-driven Bluetooth manager for Linux
 - [Oval-Tutu/publish-to-itch-with-butler](https://github.com/Oval-Tutu/publish-to-itch-with-butler) (3)
   - Automatically sets up Butler 🎩 and provides a simple GitHub Action to publish releases to Itch.io ️🕹️
