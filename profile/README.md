@@ -71,9 +71,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (67)
   - File downloader for archive.org ⬇️
-- [e-tho/iwmenu](https://github.com/e-tho/iwmenu) (161)
+- [e-tho/iwmenu](https://github.com/e-tho/iwmenu) (162)
   - Launcher-driven Wi-Fi manager for Linux
-- [e-tho/bzmenu](https://github.com/e-tho/bzmenu) (28)
+- [e-tho/bzmenu](https://github.com/e-tho/bzmenu) (29)
   - Launcher-driven Bluetooth manager for Linux
 - [Oval-Tutu/publish-to-itch-with-butler](https://github.com/Oval-Tutu/publish-to-itch-with-butler) (3)
   - Automatically sets up Butler 🎩 and provides a simple GitHub Action to publish releases to Itch.io ️🕹️
@@ -86,11 +86,11 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
+- [High Precision Solid Metal Balls](https://linuxmatters.sh/54/) (today)
 - [Crafting Bookshelf Buddy](https://linuxmatters.sh/53/) (2 weeks ago)
 - [Great Scott, 1.21 Jiggabits!](https://linuxmatters.sh/52/) (4 weeks ago)
 - [Moodling Myself Silly](https://linuxmatters.sh/51/) (1 month ago)
 - [Syfting Through a LÖVEly Rack](https://linuxmatters.sh/50/) (1 month ago)
-- [Mark Down in the Console Caves](https://linuxmatters.sh/49/) (2 months ago)
 
 ### 📺️ YouTube
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
