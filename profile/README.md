@@ -69,16 +69,16 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
+- [feditext/feditext](https://github.com/feditext/feditext) (200)
+  - A free, open-source iOS client for Mastodon, Glitch, GotoSocial, Iceshrimp, Akkoma, and other Mastodon-API-compatible Fediverse instance servers.
+- [VyrCossont/slurp](https://github.com/VyrCossont/slurp) (83)
+  - tool for exporting data from and importing data to Fediverse instances
 - [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (67)
   - File downloader for archive.org ⬇️
 - [e-tho/iwmenu](https://github.com/e-tho/iwmenu) (167)
   - Launcher-driven Wi-Fi manager for Linux
-- [e-tho/bzmenu](https://github.com/e-tho/bzmenu) (48)
+- [e-tho/bzmenu](https://github.com/e-tho/bzmenu) (49)
   - Launcher-driven Bluetooth manager for Linux
-- [Oval-Tutu/publish-to-itch-with-butler](https://github.com/Oval-Tutu/publish-to-itch-with-butler) (3)
-  - Automatically sets up Butler 🎩 and provides a simple GitHub Action to publish releases to Itch.io ️🕹️
-- [elloramir/love.js](https://github.com/elloramir/love.js) (2)
-  - A love2d runtime for web games
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
