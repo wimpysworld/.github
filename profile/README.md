@@ -32,9 +32,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (4 days ago)
+- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (5 days ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 weeks ago)
   - My personal blog
@@ -46,20 +46,20 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [fix(profiler): improve profiler module loading robustness](https://github.com/Oval-Tutu/shove/pull/48) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (4 days ago)
-- [fix(setShader): revert change that breaks clearing shader state](https://github.com/Oval-Tutu/shove/pull/47) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (4 days ago)
-- [fix(profiler): correctly capture frame stats](https://github.com/Oval-Tutu/shove/pull/46) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (4 days ago)
-- [docs: add Shöve](https://github.com/love2d-community/awesome-love2d/pull/288) on [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (6 days ago)
+- [fix(profiler): improve profiler module loading robustness](https://github.com/Oval-Tutu/shove/pull/48) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (5 days ago)
+- [fix(setShader): revert change that breaks clearing shader state](https://github.com/Oval-Tutu/shove/pull/47) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (5 days ago)
+- [fix(profiler): correctly capture frame stats](https://github.com/Oval-Tutu/shove/pull/46) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (5 days ago)
+- [docs: add Shöve](https://github.com/love2d-community/awesome-love2d/pull/288) on [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (1 week ago)
 - [docs: updates demo descriptions and order](https://github.com/Oval-Tutu/shove/pull/44) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 week ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.4.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.4.1), 1 day ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.4.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.4.1), 2 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.4.1](https://github.com/DeterminateSystems/determinate/releases/tag/v3.4.1), 2 days ago)
+- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.4.1](https://github.com/DeterminateSystems/determinate/releases/tag/v3.4.1), 3 days ago)
   - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
-- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) ([1.0.6](https://github.com/Oval-Tutu/shove/releases/tag/1.0.6), 6 days ago)
+- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) ([1.0.6](https://github.com/Oval-Tutu/shove/releases/tag/1.0.6), 1 week ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.5](https://github.com/wimpysworld/deb-get/releases/tag/0.4.5), 2 weeks ago)
   - apt-get for .debs published via GitHub or direct download 📦
@@ -86,9 +86,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
 
-- [High Precision Solid Metal Balls](https://linuxmatters.sh/54/) (1 day ago)
+- [High Precision Solid Metal Balls](https://linuxmatters.sh/54/) (2 days ago)
 - [Crafting Bookshelf Buddy](https://linuxmatters.sh/53/) (2 weeks ago)
-- [Great Scott, 1.21 Jiggabits!](https://linuxmatters.sh/52/) (4 weeks ago)
+- [Great Scott, 1.21 Jiggabits!](https://linuxmatters.sh/52/) (1 month ago)
 - [Moodling Myself Silly](https://linuxmatters.sh/51/) (1 month ago)
 - [Syfting Through a LÖVEly Rack](https://linuxmatters.sh/50/) (1 month ago)
 
