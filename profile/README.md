@@ -71,13 +71,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 - [feditext/feditext](https://github.com/feditext/feditext) (200)
   - A free, open-source iOS client for Mastodon, Glitch, GotoSocial, Iceshrimp, Akkoma, and other Mastodon-API-compatible Fediverse instance servers.
-- [VyrCossont/slurp](https://github.com/VyrCossont/slurp) (84)
+- [VyrCossont/slurp](https://github.com/VyrCossont/slurp) (85)
   - tool for exporting data from and importing data to Fediverse instances
 - [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (67)
   - File downloader for archive.org ⬇️
-- [e-tho/iwmenu](https://github.com/e-tho/iwmenu) (172)
+- [e-tho/iwmenu](https://github.com/e-tho/iwmenu) (173)
   - Launcher-driven Wi-Fi manager for Linux
-- [e-tho/bzmenu](https://github.com/e-tho/bzmenu) (62)
+- [e-tho/bzmenu](https://github.com/e-tho/bzmenu) (63)
   - Launcher-driven Bluetooth manager for Linux
 
 ### 🎙️ Podcast
