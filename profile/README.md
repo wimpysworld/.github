@@ -75,9 +75,9 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - tool for exporting data from and importing data to Fediverse instances
 - [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (67)
   - File downloader for archive.org ⬇️
-- [e-tho/iwmenu](https://github.com/e-tho/iwmenu) (183)
+- [e-tho/iwmenu](https://github.com/e-tho/iwmenu) (184)
   - Launcher-driven Wi-Fi manager for Linux
-- [e-tho/bzmenu](https://github.com/e-tho/bzmenu) (85)
+- [e-tho/bzmenu](https://github.com/e-tho/bzmenu) (86)
   - Launcher-driven Bluetooth manager for Linux
 
 ### 🎙️ Podcast
