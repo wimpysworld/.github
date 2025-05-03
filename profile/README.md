@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - File downloader for archive.org ⬇️
 - [e-tho/iwmenu](https://github.com/e-tho/iwmenu) (185)
   - Launcher-driven Wi-Fi manager for Linux
-- [e-tho/bzmenu](https://github.com/e-tho/bzmenu) (89)
+- [e-tho/bzmenu](https://github.com/e-tho/bzmenu) (90)
   - Launcher-driven Bluetooth manager for Linux
 
 ### 🎙️ Podcast
