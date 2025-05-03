@@ -55,6 +55,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
+- [owncast/owncast](https://github.com/owncast/owncast) ([v0.2.2](https://github.com/owncast/owncast/releases/tag/v0.2.2), today)
+  - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.4.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.4.1), 4 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.4.1](https://github.com/DeterminateSystems/determinate/releases/tag/v3.4.1), 5 days ago)
@@ -63,8 +65,6 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - A powerful resolution-handler and rendering library for LÖVE 📐
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.5](https://github.com/wimpysworld/deb-get/releases/tag/0.4.5), 2 weeks ago)
   - apt-get for .debs published via GitHub or direct download 📦
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250330](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250330), 1 month ago)
-  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 
 ### Recent starred projects ⭐️
 
@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - File downloader for archive.org ⬇️
 - [e-tho/iwmenu](https://github.com/e-tho/iwmenu) (189)
   - Launcher-driven Wi-Fi manager for Linux
-- [e-tho/bzmenu](https://github.com/e-tho/bzmenu) (92)
+- [e-tho/bzmenu](https://github.com/e-tho/bzmenu) (93)
   - Launcher-driven Bluetooth manager for Linux
 
 ### 🎙️ Podcast
