@@ -55,12 +55,12 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.4.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.4.2), today)
+  - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.4.2](https://github.com/DeterminateSystems/determinate/releases/tag/v3.4.2), today)
   - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.2.2](https://github.com/owncast/owncast/releases/tag/v0.2.2), 2 days ago)
   - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.4.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.4.1), 6 days ago)
-  - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) ([1.0.6](https://github.com/Oval-Tutu/shove/releases/tag/1.0.6), 1 week ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.5](https://github.com/wimpysworld/deb-get/releases/tag/0.4.5), 2 weeks ago)
@@ -77,7 +77,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - tool for exporting data from and importing data to Fediverse instances
 - [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (67)
   - File downloader for archive.org ⬇️
-- [e-tho/iwmenu](https://github.com/e-tho/iwmenu) (206)
+- [e-tho/iwmenu](https://github.com/e-tho/iwmenu) (207)
   - Launcher-driven Wi-Fi manager for Linux
 
 ### 🎙️ Podcast
