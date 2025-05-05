@@ -46,21 +46,21 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
+- [linuxPackages.mwprocapture: 1.3.0.4390 -&gt; 1.3.4418](https://github.com/NixOS/nixpkgs/pull/404390) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [fix(profiler): improve profiler module loading robustness](https://github.com/Oval-Tutu/shove/pull/48) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 week ago)
 - [fix(setShader): revert change that breaks clearing shader state](https://github.com/Oval-Tutu/shove/pull/47) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 week ago)
 - [fix(profiler): correctly capture frame stats](https://github.com/Oval-Tutu/shove/pull/46) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 week ago)
 - [docs: add Shöve](https://github.com/love2d-community/awesome-love2d/pull/288) on [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) (1 week ago)
-- [docs: updates demo descriptions and order](https://github.com/Oval-Tutu/shove/pull/44) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 weeks ago)
 
 ### Recent releases 📦️
 
 
+- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.4.2](https://github.com/DeterminateSystems/determinate/releases/tag/v3.4.2), today)
+  - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.2.2](https://github.com/owncast/owncast/releases/tag/v0.2.2), 2 days ago)
   - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.4.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.4.1), 6 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.4.1](https://github.com/DeterminateSystems/determinate/releases/tag/v3.4.1), 1 week ago)
-  - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
 - [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) ([1.0.6](https://github.com/Oval-Tutu/shove/releases/tag/1.0.6), 1 week ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.5](https://github.com/wimpysworld/deb-get/releases/tag/0.4.5), 2 weeks ago)
@@ -69,15 +69,15 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent starred projects ⭐️
 
 
-- [picolove/picolove](https://github.com/picolove/picolove) (795)
+- [picolove/picolove](https://github.com/picolove/picolove) (796)
   - PICO-8 Reimplementation in Love2D. Chat: https://discord.gg/jGEMUse6RM
 - [feditext/feditext](https://github.com/feditext/feditext) (200)
   - A free, open-source iOS client for Mastodon, Glitch, GotoSocial, Iceshrimp, Akkoma, and other Mastodon-API-compatible Fediverse instance servers.
-- [VyrCossont/slurp](https://github.com/VyrCossont/slurp) (87)
+- [VyrCossont/slurp](https://github.com/VyrCossont/slurp) (88)
   - tool for exporting data from and importing data to Fediverse instances
 - [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (67)
   - File downloader for archive.org ⬇️
-- [e-tho/iwmenu](https://github.com/e-tho/iwmenu) (203)
+- [e-tho/iwmenu](https://github.com/e-tho/iwmenu) (206)
   - Launcher-driven Wi-Fi manager for Linux
 
 ### 🎙️ Podcast
