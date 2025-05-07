@@ -73,7 +73,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - PICO-8 Reimplementation in Love2D. Chat: https://discord.gg/jGEMUse6RM
 - [feditext/feditext](https://github.com/feditext/feditext) (200)
   - A free, open-source iOS client for Mastodon, Glitch, GotoSocial, Iceshrimp, Akkoma, and other Mastodon-API-compatible Fediverse instance servers.
-- [VyrCossont/slurp](https://github.com/VyrCossont/slurp) (89)
+- [VyrCossont/slurp](https://github.com/VyrCossont/slurp) (90)
   - tool for exporting data from and importing data to Fediverse instances
 - [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (67)
   - File downloader for archive.org ⬇️
