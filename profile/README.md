@@ -32,7 +32,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 week ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
@@ -46,8 +46,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent pull requests 🛠️
 
 
-- [feat: add atrius](https://github.com/wimpysworld/nix-config/pull/476) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [linuxPackages.mwprocapture: 1.3.0.4390 -&gt; 1.3.4418](https://github.com/NixOS/nixpkgs/pull/404390) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
+- [feat: add atrius](https://github.com/wimpysworld/nix-config/pull/476) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [linuxPackages.mwprocapture: 1.3.0.4390 -&gt; 1.3.4418](https://github.com/NixOS/nixpkgs/pull/404390) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
 - [fix(profiler): improve profiler module loading robustness](https://github.com/Oval-Tutu/shove/pull/48) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 week ago)
 - [fix(setShader): revert change that breaks clearing shader state](https://github.com/Oval-Tutu/shove/pull/47) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 week ago)
 - [fix(profiler): correctly capture frame stats](https://github.com/Oval-Tutu/shove/pull/46) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (1 week ago)
@@ -55,13 +55,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.4.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.4.2), 2 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.4.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.4.2), 3 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.4.2](https://github.com/DeterminateSystems/determinate/releases/tag/v3.4.2), 2 days ago)
+- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.4.2](https://github.com/DeterminateSystems/determinate/releases/tag/v3.4.2), 3 days ago)
   - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
-- [owncast/owncast](https://github.com/owncast/owncast) ([v0.2.2](https://github.com/owncast/owncast/releases/tag/v0.2.2), 4 days ago)
+- [owncast/owncast](https://github.com/owncast/owncast) ([v0.2.2](https://github.com/owncast/owncast/releases/tag/v0.2.2), 5 days ago)
   - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
-- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) ([1.0.6](https://github.com/Oval-Tutu/shove/releases/tag/1.0.6), 1 week ago)
+- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) ([1.0.6](https://github.com/Oval-Tutu/shove/releases/tag/1.0.6), 2 weeks ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.5](https://github.com/wimpysworld/deb-get/releases/tag/0.4.5), 3 weeks ago)
   - apt-get for .debs published via GitHub or direct download 📦
