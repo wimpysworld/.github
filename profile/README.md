@@ -8,11 +8,11 @@
 </p>
 <a href="https://github.com/flexiondotorg" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=flexiondotorg&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged&include_all_commits=true&bg_color=0E1117&title_color=fa66ed&icon_color=6bbbfa&text_color=c5c8c6&ring_color=98ed3f&border_radius=8" alt="GitHub Stats"></a>
 <br />
-<a href="https://github.com/flexiondotorg" target="_blank"><img align="right" src="https://streak-stats.demolab.com?user=flexiondotorg&theme=cobalt&border_radius=8&date_format=j%20M%5B%20Y%5D&mode=daily&card_width=465&hide_total_contributions=true" alt="GitHub Streak" /></a>
+
 
 Hello 👋 I'm Martin (*also known as Wimpy*), a long-time Linux user, developer & community builder 🐧 Maker 🪛 [Linux Matters](https://linuxmatters.sh) host 🎙️ Occasional game jam participant and [aspiring game developer](https://oval-tutu.com) using pico-8, LÖVE, and Defold 🕹️
 
-I lead [Ubuntu MATE](https://ubuntu-mate.org) 🧉 and I'm the creator of a [bunch of other projects](https://wimpysworld.com/projects/).
+I lead [Ubuntu MATE](https://ubuntu-mate.org) 🧉 and I'm the creator of a [bunch of other projects](https://wimpysworld.com/projects/) and [Quickemu](https://github.com/quickemu-project/) 🧑‍💻
 
 We have a modest [Discord server for Wimpy's World](https://wimpysworld.io/discord) 💬 which serves as a community hub. We're a friendly bunch, and all are welcome 🏳️‍🌈 Join us!
 
