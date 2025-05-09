@@ -51,7 +51,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.5.0](https://github.com/DeterminateSystems/determinate/releases/tag/v3.5.0), today)
+- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.5.1](https://github.com/DeterminateSystems/determinate/releases/tag/v3.5.1), today)
   - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.4.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.4.2), 4 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
