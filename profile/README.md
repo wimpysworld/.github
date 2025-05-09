@@ -65,7 +65,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent starred projects ⭐️
 
 
-- [picolove/picolove](https://github.com/picolove/picolove) (796)
+- [picolove/picolove](https://github.com/picolove/picolove) (797)
   - PICO-8 Reimplementation in Love2D. Chat: https://discord.gg/jGEMUse6RM
 - [feditext/feditext](https://github.com/feditext/feditext) (200)
   - A free, open-source iOS client for Mastodon, Glitch, GotoSocial, Iceshrimp, Akkoma, and other Mastodon-API-compatible Fediverse instance servers.
