@@ -51,12 +51,12 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent releases 📦️
 
 
+- [owncast/owncast](https://github.com/owncast/owncast) ([v0.2.3](https://github.com/owncast/owncast/releases/tag/v0.2.3), today)
+  - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.5.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.5.1), today)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.5.1](https://github.com/DeterminateSystems/determinate/releases/tag/v3.5.1), 1 day ago)
   - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
-- [owncast/owncast](https://github.com/owncast/owncast) ([v0.2.2](https://github.com/owncast/owncast/releases/tag/v0.2.2), 1 week ago)
-  - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) ([1.0.6](https://github.com/Oval-Tutu/shove/releases/tag/1.0.6), 2 weeks ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.5](https://github.com/wimpysworld/deb-get/releases/tag/0.4.5), 3 weeks ago)
