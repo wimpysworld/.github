@@ -34,10 +34,10 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - A powerful resolution-handler and rendering library for LÖVE 📐
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 weeks ago)
   - My personal blog
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (3 weeks ago)
-  - apt-get for .debs published via GitHub or direct download 📦
 - [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (3 weeks ago)
   - The website to showcase Ubuntu MATE&#39;s features.
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (3 weeks ago)
+  - apt-get for .debs published via GitHub or direct download 📦
 
 ### Recent pull requests 🛠️
 
@@ -65,6 +65,8 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent starred projects ⭐️
 
 
+- [popey/youtube-chapter-generator](https://github.com/popey/youtube-chapter-generator) (2)
+  - Python script that uses yt-dlp and Google Gemini models to auto generate chapter markers for YouTube video descriptions.
 - [picolove/picolove](https://github.com/picolove/picolove) (798)
   - PICO-8 Reimplementation in Love2D. Chat: https://discord.gg/jGEMUse6RM
 - [feditext/feditext](https://github.com/feditext/feditext) (200)
@@ -73,8 +75,6 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - tool for exporting data from and importing data to Fediverse instances
 - [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (68)
   - File downloader for archive.org ⬇️
-- [e-tho/iwmenu](https://github.com/e-tho/iwmenu) (237)
-  - Launcher-driven Wi-Fi manager for Linux
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
