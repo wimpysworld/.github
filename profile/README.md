@@ -28,14 +28,14 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (today)
+  - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 weeks ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 weeks ago)
   - My personal blog
-- [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (3 weeks ago)
-  - The website to showcase Ubuntu MATE&#39;s features.
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (3 weeks ago)
   - apt-get for .debs published via GitHub or direct download 📦
 
@@ -51,6 +51,8 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent releases 📦️
 
 
+- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.7](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.7), today)
+  - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.2.3](https://github.com/owncast/owncast/releases/tag/v0.2.3), 1 day ago)
   - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.5.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.5.1), 1 day ago)
@@ -59,8 +61,6 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
 - [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) ([1.0.6](https://github.com/Oval-Tutu/shove/releases/tag/1.0.6), 2 weeks ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) ([0.4.5](https://github.com/wimpysworld/deb-get/releases/tag/0.4.5), 3 weeks ago)
-  - apt-get for .debs published via GitHub or direct download 📦
 
 ### Recent starred projects ⭐️
 
