@@ -36,8 +36,8 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - A powerful resolution-handler and rendering library for LÖVE 📐
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 weeks ago)
   - My personal blog
-- [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (3 weeks ago)
-  - The website to showcase Ubuntu MATE&#39;s features.
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (3 weeks ago)
+  - apt-get for .debs published via GitHub or direct download 📦
 
 ### Recent pull requests 🛠️
 
