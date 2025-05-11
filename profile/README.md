@@ -36,8 +36,8 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - A powerful resolution-handler and rendering library for LÖVE 📐
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 weeks ago)
   - My personal blog
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) (3 weeks ago)
-  - apt-get for .debs published via GitHub or direct download 📦
+- [ubuntu-mate/ubuntu-mate.org](https://github.com/ubuntu-mate/ubuntu-mate.org) (3 weeks ago)
+  - The website to showcase Ubuntu MATE&#39;s features.
 
 ### Recent pull requests 🛠️
 
@@ -51,7 +51,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent releases 📦️
 
 
-- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.7](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.7), today)
+- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.8](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.8), today)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.2.3](https://github.com/owncast/owncast/releases/tag/v0.2.3), 1 day ago)
   - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
