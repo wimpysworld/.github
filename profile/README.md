@@ -51,7 +51,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250509](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250509), today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250511](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250511), today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.8](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.8), 1 day ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
