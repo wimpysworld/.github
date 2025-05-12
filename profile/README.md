@@ -28,9 +28,9 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (today)
+- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (1 day ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 weeks ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
@@ -42,8 +42,8 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
-- [feat: add atrius](https://github.com/wimpysworld/nix-config/pull/476) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
-- [linuxPackages.mwprocapture: 1.3.0.4390 -&gt; 1.3.4418](https://github.com/NixOS/nixpkgs/pull/404390) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (6 days ago)
+- [feat: add atrius](https://github.com/wimpysworld/nix-config/pull/476) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (5 days ago)
+- [linuxPackages.mwprocapture: 1.3.0.4390 -&gt; 1.3.4418](https://github.com/NixOS/nixpkgs/pull/404390) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
 - [fix(profiler): improve profiler module loading robustness](https://github.com/Oval-Tutu/shove/pull/48) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 weeks ago)
 - [fix(setShader): revert change that breaks clearing shader state](https://github.com/Oval-Tutu/shove/pull/47) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 weeks ago)
 - [fix(profiler): correctly capture frame stats](https://github.com/Oval-Tutu/shove/pull/46) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 weeks ago)
@@ -51,13 +51,13 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent releases 📦️
 
 
-- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.8](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.8), today)
+- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.8](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.8), 1 day ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [owncast/owncast](https://github.com/owncast/owncast) ([v0.2.3](https://github.com/owncast/owncast/releases/tag/v0.2.3), 1 day ago)
+- [owncast/owncast](https://github.com/owncast/owncast) ([v0.2.3](https://github.com/owncast/owncast/releases/tag/v0.2.3), 2 days ago)
   - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.5.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.5.1), 1 day ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.5.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.5.1), 2 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.5.1](https://github.com/DeterminateSystems/determinate/releases/tag/v3.5.1), 2 days ago)
+- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.5.1](https://github.com/DeterminateSystems/determinate/releases/tag/v3.5.1), 3 days ago)
   - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
 - [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) ([1.0.6](https://github.com/Oval-Tutu/shove/releases/tag/1.0.6), 2 weeks ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
