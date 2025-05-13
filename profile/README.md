@@ -69,7 +69,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - Python script that uses yt-dlp and Google Gemini models to auto generate chapter markers for YouTube video descriptions.
 - [picolove/picolove](https://github.com/picolove/picolove) (798)
   - PICO-8 Reimplementation in Love2D. Chat: https://discord.gg/jGEMUse6RM
-- [feditext/feditext](https://github.com/feditext/feditext) (200)
+- [feditext/feditext](https://github.com/feditext/feditext) (201)
   - A free, open-source iOS client for Mastodon, Glitch, GotoSocial, Iceshrimp, Akkoma, and other Mastodon-API-compatible Fediverse instance servers.
 - [VyrCossont/slurp](https://github.com/VyrCossont/slurp) (90)
   - tool for exporting data from and importing data to Fediverse instances
