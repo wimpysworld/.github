@@ -28,10 +28,10 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
   - Removes all the cruft 🪓 from a GitHub Actions runner to make the most space possible for Nix ️❄️
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (3 days ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 - [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 weeks ago)
@@ -42,11 +42,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [feat(ci): group deletions and steps](https://github.com/wimpysworld/nothing-but-nix/pull/3) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
 - [fix: correct some errors](https://github.com/wimpysworld/nothing-but-nix/pull/2) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
 - [refactor: initial fork](https://github.com/wimpysworld/nothing-but-nix/pull/1) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
 - [feat: add atrius](https://github.com/wimpysworld/nix-config/pull/476) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [linuxPackages.mwprocapture: 1.3.0.4390 -&gt; 1.3.4418](https://github.com/NixOS/nixpkgs/pull/404390) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
-- [fix(profiler): improve profiler module loading robustness](https://github.com/Oval-Tutu/shove/pull/48) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 weeks ago)
 
 ### Recent releases 📦️
 
