@@ -28,43 +28,45 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
-  - Removes all the cruft 🪓 from a GitHub Actions runner to make the most space possible for Nix ❄️
-- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (2 days ago)
+  - Removes all the cruft 🪓 from a GitHub Actions runner to make the most space possible for Nix ️❄️
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
+- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (3 days ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 - [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 weeks ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 weeks ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (4 weeks ago)
   - My personal blog
 
 ### Recent pull requests 🛠️
 
 
-- [fix: correct some errors](https://github.com/wimpysworld/nothing-but-nix/pull/2) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
-- [refactor: initial fork](https://github.com/wimpysworld/nothing-but-nix/pull/1) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
-- [feat: add atrius](https://github.com/wimpysworld/nix-config/pull/476) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
+- [fix: correct some errors](https://github.com/wimpysworld/nothing-but-nix/pull/2) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
+- [refactor: initial fork](https://github.com/wimpysworld/nothing-but-nix/pull/1) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
+- [feat: add atrius](https://github.com/wimpysworld/nix-config/pull/476) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [linuxPackages.mwprocapture: 1.3.0.4390 -&gt; 1.3.4418](https://github.com/NixOS/nixpkgs/pull/404390) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
 - [fix(profiler): improve profiler module loading robustness](https://github.com/Oval-Tutu/shove/pull/48) on [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 weeks ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.5.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.5.2), today)
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) ([v2](https://github.com/wimpysworld/nothing-but-nix/releases/tag/v2), today)
+  - Removes all the cruft 🪓 from a GitHub Actions runner to make the most space possible for Nix ️❄️
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.5.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.5.2), 1 day ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.5.2](https://github.com/DeterminateSystems/determinate/releases/tag/v3.5.2), today)
+- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.5.2](https://github.com/DeterminateSystems/determinate/releases/tag/v3.5.2), 1 day ago)
   - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250511](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250511), 1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250511](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250511), 2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.8](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.8), 2 days ago)
+- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.8](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.8), 3 days ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [owncast/owncast](https://github.com/owncast/owncast) ([v0.2.3](https://github.com/owncast/owncast/releases/tag/v0.2.3), 3 days ago)
-  - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 
 ### Recent starred projects ⭐️
 
 
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1)
+  - Removes all the cruft 🪓 from a GitHub Actions runner to make the most space possible for Nix ️❄️
 - [popey/youtube-chapter-generator](https://github.com/popey/youtube-chapter-generator) (2)
   - Python script that uses yt-dlp and Google Gemini models to auto generate chapter markers for YouTube video descriptions.
 - [picolove/picolove](https://github.com/picolove/picolove) (798)
@@ -73,8 +75,6 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - A free, open-source iOS client for Mastodon, Glitch, GotoSocial, Iceshrimp, Akkoma, and other Mastodon-API-compatible Fediverse instance servers.
 - [VyrCossont/slurp](https://github.com/VyrCossont/slurp) (90)
   - tool for exporting data from and importing data to Fediverse instances
-- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (68)
-  - File downloader for archive.org ⬇️
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
@@ -82,7 +82,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Thoccing Heavy](https://linuxmatters.sh/55/) (today)
+- [Thoccing Heavy](https://linuxmatters.sh/55/) (1 day ago)
 - [High Precision Solid Metal Balls](https://linuxmatters.sh/54/) (2 weeks ago)
 - [Crafting Bookshelf Buddy](https://linuxmatters.sh/53/) (4 weeks ago)
 - [Great Scott, 1.21 Jiggabits!](https://linuxmatters.sh/52/) (1 month ago)
