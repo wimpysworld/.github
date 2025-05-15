@@ -31,7 +31,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 - [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) (today)
   - The Github Action for Determinate Nix
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
-  - Removes all the cruft 🪓 from a GitHub Actions runner to make the most space possible for Nix ️❄️
+  - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [DeterminateSystems/ci](https://github.com/DeterminateSystems/ci) (today)
@@ -56,7 +56,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250514](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250514), today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) ([v4](https://github.com/wimpysworld/nothing-but-nix/releases/tag/v4), today)
-  - Removes all the cruft 🪓 from a GitHub Actions runner to make the most space possible for Nix ️❄️
+  - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.5.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.5.2), 2 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.5.2](https://github.com/DeterminateSystems/determinate/releases/tag/v3.5.2), 2 days ago)
@@ -68,7 +68,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 - [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) (1)
   - The Github Action for Determinate Nix
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (6)
-  - Removes all the cruft 🪓 from a GitHub Actions runner to make the most space possible for Nix ️❄️
+  - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [popey/youtube-chapter-generator](https://github.com/popey/youtube-chapter-generator) (2)
   - Python script that uses yt-dlp and Google Gemini models to auto generate chapter markers for YouTube video descriptions.
 - [picolove/picolove](https://github.com/picolove/picolove) (801)
