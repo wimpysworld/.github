@@ -28,11 +28,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
   - Removes all the cruft 🪓 from a GitHub Actions runner to make the most space possible for Nix ️❄️
-- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (3 days ago)
+- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (4 days ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 - [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 weeks ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
@@ -42,24 +42,24 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
-- [feat: add configurable hatchet protocol levels for file purging](https://github.com/wimpysworld/nothing-but-nix/pull/5) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
-- [feat(ci): remove large packages via apt](https://github.com/wimpysworld/nothing-but-nix/pull/4) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
-- [feat(ci): group deletions and steps](https://github.com/wimpysworld/nothing-but-nix/pull/3) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
-- [fix: correct some errors](https://github.com/wimpysworld/nothing-but-nix/pull/2) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
-- [refactor: initial fork](https://github.com/wimpysworld/nothing-but-nix/pull/1) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
+- [feat: add configurable hatchet protocol levels for file purging](https://github.com/wimpysworld/nothing-but-nix/pull/5) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
+- [feat(ci): remove large packages via apt](https://github.com/wimpysworld/nothing-but-nix/pull/4) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
+- [feat(ci): group deletions and steps](https://github.com/wimpysworld/nothing-but-nix/pull/3) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
+- [fix: correct some errors](https://github.com/wimpysworld/nothing-but-nix/pull/2) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (2 days ago)
+- [refactor: initial fork](https://github.com/wimpysworld/nothing-but-nix/pull/1) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (2 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) ([v3](https://github.com/wimpysworld/nothing-but-nix/releases/tag/v3), today)
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) ([v3](https://github.com/wimpysworld/nothing-but-nix/releases/tag/v3), 1 day ago)
   - Removes all the cruft 🪓 from a GitHub Actions runner to make the most space possible for Nix ️❄️
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.5.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.5.2), 1 day ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.5.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.5.2), 2 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.5.2](https://github.com/DeterminateSystems/determinate/releases/tag/v3.5.2), 1 day ago)
+- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.5.2](https://github.com/DeterminateSystems/determinate/releases/tag/v3.5.2), 2 days ago)
   - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250511](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250511), 2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250511](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250511), 3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.8](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.8), 3 days ago)
+- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.8](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.8), 4 days ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 
 ### Recent starred projects ⭐️
@@ -82,9 +82,9 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Thoccing Heavy](https://linuxmatters.sh/55/) (1 day ago)
+- [Thoccing Heavy](https://linuxmatters.sh/55/) (2 days ago)
 - [High Precision Solid Metal Balls](https://linuxmatters.sh/54/) (2 weeks ago)
-- [Crafting Bookshelf Buddy](https://linuxmatters.sh/53/) (4 weeks ago)
+- [Crafting Bookshelf Buddy](https://linuxmatters.sh/53/) (1 month ago)
 - [Great Scott, 1.21 Jiggabits!](https://linuxmatters.sh/52/) (1 month ago)
 - [Moodling Myself Silly](https://linuxmatters.sh/51/) (1 month ago)
 
