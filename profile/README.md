@@ -42,11 +42,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [fix: purge /usr/local early to ensure Nix doesn&#39;t get purged](https://github.com/wimpysworld/nothing-but-nix/pull/9) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
 - [ci: migrate to determinate-nix-action](https://github.com/DeterminateSystems/ci/pull/32) on [DeterminateSystems/ci](https://github.com/DeterminateSystems/ci) (today)
 - [style: add some flair to the README](https://github.com/DeterminateSystems/determinate-nix-action/pull/2) on [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) (today)
 - [fix: improve robustness of test workflow and environment setup](https://github.com/wimpysworld/nothing-but-nix/pull/8) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
 - [feat: removes more pre-installed packages](https://github.com/wimpysworld/nothing-but-nix/pull/7) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
-- [fefactor: add dynamic disk /nix volume growth](https://github.com/wimpysworld/nothing-but-nix/pull/6) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
 
 ### Recent releases 📦️
 
@@ -71,7 +71,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - Removes all the cruft 🪓 from a GitHub Actions runner to make the most space possible for Nix ️❄️
 - [popey/youtube-chapter-generator](https://github.com/popey/youtube-chapter-generator) (2)
   - Python script that uses yt-dlp and Google Gemini models to auto generate chapter markers for YouTube video descriptions.
-- [picolove/picolove](https://github.com/picolove/picolove) (800)
+- [picolove/picolove](https://github.com/picolove/picolove) (801)
   - PICO-8 Reimplementation in Love2D. Chat: https://discord.gg/jGEMUse6RM
 - [feditext/feditext](https://github.com/feditext/feditext) (201)
   - A free, open-source iOS client for Mastodon, Glitch, GotoSocial, Iceshrimp, Akkoma, and other Mastodon-API-compatible Fediverse instance servers.
