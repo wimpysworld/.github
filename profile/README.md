@@ -32,25 +32,27 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
   - Removes all the cruft 🪓 from a GitHub Actions runner to make the most space possible for Nix ️❄️
+- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) (today)
+  - The Github Action for Determinate Nix
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (4 days ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 - [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 weeks ago)
   - A powerful resolution-handler and rendering library for LÖVE 📐
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (4 weeks ago)
-  - My personal blog
 
 ### Recent pull requests 🛠️
 
 
+- [style: add some flair to the README](https://github.com/DeterminateSystems/determinate-nix-action/pull/2) on [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) (today)
 - [fix: improve robustness of test workflow and environment setup](https://github.com/wimpysworld/nothing-but-nix/pull/8) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
 - [feat: removes more pre-installed packages](https://github.com/wimpysworld/nothing-but-nix/pull/7) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
 - [fefactor: add dynamic disk /nix volume growth](https://github.com/wimpysworld/nothing-but-nix/pull/6) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
 - [feat: add configurable hatchet protocol levels for file purging](https://github.com/wimpysworld/nothing-but-nix/pull/5) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
-- [feat(ci): remove large packages via apt](https://github.com/wimpysworld/nothing-but-nix/pull/4) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
 
 ### Recent releases 📦️
 
 
+- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.5.2](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.5.2), today)
+  - The Github Action for Determinate Nix
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250514](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250514), today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) ([v4](https://github.com/wimpysworld/nothing-but-nix/releases/tag/v4), today)
@@ -59,12 +61,12 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.5.2](https://github.com/DeterminateSystems/determinate/releases/tag/v3.5.2), 2 days ago)
   - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
-- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.8](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.8), 4 days ago)
-  - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 
 ### Recent starred projects ⭐️
 
 
+- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) (1)
+  - The Github Action for Determinate Nix
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (6)
   - Removes all the cruft 🪓 from a GitHub Actions runner to make the most space possible for Nix ️❄️
 - [popey/youtube-chapter-generator](https://github.com/popey/youtube-chapter-generator) (2)
@@ -73,8 +75,6 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - PICO-8 Reimplementation in Love2D. Chat: https://discord.gg/jGEMUse6RM
 - [feditext/feditext](https://github.com/feditext/feditext) (201)
   - A free, open-source iOS client for Mastodon, Glitch, GotoSocial, Iceshrimp, Akkoma, and other Mastodon-API-compatible Fediverse instance servers.
-- [VyrCossont/slurp](https://github.com/VyrCossont/slurp) (90)
-  - tool for exporting data from and importing data to Fediverse instances
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
