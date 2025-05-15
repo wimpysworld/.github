@@ -28,10 +28,10 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
+  - Removes all the cruft 🪓 from a GitHub Actions runner to make the most space possible for Nix ️❄️
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
-  - Removes all the cruft 🪓 from a GitHub Actions runner to make the most space possible for Nix ️❄️
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (4 days ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 - [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 weeks ago)
@@ -42,16 +42,16 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [fefactor: add dynamic disk /nix volume growth](https://github.com/wimpysworld/nothing-but-nix/pull/6) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
 - [feat: add configurable hatchet protocol levels for file purging](https://github.com/wimpysworld/nothing-but-nix/pull/5) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
 - [feat(ci): remove large packages via apt](https://github.com/wimpysworld/nothing-but-nix/pull/4) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
 - [feat(ci): group deletions and steps](https://github.com/wimpysworld/nothing-but-nix/pull/3) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
 - [fix: correct some errors](https://github.com/wimpysworld/nothing-but-nix/pull/2) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (2 days ago)
-- [refactor: initial fork](https://github.com/wimpysworld/nothing-but-nix/pull/1) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (2 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) ([v3](https://github.com/wimpysworld/nothing-but-nix/releases/tag/v3), 1 day ago)
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) ([v4](https://github.com/wimpysworld/nothing-but-nix/releases/tag/v4), today)
   - Removes all the cruft 🪓 from a GitHub Actions runner to make the most space possible for Nix ️❄️
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.5.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.5.2), 2 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
