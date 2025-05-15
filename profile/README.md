@@ -42,11 +42,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [feat(action): add witness-carnage option for real-time purge visibility](https://github.com/wimpysworld/nothing-but-nix/pull/10) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
 - [fix: purge /usr/local early to ensure Nix doesn&#39;t get purged](https://github.com/wimpysworld/nothing-but-nix/pull/9) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
 - [ci: migrate to determinate-nix-action](https://github.com/DeterminateSystems/ci/pull/32) on [DeterminateSystems/ci](https://github.com/DeterminateSystems/ci) (today)
 - [style: add some flair to the README](https://github.com/DeterminateSystems/determinate-nix-action/pull/2) on [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) (today)
 - [fix: improve robustness of test workflow and environment setup](https://github.com/wimpysworld/nothing-but-nix/pull/8) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
-- [feat: removes more pre-installed packages](https://github.com/wimpysworld/nothing-but-nix/pull/7) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
 
 ### Recent releases 📦️
 
