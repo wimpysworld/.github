@@ -28,25 +28,25 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
-  - Removes all the cruft 🪓 from a GitHub Actions runner to make the most space possible for Nix ️❄️
 - [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) (today)
   - The Github Action for Determinate Nix
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
+  - Removes all the cruft 🪓 from a GitHub Actions runner to make the most space possible for Nix ️❄️
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
+- [DeterminateSystems/ci](https://github.com/DeterminateSystems/ci) (today)
+  - Determinate CI is the one-stop shop for effortless Nix CI in GitHub Actions.
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (4 days ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [Oval-Tutu/shove](https://github.com/Oval-Tutu/shove) (2 weeks ago)
-  - A powerful resolution-handler and rendering library for LÖVE 📐
 
 ### Recent pull requests 🛠️
 
 
+- [ci: migrate to determinate-nix-action](https://github.com/DeterminateSystems/ci/pull/32) on [DeterminateSystems/ci](https://github.com/DeterminateSystems/ci) (today)
 - [style: add some flair to the README](https://github.com/DeterminateSystems/determinate-nix-action/pull/2) on [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) (today)
 - [fix: improve robustness of test workflow and environment setup](https://github.com/wimpysworld/nothing-but-nix/pull/8) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
 - [feat: removes more pre-installed packages](https://github.com/wimpysworld/nothing-but-nix/pull/7) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
 - [fefactor: add dynamic disk /nix volume growth](https://github.com/wimpysworld/nothing-but-nix/pull/6) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
-- [feat: add configurable hatchet protocol levels for file purging](https://github.com/wimpysworld/nothing-but-nix/pull/5) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
 
 ### Recent releases 📦️
 
