@@ -42,11 +42,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [fix: improve robustness of test workflow and environment setup](https://github.com/wimpysworld/nothing-but-nix/pull/8) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
 - [feat: removes more pre-installed packages](https://github.com/wimpysworld/nothing-but-nix/pull/7) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
 - [fefactor: add dynamic disk /nix volume growth](https://github.com/wimpysworld/nothing-but-nix/pull/6) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
 - [feat: add configurable hatchet protocol levels for file purging](https://github.com/wimpysworld/nothing-but-nix/pull/5) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
 - [feat(ci): remove large packages via apt](https://github.com/wimpysworld/nothing-but-nix/pull/4) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
-- [feat(ci): group deletions and steps](https://github.com/wimpysworld/nothing-but-nix/pull/3) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
 
 ### Recent releases 📦️
 
