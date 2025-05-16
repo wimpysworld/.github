@@ -42,21 +42,21 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [feat(apt): minimal purge for cleave hatchet protocol](https://github.com/wimpysworld/nothing-but-nix/pull/15) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
+- [fix(btrfs): prevent TRIM during balance operations on loop devices](https://github.com/wimpysworld/nothing-but-nix/pull/14) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
+- [refactor: simplify snapd removal, the snap apt package has full purge logic](https://github.com/wimpysworld/nothing-but-nix/pull/13) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
 - [feat(inputs): add customizable safe haven disk space reservations](https://github.com/wimpysworld/nothing-but-nix/pull/12) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
 - [feat(action): add post-run script](https://github.com/wimpysworld/nothing-but-nix/pull/11) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
-- [feat(action): add witness-carnage option for real-time purge visibility](https://github.com/wimpysworld/nothing-but-nix/pull/10) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
-- [fix: purge /usr/local early to ensure Nix doesn&#39;t get purged](https://github.com/wimpysworld/nothing-but-nix/pull/9) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
-- [ci: migrate to determinate-nix-action](https://github.com/DeterminateSystems/ci/pull/32) on [DeterminateSystems/ci](https://github.com/DeterminateSystems/ci) (1 day ago)
 
 ### Recent releases 📦️
 
 
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) ([v5](https://github.com/wimpysworld/nothing-but-nix/releases/tag/v5), today)
+  - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.5.2](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.5.2), 1 day ago)
   - The Github Action for Determinate Nix
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250514](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250514), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) ([v4](https://github.com/wimpysworld/nothing-but-nix/releases/tag/v4), 1 day ago)
-  - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.5.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.5.2), 3 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.5.2](https://github.com/DeterminateSystems/determinate/releases/tag/v3.5.2), 3 days ago)
