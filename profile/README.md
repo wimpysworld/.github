@@ -28,38 +28,38 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) (today)
-  - The Github Action for Determinate Nix
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [DeterminateSystems/ci](https://github.com/DeterminateSystems/ci) (today)
+- [DeterminateSystems/ci](https://github.com/DeterminateSystems/ci) (1 day ago)
   - Determinate CI is the one-stop shop for effortless Nix CI in GitHub Actions.
-- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (4 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
+- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) (1 day ago)
+  - The Github Action for Determinate Nix
+- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (5 days ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 
 ### Recent pull requests 🛠️
 
 
-- [feat(action): add post-run script](https://github.com/wimpysworld/nothing-but-nix/pull/11) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
-- [feat(action): add witness-carnage option for real-time purge visibility](https://github.com/wimpysworld/nothing-but-nix/pull/10) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
-- [fix: purge /usr/local early to ensure Nix doesn&#39;t get purged](https://github.com/wimpysworld/nothing-but-nix/pull/9) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
-- [ci: migrate to determinate-nix-action](https://github.com/DeterminateSystems/ci/pull/32) on [DeterminateSystems/ci](https://github.com/DeterminateSystems/ci) (today)
-- [style: add some flair to the README](https://github.com/DeterminateSystems/determinate-nix-action/pull/2) on [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) (today)
+- [feat(inputs): add customizable safe haven disk space reservations](https://github.com/wimpysworld/nothing-but-nix/pull/12) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
+- [feat(action): add post-run script](https://github.com/wimpysworld/nothing-but-nix/pull/11) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
+- [feat(action): add witness-carnage option for real-time purge visibility](https://github.com/wimpysworld/nothing-but-nix/pull/10) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
+- [fix: purge /usr/local early to ensure Nix doesn&#39;t get purged](https://github.com/wimpysworld/nothing-but-nix/pull/9) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
+- [ci: migrate to determinate-nix-action](https://github.com/DeterminateSystems/ci/pull/32) on [DeterminateSystems/ci](https://github.com/DeterminateSystems/ci) (1 day ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.5.2](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.5.2), today)
+- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.5.2](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.5.2), 1 day ago)
   - The Github Action for Determinate Nix
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250514](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250514), today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250514](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250514), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) ([v4](https://github.com/wimpysworld/nothing-but-nix/releases/tag/v4), today)
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) ([v4](https://github.com/wimpysworld/nothing-but-nix/releases/tag/v4), 1 day ago)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.5.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.5.2), 2 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.5.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.5.2), 3 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.5.2](https://github.com/DeterminateSystems/determinate/releases/tag/v3.5.2), 2 days ago)
+- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.5.2](https://github.com/DeterminateSystems/determinate/releases/tag/v3.5.2), 3 days ago)
   - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
 
 ### Recent starred projects ⭐️
@@ -82,7 +82,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Thoccing Heavy](https://linuxmatters.sh/55/) (2 days ago)
+- [Thoccing Heavy](https://linuxmatters.sh/55/) (3 days ago)
 - [High Precision Solid Metal Balls](https://linuxmatters.sh/54/) (2 weeks ago)
 - [Crafting Bookshelf Buddy](https://linuxmatters.sh/53/) (1 month ago)
 - [Great Scott, 1.21 Jiggabits!](https://linuxmatters.sh/52/) (1 month ago)
