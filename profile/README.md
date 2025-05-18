@@ -28,38 +28,38 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (2 days ago)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 day ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
   - My personal blog
-- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) (2 days ago)
+- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) (3 days ago)
   - The Github Action for Determinate Nix
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [DeterminateSystems/ci](https://github.com/DeterminateSystems/ci) (2 days ago)
+- [DeterminateSystems/ci](https://github.com/DeterminateSystems/ci) (3 days ago)
   - Determinate CI is the one-stop shop for effortless Nix CI in GitHub Actions.
 
 ### Recent pull requests 🛠️
 
 
-- [feat(apt): minimal purge for cleave hatchet protocol](https://github.com/wimpysworld/nothing-but-nix/pull/15) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
-- [fix(btrfs): prevent TRIM during balance operations on loop devices](https://github.com/wimpysworld/nothing-but-nix/pull/14) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
-- [refactor: simplify snapd removal, the snap apt package has full purge logic](https://github.com/wimpysworld/nothing-but-nix/pull/13) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
-- [feat(inputs): add customizable safe haven disk space reservations](https://github.com/wimpysworld/nothing-but-nix/pull/12) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (2 days ago)
-- [feat(action): add post-run script](https://github.com/wimpysworld/nothing-but-nix/pull/11) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (2 days ago)
+- [feat(apt): minimal purge for cleave hatchet protocol](https://github.com/wimpysworld/nothing-but-nix/pull/15) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (2 days ago)
+- [fix(btrfs): prevent TRIM during balance operations on loop devices](https://github.com/wimpysworld/nothing-but-nix/pull/14) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (2 days ago)
+- [refactor: simplify snapd removal, the snap apt package has full purge logic](https://github.com/wimpysworld/nothing-but-nix/pull/13) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (2 days ago)
+- [feat(inputs): add customizable safe haven disk space reservations](https://github.com/wimpysworld/nothing-but-nix/pull/12) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (3 days ago)
+- [feat(action): add post-run script](https://github.com/wimpysworld/nothing-but-nix/pull/11) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (3 days ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/nixos-amis](https://github.com/DeterminateSystems/nixos-amis) ([v3.5.2](https://github.com/DeterminateSystems/nixos-amis/releases/tag/v3.5.2), today)
+- [DeterminateSystems/nixos-amis](https://github.com/DeterminateSystems/nixos-amis) ([v3.5.2](https://github.com/DeterminateSystems/nixos-amis/releases/tag/v3.5.2), 1 day ago)
   - 
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) ([v5](https://github.com/wimpysworld/nothing-but-nix/releases/tag/v5), 1 day ago)
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) ([v5](https://github.com/wimpysworld/nothing-but-nix/releases/tag/v5), 2 days ago)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
-- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.5.2](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.5.2), 2 days ago)
+- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.5.2](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.5.2), 3 days ago)
   - The Github Action for Determinate Nix
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250514](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250514), 2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250514](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250514), 3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.5.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.5.2), 4 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.5.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.5.2), 5 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 
 ### Recent starred projects ⭐️
@@ -82,7 +82,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Thoccing Heavy](https://linuxmatters.sh/55/) (4 days ago)
+- [Thoccing Heavy](https://linuxmatters.sh/55/) (5 days ago)
 - [High Precision Solid Metal Balls](https://linuxmatters.sh/54/) (2 weeks ago)
 - [Crafting Bookshelf Buddy](https://linuxmatters.sh/53/) (1 month ago)
 - [Great Scott, 1.21 Jiggabits!](https://linuxmatters.sh/52/) (1 month ago)
@@ -100,7 +100,7 @@ Here are some recent episodes:
 
 ### ✍️ Blog
 
-- [Nothing but Nix](https://wimpysworld.com/posts/nothing-but-nix-github-actions/) (2 days ago)
+- [Nothing but Nix](https://wimpysworld.com/posts/nothing-but-nix-github-actions/) (3 days ago)
 - [Fuzzel Colour Picker](https://wimpysworld.com/posts/fuzzel-hyprpicker/) (1 month ago)
 - [Install ZeroTier on Steam Deck](https://wimpysworld.com/posts/install-zerotier-on-steamdeck/) (2 years ago)
 - [Steam Box vs Steam Deck](https://wimpysworld.com/posts/steambox-vs-steamdeck/) (2 years ago)
