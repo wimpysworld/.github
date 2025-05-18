@@ -28,25 +28,25 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (2 days ago)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
   - My personal blog
 - [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) (3 days ago)
   - The Github Action for Determinate Nix
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [DeterminateSystems/ci](https://github.com/DeterminateSystems/ci) (3 days ago)
   - Determinate CI is the one-stop shop for effortless Nix CI in GitHub Actions.
 
 ### Recent pull requests 🛠️
 
 
+- [ci: enable lazy-trees](https://github.com/wimpysworld/nix-config/pull/486) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat(apt): minimal purge for cleave hatchet protocol](https://github.com/wimpysworld/nothing-but-nix/pull/15) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (2 days ago)
 - [fix(btrfs): prevent TRIM during balance operations on loop devices](https://github.com/wimpysworld/nothing-but-nix/pull/14) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (2 days ago)
 - [refactor: simplify snapd removal, the snap apt package has full purge logic](https://github.com/wimpysworld/nothing-but-nix/pull/13) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (2 days ago)
 - [feat(inputs): add customizable safe haven disk space reservations](https://github.com/wimpysworld/nothing-but-nix/pull/12) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (3 days ago)
-- [feat(action): add post-run script](https://github.com/wimpysworld/nothing-but-nix/pull/11) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (3 days ago)
 
 ### Recent releases 📦️
 
