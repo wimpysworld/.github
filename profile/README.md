@@ -67,7 +67,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 
 - [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) (2)
   - The Github Action for Determinate Nix
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (47)
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (48)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [popey/youtube-chapter-generator](https://github.com/popey/youtube-chapter-generator) (2)
   - Python script that uses yt-dlp and Google Gemini models to auto generate chapter markers for YouTube video descriptions.
