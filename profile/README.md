@@ -28,7 +28,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (3 days ago)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
@@ -42,11 +42,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [chore: updates local package and overlays](https://github.com/wimpysworld/nix-config/pull/489) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [ci: enable lazy-trees](https://github.com/wimpysworld/nix-config/pull/486) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat(apt): minimal purge for cleave hatchet protocol](https://github.com/wimpysworld/nothing-but-nix/pull/15) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (3 days ago)
 - [fix(btrfs): prevent TRIM during balance operations on loop devices](https://github.com/wimpysworld/nothing-but-nix/pull/14) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (3 days ago)
 - [refactor: simplify snapd removal, the snap apt package has full purge logic](https://github.com/wimpysworld/nothing-but-nix/pull/13) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (3 days ago)
-- [feat(inputs): add customizable safe haven disk space reservations](https://github.com/wimpysworld/nothing-but-nix/pull/12) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (4 days ago)
 
 ### Recent releases 📦️
 
@@ -67,7 +67,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 
 - [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) (2)
   - The Github Action for Determinate Nix
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (48)
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (50)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [popey/youtube-chapter-generator](https://github.com/popey/youtube-chapter-generator) (2)
   - Python script that uses yt-dlp and Google Gemini models to auto generate chapter markers for YouTube video descriptions.
