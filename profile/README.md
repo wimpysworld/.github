@@ -42,11 +42,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [obs-studio-plugins.obs-aitum-multistream: init at 1.0.7](https://github.com/NixOS/nixpkgs/pull/408767) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
+- [obs-studio-plugins.obs-replay-source: remove unnecessary buildInputs](https://github.com/NixOS/nixpkgs/pull/408748) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [obs-studio-plugins.obs-vertical-canvas: 1.4.10 -&gt; 1.5.2](https://github.com/NixOS/nixpkgs/pull/408741) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [avizo: 1.3 -&gt; 1.3-unstable-2024-11-03](https://github.com/NixOS/nixpkgs/pull/408694) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [station: 1.52.2 -&gt; 3.3.0](https://github.com/NixOS/nixpkgs/pull/408690) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
-- [open-webui: add missing ffmpeg](https://github.com/NixOS/nixpkgs/pull/408685) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
-- [owncast: 0.2.0 -&gt; 0.2.3](https://github.com/NixOS/nixpkgs/pull/408679) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 
 ### Recent releases 📦️
 
