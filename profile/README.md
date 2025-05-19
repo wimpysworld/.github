@@ -42,11 +42,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [obs-studio-plugins.obs-noise: init at 1.0.0](https://github.com/NixOS/nixpkgs/pull/408781) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
+- [obs-studio-plugins.obs-markdown: init at 0.2.7](https://github.com/NixOS/nixpkgs/pull/408777) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [obs-studio-plugins.obs-aitum-multistream: init at 1.0.7](https://github.com/NixOS/nixpkgs/pull/408767) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [obs-studio-plugins.obs-replay-source: remove unnecessary buildInputs](https://github.com/NixOS/nixpkgs/pull/408748) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [obs-studio-plugins.obs-vertical-canvas: 1.4.10 -&gt; 1.5.2](https://github.com/NixOS/nixpkgs/pull/408741) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
-- [avizo: 1.3 -&gt; 1.3-unstable-2024-11-03](https://github.com/NixOS/nixpkgs/pull/408694) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
-- [station: 1.52.2 -&gt; 3.3.0](https://github.com/NixOS/nixpkgs/pull/408690) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 
 ### Recent releases 📦️
 
@@ -67,7 +67,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 
 - [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) (2)
   - The Github Action for Determinate Nix
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (50)
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (51)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [popey/youtube-chapter-generator](https://github.com/popey/youtube-chapter-generator) (2)
   - Python script that uses yt-dlp and Google Gemini models to auto generate chapter markers for YouTube video descriptions.
