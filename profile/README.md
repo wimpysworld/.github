@@ -30,12 +30,12 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
+  - Nix Packages collection &amp; NixOS
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (3 days ago)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
   - My personal blog
-- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) (4 days ago)
-  - The Github Action for Determinate Nix
 - [DeterminateSystems/ci](https://github.com/DeterminateSystems/ci) (4 days ago)
   - Determinate CI is the one-stop shop for effortless Nix CI in GitHub Actions.
 
