@@ -42,11 +42,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [owncast: 0.2.0 -&gt; 0.2.3](https://github.com/NixOS/nixpkgs/pull/408679) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [chore: updates local package and overlays](https://github.com/wimpysworld/nix-config/pull/489) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [ci: enable lazy-trees](https://github.com/wimpysworld/nix-config/pull/486) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat(apt): minimal purge for cleave hatchet protocol](https://github.com/wimpysworld/nothing-but-nix/pull/15) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (3 days ago)
 - [fix(btrfs): prevent TRIM during balance operations on loop devices](https://github.com/wimpysworld/nothing-but-nix/pull/14) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (3 days ago)
-- [refactor: simplify snapd removal, the snap apt package has full purge logic](https://github.com/wimpysworld/nothing-but-nix/pull/13) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (3 days ago)
 
 ### Recent releases 📦️
 
