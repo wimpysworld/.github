@@ -28,7 +28,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
   - Nix Packages collection &amp; NixOS
@@ -42,11 +42,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [obs-studio-plugins.obs-urlsource: init at 0.3.7](https://github.com/NixOS/nixpkgs/pull/409015) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
+- [obs-studio-plugins.obs-retro-effects: init at 1.0.0](https://github.com/NixOS/nixpkgs/pull/409012) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
+- [obs-studio-plugins.obs-stroke-glow-shadow: init at 1.5.2](https://github.com/NixOS/nixpkgs/pull/409004) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [defold-gdc: init at 1.10.1](https://github.com/NixOS/nixpkgs/pull/409001) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [defold-bob: init at 1.10.1](https://github.com/NixOS/nixpkgs/pull/408995) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
-- [defold: init at 1.10.1](https://github.com/NixOS/nixpkgs/pull/408992) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
-- [obs-studio-plugins.obs-noise: init at 1.0.0](https://github.com/NixOS/nixpkgs/pull/408781) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
-- [obs-studio-plugins.obs-markdown: init at 0.2.7](https://github.com/NixOS/nixpkgs/pull/408777) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
 
 ### Recent releases 📦️
 
