@@ -42,11 +42,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [obs-studio-plugins.obs-scene-as-transition: init at 1.1.1](https://github.com/NixOS/nixpkgs/pull/409018) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
+- [obs-studio-plugins.pixel-art: init at 0.0.4](https://github.com/NixOS/nixpkgs/pull/409017) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [obs-studio-plugins.obs-urlsource: init at 0.3.7](https://github.com/NixOS/nixpkgs/pull/409015) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [obs-studio-plugins.obs-retro-effects: init at 1.0.0](https://github.com/NixOS/nixpkgs/pull/409012) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [obs-studio-plugins.obs-stroke-glow-shadow: init at 1.5.2](https://github.com/NixOS/nixpkgs/pull/409004) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
-- [defold-gdc: init at 1.10.1](https://github.com/NixOS/nixpkgs/pull/409001) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
-- [defold-bob: init at 1.10.1](https://github.com/NixOS/nixpkgs/pull/408995) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 
 ### Recent releases 📦️
 
