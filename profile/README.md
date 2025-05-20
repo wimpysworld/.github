@@ -42,11 +42,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [obs-studio-plugins.obs-dvd-screensaver: init at 0.0.2](https://github.com/NixOS/nixpkgs/pull/409049) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
+- [obs-studio-plugins.obs-dir-watch-media: init at 0.7.0](https://github.com/NixOS/nixpkgs/pull/409044) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
+- [obs-studio-plugins.obs-browser-transition: init at 0.1.3](https://github.com/NixOS/nixpkgs/pull/409039) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [obs-studio-plugins.obs-scene-as-transition: init at 1.1.1](https://github.com/NixOS/nixpkgs/pull/409018) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [obs-studio-plugins.pixel-art: init at 0.0.4](https://github.com/NixOS/nixpkgs/pull/409017) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
-- [obs-studio-plugins.obs-urlsource: init at 0.3.7](https://github.com/NixOS/nixpkgs/pull/409015) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
-- [obs-studio-plugins.obs-retro-effects: init at 1.0.0](https://github.com/NixOS/nixpkgs/pull/409012) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
-- [obs-studio-plugins.obs-stroke-glow-shadow: init at 1.5.2](https://github.com/NixOS/nixpkgs/pull/409004) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 
 ### Recent releases 📦️
 
@@ -67,7 +67,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 
 - [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) (2)
   - The Github Action for Determinate Nix
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (52)
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (53)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [popey/youtube-chapter-generator](https://github.com/popey/youtube-chapter-generator) (2)
   - Python script that uses yt-dlp and Google Gemini models to auto generate chapter markers for YouTube video descriptions.
