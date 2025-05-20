@@ -42,11 +42,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [defold-gdc: init at 1.10.1](https://github.com/NixOS/nixpkgs/pull/409001) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
+- [defold-bob: init at 1.10.1](https://github.com/NixOS/nixpkgs/pull/408995) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
+- [defold: init at 1.10.1](https://github.com/NixOS/nixpkgs/pull/408992) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [obs-studio-plugins.obs-noise: init at 1.0.0](https://github.com/NixOS/nixpkgs/pull/408781) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
 - [obs-studio-plugins.obs-markdown: init at 0.2.7](https://github.com/NixOS/nixpkgs/pull/408777) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
-- [obs-studio-plugins.obs-aitum-multistream: init at 1.0.7](https://github.com/NixOS/nixpkgs/pull/408767) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
-- [obs-studio-plugins.obs-replay-source: remove unnecessary buildInputs](https://github.com/NixOS/nixpkgs/pull/408748) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
-- [obs-studio-plugins.obs-vertical-canvas: 1.4.10 -&gt; 1.5.2](https://github.com/NixOS/nixpkgs/pull/408741) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
 
 ### Recent releases 📦️
 
