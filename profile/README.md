@@ -28,38 +28,38 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
   - Nix Packages collection &amp; NixOS
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (3 days ago)
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (4 days ago)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (4 days ago)
   - My personal blog
-- [DeterminateSystems/ci](https://github.com/DeterminateSystems/ci) (4 days ago)
+- [DeterminateSystems/ci](https://github.com/DeterminateSystems/ci) (5 days ago)
   - Determinate CI is the one-stop shop for effortless Nix CI in GitHub Actions.
 
 ### Recent pull requests 🛠️
 
 
-- [obs-studio-plugins.obs-noise: init at 1.0.0](https://github.com/NixOS/nixpkgs/pull/408781) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
-- [obs-studio-plugins.obs-markdown: init at 0.2.7](https://github.com/NixOS/nixpkgs/pull/408777) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
-- [obs-studio-plugins.obs-aitum-multistream: init at 1.0.7](https://github.com/NixOS/nixpkgs/pull/408767) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
-- [obs-studio-plugins.obs-replay-source: remove unnecessary buildInputs](https://github.com/NixOS/nixpkgs/pull/408748) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
-- [obs-studio-plugins.obs-vertical-canvas: 1.4.10 -&gt; 1.5.2](https://github.com/NixOS/nixpkgs/pull/408741) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
+- [obs-studio-plugins.obs-noise: init at 1.0.0](https://github.com/NixOS/nixpkgs/pull/408781) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
+- [obs-studio-plugins.obs-markdown: init at 0.2.7](https://github.com/NixOS/nixpkgs/pull/408777) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
+- [obs-studio-plugins.obs-aitum-multistream: init at 1.0.7](https://github.com/NixOS/nixpkgs/pull/408767) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
+- [obs-studio-plugins.obs-replay-source: remove unnecessary buildInputs](https://github.com/NixOS/nixpkgs/pull/408748) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
+- [obs-studio-plugins.obs-vertical-canvas: 1.4.10 -&gt; 1.5.2](https://github.com/NixOS/nixpkgs/pull/408741) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250517](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250517), 1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250517](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250517), 2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [DeterminateSystems/nixos-amis](https://github.com/DeterminateSystems/nixos-amis) ([v3.5.2](https://github.com/DeterminateSystems/nixos-amis/releases/tag/v3.5.2), 2 days ago)
+- [DeterminateSystems/nixos-amis](https://github.com/DeterminateSystems/nixos-amis) ([v3.5.2](https://github.com/DeterminateSystems/nixos-amis/releases/tag/v3.5.2), 3 days ago)
   - 
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) ([v5](https://github.com/wimpysworld/nothing-but-nix/releases/tag/v5), 3 days ago)
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) ([v5](https://github.com/wimpysworld/nothing-but-nix/releases/tag/v5), 4 days ago)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
-- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.5.2](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.5.2), 4 days ago)
+- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.5.2](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.5.2), 5 days ago)
   - The Github Action for Determinate Nix
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.5.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.5.2), 6 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.5.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.5.2), 1 week ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 
 ### Recent starred projects ⭐️
@@ -82,8 +82,8 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Thoccing Heavy](https://linuxmatters.sh/55/) (6 days ago)
-- [High Precision Solid Metal Balls](https://linuxmatters.sh/54/) (2 weeks ago)
+- [Thoccing Heavy](https://linuxmatters.sh/55/) (1 week ago)
+- [High Precision Solid Metal Balls](https://linuxmatters.sh/54/) (3 weeks ago)
 - [Crafting Bookshelf Buddy](https://linuxmatters.sh/53/) (1 month ago)
 - [Great Scott, 1.21 Jiggabits!](https://linuxmatters.sh/52/) (1 month ago)
 - [Moodling Myself Silly](https://linuxmatters.sh/51/) (2 months ago)
@@ -100,7 +100,7 @@ Here are some recent episodes:
 
 ### ✍️ Blog
 
-- [Nothing but Nix](https://wimpysworld.com/posts/nothing-but-nix-github-actions/) (4 days ago)
+- [Nothing but Nix](https://wimpysworld.com/posts/nothing-but-nix-github-actions/) (5 days ago)
 - [Fuzzel Colour Picker](https://wimpysworld.com/posts/fuzzel-hyprpicker/) (1 month ago)
 - [Install ZeroTier on Steam Deck](https://wimpysworld.com/posts/install-zerotier-on-steamdeck/) (2 years ago)
 - [Steam Box vs Steam Deck](https://wimpysworld.com/posts/steambox-vs-steamdeck/) (2 years ago)
