@@ -42,11 +42,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [obs-studio-plugins.obs-media-controls: init at 0.4.1](https://github.com/NixOS/nixpkgs/pull/409062) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
+- [obs-studio-plugins.obs-rgb-levels: 1.0.0 -&gt; 1.0.2](https://github.com/NixOS/nixpkgs/pull/409052) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [obs-studio-plugins.obs-dvd-screensaver: init at 0.0.2](https://github.com/NixOS/nixpkgs/pull/409049) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [obs-studio-plugins.obs-dir-watch-media: init at 0.7.0](https://github.com/NixOS/nixpkgs/pull/409044) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [obs-studio-plugins.obs-browser-transition: init at 0.1.3](https://github.com/NixOS/nixpkgs/pull/409039) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
-- [obs-studio-plugins.obs-scene-as-transition: init at 1.1.1](https://github.com/NixOS/nixpkgs/pull/409018) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
-- [obs-studio-plugins.pixel-art: init at 0.0.4](https://github.com/NixOS/nixpkgs/pull/409017) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 
 ### Recent releases 📦️
 
