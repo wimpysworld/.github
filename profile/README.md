@@ -42,16 +42,16 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [ci(sbom): add sbom and cve scanning](https://github.com/wimpysworld/nix-config/pull/496) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor(wavebox): align with google-chrome and add macOS support](https://github.com/wimpysworld/nix-config/pull/494) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [feat: upgrade to NixOS 25.05](https://github.com/wimpysworld/nix-config/pull/493) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [obs-studio-plugins.obs-vnc: init at 0.6.1](https://github.com/NixOS/nixpkgs/pull/409071) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
 - [obs-studio-plugins.obs-recursion-effect: init at 0.1.0](https://github.com/NixOS/nixpkgs/pull/409067) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
-- [obs-studio-plugins.obs-media-controls: init at 0.4.1](https://github.com/NixOS/nixpkgs/pull/409062) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([vminimal](https://github.com/wimpysworld/nix-config/releases/tag/vminimal), today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250517](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250517), 4 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [DeterminateSystems/nixos-amis](https://github.com/DeterminateSystems/nixos-amis) ([v3.5.2](https://github.com/DeterminateSystems/nixos-amis/releases/tag/v3.5.2), 5 days ago)
   - 
