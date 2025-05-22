@@ -28,36 +28,36 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
   - Nix Packages collection &amp; NixOS
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (5 days ago)
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (6 days ago)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (5 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (6 days ago)
   - My personal blog
-- [DeterminateSystems/ci](https://github.com/DeterminateSystems/ci) (6 days ago)
+- [DeterminateSystems/ci](https://github.com/DeterminateSystems/ci) (1 week ago)
   - Determinate CI is the one-stop shop for effortless Nix CI in GitHub Actions.
 
 ### Recent pull requests 🛠️
 
 
-- [refactor(wavebox): align with google-chrome and add macOS support](https://github.com/wimpysworld/nix-config/pull/494) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: upgrade to NixOS 25.05](https://github.com/wimpysworld/nix-config/pull/493) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [obs-studio-plugins.obs-vnc: init at 0.6.1](https://github.com/NixOS/nixpkgs/pull/409071) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
-- [obs-studio-plugins.obs-recursion-effect: init at 0.1.0](https://github.com/NixOS/nixpkgs/pull/409067) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
-- [obs-studio-plugins.obs-media-controls: init at 0.4.1](https://github.com/NixOS/nixpkgs/pull/409062) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
+- [refactor(wavebox): align with google-chrome and add macOS support](https://github.com/wimpysworld/nix-config/pull/494) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: upgrade to NixOS 25.05](https://github.com/wimpysworld/nix-config/pull/493) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [obs-studio-plugins.obs-vnc: init at 0.6.1](https://github.com/NixOS/nixpkgs/pull/409071) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
+- [obs-studio-plugins.obs-recursion-effect: init at 0.1.0](https://github.com/NixOS/nixpkgs/pull/409067) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
+- [obs-studio-plugins.obs-media-controls: init at 0.4.1](https://github.com/NixOS/nixpkgs/pull/409062) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250517](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250517), 3 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250517](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250517), 4 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [DeterminateSystems/nixos-amis](https://github.com/DeterminateSystems/nixos-amis) ([v3.5.2](https://github.com/DeterminateSystems/nixos-amis/releases/tag/v3.5.2), 4 days ago)
+- [DeterminateSystems/nixos-amis](https://github.com/DeterminateSystems/nixos-amis) ([v3.5.2](https://github.com/DeterminateSystems/nixos-amis/releases/tag/v3.5.2), 5 days ago)
   - 
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) ([v5](https://github.com/wimpysworld/nothing-but-nix/releases/tag/v5), 5 days ago)
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) ([v5](https://github.com/wimpysworld/nothing-but-nix/releases/tag/v5), 6 days ago)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
-- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.5.2](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.5.2), 6 days ago)
+- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.5.2](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.5.2), 1 week ago)
   - The Github Action for Determinate Nix
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.5.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.5.2), 1 week ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
@@ -100,7 +100,7 @@ Here are some recent episodes:
 
 ### ✍️ Blog
 
-- [Nothing but Nix](https://wimpysworld.com/posts/nothing-but-nix-github-actions/) (6 days ago)
+- [Nothing but Nix](https://wimpysworld.com/posts/nothing-but-nix-github-actions/) (1 week ago)
 - [Fuzzel Colour Picker](https://wimpysworld.com/posts/fuzzel-hyprpicker/) (1 month ago)
 - [Install ZeroTier on Steam Deck](https://wimpysworld.com/posts/install-zerotier-on-steamdeck/) (2 years ago)
 - [Steam Box vs Steam Deck](https://wimpysworld.com/posts/steambox-vs-steamdeck/) (2 years ago)
