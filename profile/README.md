@@ -28,7 +28,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
   - Nix Packages collection &amp; NixOS
@@ -51,7 +51,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v24.11.20250517](https://github.com/wimpysworld/nix-config/releases/tag/v24.11.20250517), 4 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([vminimal](https://github.com/wimpysworld/nix-config/releases/tag/vminimal), today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [DeterminateSystems/nixos-amis](https://github.com/DeterminateSystems/nixos-amis) ([v3.5.2](https://github.com/DeterminateSystems/nixos-amis/releases/tag/v3.5.2), 5 days ago)
   - 
