@@ -73,7 +73,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [popey/youtube-chapter-generator](https://github.com/popey/youtube-chapter-generator) (3)
   - Python script that uses yt-dlp and Google Gemini models to auto generate chapter markers for YouTube video descriptions.
-- [picolove/picolove](https://github.com/picolove/picolove) (803)
+- [picolove/picolove](https://github.com/picolove/picolove) (804)
   - PICO-8 Reimplementation in Love2D. Chat: https://discord.gg/jGEMUse6RM
 
 ### 🎙️ Podcast
