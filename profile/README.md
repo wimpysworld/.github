@@ -42,15 +42,17 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [feat(error): implement structured error handling with thiserror](https://github.com/wimpysworld/ia-get/pull/19) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
 - [feat: modernize code and improve error handling based on community feedback](https://github.com/wimpysworld/ia-get/pull/17) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
 - [refactor: enhances development environment and tooling](https://github.com/wimpysworld/ia-get/pull/11) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
 - [ci(sbom): add sbom and cve scanning](https://github.com/wimpysworld/nix-config/pull/496) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [refactor(wavebox): align with google-chrome and add macOS support](https://github.com/wimpysworld/nix-config/pull/494) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [feat: upgrade to NixOS 25.05](https://github.com/wimpysworld/nix-config/pull/493) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 
 ### Recent releases 📦️
 
 
+- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) ([0.1.1](https://github.com/wimpysworld/ia-get/releases/tag/0.1.1), today)
+  - File downloader for archive.org ⬇️
 - [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.6.0](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.6.0), today)
   - The Github Action for Determinate Nix
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250521](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250521), today)
@@ -59,8 +61,6 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate) ([v3.6.0](https://github.com/DeterminateSystems/determinate/releases/tag/v3.6.0), today)
   - Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
-- [DeterminateSystems/nixos-amis](https://github.com/DeterminateSystems/nixos-amis) ([v3.5.2](https://github.com/DeterminateSystems/nixos-amis/releases/tag/v3.5.2), 6 days ago)
-  - 
 
 ### Recent starred projects ⭐️
 
