@@ -28,6 +28,8 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
+  - File downloader for archive.org ⬇️
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 days ago)
@@ -36,17 +38,15 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 week ago)
   - My personal blog
-- [DeterminateSystems/ci](https://github.com/DeterminateSystems/ci) (1 week ago)
-  - Determinate CI is the one-stop shop for effortless Nix CI in GitHub Actions.
 
 ### Recent pull requests 🛠️
 
 
+- [refactor: enhances development environment and tooling](https://github.com/wimpysworld/ia-get/pull/11) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
 - [ci(sbom): add sbom and cve scanning](https://github.com/wimpysworld/nix-config/pull/496) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [refactor(wavebox): align with google-chrome and add macOS support](https://github.com/wimpysworld/nix-config/pull/494) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 - [feat: upgrade to NixOS 25.05](https://github.com/wimpysworld/nix-config/pull/493) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 - [obs-studio-plugins.obs-vnc: init at 0.6.1](https://github.com/NixOS/nixpkgs/pull/409071) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
-- [obs-studio-plugins.obs-recursion-effect: init at 0.1.0](https://github.com/NixOS/nixpkgs/pull/409067) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
 
 ### Recent releases 📦️
 
@@ -69,7 +69,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - 
 - [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) (2)
   - The Github Action for Determinate Nix
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (61)
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (62)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [popey/youtube-chapter-generator](https://github.com/popey/youtube-chapter-generator) (3)
   - Python script that uses yt-dlp and Google Gemini models to auto generate chapter markers for YouTube video descriptions.
