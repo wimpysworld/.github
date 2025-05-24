@@ -51,14 +51,14 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent releases 📦️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250522](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250522), today)
+  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.6.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.6.1), today)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) ([0.1.1](https://github.com/wimpysworld/ia-get/releases/tag/0.1.1), 1 day ago)
   - File downloader for archive.org ⬇️
 - [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.6.0](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.6.0), 1 day ago)
   - The Github Action for Determinate Nix
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250521](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250521), 1 day ago)
-  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) ([v5](https://github.com/wimpysworld/nothing-but-nix/releases/tag/v5), 1 week ago)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 
