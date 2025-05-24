@@ -28,11 +28,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
+- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
   - File downloader for archive.org ⬇️
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 days ago)
   - Nix Packages collection &amp; NixOS
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 week ago)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
@@ -42,22 +42,22 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
-- [feat: add graceful signal handling for downloads](https://github.com/wimpysworld/ia-get/pull/20) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
-- [feat(error): implement structured error handling with thiserror](https://github.com/wimpysworld/ia-get/pull/19) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
-- [feat: modernize code and improve error handling based on community feedback](https://github.com/wimpysworld/ia-get/pull/17) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
-- [refactor: enhances development environment and tooling](https://github.com/wimpysworld/ia-get/pull/11) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
-- [ci(sbom): add sbom and cve scanning](https://github.com/wimpysworld/nix-config/pull/496) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: add graceful signal handling for downloads](https://github.com/wimpysworld/ia-get/pull/20) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
+- [feat(error): implement structured error handling with thiserror](https://github.com/wimpysworld/ia-get/pull/19) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
+- [feat: modernize code and improve error handling based on community feedback](https://github.com/wimpysworld/ia-get/pull/17) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
+- [refactor: enhances development environment and tooling](https://github.com/wimpysworld/ia-get/pull/11) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
+- [ci(sbom): add sbom and cve scanning](https://github.com/wimpysworld/nix-config/pull/496) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) ([0.1.1](https://github.com/wimpysworld/ia-get/releases/tag/0.1.1), today)
+- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) ([0.1.1](https://github.com/wimpysworld/ia-get/releases/tag/0.1.1), 1 day ago)
   - File downloader for archive.org ⬇️
-- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.6.0](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.6.0), today)
+- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.6.0](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.6.0), 1 day ago)
   - The Github Action for Determinate Nix
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250521](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250521), today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250521](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250521), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.6.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.6.0), today)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.6.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.6.0), 1 day ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) ([v5](https://github.com/wimpysworld/nothing-but-nix/releases/tag/v5), 1 week ago)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
@@ -69,7 +69,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - 
 - [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) (2)
   - The Github Action for Determinate Nix
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (63)
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (64)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [popey/youtube-chapter-generator](https://github.com/popey/youtube-chapter-generator) (3)
   - Python script that uses yt-dlp and Google Gemini models to auto generate chapter markers for YouTube video descriptions.
