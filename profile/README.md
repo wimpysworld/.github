@@ -30,7 +30,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
-- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
+- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
   - File downloader for archive.org ⬇️
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
@@ -42,11 +42,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [refactor(download): extract download logic and optimize URL checks](https://github.com/wimpysworld/ia-get/pull/22) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
+- [refactor(ui): centralize progress bar creation](https://github.com/wimpysworld/ia-get/pull/21) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
 - [fix: set nix permissions after mounting](https://github.com/wimpysworld/nothing-but-nix/pull/17) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
 - [feat: add graceful signal handling for downloads](https://github.com/wimpysworld/ia-get/pull/20) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
 - [feat(error): implement structured error handling with thiserror](https://github.com/wimpysworld/ia-get/pull/19) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
-- [feat: modernize code and improve error handling based on community feedback](https://github.com/wimpysworld/ia-get/pull/17) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
-- [refactor: enhances development environment and tooling](https://github.com/wimpysworld/ia-get/pull/11) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
 
 ### Recent releases 📦️
 
