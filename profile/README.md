@@ -42,11 +42,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [feat(xml): modularize XML data structures into archive_metadata](https://github.com/wimpysworld/ia-get/pull/27) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
 - [refactor: modularise main application logic and data structures](https://github.com/wimpysworld/ia-get/pull/26) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
 - [refactor(constants): extract magic values to named constants](https://github.com/wimpysworld/ia-get/pull/25) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
 - [feat(ui): add animated spinner during initialization](https://github.com/wimpysworld/ia-get/pull/24) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
 - [feat(ui): add download statistics at completion](https://github.com/wimpysworld/ia-get/pull/23) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
-- [refactor(download): extract download logic and optimize URL checks](https://github.com/wimpysworld/ia-get/pull/22) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
 
 ### Recent releases 📦️
 
