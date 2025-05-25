@@ -42,11 +42,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [refactor: improve URL validation and error messages](https://github.com/wimpysworld/ia-get/pull/37) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
 - [ui: enhance download progress information with a counter](https://github.com/wimpysworld/ia-get/pull/36) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
 - [refactor: improves error handling and URL validation](https://github.com/wimpysworld/ia-get/pull/35) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
 - [fix(downloader): fix resume download corruption and hash verification](https://github.com/wimpysworld/ia-get/pull/34) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
 - [refactor: streamline XML processing pipeline](https://github.com/wimpysworld/ia-get/pull/33) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
-- [refactor: move signal handling into downloader module](https://github.com/wimpysworld/ia-get/pull/32) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
 
 ### Recent releases 📦️
 
