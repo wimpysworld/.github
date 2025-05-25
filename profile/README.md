@@ -42,11 +42,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
-- [refactor(downloader): modularize file download and verification logic](https://github.com/wimpysworld/ia-get/pull/28) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
-- [feat(xml): modularize XML data structures into archive_metadata](https://github.com/wimpysworld/ia-get/pull/27) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
-- [refactor: modularise main application logic and data structures](https://github.com/wimpysworld/ia-get/pull/26) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
-- [refactor(constants): extract magic values to named constants](https://github.com/wimpysworld/ia-get/pull/25) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
-- [feat(ui): add animated spinner during initialization](https://github.com/wimpysworld/ia-get/pull/24) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
+- [fix(downloader): fix resume download corruption and hash verification](https://github.com/wimpysworld/ia-get/pull/34) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
+- [refactor: streamline XML processing pipeline](https://github.com/wimpysworld/ia-get/pull/33) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
+- [refactor: move signal handling into downloader module](https://github.com/wimpysworld/ia-get/pull/32) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
+- [refactor: consolidate error handling strategy](https://github.com/wimpysworld/ia-get/pull/31) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
+- [refactor: consolidate constants into dedicated module](https://github.com/wimpysworld/ia-get/pull/30) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
 
 ### Recent releases 📦️
 
