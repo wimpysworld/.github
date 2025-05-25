@@ -28,13 +28,13 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
-  - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
   - File downloader for archive.org ⬇️
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
+  - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (6 days ago)
   - Nix Packages collection &amp; NixOS
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 week ago)
   - My personal blog
@@ -42,22 +42,22 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
-- [refactor(download): extract download logic and optimize URL checks](https://github.com/wimpysworld/ia-get/pull/22) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
-- [refactor(ui): centralize progress bar creation](https://github.com/wimpysworld/ia-get/pull/21) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
-- [fix: set nix permissions after mounting](https://github.com/wimpysworld/nothing-but-nix/pull/17) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
-- [feat: add graceful signal handling for downloads](https://github.com/wimpysworld/ia-get/pull/20) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
-- [feat(error): implement structured error handling with thiserror](https://github.com/wimpysworld/ia-get/pull/19) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
+- [refactor(constants): extract magic values to named constants](https://github.com/wimpysworld/ia-get/pull/25) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
+- [feat(ui): add animated spinner during initialization](https://github.com/wimpysworld/ia-get/pull/24) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
+- [feat(ui): add download statistics at completion](https://github.com/wimpysworld/ia-get/pull/23) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
+- [refactor(download): extract download logic and optimize URL checks](https://github.com/wimpysworld/ia-get/pull/22) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
+- [refactor(ui): centralize progress bar creation](https://github.com/wimpysworld/ia-get/pull/21) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.6.1](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.6.1), today)
+- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.6.1](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.6.1), 1 day ago)
   - The Github Action for Determinate Nix
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250522](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250522), today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250522](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250522), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.6.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.6.1), today)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.6.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.6.1), 1 day ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) ([0.1.1](https://github.com/wimpysworld/ia-get/releases/tag/0.1.1), 1 day ago)
+- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) ([0.1.1](https://github.com/wimpysworld/ia-get/releases/tag/0.1.1), 2 days ago)
   - File downloader for archive.org ⬇️
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) ([v5](https://github.com/wimpysworld/nothing-but-nix/releases/tag/v5), 1 week ago)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
