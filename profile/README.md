@@ -42,11 +42,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [refactor: modularise main application logic and data structures](https://github.com/wimpysworld/ia-get/pull/26) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
 - [refactor(constants): extract magic values to named constants](https://github.com/wimpysworld/ia-get/pull/25) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
 - [feat(ui): add animated spinner during initialization](https://github.com/wimpysworld/ia-get/pull/24) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
 - [feat(ui): add download statistics at completion](https://github.com/wimpysworld/ia-get/pull/23) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
 - [refactor(download): extract download logic and optimize URL checks](https://github.com/wimpysworld/ia-get/pull/22) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
-- [refactor(ui): centralize progress bar creation](https://github.com/wimpysworld/ia-get/pull/21) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
 
 ### Recent releases 📦️
 
@@ -69,7 +69,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - 
 - [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) (2)
   - The Github Action for Determinate Nix
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (65)
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (66)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [popey/youtube-chapter-generator](https://github.com/popey/youtube-chapter-generator) (3)
   - Python script that uses yt-dlp and Google Gemini models to auto generate chapter markers for YouTube video descriptions.
