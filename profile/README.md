@@ -42,11 +42,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [refactor: oxidise NixOS](https://github.com/wimpysworld/nix-config/pull/503) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [ui: replace emoji with coloured unicode symbols/glyphs](https://github.com/wimpysworld/ia-get/pull/38) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
 - [refactor: improve URL validation and error messages](https://github.com/wimpysworld/ia-get/pull/37) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
 - [ui: enhance download progress information with a counter](https://github.com/wimpysworld/ia-get/pull/36) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
 - [refactor: improves error handling and URL validation](https://github.com/wimpysworld/ia-get/pull/35) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
-- [fix(downloader): fix resume download corruption and hash verification](https://github.com/wimpysworld/ia-get/pull/34) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
 
 ### Recent releases 📦️
 
