@@ -28,11 +28,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (today)
+- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
   - File downloader for archive.org ⬇️
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (2 days ago)
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (3 days ago)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
   - Nix Packages collection &amp; NixOS
@@ -42,22 +42,22 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
-- [refactor: oxidise NixOS](https://github.com/wimpysworld/nix-config/pull/503) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [ui: replace emoji with coloured unicode symbols/glyphs](https://github.com/wimpysworld/ia-get/pull/38) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
-- [refactor: improve URL validation and error messages](https://github.com/wimpysworld/ia-get/pull/37) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
-- [ui: enhance download progress information with a counter](https://github.com/wimpysworld/ia-get/pull/36) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
-- [refactor: improves error handling and URL validation](https://github.com/wimpysworld/ia-get/pull/35) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
+- [refactor: oxidise NixOS](https://github.com/wimpysworld/nix-config/pull/503) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [ui: replace emoji with coloured unicode symbols/glyphs](https://github.com/wimpysworld/ia-get/pull/38) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (2 days ago)
+- [refactor: improve URL validation and error messages](https://github.com/wimpysworld/ia-get/pull/37) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (2 days ago)
+- [ui: enhance download progress information with a counter](https://github.com/wimpysworld/ia-get/pull/36) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (2 days ago)
+- [refactor: improves error handling and URL validation](https://github.com/wimpysworld/ia-get/pull/35) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (2 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250525](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250525), today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250525](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250525), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) ([0.1.2](https://github.com/wimpysworld/ia-get/releases/tag/0.1.2), 1 day ago)
+- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) ([0.1.2](https://github.com/wimpysworld/ia-get/releases/tag/0.1.2), 2 days ago)
   - File downloader for archive.org ⬇️
-- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.6.1](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.6.1), 2 days ago)
+- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.6.1](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.6.1), 3 days ago)
   - The Github Action for Determinate Nix
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.6.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.6.1), 2 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.6.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.6.1), 3 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) ([v5](https://github.com/wimpysworld/nothing-but-nix/releases/tag/v5), 1 week ago)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
@@ -82,8 +82,8 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Thoccing Heavy](https://linuxmatters.sh/55/) (1 week ago)
-- [High Precision Solid Metal Balls](https://linuxmatters.sh/54/) (3 weeks ago)
+- [Thoccing Heavy](https://linuxmatters.sh/55/) (2 weeks ago)
+- [High Precision Solid Metal Balls](https://linuxmatters.sh/54/) (4 weeks ago)
 - [Crafting Bookshelf Buddy](https://linuxmatters.sh/53/) (1 month ago)
 - [Great Scott, 1.21 Jiggabits!](https://linuxmatters.sh/52/) (1 month ago)
 - [Moodling Myself Silly](https://linuxmatters.sh/51/) (2 months ago)
