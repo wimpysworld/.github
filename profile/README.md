@@ -28,10 +28,10 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 day ago)
   - File downloader for archive.org ⬇️
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (3 days ago)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
@@ -65,6 +65,8 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent starred projects ⭐️
 
 
+- [openai/whisper](https://github.com/openai/whisper) (82304)
+  - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (73)
   - 
 - [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) (2)
@@ -73,8 +75,6 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [popey/youtube-chapter-generator](https://github.com/popey/youtube-chapter-generator) (3)
   - Python script that uses yt-dlp and Google Gemini models to auto generate chapter markers for YouTube video descriptions.
-- [picolove/picolove](https://github.com/picolove/picolove) (805)
-  - PICO-8 Reimplementation in Love2D. Chat: https://discord.gg/jGEMUse6RM
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
