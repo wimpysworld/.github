@@ -42,11 +42,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [feat: adds a new logo, favicon and web manifest](https://github.com/NerdyDayTrips/website/pull/162) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (today)
 - [docs: add makeshift nerdy day trips logo to README](https://github.com/NerdyDayTrips/website/pull/141) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (today)
 - [feat: add nix development environment](https://github.com/NerdyDayTrips/website/pull/140) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (today)
 - [docs: add LICENSE](https://github.com/NerdyDayTrips/website/pull/136) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (today)
 - [docs: add LICENSE](https://github.com/flexiondotorg/website/pull/1) on [flexiondotorg/website](https://github.com/flexiondotorg/website) (today)
-- [ui: update menu icons to improve visual clarity and consistency](https://github.com/NerdyDayTrips/website/pull/99) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (today)
 
 ### Recent releases 📦️
 
@@ -71,7 +71,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - 
 - [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) (2)
   - The Github Action for Determinate Nix
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (74)
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (75)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [popey/youtube-chapter-generator](https://github.com/popey/youtube-chapter-generator) (3)
   - Python script that uses yt-dlp and Google Gemini models to auto generate chapter markers for YouTube video descriptions.
