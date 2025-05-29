@@ -28,6 +28,8 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
+- [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (today)
+  - 
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (3 days ago)
@@ -36,8 +38,6 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
   - Nix Packages collection &amp; NixOS
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 week ago)
-  - My personal blog
 
 ### Recent pull requests 🛠️
 
@@ -65,7 +65,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent starred projects ⭐️
 
 
-- [openai/whisper](https://github.com/openai/whisper) (82424)
+- [openai/whisper](https://github.com/openai/whisper) (82427)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (73)
   - 
