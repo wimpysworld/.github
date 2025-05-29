@@ -42,11 +42,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [docs: add makeshift nerdy day trips logo to README](https://github.com/NerdyDayTrips/website/pull/141) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (today)
 - [feat: add nix development environment](https://github.com/NerdyDayTrips/website/pull/140) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (today)
 - [docs: add LICENSE](https://github.com/NerdyDayTrips/website/pull/136) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (today)
 - [docs: add LICENSE](https://github.com/flexiondotorg/website/pull/1) on [flexiondotorg/website](https://github.com/flexiondotorg/website) (today)
 - [ui: update menu icons to improve visual clarity and consistency](https://github.com/NerdyDayTrips/website/pull/99) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (today)
-- [refactor: oxidise NixOS](https://github.com/wimpysworld/nix-config/pull/503) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 
 ### Recent releases 📦️
 
@@ -65,7 +65,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent starred projects ⭐️
 
 
-- [openai/whisper](https://github.com/openai/whisper) (82428)
+- [openai/whisper](https://github.com/openai/whisper) (82429)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (73)
   - 
