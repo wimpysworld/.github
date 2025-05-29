@@ -42,11 +42,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [ui: update menu icons to improve visual clarity and consistency](https://github.com/NerdyDayTrips/website/pull/99) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (today)
 - [refactor: oxidise NixOS](https://github.com/wimpysworld/nix-config/pull/503) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 - [ui: replace emoji with coloured unicode symbols/glyphs](https://github.com/wimpysworld/ia-get/pull/38) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (4 days ago)
 - [refactor: improve URL validation and error messages](https://github.com/wimpysworld/ia-get/pull/37) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (4 days ago)
 - [ui: enhance download progress information with a counter](https://github.com/wimpysworld/ia-get/pull/36) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (4 days ago)
-- [refactor: improves error handling and URL validation](https://github.com/wimpysworld/ia-get/pull/35) on [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (4 days ago)
 
 ### Recent releases 📦️
 
@@ -65,7 +65,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent starred projects ⭐️
 
 
-- [openai/whisper](https://github.com/openai/whisper) (82422)
+- [openai/whisper](https://github.com/openai/whisper) (82424)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (73)
   - 
