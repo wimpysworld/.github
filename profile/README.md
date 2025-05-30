@@ -28,7 +28,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (1 day ago)
+- [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (today)
   - 
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
@@ -42,11 +42,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [refactor: update the NDT logo design](https://github.com/NerdyDayTrips/website/pull/233) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (today)
 - [feat: adds a new logo, favicon and web manifest](https://github.com/NerdyDayTrips/website/pull/162) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (1 day ago)
 - [docs: add makeshift nerdy day trips logo to README](https://github.com/NerdyDayTrips/website/pull/141) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (1 day ago)
 - [feat: add nix development environment](https://github.com/NerdyDayTrips/website/pull/140) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (1 day ago)
 - [docs: add LICENSE](https://github.com/NerdyDayTrips/website/pull/136) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (1 day ago)
-- [docs: add LICENSE](https://github.com/flexiondotorg/website/pull/1) on [flexiondotorg/website](https://github.com/flexiondotorg/website) (1 day ago)
 
 ### Recent releases 📦️
 
@@ -65,7 +65,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent starred projects ⭐️
 
 
-- [openai/whisper](https://github.com/openai/whisper) (82485)
+- [openai/whisper](https://github.com/openai/whisper) (82491)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (73)
   - 
