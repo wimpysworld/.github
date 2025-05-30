@@ -28,13 +28,13 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (today)
+- [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (1 day ago)
   - 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (3 days ago)
+- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (4 days ago)
   - File downloader for archive.org ⬇️
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (5 days ago)
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (6 days ago)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
   - Nix Packages collection &amp; NixOS
@@ -42,36 +42,36 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
-- [feat: adds a new logo, favicon and web manifest](https://github.com/NerdyDayTrips/website/pull/162) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (today)
-- [docs: add makeshift nerdy day trips logo to README](https://github.com/NerdyDayTrips/website/pull/141) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (today)
-- [feat: add nix development environment](https://github.com/NerdyDayTrips/website/pull/140) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (today)
-- [docs: add LICENSE](https://github.com/NerdyDayTrips/website/pull/136) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (today)
-- [docs: add LICENSE](https://github.com/flexiondotorg/website/pull/1) on [flexiondotorg/website](https://github.com/flexiondotorg/website) (today)
+- [feat: adds a new logo, favicon and web manifest](https://github.com/NerdyDayTrips/website/pull/162) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (1 day ago)
+- [docs: add makeshift nerdy day trips logo to README](https://github.com/NerdyDayTrips/website/pull/141) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (1 day ago)
+- [feat: add nix development environment](https://github.com/NerdyDayTrips/website/pull/140) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (1 day ago)
+- [docs: add LICENSE](https://github.com/NerdyDayTrips/website/pull/136) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (1 day ago)
+- [docs: add LICENSE](https://github.com/flexiondotorg/website/pull/1) on [flexiondotorg/website](https://github.com/flexiondotorg/website) (1 day ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250526](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250526), today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250526](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250526), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) ([0.1.2](https://github.com/wimpysworld/ia-get/releases/tag/0.1.2), 4 days ago)
+- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) ([0.1.2](https://github.com/wimpysworld/ia-get/releases/tag/0.1.2), 5 days ago)
   - File downloader for archive.org ⬇️
-- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.6.1](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.6.1), 5 days ago)
+- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.6.1](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.6.1), 6 days ago)
   - The Github Action for Determinate Nix
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.6.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.6.1), 5 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.6.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.6.1), 6 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) ([v5](https://github.com/wimpysworld/nothing-but-nix/releases/tag/v5), 1 week ago)
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) ([v5](https://github.com/wimpysworld/nothing-but-nix/releases/tag/v5), 2 weeks ago)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 
 ### Recent starred projects ⭐️
 
 
-- [openai/whisper](https://github.com/openai/whisper) (82436)
+- [openai/whisper](https://github.com/openai/whisper) (82435)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (73)
   - 
 - [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) (3)
   - The Github Action for Determinate Nix
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (77)
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (78)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [popey/youtube-chapter-generator](https://github.com/popey/youtube-chapter-generator) (3)
   - Python script that uses yt-dlp and Google Gemini models to auto generate chapter markers for YouTube video descriptions.
@@ -82,7 +82,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Python A-Go-Go](https://linuxmatters.sh/56/) (2 days ago)
+- [Python A-Go-Go](https://linuxmatters.sh/56/) (3 days ago)
 - [Thoccing Heavy](https://linuxmatters.sh/55/) (2 weeks ago)
 - [High Precision Solid Metal Balls](https://linuxmatters.sh/54/) (1 month ago)
 - [Crafting Bookshelf Buddy](https://linuxmatters.sh/53/) (1 month ago)
