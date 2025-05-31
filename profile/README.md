@@ -65,7 +65,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent starred projects ⭐️
 
 
-- [openai/whisper](https://github.com/openai/whisper) (82540)
+- [openai/whisper](https://github.com/openai/whisper) (82541)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (73)
   - 
