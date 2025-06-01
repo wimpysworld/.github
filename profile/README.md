@@ -28,11 +28,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (1 day ago)
+- [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (2 days ago)
   - 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (5 days ago)
+- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (6 days ago)
   - File downloader for archive.org ⬇️
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 week ago)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
@@ -42,18 +42,18 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
-- [Update kyoto-railway-museum-.md. closes #258](https://github.com/NerdyDayTrips/website/pull/259) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (1 day ago)
-- [refactor: update the NDT logo design](https://github.com/NerdyDayTrips/website/pull/233) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (1 day ago)
-- [feat: adds a new logo, favicon and web manifest](https://github.com/NerdyDayTrips/website/pull/162) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (2 days ago)
-- [docs: add makeshift nerdy day trips logo to README](https://github.com/NerdyDayTrips/website/pull/141) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (2 days ago)
-- [feat: add nix development environment](https://github.com/NerdyDayTrips/website/pull/140) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (2 days ago)
+- [Update kyoto-railway-museum-.md. closes #258](https://github.com/NerdyDayTrips/website/pull/259) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (2 days ago)
+- [refactor: update the NDT logo design](https://github.com/NerdyDayTrips/website/pull/233) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (2 days ago)
+- [feat: adds a new logo, favicon and web manifest](https://github.com/NerdyDayTrips/website/pull/162) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (3 days ago)
+- [docs: add makeshift nerdy day trips logo to README](https://github.com/NerdyDayTrips/website/pull/141) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (3 days ago)
+- [feat: add nix development environment](https://github.com/NerdyDayTrips/website/pull/140) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (3 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250526](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250526), 2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250526](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250526), 3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) ([0.1.2](https://github.com/wimpysworld/ia-get/releases/tag/0.1.2), 6 days ago)
+- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) ([0.1.2](https://github.com/wimpysworld/ia-get/releases/tag/0.1.2), 1 week ago)
   - File downloader for archive.org ⬇️
 - [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.6.1](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.6.1), 1 week ago)
   - The Github Action for Determinate Nix
@@ -65,7 +65,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent starred projects ⭐️
 
 
-- [openai/whisper](https://github.com/openai/whisper) (82563)
+- [openai/whisper](https://github.com/openai/whisper) (82565)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (73)
   - 
@@ -82,7 +82,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Python A-Go-Go](https://linuxmatters.sh/56/) (4 days ago)
+- [Python A-Go-Go](https://linuxmatters.sh/56/) (5 days ago)
 - [Thoccing Heavy](https://linuxmatters.sh/55/) (2 weeks ago)
 - [High Precision Solid Metal Balls](https://linuxmatters.sh/54/) (1 month ago)
 - [Crafting Bookshelf Buddy](https://linuxmatters.sh/53/) (1 month ago)
