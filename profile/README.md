@@ -51,7 +51,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250526](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250526), 4 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250528](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250528), today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) ([0.1.2](https://github.com/wimpysworld/ia-get/releases/tag/0.1.2), 1 week ago)
   - File downloader for archive.org ⬇️
@@ -65,7 +65,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent starred projects ⭐️
 
 
-- [openai/whisper](https://github.com/openai/whisper) (82629)
+- [openai/whisper](https://github.com/openai/whisper) (82632)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (73)
   - 
