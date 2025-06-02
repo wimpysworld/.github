@@ -28,25 +28,25 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
+  - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (3 days ago)
   - A crowd-sourced map of fascinating places for curious people.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 week ago)
   - File downloader for archive.org ⬇️
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 week ago)
-  - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
   - Nix Packages collection &amp; NixOS
 
 ### Recent pull requests 🛠️
 
 
+- [ci: add more tests](https://github.com/wimpysworld/nothing-but-nix/pull/21) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
+- [fix(action): enhance environment checks for Ubuntu runners](https://github.com/wimpysworld/nothing-but-nix/pull/20) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
 - [Update kyoto-railway-museum-.md. closes #258](https://github.com/NerdyDayTrips/website/pull/259) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (3 days ago)
 - [refactor: update the NDT logo design](https://github.com/NerdyDayTrips/website/pull/233) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (3 days ago)
 - [feat: adds a new logo, favicon and web manifest](https://github.com/NerdyDayTrips/website/pull/162) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (4 days ago)
-- [docs: add makeshift nerdy day trips logo to README](https://github.com/NerdyDayTrips/website/pull/141) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (4 days ago)
-- [feat: add nix development environment](https://github.com/NerdyDayTrips/website/pull/140) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (4 days ago)
 
 ### Recent releases 📦️
 
@@ -65,7 +65,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent starred projects ⭐️
 
 
-- [openai/whisper](https://github.com/openai/whisper) (82639)
+- [openai/whisper](https://github.com/openai/whisper) (82640)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (73)
   - 
