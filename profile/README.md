@@ -42,11 +42,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [ci: update build template](https://github.com/wimpysworld/obs-dvd-screensaver/pull/1) on [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) (today)
 - [feat: add nix-permission-edict input for user ownership of /nix](https://github.com/wimpysworld/nothing-but-nix/pull/23) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
 - [fix: set TMPDIR to /nix/_temp to resolve build space issues. fixes #18](https://github.com/wimpysworld/nothing-but-nix/pull/22) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
 - [ci: add more tests](https://github.com/wimpysworld/nothing-but-nix/pull/21) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
 - [fix(action): enhance environment checks for Ubuntu runners](https://github.com/wimpysworld/nothing-but-nix/pull/20) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
-- [Update kyoto-railway-museum-.md. closes #258](https://github.com/NerdyDayTrips/website/pull/259) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (3 days ago)
 
 ### Recent releases 📦️
 
@@ -65,7 +65,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent starred projects ⭐️
 
 
-- [openai/whisper](https://github.com/openai/whisper) (82651)
+- [openai/whisper](https://github.com/openai/whisper) (82654)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (73)
   - 
