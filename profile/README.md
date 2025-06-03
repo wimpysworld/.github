@@ -51,21 +51,21 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent releases 📦️
 
 
+- [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) ([0.1.0](https://github.com/wimpysworld/obs-dvd-screensaver/releases/tag/0.1.0), today)
+  - DVD screen saver for OBS Studio 📀
+- [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) ([1.0.3](https://github.com/wimpysworld/obs-rgb-levels/releases/tag/1.0.3), today)
+  - RGB levels plugin for OBS Studio 🎚️🌈
 - [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.6.2](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.6.2), today)
   - The Github Action for Determinate Nix
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250602](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250602), today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.6.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.6.2), today)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) ([v6](https://github.com/wimpysworld/nothing-but-nix/releases/tag/v6), 1 day ago)
-  - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
-- [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) ([0.1.2](https://github.com/wimpysworld/ia-get/releases/tag/0.1.2), 1 week ago)
-  - File downloader for archive.org ⬇️
 
 ### Recent starred projects ⭐️
 
 
-- [openai/whisper](https://github.com/openai/whisper) (82703)
+- [openai/whisper](https://github.com/openai/whisper) (82707)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (73)
   - 
