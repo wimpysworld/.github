@@ -28,25 +28,25 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
+  - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) (today)
   - RGB levels plugin for OBS Studio 🎚️🌈
 - [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) (today)
   - DVD screen saver for OBS Studio 📀
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
-  - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (4 days ago)
   - A crowd-sourced map of fascinating places for curious people.
 
 ### Recent pull requests 🛠️
 
 
+- [fix: relocate TMPDIR to /mnt to improve Nix installer compatibility](https://github.com/wimpysworld/nothing-but-nix/pull/25) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
 - [docs: document OBS Studio 31.0.0 or newer is required](https://github.com/wimpysworld/obs-rgb-levels/pull/2) on [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) (today)
 - [chore: bump version to 1.0.3](https://github.com/wimpysworld/obs-rgb-levels/pull/1) on [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) (today)
 - [docs: document OBS Studio 31.0.0 or newer is required](https://github.com/wimpysworld/obs-dvd-screensaver/pull/3) on [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) (today)
 - [chore: bump version to 0.1.0](https://github.com/wimpysworld/obs-dvd-screensaver/pull/2) on [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) (today)
-- [ci: update build template](https://github.com/wimpysworld/obs-dvd-screensaver/pull/1) on [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) (1 day ago)
 
 ### Recent releases 📦️
 
@@ -65,7 +65,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent starred projects ⭐️
 
 
-- [openai/whisper](https://github.com/openai/whisper) (82712)
+- [openai/whisper](https://github.com/openai/whisper) (82714)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (73)
   - 
