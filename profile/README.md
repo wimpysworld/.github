@@ -28,32 +28,32 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (3 days ago)
+- [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (4 days ago)
   - A crowd-sourced map of fascinating places for curious people.
 - [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) (1 week ago)
   - File downloader for archive.org ⬇️
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
   - Nix Packages collection &amp; NixOS
 
 ### Recent pull requests 🛠️
 
 
-- [ci: update build template](https://github.com/wimpysworld/obs-dvd-screensaver/pull/1) on [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) (today)
-- [feat: add nix-permission-edict input for user ownership of /nix](https://github.com/wimpysworld/nothing-but-nix/pull/23) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
-- [fix: set TMPDIR to /nix/_temp to resolve build space issues. fixes #18](https://github.com/wimpysworld/nothing-but-nix/pull/22) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
-- [ci: add more tests](https://github.com/wimpysworld/nothing-but-nix/pull/21) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
-- [fix(action): enhance environment checks for Ubuntu runners](https://github.com/wimpysworld/nothing-but-nix/pull/20) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
+- [ci: update build template](https://github.com/wimpysworld/obs-dvd-screensaver/pull/1) on [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) (1 day ago)
+- [feat: add nix-permission-edict input for user ownership of /nix](https://github.com/wimpysworld/nothing-but-nix/pull/23) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
+- [fix: set TMPDIR to /nix/_temp to resolve build space issues. fixes #18](https://github.com/wimpysworld/nothing-but-nix/pull/22) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
+- [ci: add more tests](https://github.com/wimpysworld/nothing-but-nix/pull/21) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
+- [fix(action): enhance environment checks for Ubuntu runners](https://github.com/wimpysworld/nothing-but-nix/pull/20) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) ([v6](https://github.com/wimpysworld/nothing-but-nix/releases/tag/v6), today)
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) ([v6](https://github.com/wimpysworld/nothing-but-nix/releases/tag/v6), 1 day ago)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250528](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250528), today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250528](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250528), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/ia-get](https://github.com/wimpysworld/ia-get) ([0.1.2](https://github.com/wimpysworld/ia-get/releases/tag/0.1.2), 1 week ago)
   - File downloader for archive.org ⬇️
@@ -65,7 +65,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent starred projects ⭐️
 
 
-- [openai/whisper](https://github.com/openai/whisper) (82664)
+- [openai/whisper](https://github.com/openai/whisper) (82666)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (73)
   - 
@@ -82,8 +82,8 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Python A-Go-Go](https://linuxmatters.sh/56/) (6 days ago)
-- [Thoccing Heavy](https://linuxmatters.sh/55/) (2 weeks ago)
+- [Python A-Go-Go](https://linuxmatters.sh/56/) (1 week ago)
+- [Thoccing Heavy](https://linuxmatters.sh/55/) (3 weeks ago)
 - [High Precision Solid Metal Balls](https://linuxmatters.sh/54/) (1 month ago)
 - [Crafting Bookshelf Buddy](https://linuxmatters.sh/53/) (1 month ago)
 - [Great Scott, 1.21 Jiggabits!](https://linuxmatters.sh/52/) (2 months ago)
@@ -96,7 +96,7 @@ Here are some recent episodes:
 - [NixOS | Updating Nix ❄️ packages of OBS Studio 📡 and it&#39;s plugins🔌](https://www.youtube.com/watch?v=phgOv_UCbMM) (1 year ago)
 - [NixOS &amp; Linux | Tinkering with my Nix config ❄️ and poking at some Linux projects 🐧](https://www.youtube.com/watch?v=biVQ_-v8oEo) (1 year ago)
 - [NixOS &amp; Linux 🐧 Automate OBS with Kruiz Control and Scene Switcher](https://www.youtube.com/watch?v=BSITslJbMGA) (1 year ago)
-- [[Linux &amp; NixOS] Catching up on a few projects ❄️ - Part 2](https://www.youtube.com/watch?v=IpiuKvqHU-c) (1 year ago)
+- [[Linux &amp; NixOS] Catching up on a few projects ❄️ - Part 2](https://www.youtube.com/watch?v=IpiuKvqHU-c) (2 years ago)
 
 ### ✍️ Blog
 
