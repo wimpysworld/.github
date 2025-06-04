@@ -42,11 +42,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [feat(nix): update ollama models to include new ones and adjust comments](https://github.com/wimpysworld/nix-config/pull/512) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [fix: relocate TMPDIR to /mnt to improve Nix installer compatibility](https://github.com/wimpysworld/nothing-but-nix/pull/25) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
 - [docs: document OBS Studio 31.0.0 or newer is required](https://github.com/wimpysworld/obs-rgb-levels/pull/2) on [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) (1 day ago)
 - [chore: bump version to 1.0.3](https://github.com/wimpysworld/obs-rgb-levels/pull/1) on [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) (1 day ago)
 - [docs: document OBS Studio 31.0.0 or newer is required](https://github.com/wimpysworld/obs-dvd-screensaver/pull/3) on [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) (1 day ago)
-- [chore: bump version to 0.1.0](https://github.com/wimpysworld/obs-dvd-screensaver/pull/2) on [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) (1 day ago)
 
 ### Recent releases 📦️
 
@@ -65,7 +65,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent starred projects ⭐️
 
 
-- [openai/whisper](https://github.com/openai/whisper) (82778)
+- [openai/whisper](https://github.com/openai/whisper) (82779)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (74)
   - 
