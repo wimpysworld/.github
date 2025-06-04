@@ -28,44 +28,44 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
-- [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) (today)
+- [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) (1 day ago)
   - RGB levels plugin for OBS Studio 🎚️🌈
-- [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) (today)
+- [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) (1 day ago)
   - DVD screen saver for OBS Studio 📀
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (4 days ago)
+- [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (5 days ago)
   - A crowd-sourced map of fascinating places for curious people.
 
 ### Recent pull requests 🛠️
 
 
-- [fix: relocate TMPDIR to /mnt to improve Nix installer compatibility](https://github.com/wimpysworld/nothing-but-nix/pull/25) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (today)
-- [docs: document OBS Studio 31.0.0 or newer is required](https://github.com/wimpysworld/obs-rgb-levels/pull/2) on [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) (today)
-- [chore: bump version to 1.0.3](https://github.com/wimpysworld/obs-rgb-levels/pull/1) on [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) (today)
-- [docs: document OBS Studio 31.0.0 or newer is required](https://github.com/wimpysworld/obs-dvd-screensaver/pull/3) on [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) (today)
-- [chore: bump version to 0.1.0](https://github.com/wimpysworld/obs-dvd-screensaver/pull/2) on [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) (today)
+- [fix: relocate TMPDIR to /mnt to improve Nix installer compatibility](https://github.com/wimpysworld/nothing-but-nix/pull/25) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
+- [docs: document OBS Studio 31.0.0 or newer is required](https://github.com/wimpysworld/obs-rgb-levels/pull/2) on [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) (1 day ago)
+- [chore: bump version to 1.0.3](https://github.com/wimpysworld/obs-rgb-levels/pull/1) on [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) (1 day ago)
+- [docs: document OBS Studio 31.0.0 or newer is required](https://github.com/wimpysworld/obs-dvd-screensaver/pull/3) on [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) (1 day ago)
+- [chore: bump version to 0.1.0](https://github.com/wimpysworld/obs-dvd-screensaver/pull/2) on [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) (1 day ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) ([0.1.0](https://github.com/wimpysworld/obs-dvd-screensaver/releases/tag/0.1.0), today)
+- [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) ([0.1.0](https://github.com/wimpysworld/obs-dvd-screensaver/releases/tag/0.1.0), 1 day ago)
   - DVD screen saver for OBS Studio 📀
-- [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) ([1.0.3](https://github.com/wimpysworld/obs-rgb-levels/releases/tag/1.0.3), today)
+- [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) ([1.0.3](https://github.com/wimpysworld/obs-rgb-levels/releases/tag/1.0.3), 1 day ago)
   - RGB levels plugin for OBS Studio 🎚️🌈
-- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.6.2](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.6.2), today)
+- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.6.2](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.6.2), 1 day ago)
   - The Github Action for Determinate Nix
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250602](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250602), today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250602](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250602), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.6.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.6.2), today)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.6.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.6.2), 1 day ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 
 ### Recent starred projects ⭐️
 
 
-- [openai/whisper](https://github.com/openai/whisper) (82719)
+- [openai/whisper](https://github.com/openai/whisper) (82723)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (73)
   - 
@@ -95,7 +95,7 @@ Here are some recent episodes:
 - [NixOS | More Nix ❄️ packaging &amp; fixes 🩹 for OBS Studio 📡](https://www.youtube.com/watch?v=VqNaOOm7Dhw) (1 year ago)
 - [NixOS | Updating Nix ❄️ packages of OBS Studio 📡 and it&#39;s plugins🔌](https://www.youtube.com/watch?v=phgOv_UCbMM) (1 year ago)
 - [NixOS &amp; Linux | Tinkering with my Nix config ❄️ and poking at some Linux projects 🐧](https://www.youtube.com/watch?v=biVQ_-v8oEo) (1 year ago)
-- [NixOS &amp; Linux 🐧 Automate OBS with Kruiz Control and Scene Switcher](https://www.youtube.com/watch?v=BSITslJbMGA) (1 year ago)
+- [NixOS &amp; Linux 🐧 Automate OBS with Kruiz Control and Scene Switcher](https://www.youtube.com/watch?v=BSITslJbMGA) (2 years ago)
 - [[Linux &amp; NixOS] Catching up on a few projects ❄️ - Part 2](https://www.youtube.com/watch?v=IpiuKvqHU-c) (2 years ago)
 
 ### ✍️ Blog
