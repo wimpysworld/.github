@@ -65,6 +65,8 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent starred projects ⭐️
 
 
+- [wimpysworld/faff](https://github.com/wimpysworld/faff) (1)
+  - Drop the faff from your Git commits! Automatically generate conventional messages from git diffs with Ollama.
 - [openai/whisper](https://github.com/openai/whisper) (82838)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (74)
@@ -73,8 +75,6 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - The Github Action for Determinate Nix
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (81)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
-- [popey/youtube-chapter-generator](https://github.com/popey/youtube-chapter-generator) (3)
-  - Python script that uses yt-dlp and Google Gemini models to auto generate chapter markers for YouTube video descriptions.
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
