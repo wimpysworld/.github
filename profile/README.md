@@ -28,44 +28,44 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) (1 day ago)
+- [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) (2 days ago)
   - RGB levels plugin for OBS Studio 🎚️🌈
-- [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) (1 day ago)
+- [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) (2 days ago)
   - DVD screen saver for OBS Studio 📀
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (2 days ago)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
-- [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (5 days ago)
+- [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (6 days ago)
   - A crowd-sourced map of fascinating places for curious people.
 
 ### Recent pull requests 🛠️
 
 
-- [feat(nix): update ollama models to include new ones and adjust comments](https://github.com/wimpysworld/nix-config/pull/512) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [fix: relocate TMPDIR to /mnt to improve Nix installer compatibility](https://github.com/wimpysworld/nothing-but-nix/pull/25) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
-- [docs: document OBS Studio 31.0.0 or newer is required](https://github.com/wimpysworld/obs-rgb-levels/pull/2) on [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) (1 day ago)
-- [chore: bump version to 1.0.3](https://github.com/wimpysworld/obs-rgb-levels/pull/1) on [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) (1 day ago)
-- [docs: document OBS Studio 31.0.0 or newer is required](https://github.com/wimpysworld/obs-dvd-screensaver/pull/3) on [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) (1 day ago)
+- [feat(nix): update ollama models to include new ones and adjust comments](https://github.com/wimpysworld/nix-config/pull/512) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [fix: relocate TMPDIR to /mnt to improve Nix installer compatibility](https://github.com/wimpysworld/nothing-but-nix/pull/25) on [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (2 days ago)
+- [docs: document OBS Studio 31.0.0 or newer is required](https://github.com/wimpysworld/obs-rgb-levels/pull/2) on [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) (2 days ago)
+- [chore: bump version to 1.0.3](https://github.com/wimpysworld/obs-rgb-levels/pull/1) on [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) (2 days ago)
+- [docs: document OBS Studio 31.0.0 or newer is required](https://github.com/wimpysworld/obs-dvd-screensaver/pull/3) on [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) (2 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) ([0.1.0](https://github.com/wimpysworld/obs-dvd-screensaver/releases/tag/0.1.0), 1 day ago)
+- [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) ([0.1.0](https://github.com/wimpysworld/obs-dvd-screensaver/releases/tag/0.1.0), 2 days ago)
   - DVD screen saver for OBS Studio 📀
-- [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) ([1.0.3](https://github.com/wimpysworld/obs-rgb-levels/releases/tag/1.0.3), 1 day ago)
+- [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) ([1.0.3](https://github.com/wimpysworld/obs-rgb-levels/releases/tag/1.0.3), 2 days ago)
   - RGB levels plugin for OBS Studio 🎚️🌈
-- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.6.2](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.6.2), 1 day ago)
+- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.6.2](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.6.2), 2 days ago)
   - The Github Action for Determinate Nix
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250602](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250602), 1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250602](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250602), 2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.6.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.6.2), 1 day ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.6.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.6.2), 2 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 
 ### Recent starred projects ⭐️
 
 
-- [openai/whisper](https://github.com/openai/whisper) (82780)
+- [openai/whisper](https://github.com/openai/whisper) (82781)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (74)
   - 
@@ -100,7 +100,7 @@ Here are some recent episodes:
 
 ### ✍️ Blog
 
-- [Nothing but Nix](https://wimpysworld.com/posts/nothing-but-nix-github-actions/) (2 weeks ago)
+- [Nothing but Nix](https://wimpysworld.com/posts/nothing-but-nix-github-actions/) (3 weeks ago)
 - [Fuzzel Colour Picker](https://wimpysworld.com/posts/fuzzel-hyprpicker/) (1 month ago)
 - [Install ZeroTier on Steam Deck](https://wimpysworld.com/posts/install-zerotier-on-steamdeck/) (2 years ago)
 - [Steam Box vs Steam Deck](https://wimpysworld.com/posts/steambox-vs-steamdeck/) (2 years ago)
