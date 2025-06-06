@@ -30,14 +30,14 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) (today)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (today)
+  - My personal blog
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) (3 days ago)
   - DVD screen saver for OBS Studio 📀
 - [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) (3 days ago)
   - RGB levels plugin for OBS Studio 🎚️🌈
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (3 days ago)
-  - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 
 ### Recent pull requests 🛠️
 
@@ -51,10 +51,10 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent releases 📦️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250605](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250605), today)
+  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) ([0.1.0](https://github.com/wimpysworld/faff/releases/tag/0.1.0), 1 day ago)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250604](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250604), 1 day ago)
-  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) ([0.1.0](https://github.com/wimpysworld/obs-dvd-screensaver/releases/tag/0.1.0), 3 days ago)
   - DVD screen saver for OBS Studio 📀
 - [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) ([1.0.3](https://github.com/wimpysworld/obs-rgb-levels/releases/tag/1.0.3), 3 days ago)
@@ -67,7 +67,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) (3)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
-- [openai/whisper](https://github.com/openai/whisper) (82865)
+- [openai/whisper](https://github.com/openai/whisper) (82873)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (74)
   - 
@@ -100,8 +100,8 @@ Here are some recent episodes:
 
 ### ✍️ Blog
 
+- [faffing about with diffs](https://wimpysworld.com/posts/faff-ollama-conventional-commit-generator/) (1 day ago)
 - [Nothing but Nix](https://wimpysworld.com/posts/nothing-but-nix-github-actions/) (3 weeks ago)
 - [Fuzzel Colour Picker](https://wimpysworld.com/posts/fuzzel-hyprpicker/) (1 month ago)
 - [Install ZeroTier on Steam Deck](https://wimpysworld.com/posts/install-zerotier-on-steamdeck/) (2 years ago)
 - [Steam Box vs Steam Deck](https://wimpysworld.com/posts/steambox-vs-steamdeck/) (2 years ago)
-- [Flash Stadia Controller Bluetooth Firmware on Linux](https://wimpysworld.com/posts/flash-stadia-controller-bluetooth-firmware-on-linux/) (2 years ago)
