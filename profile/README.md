@@ -29,7 +29,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 
 
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) (today)
-  - Drop the faff from your Git commits! Automatically generate conventional messages from git diffs with Ollama.
+  - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) (3 days ago)
@@ -52,7 +52,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 
 
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) ([0.1.0](https://github.com/wimpysworld/faff/releases/tag/0.1.0), 1 day ago)
-  - Drop the faff from your Git commits! Automatically generate conventional messages from git diffs with Ollama.
+  - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250604](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250604), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) ([0.1.0](https://github.com/wimpysworld/obs-dvd-screensaver/releases/tag/0.1.0), 3 days ago)
@@ -66,7 +66,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 
 
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) (3)
-  - Drop the faff from your Git commits! Automatically generate conventional messages from git diffs with Ollama.
+  - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
 - [openai/whisper](https://github.com/openai/whisper) (82865)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (74)
