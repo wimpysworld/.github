@@ -28,46 +28,46 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/faff](https://github.com/wimpysworld/faff) (today)
+- [wimpysworld/faff](https://github.com/wimpysworld/faff) (1 day ago)
   - Drop the faff from your Git commits! Automatically generate conventional messages from git diffs with Ollama.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) (2 days ago)
+- [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) (3 days ago)
   - DVD screen saver for OBS Studio 📀
-- [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) (2 days ago)
+- [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) (3 days ago)
   - RGB levels plugin for OBS Studio 🎚️🌈
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (2 days ago)
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (3 days ago)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 
 ### Recent pull requests 🛠️
 
 
-- [refactor: extract spinner logic into function](https://github.com/wimpysworld/faff/pull/11) on [wimpysworld/faff](https://github.com/wimpysworld/faff) (today)
-- [refactor: move model existence check to a variable for reuse](https://github.com/wimpysworld/faff/pull/10) on [wimpysworld/faff](https://github.com/wimpysworld/faff) (today)
-- [fix: improve error handling in faff.sh](https://github.com/wimpysworld/faff/pull/9) on [wimpysworld/faff](https://github.com/wimpysworld/faff) (today)
-- [refactor: format download size in human-readable format](https://github.com/wimpysworld/faff/pull/8) on [wimpysworld/faff](https://github.com/wimpysworld/faff) (today)
-- [refactor: extract cleanup_temp_files function](https://github.com/wimpysworld/faff/pull/7) on [wimpysworld/faff](https://github.com/wimpysworld/faff) (today)
+- [refactor: extract spinner logic into function](https://github.com/wimpysworld/faff/pull/11) on [wimpysworld/faff](https://github.com/wimpysworld/faff) (1 day ago)
+- [refactor: move model existence check to a variable for reuse](https://github.com/wimpysworld/faff/pull/10) on [wimpysworld/faff](https://github.com/wimpysworld/faff) (1 day ago)
+- [fix: improve error handling in faff.sh](https://github.com/wimpysworld/faff/pull/9) on [wimpysworld/faff](https://github.com/wimpysworld/faff) (1 day ago)
+- [refactor: format download size in human-readable format](https://github.com/wimpysworld/faff/pull/8) on [wimpysworld/faff](https://github.com/wimpysworld/faff) (1 day ago)
+- [refactor: extract cleanup_temp_files function](https://github.com/wimpysworld/faff/pull/7) on [wimpysworld/faff](https://github.com/wimpysworld/faff) (1 day ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/faff](https://github.com/wimpysworld/faff) ([0.1.0](https://github.com/wimpysworld/faff/releases/tag/0.1.0), today)
+- [wimpysworld/faff](https://github.com/wimpysworld/faff) ([0.1.0](https://github.com/wimpysworld/faff/releases/tag/0.1.0), 1 day ago)
   - Drop the faff from your Git commits! Automatically generate conventional messages from git diffs with Ollama.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250604](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250604), today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250604](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250604), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) ([0.1.0](https://github.com/wimpysworld/obs-dvd-screensaver/releases/tag/0.1.0), 2 days ago)
+- [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) ([0.1.0](https://github.com/wimpysworld/obs-dvd-screensaver/releases/tag/0.1.0), 3 days ago)
   - DVD screen saver for OBS Studio 📀
-- [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) ([1.0.3](https://github.com/wimpysworld/obs-rgb-levels/releases/tag/1.0.3), 2 days ago)
+- [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) ([1.0.3](https://github.com/wimpysworld/obs-rgb-levels/releases/tag/1.0.3), 3 days ago)
   - RGB levels plugin for OBS Studio 🎚️🌈
-- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.6.2](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.6.2), 2 days ago)
+- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.6.2](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.6.2), 3 days ago)
   - The Github Action for Determinate Nix
 
 ### Recent starred projects ⭐️
 
 
-- [wimpysworld/faff](https://github.com/wimpysworld/faff) (1)
+- [wimpysworld/faff](https://github.com/wimpysworld/faff) (2)
   - Drop the faff from your Git commits! Automatically generate conventional messages from git diffs with Ollama.
-- [openai/whisper](https://github.com/openai/whisper) (82838)
+- [openai/whisper](https://github.com/openai/whisper) (82839)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (74)
   - 
