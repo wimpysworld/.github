@@ -67,13 +67,13 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) (13)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
-- [openai/whisper](https://github.com/openai/whisper) (82942)
+- [openai/whisper](https://github.com/openai/whisper) (82945)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (75)
   - 
 - [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) (4)
   - The Github Action for Determinate Nix
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (82)
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (83)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 
 ### 🎙️ Podcast
