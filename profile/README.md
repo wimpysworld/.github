@@ -28,7 +28,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) (2 days ago)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
@@ -42,11 +42,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [feat: add bane](https://github.com/wimpysworld/nix-config/pull/517) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: extract spinner logic into function](https://github.com/wimpysworld/faff/pull/11) on [wimpysworld/faff](https://github.com/wimpysworld/faff) (3 days ago)
 - [refactor: move model existence check to a variable for reuse](https://github.com/wimpysworld/faff/pull/10) on [wimpysworld/faff](https://github.com/wimpysworld/faff) (3 days ago)
 - [fix: improve error handling in faff.sh](https://github.com/wimpysworld/faff/pull/9) on [wimpysworld/faff](https://github.com/wimpysworld/faff) (3 days ago)
 - [refactor: format download size in human-readable format](https://github.com/wimpysworld/faff/pull/8) on [wimpysworld/faff](https://github.com/wimpysworld/faff) (3 days ago)
-- [refactor: extract cleanup_temp_files function](https://github.com/wimpysworld/faff/pull/7) on [wimpysworld/faff](https://github.com/wimpysworld/faff) (3 days ago)
 
 ### Recent releases 📦️
 
@@ -67,7 +67,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) (13)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
-- [openai/whisper](https://github.com/openai/whisper) (82941)
+- [openai/whisper](https://github.com/openai/whisper) (82942)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (75)
   - 
