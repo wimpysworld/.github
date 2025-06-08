@@ -42,16 +42,16 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [feat: add mac-app-util and update darwin configuration](https://github.com/wimpysworld/nix-config/pull/519) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [feat: add kolide launcher](https://github.com/wimpysworld/nix-config/pull/518) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add bane](https://github.com/wimpysworld/nix-config/pull/517) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: extract spinner logic into function](https://github.com/wimpysworld/faff/pull/11) on [wimpysworld/faff](https://github.com/wimpysworld/faff) (3 days ago)
 - [refactor: move model existence check to a variable for reuse](https://github.com/wimpysworld/faff/pull/10) on [wimpysworld/faff](https://github.com/wimpysworld/faff) (3 days ago)
-- [fix: improve error handling in faff.sh](https://github.com/wimpysworld/faff/pull/9) on [wimpysworld/faff](https://github.com/wimpysworld/faff) (3 days ago)
-- [refactor: format download size in human-readable format](https://github.com/wimpysworld/faff/pull/8) on [wimpysworld/faff](https://github.com/wimpysworld/faff) (3 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250605](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250605), 2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250606](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250606), today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) ([0.1.0](https://github.com/wimpysworld/faff/releases/tag/0.1.0), 3 days ago)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
