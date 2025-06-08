@@ -42,11 +42,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [refactor: update darwin configuration](https://github.com/wimpysworld/nix-config/pull/520) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add mac-app-util and update darwin configuration](https://github.com/wimpysworld/nix-config/pull/519) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add kolide launcher](https://github.com/wimpysworld/nix-config/pull/518) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [feat: add bane](https://github.com/wimpysworld/nix-config/pull/517) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor: extract spinner logic into function](https://github.com/wimpysworld/faff/pull/11) on [wimpysworld/faff](https://github.com/wimpysworld/faff) (3 days ago)
-- [refactor: move model existence check to a variable for reuse](https://github.com/wimpysworld/faff/pull/10) on [wimpysworld/faff](https://github.com/wimpysworld/faff) (3 days ago)
 
 ### Recent releases 📦️
 
@@ -67,7 +67,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) (13)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
-- [openai/whisper](https://github.com/openai/whisper) (82950)
+- [openai/whisper](https://github.com/openai/whisper) (82951)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (75)
   - 
