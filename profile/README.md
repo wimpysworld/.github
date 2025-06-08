@@ -65,9 +65,9 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent starred projects ⭐️
 
 
-- [wimpysworld/faff](https://github.com/wimpysworld/faff) (12)
+- [wimpysworld/faff](https://github.com/wimpysworld/faff) (13)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
-- [openai/whisper](https://github.com/openai/whisper) (82939)
+- [openai/whisper](https://github.com/openai/whisper) (82941)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (75)
   - 
