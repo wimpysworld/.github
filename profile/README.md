@@ -28,38 +28,38 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/faff](https://github.com/wimpysworld/faff) (2 days ago)
+- [wimpysworld/faff](https://github.com/wimpysworld/faff) (3 days ago)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 days ago)
   - My personal blog
-- [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) (5 days ago)
+- [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) (6 days ago)
   - DVD screen saver for OBS Studio 📀
-- [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) (5 days ago)
+- [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) (6 days ago)
   - RGB levels plugin for OBS Studio 🎚️🌈
 
 ### Recent pull requests 🛠️
 
 
-- [refactor: update darwin configuration](https://github.com/wimpysworld/nix-config/pull/520) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: add mac-app-util and update darwin configuration](https://github.com/wimpysworld/nix-config/pull/519) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: add kolide launcher](https://github.com/wimpysworld/nix-config/pull/518) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: add bane](https://github.com/wimpysworld/nix-config/pull/517) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: extract spinner logic into function](https://github.com/wimpysworld/faff/pull/11) on [wimpysworld/faff](https://github.com/wimpysworld/faff) (3 days ago)
+- [refactor: update darwin configuration](https://github.com/wimpysworld/nix-config/pull/520) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: add mac-app-util and update darwin configuration](https://github.com/wimpysworld/nix-config/pull/519) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: add kolide launcher](https://github.com/wimpysworld/nix-config/pull/518) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: add bane](https://github.com/wimpysworld/nix-config/pull/517) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [refactor: extract spinner logic into function](https://github.com/wimpysworld/faff/pull/11) on [wimpysworld/faff](https://github.com/wimpysworld/faff) (4 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250606](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250606), today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250606](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250606), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/faff](https://github.com/wimpysworld/faff) ([0.1.0](https://github.com/wimpysworld/faff/releases/tag/0.1.0), 3 days ago)
+- [wimpysworld/faff](https://github.com/wimpysworld/faff) ([0.1.0](https://github.com/wimpysworld/faff/releases/tag/0.1.0), 4 days ago)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
-- [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) ([0.1.0](https://github.com/wimpysworld/obs-dvd-screensaver/releases/tag/0.1.0), 5 days ago)
+- [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) ([0.1.0](https://github.com/wimpysworld/obs-dvd-screensaver/releases/tag/0.1.0), 6 days ago)
   - DVD screen saver for OBS Studio 📀
-- [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) ([1.0.3](https://github.com/wimpysworld/obs-rgb-levels/releases/tag/1.0.3), 5 days ago)
+- [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) ([1.0.3](https://github.com/wimpysworld/obs-rgb-levels/releases/tag/1.0.3), 6 days ago)
   - RGB levels plugin for OBS Studio 🎚️🌈
-- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.6.2](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.6.2), 5 days ago)
+- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.6.2](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.6.2), 6 days ago)
   - The Github Action for Determinate Nix
 
 ### Recent starred projects ⭐️
@@ -69,7 +69,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - Yet another Nix CLI helper. [Maintainers=@viperML, @NotAShelf]
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) (13)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
-- [openai/whisper](https://github.com/openai/whisper) (82952)
+- [openai/whisper](https://github.com/openai/whisper) (82953)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (75)
   - 
@@ -100,7 +100,7 @@ Here are some recent episodes:
 
 ### ✍️ Blog
 
-- [faffing about with diffs](https://wimpysworld.com/posts/faff-ollama-conventional-commit-generator/) (3 days ago)
+- [faffing about with diffs](https://wimpysworld.com/posts/faff-ollama-conventional-commit-generator/) (4 days ago)
 - [Nothing but Nix](https://wimpysworld.com/posts/nothing-but-nix-github-actions/) (3 weeks ago)
 - [Fuzzel Colour Picker](https://wimpysworld.com/posts/fuzzel-hyprpicker/) (1 month ago)
 - [Install ZeroTier on Steam Deck](https://wimpysworld.com/posts/install-zerotier-on-steamdeck/) (2 years ago)
