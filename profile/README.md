@@ -28,11 +28,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/faff](https://github.com/wimpysworld/faff) (4 days ago)
+- [wimpysworld/faff](https://github.com/wimpysworld/faff) (5 days ago)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (4 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (5 days ago)
   - My personal blog
 - [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) (1 week ago)
   - DVD screen saver for OBS Studio 📀
@@ -42,18 +42,18 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
-- [ci: add build-macbooks](https://github.com/wimpysworld/nix-config/pull/524) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: add custom virtualcam  widget to waybar](https://github.com/wimpysworld/nix-config/pull/523) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [refactor: update darwin configuration](https://github.com/wimpysworld/nix-config/pull/520) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [feat: add mac-app-util and update darwin configuration](https://github.com/wimpysworld/nix-config/pull/519) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [feat: add kolide launcher](https://github.com/wimpysworld/nix-config/pull/518) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [ci: add build-macbooks](https://github.com/wimpysworld/nix-config/pull/524) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: add custom virtualcam  widget to waybar](https://github.com/wimpysworld/nix-config/pull/523) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [refactor: update darwin configuration](https://github.com/wimpysworld/nix-config/pull/520) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [feat: add mac-app-util and update darwin configuration](https://github.com/wimpysworld/nix-config/pull/519) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [feat: add kolide launcher](https://github.com/wimpysworld/nix-config/pull/518) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250606](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250606), 2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250606](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250606), 3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/faff](https://github.com/wimpysworld/faff) ([0.1.0](https://github.com/wimpysworld/faff/releases/tag/0.1.0), 5 days ago)
+- [wimpysworld/faff](https://github.com/wimpysworld/faff) ([0.1.0](https://github.com/wimpysworld/faff/releases/tag/0.1.0), 6 days ago)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
 - [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) ([0.1.0](https://github.com/wimpysworld/obs-dvd-screensaver/releases/tag/0.1.0), 1 week ago)
   - DVD screen saver for OBS Studio 📀
@@ -82,7 +82,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Nerdy Day Trips](https://linuxmatters.sh/57/) (today)
+- [Nerdy Day Trips](https://linuxmatters.sh/57/) (1 day ago)
 - [Python A-Go-Go](https://linuxmatters.sh/56/) (2 weeks ago)
 - [Thoccing Heavy](https://linuxmatters.sh/55/) (4 weeks ago)
 - [High Precision Solid Metal Balls](https://linuxmatters.sh/54/) (1 month ago)
@@ -100,7 +100,7 @@ Here are some recent episodes:
 
 ### ✍️ Blog
 
-- [faffing about with diffs](https://wimpysworld.com/posts/faff-ollama-conventional-commit-generator/) (5 days ago)
+- [faffing about with diffs](https://wimpysworld.com/posts/faff-ollama-conventional-commit-generator/) (6 days ago)
 - [Nothing but Nix](https://wimpysworld.com/posts/nothing-but-nix-github-actions/) (3 weeks ago)
 - [Fuzzel Colour Picker](https://wimpysworld.com/posts/fuzzel-hyprpicker/) (1 month ago)
 - [Install ZeroTier on Steam Deck](https://wimpysworld.com/posts/install-zerotier-on-steamdeck/) (2 years ago)
