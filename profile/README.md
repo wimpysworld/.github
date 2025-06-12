@@ -51,6 +51,8 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent releases 📦️
 
 
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.6.3](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.6.3), today)
+  - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.9](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.9), today)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250609](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250609), 1 day ago)
@@ -59,8 +61,6 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
 - [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) ([0.1.0](https://github.com/wimpysworld/obs-dvd-screensaver/releases/tag/0.1.0), 1 week ago)
   - DVD screen saver for OBS Studio 📀
-- [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) ([1.0.3](https://github.com/wimpysworld/obs-rgb-levels/releases/tag/1.0.3), 1 week ago)
-  - RGB levels plugin for OBS Studio 🎚️🌈
 
 ### Recent starred projects ⭐️
 
@@ -69,7 +69,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - Yet another Nix CLI helper. [Maintainers=@viperML, @NotAShelf]
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) (13)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
-- [openai/whisper](https://github.com/openai/whisper) (83160)
+- [openai/whisper](https://github.com/openai/whisper) (83163)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (76)
   - 
