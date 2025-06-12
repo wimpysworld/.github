@@ -30,7 +30,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (today)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (6 days ago)
   - My personal blog
@@ -51,6 +51,8 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent releases 📦️
 
 
+- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.9](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.9), today)
+  - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250609](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250609), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) ([0.1.0](https://github.com/wimpysworld/faff/releases/tag/0.1.0), 1 week ago)
@@ -59,8 +61,6 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - DVD screen saver for OBS Studio 📀
 - [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) ([1.0.3](https://github.com/wimpysworld/obs-rgb-levels/releases/tag/1.0.3), 1 week ago)
   - RGB levels plugin for OBS Studio 🎚️🌈
-- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.6.2](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.6.2), 1 week ago)
-  - The Github Action for Determinate Nix
 
 ### Recent starred projects ⭐️
 
@@ -69,7 +69,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - Yet another Nix CLI helper. [Maintainers=@viperML, @NotAShelf]
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) (13)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
-- [openai/whisper](https://github.com/openai/whisper) (83145)
+- [openai/whisper](https://github.com/openai/whisper) (83148)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (76)
   - 
