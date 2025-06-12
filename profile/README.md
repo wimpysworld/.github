@@ -28,25 +28,25 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (today)
+  - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/faff](https://github.com/wimpysworld/faff) (6 days ago)
-  - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (6 days ago)
   - My personal blog
-- [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) (1 week ago)
-  - DVD screen saver for OBS Studio 📀
-- [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) (1 week ago)
-  - RGB levels plugin for OBS Studio 🎚️🌈
+- [wimpysworld/faff](https://github.com/wimpysworld/faff) (6 days ago)
+  - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 week ago)
+  - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 
 ### Recent pull requests 🛠️
 
 
+- [refactor(flake): implement enhanced flake configuration](https://github.com/wimpysworld/nixos-needsreboot/pull/8) on [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (today)
+- [fix: detect module downgrades in addition to upgrades](https://github.com/wimpysworld/nixos-needsreboot/pull/4) on [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (today)
+- [fix(flake): update src to use builtins.path to prevent double copying](https://github.com/wimpysworld/nixos-needsreboot/pull/3) on [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (today)
 - [feat: add new browser extensions and dev tools](https://github.com/wimpysworld/nix-config/pull/526) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [ci: add build-macbooks](https://github.com/wimpysworld/nix-config/pull/524) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [feat: add custom virtualcam  widget to waybar](https://github.com/wimpysworld/nix-config/pull/523) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [refactor: update darwin configuration](https://github.com/wimpysworld/nix-config/pull/520) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
-- [feat: add mac-app-util and update darwin configuration](https://github.com/wimpysworld/nix-config/pull/519) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 
 ### Recent releases 📦️
 
@@ -69,7 +69,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - Yet another Nix CLI helper. [Maintainers=@viperML, @NotAShelf]
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) (13)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
-- [openai/whisper](https://github.com/openai/whisper) (83144)
+- [openai/whisper](https://github.com/openai/whisper) (83145)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (76)
   - 
