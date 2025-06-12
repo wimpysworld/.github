@@ -28,11 +28,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/faff](https://github.com/wimpysworld/faff) (5 days ago)
+- [wimpysworld/faff](https://github.com/wimpysworld/faff) (6 days ago)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (5 days ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (6 days ago)
   - My personal blog
 - [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) (1 week ago)
   - DVD screen saver for OBS Studio 📀
@@ -42,18 +42,18 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
-- [feat: add new browser extensions and dev tools](https://github.com/wimpysworld/nix-config/pull/526) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [ci: add build-macbooks](https://github.com/wimpysworld/nix-config/pull/524) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [feat: add custom virtualcam  widget to waybar](https://github.com/wimpysworld/nix-config/pull/523) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [refactor: update darwin configuration](https://github.com/wimpysworld/nix-config/pull/520) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
-- [feat: add mac-app-util and update darwin configuration](https://github.com/wimpysworld/nix-config/pull/519) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [feat: add new browser extensions and dev tools](https://github.com/wimpysworld/nix-config/pull/526) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [ci: add build-macbooks](https://github.com/wimpysworld/nix-config/pull/524) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [feat: add custom virtualcam  widget to waybar](https://github.com/wimpysworld/nix-config/pull/523) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [refactor: update darwin configuration](https://github.com/wimpysworld/nix-config/pull/520) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [feat: add mac-app-util and update darwin configuration](https://github.com/wimpysworld/nix-config/pull/519) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250609](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250609), today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250609](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250609), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/faff](https://github.com/wimpysworld/faff) ([0.1.0](https://github.com/wimpysworld/faff/releases/tag/0.1.0), 6 days ago)
+- [wimpysworld/faff](https://github.com/wimpysworld/faff) ([0.1.0](https://github.com/wimpysworld/faff/releases/tag/0.1.0), 1 week ago)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
 - [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) ([0.1.0](https://github.com/wimpysworld/obs-dvd-screensaver/releases/tag/0.1.0), 1 week ago)
   - DVD screen saver for OBS Studio 📀
@@ -69,7 +69,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - Yet another Nix CLI helper. [Maintainers=@viperML, @NotAShelf]
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) (13)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
-- [openai/whisper](https://github.com/openai/whisper) (83109)
+- [openai/whisper](https://github.com/openai/whisper) (83112)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (76)
   - 
@@ -82,9 +82,9 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Nerdy Day Trips](https://linuxmatters.sh/57/) (1 day ago)
+- [Nerdy Day Trips](https://linuxmatters.sh/57/) (2 days ago)
 - [Python A-Go-Go](https://linuxmatters.sh/56/) (2 weeks ago)
-- [Thoccing Heavy](https://linuxmatters.sh/55/) (4 weeks ago)
+- [Thoccing Heavy](https://linuxmatters.sh/55/) (1 month ago)
 - [High Precision Solid Metal Balls](https://linuxmatters.sh/54/) (1 month ago)
 - [Crafting Bookshelf Buddy](https://linuxmatters.sh/53/) (1 month ago)
 
@@ -100,8 +100,8 @@ Here are some recent episodes:
 
 ### ✍️ Blog
 
-- [faffing about with diffs](https://wimpysworld.com/posts/faff-ollama-conventional-commit-generator/) (6 days ago)
-- [Nothing but Nix](https://wimpysworld.com/posts/nothing-but-nix-github-actions/) (3 weeks ago)
+- [faffing about with diffs](https://wimpysworld.com/posts/faff-ollama-conventional-commit-generator/) (1 week ago)
+- [Nothing but Nix](https://wimpysworld.com/posts/nothing-but-nix-github-actions/) (4 weeks ago)
 - [Fuzzel Colour Picker](https://wimpysworld.com/posts/fuzzel-hyprpicker/) (1 month ago)
 - [Install ZeroTier on Steam Deck](https://wimpysworld.com/posts/install-zerotier-on-steamdeck/) (2 years ago)
 - [Steam Box vs Steam Deck](https://wimpysworld.com/posts/steambox-vs-steamdeck/) (2 years ago)
