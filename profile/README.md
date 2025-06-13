@@ -42,11 +42,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [feat(gitsign): add gitsign and gitsign-credential-cache integration](https://github.com/wimpysworld/nix-config/pull/529) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor(flake): implement enhanced flake configuration](https://github.com/wimpysworld/nixos-needsreboot/pull/8) on [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (1 day ago)
 - [fix: detect module downgrades in addition to upgrades](https://github.com/wimpysworld/nixos-needsreboot/pull/4) on [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (1 day ago)
 - [fix(flake): update src to use builtins.path to prevent double copying](https://github.com/wimpysworld/nixos-needsreboot/pull/3) on [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (1 day ago)
 - [feat: add new browser extensions and dev tools](https://github.com/wimpysworld/nix-config/pull/526) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [ci: add build-macbooks](https://github.com/wimpysworld/nix-config/pull/524) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 
 ### Recent releases 📦️
 
@@ -65,16 +65,16 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent starred projects ⭐️
 
 
+- [koiuo/xdg-override](https://github.com/koiuo/xdg-override) (108)
+  - Override xdg-open behavior. Because the way it already works is not confusing enough
 - [nix-community/nh](https://github.com/nix-community/nh) (1556)
   - Yet another Nix CLI helper. [Maintainers=@viperML, @NotAShelf]
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) (14)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
-- [openai/whisper](https://github.com/openai/whisper) (83208)
+- [openai/whisper](https://github.com/openai/whisper) (83209)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (76)
   - 
-- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) (4)
-  - The Github Action for Determinate Nix
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
