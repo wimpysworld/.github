@@ -28,9 +28,9 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (2 days ago)
+- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (3 days ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 week ago)
   - My personal blog
@@ -42,20 +42,20 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
-- [feat(fonts): add Chainguard brand fonts](https://github.com/wimpysworld/nix-config/pull/531) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat(gitsign): add gitsign and gitsign-credential-cache integration](https://github.com/wimpysworld/nix-config/pull/529) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [refactor(flake): implement enhanced flake configuration](https://github.com/wimpysworld/nixos-needsreboot/pull/8) on [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (2 days ago)
-- [fix: detect module downgrades in addition to upgrades](https://github.com/wimpysworld/nixos-needsreboot/pull/4) on [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (2 days ago)
-- [fix(flake): update src to use builtins.path to prevent double copying](https://github.com/wimpysworld/nixos-needsreboot/pull/3) on [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (2 days ago)
+- [feat(fonts): add Chainguard brand fonts](https://github.com/wimpysworld/nix-config/pull/531) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat(gitsign): add gitsign and gitsign-credential-cache integration](https://github.com/wimpysworld/nix-config/pull/529) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [refactor(flake): implement enhanced flake configuration](https://github.com/wimpysworld/nixos-needsreboot/pull/8) on [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (3 days ago)
+- [fix: detect module downgrades in addition to upgrades](https://github.com/wimpysworld/nixos-needsreboot/pull/4) on [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (3 days ago)
+- [fix(flake): update src to use builtins.path to prevent double copying](https://github.com/wimpysworld/nixos-needsreboot/pull/3) on [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (3 days ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250612](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250612), 1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250612](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250612), 2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.6.3](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.6.3), 2 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.6.3](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.6.3), 3 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.9](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.9), 2 days ago)
+- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.9](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.9), 3 days ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) ([0.1.0](https://github.com/wimpysworld/faff/releases/tag/0.1.0), 1 week ago)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
@@ -71,7 +71,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - Yet another Nix CLI helper. [Maintainers=@viperML, @NotAShelf]
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) (14)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
-- [openai/whisper](https://github.com/openai/whisper) (83268)
+- [openai/whisper](https://github.com/openai/whisper) (83269)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (76)
   - 
@@ -82,7 +82,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Nerdy Day Trips](https://linuxmatters.sh/57/) (4 days ago)
+- [Nerdy Day Trips](https://linuxmatters.sh/57/) (5 days ago)
 - [Python A-Go-Go](https://linuxmatters.sh/56/) (2 weeks ago)
 - [Thoccing Heavy](https://linuxmatters.sh/55/) (1 month ago)
 - [High Precision Solid Metal Balls](https://linuxmatters.sh/54/) (1 month ago)
