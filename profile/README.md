@@ -28,9 +28,9 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (5 days ago)
+- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (6 days ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (1 week ago)
   - My personal blog
@@ -42,22 +42,22 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
-- [feat(development): update cg-tokens.sh for BusyBox compatibility](https://github.com/wimpysworld/nix-config/pull/540) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat(cg-tokens): add script for token management and authentication](https://github.com/wimpysworld/nix-config/pull/539) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat(yubikey): add YubiKey configuration and key management](https://github.com/wimpysworld/nix-config/pull/537) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
-- [feat(ghorg): add ghorg and go to dev tools](https://github.com/wimpysworld/nix-config/pull/535) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [refactor: containerization setup](https://github.com/wimpysworld/nix-config/pull/534) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [feat(development): update cg-tokens.sh for BusyBox compatibility](https://github.com/wimpysworld/nix-config/pull/540) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat(cg-tokens): add script for token management and authentication](https://github.com/wimpysworld/nix-config/pull/539) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat(yubikey): add YubiKey configuration and key management](https://github.com/wimpysworld/nix-config/pull/537) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
+- [feat(ghorg): add ghorg and go to dev tools](https://github.com/wimpysworld/nix-config/pull/535) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [refactor: containerization setup](https://github.com/wimpysworld/nix-config/pull/534) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.6.5](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.6.5), today)
+- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.6.5](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.6.5), 1 day ago)
   - The Github Action for Determinate Nix
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250615](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250615), today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250615](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250615), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.6.5](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.6.5), 1 day ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.6.5](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.6.5), 2 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.9](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.9), 5 days ago)
+- [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.9](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.9), 6 days ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) ([0.1.0](https://github.com/wimpysworld/faff/releases/tag/0.1.0), 1 week ago)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
@@ -71,7 +71,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - Yet another Nix CLI helper. [Maintainers=@viperML, @NotAShelf]
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) (14)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
-- [openai/whisper](https://github.com/openai/whisper) (83438)
+- [openai/whisper](https://github.com/openai/whisper) (83441)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (76)
   - 
