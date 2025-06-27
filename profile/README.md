@@ -28,13 +28,13 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (2 weeks ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (2 weeks ago)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) (3 weeks ago)
   - My personal blog
-- [wimpysworld/faff](https://github.com/wimpysworld/faff) (2 weeks ago)
+- [wimpysworld/faff](https://github.com/wimpysworld/faff) (3 weeks ago)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (3 weeks ago)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
@@ -42,20 +42,20 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
-- [refactor(disk): enhance LUKS encryption and disk configurations](https://github.com/wimpysworld/nix-config/pull/552) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
-- [feat: Add maul high-performance server to flake](https://github.com/wimpysworld/nix-config/pull/549) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
-- [fix(gitsign): remove unnecessary socket argument from credential cache on macOS](https://github.com/wimpysworld/nix-config/pull/545) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
+- [refactor(disk): enhance LUKS encryption and disk configurations](https://github.com/wimpysworld/nix-config/pull/552) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [feat: Add maul high-performance server to flake](https://github.com/wimpysworld/nix-config/pull/549) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [fix(gitsign): remove unnecessary socket argument from credential cache on macOS](https://github.com/wimpysworld/nix-config/pull/545) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [refactor(token): Read TTLs directly from cache files](https://github.com/wimpysworld/nix-config/pull/542) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [feat(development): update cg-tokens.sh for BusyBox compatibility](https://github.com/wimpysworld/nix-config/pull/540) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.6.8](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.6.8), 1 day ago)
+- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.6.8](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.6.8), 2 days ago)
   - The Github Action for Determinate Nix
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.6.8](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.6.8), 1 day ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.6.8](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.6.8), 2 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250622](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250622), 2 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250622](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250622), 3 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.9](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.9), 2 weeks ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
@@ -67,7 +67,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 
 - [koiuo/xdg-override](https://github.com/koiuo/xdg-override) (109)
   - Override xdg-open behavior. Because the way it already works is not confusing enough
-- [nix-community/nh](https://github.com/nix-community/nh) (1632)
+- [nix-community/nh](https://github.com/nix-community/nh) (1634)
   - Yet another Nix CLI helper. [Maintainers=@viperML, @NotAShelf]
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) (14)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
@@ -82,7 +82,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [The Very Hungry Caterpillar](https://linuxmatters.sh/58/) (2 days ago)
+- [The Very Hungry Caterpillar](https://linuxmatters.sh/58/) (3 days ago)
 - [Nerdy Day Trips](https://linuxmatters.sh/57/) (2 weeks ago)
 - [Python A-Go-Go](https://linuxmatters.sh/56/) (1 month ago)
 - [Thoccing Heavy](https://linuxmatters.sh/55/) (1 month ago)
