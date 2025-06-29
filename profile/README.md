@@ -28,7 +28,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (2 weeks ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
@@ -67,11 +67,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 
 - [koiuo/xdg-override](https://github.com/koiuo/xdg-override) (109)
   - Override xdg-open behavior. Because the way it already works is not confusing enough
-- [nix-community/nh](https://github.com/nix-community/nh) (1652)
+- [nix-community/nh](https://github.com/nix-community/nh) (1653)
   - Yet another Nix CLI helper. [Maintainers=@viperML, @NotAShelf]
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) (14)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
-- [openai/whisper](https://github.com/openai/whisper) (84096)
+- [openai/whisper](https://github.com/openai/whisper) (84100)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (77)
   - 
