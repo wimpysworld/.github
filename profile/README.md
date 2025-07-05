@@ -28,7 +28,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (3 weeks ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
@@ -51,15 +51,15 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.7.0](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.7.0), 1 day ago)
+- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.7.0](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.7.0), 2 days ago)
   - The Github Action for Determinate Nix
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.7.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.7.0), 1 day ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.7.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.7.0), 2 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250622](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250622), 1 week ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.9](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.9), 3 weeks ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [wimpysworld/faff](https://github.com/wimpysworld/faff) ([0.1.0](https://github.com/wimpysworld/faff/releases/tag/0.1.0), 4 weeks ago)
+- [wimpysworld/faff](https://github.com/wimpysworld/faff) ([0.1.0](https://github.com/wimpysworld/faff/releases/tag/0.1.0), 1 month ago)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
 
 ### Recent starred projects ⭐️
@@ -71,7 +71,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - Yet another Nix CLI helper. [Maintainers=@viperML, @NotAShelf]
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) (14)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
-- [openai/whisper](https://github.com/openai/whisper) (84369)
+- [openai/whisper](https://github.com/openai/whisper) (84370)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (77)
   - 
@@ -100,7 +100,7 @@ Here are some recent episodes:
 
 ### ✍️ Blog
 
-- [faffing about with diffs](https://wimpysworld.com/posts/faff-ollama-conventional-commit-generator/) (4 weeks ago)
+- [faffing about with diffs](https://wimpysworld.com/posts/faff-ollama-conventional-commit-generator/) (1 month ago)
 - [Nothing but Nix](https://wimpysworld.com/posts/nothing-but-nix-github-actions/) (1 month ago)
 - [Fuzzel Colour Picker](https://wimpysworld.com/posts/fuzzel-hyprpicker/) (2 months ago)
 - [Install ZeroTier on Steam Deck](https://wimpysworld.com/posts/install-zerotier-on-steamdeck/) (2 years ago)
