@@ -28,7 +28,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (3 weeks ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
@@ -42,11 +42,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [refactor(disko): reorganize disk configs for phasma and vader systems](https://github.com/wimpysworld/nix-config/pull/556) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor(disk): enhance LUKS encryption and disk configurations](https://github.com/wimpysworld/nix-config/pull/552) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [feat: Add maul high-performance server to flake](https://github.com/wimpysworld/nix-config/pull/549) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
 - [fix(gitsign): remove unnecessary socket argument from credential cache on macOS](https://github.com/wimpysworld/nix-config/pull/545) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 weeks ago)
 - [refactor(token): Read TTLs directly from cache files](https://github.com/wimpysworld/nix-config/pull/542) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 weeks ago)
-- [feat(development): update cg-tokens.sh for BusyBox compatibility](https://github.com/wimpysworld/nix-config/pull/540) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 weeks ago)
 
 ### Recent releases 📦️
 
@@ -71,7 +71,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - Yet another Nix CLI helper. [Maintainers=@viperML, @NotAShelf]
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) (14)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
-- [openai/whisper](https://github.com/openai/whisper) (84482)
+- [openai/whisper](https://github.com/openai/whisper) (84486)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (78)
   - 
