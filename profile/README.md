@@ -28,7 +28,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (3 weeks ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
@@ -42,20 +42,20 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
-- [refactor(disko): reorganize disk configs for phasma and vader systems](https://github.com/wimpysworld/nix-config/pull/556) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+- [refactor(disko): reorganize disk configs for phasma and vader systems](https://github.com/wimpysworld/nix-config/pull/556) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 day ago)
 - [refactor(disk): enhance LUKS encryption and disk configurations](https://github.com/wimpysworld/nix-config/pull/552) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-- [feat: Add maul high-performance server to flake](https://github.com/wimpysworld/nix-config/pull/549) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
+- [feat: Add maul high-performance server to flake](https://github.com/wimpysworld/nix-config/pull/549) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 weeks ago)
 - [fix(gitsign): remove unnecessary socket argument from credential cache on macOS](https://github.com/wimpysworld/nix-config/pull/545) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 weeks ago)
 - [refactor(token): Read TTLs directly from cache files](https://github.com/wimpysworld/nix-config/pull/542) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 weeks ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.7.0](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.7.0), 4 days ago)
+- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.7.0](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.7.0), 5 days ago)
   - The Github Action for Determinate Nix
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.7.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.7.0), 4 days ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.7.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.7.0), 5 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250622](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250622), 1 week ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250622](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250622), 2 weeks ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.9](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.9), 3 weeks ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
@@ -71,7 +71,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - Yet another Nix CLI helper. [Maintainers=@viperML, @NotAShelf]
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) (15)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
-- [openai/whisper](https://github.com/openai/whisper) (84525)
+- [openai/whisper](https://github.com/openai/whisper) (84527)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (78)
   - 
@@ -82,8 +82,8 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [The Very Hungry Caterpillar](https://linuxmatters.sh/58/) (1 week ago)
-- [Nerdy Day Trips](https://linuxmatters.sh/57/) (3 weeks ago)
+- [The Very Hungry Caterpillar](https://linuxmatters.sh/58/) (2 weeks ago)
+- [Nerdy Day Trips](https://linuxmatters.sh/57/) (4 weeks ago)
 - [Python A-Go-Go](https://linuxmatters.sh/56/) (1 month ago)
 - [Thoccing Heavy](https://linuxmatters.sh/55/) (1 month ago)
 - [High Precision Solid Metal Balls](https://linuxmatters.sh/54/) (2 months ago)
