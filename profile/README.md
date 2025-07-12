@@ -51,10 +51,10 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent releases 📦️
 
 
+- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.8.2](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.8.2), today)
+  - The Github Action for Determinate Nix
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.8.2](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.8.2), today)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.8.1](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.8.1), today)
-  - The Github Action for Determinate Nix
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250708](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250708), 2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.9](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.9), 1 month ago)
@@ -67,11 +67,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 
 - [koiuo/xdg-override](https://github.com/koiuo/xdg-override) (109)
   - Override xdg-open behavior. Because the way it already works is not confusing enough
-- [nix-community/nh](https://github.com/nix-community/nh) (1711)
+- [nix-community/nh](https://github.com/nix-community/nh) (1712)
   - Yet another Nix CLI helper. [Maintainers=@viperML, @NotAShelf]
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) (30)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
-- [openai/whisper](https://github.com/openai/whisper) (84777)
+- [openai/whisper](https://github.com/openai/whisper) (84781)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (78)
   - 
