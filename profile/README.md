@@ -19,7 +19,7 @@ We have a modest [Discord server for Wimpy's World](https://wimpysworld.io/disco
 
 I [steam live-coding on Twitch](https://twitch.tv/WimpysWorld) 📡 and those streams are [archived on YouTube](https://youtube.com/WimpysWorld) 📺️
 
-These awesome people sponsor me: [mmartial](https://github.com/mmartial) [da-moon](https://github.com/da-moon) [Simmonz](https://github.com/Simmonz) [castrojo](https://github.com/castrojo)  Thank you! ❤️
+These awesome people sponsor me: [mmartial](https://github.com/mmartial) [da-moon](https://github.com/da-moon) [castrojo](https://github.com/castrojo)  Thank you! ❤️
 If you appreciate my work, then [please consider sponsoring me too](https://github.com/sponsors/flexiondotorg) 🤑 **Curious what I've been working on recently?**
 <div align="center">
   <img align="center" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/snake/github-contribution-grid-snake-dark.svg">
