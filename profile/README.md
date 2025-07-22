@@ -65,13 +65,13 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent starred projects ⭐️
 
 
-- [koiuo/xdg-override](https://github.com/koiuo/xdg-override) (113)
+- [koiuo/xdg-override](https://github.com/koiuo/xdg-override) (114)
   - Override xdg-open behavior. Because the way it already works is not confusing enough
-- [nix-community/nh](https://github.com/nix-community/nh) (1739)
+- [nix-community/nh](https://github.com/nix-community/nh) (1740)
   - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) (35)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
-- [openai/whisper](https://github.com/openai/whisper) (85334)
+- [openai/whisper](https://github.com/openai/whisper) (85337)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (80)
   - 
@@ -82,11 +82,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
+- [Frankenstein&#39;s Ubuntu Server Framework](https://linuxmatters.sh/60/) (today)
 - [Old Man Yells at GMail](https://linuxmatters.sh/59/) (2 weeks ago)
 - [The Very Hungry Caterpillar](https://linuxmatters.sh/58/) (4 weeks ago)
 - [Nerdy Day Trips](https://linuxmatters.sh/57/) (1 month ago)
 - [Python A-Go-Go](https://linuxmatters.sh/56/) (1 month ago)
-- [Thoccing Heavy](https://linuxmatters.sh/55/) (2 months ago)
 
 ### 📺️ YouTube
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
