@@ -65,7 +65,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent starred projects ⭐️
 
 
-- [koiuo/xdg-override](https://github.com/koiuo/xdg-override) (124)
+- [koiuo/xdg-override](https://github.com/koiuo/xdg-override) (126)
   - Override xdg-open behavior. Because the way it already works is not confusing enough
 - [nix-community/nh](https://github.com/nix-community/nh) (1753)
   - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
