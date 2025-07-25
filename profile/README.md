@@ -28,10 +28,10 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 day ago)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 week ago)
-  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (1 month ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) (1 month ago)
@@ -42,11 +42,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [feat: Add Beyond Compare and update packages with user-specific app selection](https://github.com/wimpysworld/nix-config/pull/570) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
 - [refactor(disko): reorganize disk configs for phasma and vader systems](https://github.com/wimpysworld/nix-config/pull/556) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 weeks ago)
 - [refactor(disk): enhance LUKS encryption and disk configurations](https://github.com/wimpysworld/nix-config/pull/552) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 weeks ago)
 - [feat: Add maul high-performance server to flake](https://github.com/wimpysworld/nix-config/pull/549) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 month ago)
 - [fix(gitsign): remove unnecessary socket argument from credential cache on macOS](https://github.com/wimpysworld/nix-config/pull/545) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 month ago)
-- [refactor(token): Read TTLs directly from cache files](https://github.com/wimpysworld/nix-config/pull/542) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 month ago)
 
 ### Recent releases 📦️
 
@@ -67,11 +67,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 
 - [koiuo/xdg-override](https://github.com/koiuo/xdg-override) (128)
   - Override xdg-open behavior. Because the way it already works is not confusing enough
-- [nix-community/nh](https://github.com/nix-community/nh) (1755)
+- [nix-community/nh](https://github.com/nix-community/nh) (1756)
   - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) (35)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
-- [openai/whisper](https://github.com/openai/whisper) (85508)
+- [openai/whisper](https://github.com/openai/whisper) (85514)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (80)
   - 
