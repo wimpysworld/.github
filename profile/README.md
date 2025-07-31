@@ -42,11 +42,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [feat: add cilium-certgen package](https://github.com/wolfi-dev/os/pull/61331) on [wolfi-dev/os](https://github.com/wolfi-dev/os) (today)
 - [feat: Add Beyond Compare and update packages with user-specific app selection](https://github.com/wimpysworld/nix-config/pull/570) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (6 days ago)
 - [refactor(disko): reorganize disk configs for phasma and vader systems](https://github.com/wimpysworld/nix-config/pull/556) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 weeks ago)
 - [refactor(disk): enhance LUKS encryption and disk configurations](https://github.com/wimpysworld/nix-config/pull/552) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 month ago)
 - [feat: Add maul high-performance server to flake](https://github.com/wimpysworld/nix-config/pull/549) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 month ago)
-- [fix(gitsign): remove unnecessary socket argument from credential cache on macOS](https://github.com/wimpysworld/nix-config/pull/545) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 month ago)
 
 ### Recent releases 📦️
 
@@ -71,7 +71,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) (35)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
-- [openai/whisper](https://github.com/openai/whisper) (85835)
+- [openai/whisper](https://github.com/openai/whisper) (85836)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (80)
   - 
