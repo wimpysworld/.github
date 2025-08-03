@@ -73,7 +73,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
 - [openai/whisper](https://github.com/openai/whisper) (85961)
   - Robust Speech Recognition via Large-Scale Weak Supervision
-- [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (80)
+- [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) (81)
   - 
 
 ### 🎙️ Podcast
