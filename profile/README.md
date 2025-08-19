@@ -65,7 +65,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent starred projects ⭐️
 
 
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) (49298)
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) (49322)
   - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 - [koiuo/xdg-override](https://github.com/koiuo/xdg-override) (135)
   - Override xdg-open behavior. Because the way it already works is not confusing enough
@@ -73,7 +73,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) (35)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
-- [openai/whisper](https://github.com/openai/whisper) (86894)
+- [openai/whisper](https://github.com/openai/whisper) (86897)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 
 ### 🎙️ Podcast
@@ -82,11 +82,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
+- [Mirrors, Motors and Makefiles](https://linuxmatters.sh/62/) (today)
 - [Coding in My Pants](https://linuxmatters.sh/61/) (2 weeks ago)
 - [Frankenstein&#39;s Ubuntu Server Framework](https://linuxmatters.sh/60/) (4 weeks ago)
 - [Old Man Yells at GMail](https://linuxmatters.sh/59/) (1 month ago)
 - [The Very Hungry Caterpillar](https://linuxmatters.sh/58/) (1 month ago)
-- [Nerdy Day Trips](https://linuxmatters.sh/57/) (2 months ago)
 
 ### 📺️ YouTube
 <a href="https://twitch.tv/WimpysWorld" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&logoColor=ffffff&label=Twitch&labelColor=%23904ef9&color=%23e4e2e2"></a>&nbsp;&nbsp;
