@@ -42,18 +42,18 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
+- [Add automated upstream sync workflow](https://github.com/flexiondotorg/typingmind/pull/1) on [flexiondotorg/typingmind](https://github.com/flexiondotorg/typingmind) (1 day ago)
 - [feat: add cilium-certgen package](https://github.com/wolfi-dev/os/pull/61331) on [wolfi-dev/os](https://github.com/wolfi-dev/os) (2 weeks ago)
 - [feat: Add Beyond Compare and update packages with user-specific app selection](https://github.com/wimpysworld/nix-config/pull/570) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 weeks ago)
 - [refactor(disko): reorganize disk configs for phasma and vader systems](https://github.com/wimpysworld/nix-config/pull/556) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 month ago)
 - [refactor(disk): enhance LUKS encryption and disk configurations](https://github.com/wimpysworld/nix-config/pull/552) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 month ago)
-- [feat: Add maul high-performance server to flake](https://github.com/wimpysworld/nix-config/pull/549) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 month ago)
 
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250815](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250815), today)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250815](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250815), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
-- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.8.5](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.8.5), 1 week ago)
+- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.8.5](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.8.5), 2 weeks ago)
   - The Github Action for Determinate Nix
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.8.5](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.8.5), 2 weeks ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
@@ -65,7 +65,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent starred projects ⭐️
 
 
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) (48995)
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) (49008)
   - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 - [koiuo/xdg-override](https://github.com/koiuo/xdg-override) (135)
   - Override xdg-open behavior. Because the way it already works is not confusing enough
@@ -73,7 +73,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) (35)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
-- [openai/whisper](https://github.com/openai/whisper) (86836)
+- [openai/whisper](https://github.com/openai/whisper) (86833)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 
 ### 🎙️ Podcast
@@ -82,8 +82,8 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Coding in My Pants](https://linuxmatters.sh/61/) (1 week ago)
-- [Frankenstein&#39;s Ubuntu Server Framework](https://linuxmatters.sh/60/) (3 weeks ago)
+- [Coding in My Pants](https://linuxmatters.sh/61/) (2 weeks ago)
+- [Frankenstein&#39;s Ubuntu Server Framework](https://linuxmatters.sh/60/) (4 weeks ago)
 - [Old Man Yells at GMail](https://linuxmatters.sh/59/) (1 month ago)
 - [The Very Hungry Caterpillar](https://linuxmatters.sh/58/) (1 month ago)
 - [Nerdy Day Trips](https://linuxmatters.sh/57/) (2 months ago)
