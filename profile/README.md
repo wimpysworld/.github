@@ -28,16 +28,16 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 weeks ago)
-  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
+- [flexiondotorg/tokentank](https://github.com/flexiondotorg/tokentank) (today)
+  - A delightful Go terminal application that displays remaining credit balances for AI providers in a gorgeous, human-friendly interface.
 - [wolfi-dev/os](https://github.com/wolfi-dev/os) (2 weeks ago)
   - Main package repository for production Wolfi images
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (2 weeks ago)
+  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (3 weeks ago)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (2 months ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
-- [wimpysworld/faff](https://github.com/wimpysworld/faff) (2 months ago)
-  - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
 
 ### Recent pull requests 🛠️
 
@@ -65,7 +65,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent starred projects ⭐️
 
 
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) (49794)
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) (49816)
   - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 - [koiuo/xdg-override](https://github.com/koiuo/xdg-override) (135)
   - Override xdg-open behavior. Because the way it already works is not confusing enough
@@ -73,7 +73,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) (35)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
-- [openai/whisper](https://github.com/openai/whisper) (86959)
+- [openai/whisper](https://github.com/openai/whisper) (86962)
   - Robust Speech Recognition via Large-Scale Weak Supervision
 
 ### 🎙️ Podcast
