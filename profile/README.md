@@ -42,7 +42,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
-- [Add automated upstream sync workflow](https://github.com/flexiondotorg/typingmind/pull/1) on [flexiondotorg/typingmind](https://github.com/flexiondotorg/typingmind) (1 day ago)
+- [Add automated upstream sync workflow](https://github.com/flexiondotorg/typingmind/pull/1) on [flexiondotorg/typingmind](https://github.com/flexiondotorg/typingmind) (2 days ago)
 - [feat: add cilium-certgen package](https://github.com/wolfi-dev/os/pull/61331) on [wolfi-dev/os](https://github.com/wolfi-dev/os) (2 weeks ago)
 - [feat: Add Beyond Compare and update packages with user-specific app selection](https://github.com/wimpysworld/nix-config/pull/570) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 weeks ago)
 - [refactor(disko): reorganize disk configs for phasma and vader systems](https://github.com/wimpysworld/nix-config/pull/556) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 month ago)
@@ -51,7 +51,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent releases 📦️
 
 
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250815](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250815), 1 day ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250815](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250815), 2 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.8.5](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.8.5), 2 weeks ago)
   - The Github Action for Determinate Nix
@@ -65,7 +65,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent starred projects ⭐️
 
 
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) (49365)
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) (49378)
   - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 - [koiuo/xdg-override](https://github.com/koiuo/xdg-override) (135)
   - Override xdg-open behavior. Because the way it already works is not confusing enough
@@ -82,7 +82,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Mirrors, Motors and Makefiles](https://linuxmatters.sh/62/) (today)
+- [Mirrors, Motors and Makefiles](https://linuxmatters.sh/62/) (1 day ago)
 - [Coding in My Pants](https://linuxmatters.sh/61/) (2 weeks ago)
 - [Frankenstein&#39;s Ubuntu Server Framework](https://linuxmatters.sh/60/) (4 weeks ago)
 - [Old Man Yells at GMail](https://linuxmatters.sh/59/) (1 month ago)
