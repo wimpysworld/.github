@@ -28,7 +28,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
-- [flexiondotorg/tokentank](https://github.com/flexiondotorg/tokentank) (1 day ago)
+- [flexiondotorg/tokentank](https://github.com/flexiondotorg/tokentank) (2 days ago)
   - A delightful Go terminal application that displays remaining credit balances for AI providers in a gorgeous, human-friendly interface.
 - [wolfi-dev/os](https://github.com/wolfi-dev/os) (3 weeks ago)
   - Main package repository for production Wolfi images
@@ -42,20 +42,20 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent pull requests 🛠️
 
 
-- [feat: Add TypingMind Plugin Server health check workflow](https://github.com/flexiondotorg/typingmind/pull/2) on [flexiondotorg/typingmind](https://github.com/flexiondotorg/typingmind) (today)
-- [Add automated upstream sync workflow](https://github.com/flexiondotorg/typingmind/pull/1) on [flexiondotorg/typingmind](https://github.com/flexiondotorg/typingmind) (3 days ago)
+- [feat: Add TypingMind Plugin Server health check workflow](https://github.com/flexiondotorg/typingmind/pull/2) on [flexiondotorg/typingmind](https://github.com/flexiondotorg/typingmind) (1 day ago)
+- [Add automated upstream sync workflow](https://github.com/flexiondotorg/typingmind/pull/1) on [flexiondotorg/typingmind](https://github.com/flexiondotorg/typingmind) (4 days ago)
 - [feat: add cilium-certgen package](https://github.com/wolfi-dev/os/pull/61331) on [wolfi-dev/os](https://github.com/wolfi-dev/os) (3 weeks ago)
-- [feat: Add Beyond Compare and update packages with user-specific app selection](https://github.com/wimpysworld/nix-config/pull/570) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 weeks ago)
+- [feat: Add Beyond Compare and update packages with user-specific app selection](https://github.com/wimpysworld/nix-config/pull/570) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (4 weeks ago)
 - [refactor(disko): reorganize disk configs for phasma and vader systems](https://github.com/wimpysworld/nix-config/pull/556) on [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (1 month ago)
 
 ### Recent releases 📦️
 
 
-- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.8.6](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.8.6), today)
+- [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.8.6](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.8.6), 1 day ago)
   - The Github Action for Determinate Nix
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.8.6](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.8.6), 1 day ago)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.8.6](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.8.6), 2 days ago)
   - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250815](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250815), 3 days ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250815](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250815), 4 days ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.9](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.9), 2 months ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
@@ -67,7 +67,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 
 - [TypingMind/typingmind](https://github.com/TypingMind/typingmind) (698)
   - The most advanced Web UI for AI chat
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) (50543)
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) (50564)
   - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 - [koiuo/xdg-override](https://github.com/koiuo/xdg-override) (135)
   - Override xdg-open behavior. Because the way it already works is not confusing enough
@@ -82,7 +82,7 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here are some recent episodes:
 
-- [Mirrors, Motors and Makefiles](https://linuxmatters.sh/62/) (2 days ago)
+- [Mirrors, Motors and Makefiles](https://linuxmatters.sh/62/) (3 days ago)
 - [Coding in My Pants](https://linuxmatters.sh/61/) (2 weeks ago)
 - [Frankenstein&#39;s Ubuntu Server Framework](https://linuxmatters.sh/60/) (1 month ago)
 - [Old Man Yells at GMail](https://linuxmatters.sh/59/) (1 month ago)
