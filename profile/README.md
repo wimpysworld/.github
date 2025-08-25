@@ -65,9 +65,9 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent starred projects ⭐️
 
 
-- [TypingMind/typingmind](https://github.com/TypingMind/typingmind) (700)
+- [TypingMind/typingmind](https://github.com/TypingMind/typingmind) (701)
   - The most advanced Web UI for AI chat
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) (51679)
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) (51691)
   - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 - [koiuo/xdg-override](https://github.com/koiuo/xdg-override) (135)
   - Override xdg-open behavior. Because the way it already works is not confusing enough
