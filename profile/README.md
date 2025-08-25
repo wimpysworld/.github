@@ -28,12 +28,12 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
+  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [flexiondotorg/tokentank](https://github.com/flexiondotorg/tokentank) (5 days ago)
   - A delightful Go terminal application that displays remaining credit balances for AI providers in a gorgeous, human-friendly interface.
 - [wolfi-dev/os](https://github.com/wolfi-dev/os) (3 weeks ago)
   - Main package repository for production Wolfi images
-- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (3 weeks ago)
-  - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 month ago)
   - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) (2 months ago)
@@ -67,11 +67,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 
 - [TypingMind/typingmind](https://github.com/TypingMind/typingmind) (701)
   - The most advanced Web UI for AI chat
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) (51800)
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) (51809)
   - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 - [koiuo/xdg-override](https://github.com/koiuo/xdg-override) (135)
   - Override xdg-open behavior. Because the way it already works is not confusing enough
-- [nix-community/nh](https://github.com/nix-community/nh) (1854)
+- [nix-community/nh](https://github.com/nix-community/nh) (1855)
   - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) (38)
   - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙
