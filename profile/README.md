@@ -69,9 +69,9 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - MCP server enabling persistent memory for Claude through a local knowledge graph - fork focused on local development
 - [ref-tools/ref-tools-mcp](https://github.com/ref-tools/ref-tools-mcp) (465)
   - An MCP server to stop hallucinations with token efficient search over public and private documentation.
-- [TypingMind/typingmind](https://github.com/TypingMind/typingmind) (701)
+- [TypingMind/typingmind](https://github.com/TypingMind/typingmind) (700)
   - The most advanced Web UI for AI chat
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) (51903)
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) (51918)
   - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 - [koiuo/xdg-override](https://github.com/koiuo/xdg-override) (135)
   - Override xdg-open behavior. Because the way it already works is not confusing enough
