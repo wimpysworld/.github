@@ -28,6 +28,8 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent project contributions 🏗️
 
 
+- [Oval-Tutu/.github](https://github.com/Oval-Tutu/.github) (today)
+  - Oval Tutu&#39;s GitHub profile ️🟢
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) (today)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) (1 day ago)
@@ -36,8 +38,6 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - A delightful Go terminal application that displays remaining credit balances for AI providers in a gorgeous, human-friendly interface.
 - [wolfi-dev/os](https://github.com/wolfi-dev/os) (3 weeks ago)
   - Main package repository for production Wolfi images
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) (1 month ago)
-  - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 
 ### Recent pull requests 🛠️
 
@@ -67,13 +67,13 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 
 - [cottongeeks/ytt-mcp](https://github.com/cottongeeks/ytt-mcp) (69)
   - MCP server to fetch YouTube transcripts
-- [shaneholloman/mcp-knowledge-graph](https://github.com/shaneholloman/mcp-knowledge-graph) (591)
+- [shaneholloman/mcp-knowledge-graph](https://github.com/shaneholloman/mcp-knowledge-graph) (592)
   - MCP server enabling persistent memory for Claude through a local knowledge graph - fork focused on local development
 - [ref-tools/ref-tools-mcp](https://github.com/ref-tools/ref-tools-mcp) (476)
   - An MCP server to stop hallucinations with token efficient search over public and private documentation.
 - [TypingMind/typingmind](https://github.com/TypingMind/typingmind) (701)
   - The most advanced Web UI for AI chat
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) (52460)
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) (52469)
   - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 
 ### 🎙️ Podcast
