@@ -51,14 +51,14 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
 ### Recent releases 📦️
 
 
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.9.1](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.9.1), today)
+  - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([v25.5.20250826](https://github.com/wimpysworld/nix-config/releases/tag/v25.5.20250826), 1 day ago)
   - Wimpy&#39;s NixOS, nix-darwin  &amp; Home Manager Configurations ❄️
 - [DeterminateSystems/determinate-nix-action](https://github.com/DeterminateSystems/determinate-nix-action) ([v3.9.0](https://github.com/DeterminateSystems/determinate-nix-action/releases/tag/v3.9.0), 2 days ago)
   - The Github Action for Determinate Nix
 - [wimpysworld/stream-sprout](https://github.com/wimpysworld/stream-sprout) ([0.1.6](https://github.com/wimpysworld/stream-sprout/releases/tag/0.1.6), 2 days ago)
   - Restream a video source to multiple destinations such as Twitch, YouTube, Owncast and Peertube 📡
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v3.9.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v3.9.0), 2 days ago)
-  - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [wimpysworld/nixos-needsreboot](https://github.com/wimpysworld/nixos-needsreboot) ([0.2.9](https://github.com/wimpysworld/nixos-needsreboot/releases/tag/0.2.9), 2 months ago)
   - Determine if you need to reboot ️♻️ your NixOS machine ️❄️
 
@@ -69,11 +69,11 @@ If you appreciate my work, then [please consider sponsoring me too](https://gith
   - MCP server to fetch YouTube transcripts
 - [shaneholloman/mcp-knowledge-graph](https://github.com/shaneholloman/mcp-knowledge-graph) (595)
   - MCP server enabling persistent memory for Claude through a local knowledge graph - fork focused on local development
-- [ref-tools/ref-tools-mcp](https://github.com/ref-tools/ref-tools-mcp) (481)
+- [ref-tools/ref-tools-mcp](https://github.com/ref-tools/ref-tools-mcp) (482)
   - An MCP server to stop hallucinations with token efficient search over public and private documentation.
 - [TypingMind/typingmind](https://github.com/TypingMind/typingmind) (703)
   - The most advanced Web UI for AI chat
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) (52686)
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) (52702)
   - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 
 ### 🎙️ Podcast
