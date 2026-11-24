@@ -1,0 +1,48 @@
+name: Sync organisation profile README
+
+on:
+  schedule:
+    - cron: "10 */6 * * *"
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: sync-profile-readme
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Fetch and sync profile README
+        run: |
+          set -euo pipefail
+          tmp_readme="${RUNNER_TEMP}/README.md"
+          curl -fsSL --retry 3 --max-time 30 \
+            "https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/README.md" \
+            -o "${tmp_readme}"
+          if [ ! -s "${tmp_readme}" ]; then
+            echo "Fetched README.md is empty" >&2
+            exit 1
+          fi
+
+          mkdir -p profile
+          cp "${tmp_readme}" profile/README.md
+
+          if [ -z "$(git status --porcelain -- profile/README.md)" ]; then
+            echo "profile/README.md is unchanged"
+            exit 0
+          fi
+
+          git add -- profile/README.md
+          git -c user.name="github-actions[bot]" \
+            -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+            commit -m "docs: sync profile README"
+          git push origin HEAD:refs/heads/main
